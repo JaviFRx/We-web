@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {initialLibrary,validateLibrary,entry} from '../web/library.js';
+import {validateProject} from '../web/core.js';
+import {activities} from '../web/activities.js';
+test('migra el proyecto anterior sin perder bloques',()=>{const old={version:1,name:'Mi proyecto',blocks:[{type:'motor',value:-60}]};const lib=initialLibrary(JSON.stringify(old));assert.deepEqual(lib.projects[0].project,old);assert.equal(lib.activeId,lib.projects[0].id);assert.deepEqual(validateLibrary(lib),lib);});
+test('notas y progreso sobreviven a exportación e importación',()=>{const p={version:1,name:'Ensayo',blocks:[],notes:'Observé un giro',activityId:'first-motion',completedSteps:[0,2]};assert.deepEqual(validateProject(JSON.parse(JSON.stringify(p))),p);});
+test('rechaza biblioteca corrupta y duplicados',()=>{const lib=initialLibrary();lib.projects.push(structuredClone(lib.projects[0]));assert.throws(()=>validateLibrary(lib));assert.throws(()=>initialLibrary('{oops'));assert.throws(()=>validateLibrary({...initialLibrary(),activeId:'missing'}));});
+test('duplicar crea una identidad y contenido independientes',()=>{const source=entry({version:1,name:'x',blocks:[]});const copy=entry(source.project);copy.project.name='otra';assert.notEqual(source.id,copy.id);assert.equal(source.project.name,'x');});
+test('todos los programas de actividades son válidos',()=>{for(const a of activities){assert.doesNotThrow(()=>validateProject({version:1,name:a.title,blocks:a.blocks,activityId:a.id,notes:'',completedSteps:[]}));assert.equal(a.steps.length,4);}});

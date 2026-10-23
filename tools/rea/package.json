@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "^22.23.4",
+    "rea-agents": "^6.7.0"
+  }
+}
