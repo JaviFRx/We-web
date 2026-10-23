@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5f56efa-35f4-4614-a9ce-6b558bedaca7",
+        "string": "4b. Rhythmus"
+      },
+      {
+        "refId": "2788f2f5-c835-466a-4f11-d73b39f02515",
+        "string": "1. Programm starten, wenn „A“ gedrückt wird&nbsp;<div>2. Klang 24 abspielen&nbsp;</div><div>3. 0.5 Sekunden warten&nbsp;</div><div>4. Schritte 2 und 3 unendlich wiederholen&nbsp;</div><br><div>5. Programm starten, wenn „A“ gedrückt wird&nbsp;</div><div>6. Klang 23 abspielen&nbsp;</div><div>7. 1 Sekunde warten&nbsp;</div><div>8. Schritte 6 und 7 unendlich wiederholen&nbsp;</div><br><div>9. Programm starten&nbsp;</div><div>10. Klang 25 abspielen</div>"
+      },
+      {
+        "refId": "ec5f9c9e-6d2d-41c9-8043-4bf4f5993e57",
+        "string": "Zum Testen des Programms ist kein LEGO® Modell erforderlich."
+      }
+    ]
+  }
+}

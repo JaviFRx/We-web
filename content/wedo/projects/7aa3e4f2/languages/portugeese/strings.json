@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ea01e383-d4aa-41ba-ac8c-73c2f8d402f0",
+        "string": "<font size=\"3\">Inspirem-se nos modelos base da Biblioteca de Design para construir suas próprias soluções para este projeto.</font>"
+      },
+      {
+        "refId": "9c2d90a7-fcb9-4554-e0e5-57dc2667c26e",
+        "string": "<div><font size=\"4\">Como você pode explorar a superfície de outros planetas?</font><font size=\"3\"><br></font></div><div><font size=\"3\">Neste projeto, vocês irão:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorar missões reais de sondas espaciais e imaginar possibilidades futuras.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Criar e programar uma sonda espacial para realizar uma tarefa <b>específica</b>, como: entrar e sair de uma cratera, coletar uma amostra de rocha, perfurar um buraco no chão, etc.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Registrar e apresentar </font> o protótipo criado e o que vocês poderiam possivelmente descobrir realizando estas missões.</font></div></div>"
+      },
+      {
+        "refId": "d995953a-dece-494f-954d-9d6bcf56c598",
+        "string": "12. Exploração do Espaço"
+      }
+    ]
+  }
+}

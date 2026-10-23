@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "闪光的蜗牛"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\">让蜗牛闪一下绿光。<br><br></font><font size=\"3\">1.按照图里的样子编程。</font><br><br><div><div><font size=\"3\">2.互相说明蜗牛是怎样工作的。</font><br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">继续帮助麦克斯和米娅（可选）：</font><div><font size=\"3\"><br></font><div><font size=\"3\">1.让蜗牛多次闪光。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2.对蜗牛编程，看看它还能做些什么。</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">麦克斯和米娅参观了<font color=\"#000000\">水族馆</font>。他们看到了很少见的蜗牛。</font><div><font size=\"3\">蜗牛通过发出绿色闪光交流。</font></div><font size=\"3\"><br></font><div><font size=\"3\">他们想搭建蜗牛模型。</font></div><font size=\"3\"><br></font><div><font size=\"3\">快来帮助麦克斯和米娅！</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><div><font size=\"3\">在本课程中，你将学习：<br><br></font><div><font size=\"3\">•&nbsp;搭建乐高® 模型</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">连接模型和你的设备</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span><span style=\"line-height: 1.42857;\">对蜗牛编程，让它发出闪光</span></font></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">打开智能集线器，连接你的设备。</font><br><br>"
+      }
+    ]
+  }
+}

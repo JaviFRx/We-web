@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">Max and Mia are very motivated to protect the environment.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">They want to know how recycling methods can be improved in order to cut back on waste.</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">Explore Max’s and Mia's questions:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. What does it mean to recycle?</font></div><div><font size=\"3\">2. How can materials to be recycled be sorted in your area?</font></div><div><font size=\"3\">3. Can you imagine devices that can sort recyclable waste according to shape?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Share your ideas in the Documentation tool.</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">Use the bricks:</font><br><br><div><font size=\"3\">Build a truck that can sort the two objects based on shape.</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">Program your truck bed to drop small recyclable objects at the recycling station.</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<div><font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you need help.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">See the Help panel for more guidance.</font><br></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">Design a solution:</font><br><br><div><font size=\"3\">Modify the truck to sort objects into two different groups based on shape.</font></div><br><div><font size=\"3\">Consider one of the following:</font></div><div><font size=\"3\">1. Change the truck bed design.</font></div><div><font size=\"3\">2. Use the Motion Sensor Input to detect the shape of the object.</font></div><div><font size=\"3\">3. Sort objects in the truck.</font></div><br><div><font color=\"#ffffff\" size=\"3\">Document your solution by explaining how you have used the shape of the object.</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">Finalize your document:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Describe your different prototypes.</font></div><div><font size=\"3\">2. Explain why you have chosen your final solution.</font></div><div><font size=\"3\">3. Organize your information.</font></div><div><font size=\"3\">4. Insert important text, pictures, screen capture or videos.</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">Share your findings:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Present in your own words how you were able to sort different boxes into different locations.</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">Design new solutions&#160;</font><br><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<div><font size=\"4\">How can you improve recycling methods to reduce waste?</font><br><div><font size=\"3\">In this project, you will:</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">Explore how better sorting methods for recycling can aid in cutting back the amount of waste that is discarded.</font></div>•&nbsp;<span style=\"font-size: medium; line-height: 1.42857143;\">Create and program a device that will sort recyclables according to their size and shape.</span><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">Present and document the solution you have developed.</font></div></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">Design new solutions:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Design a solution to sort three objects of your choice.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Consider one of the following:&nbsp;</font></div><div><font size=\"3\">1. Sort the objects using a conveyor belt.&nbsp;</font></div><div><font size=\"3\">2. Sort the objects using a robot arm.&nbsp;</font></div><div><font size=\"3\">3. Sort the objects using two different devices.&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Document your new solution.</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. Sort to Recycle"
+      }
+    ]
+  }
+}

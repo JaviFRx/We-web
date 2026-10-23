@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "光るカタツムリ"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\">カタツムリを光らせることができるかな？<br><br>1.右のお手本を見てプログラムしてね。<br><br></font><div><div><font size=\"3\">2.カタツムリのしくみをお友だちにせつめいできるかな？</font><br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">マックスとミアをもう少してつだってあげよう（追加課題）：</font><div><font size=\"3\"><br></font><div><font size=\"3\">1.何回も光らせてみよう。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2.カタツムリにほかのことをさせてみよう。</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">マックスとミアはどうぶつえんにやってきました。2人はとてもめずらしいカタツムリを見つけました。</font><div><font size=\"3\">緑の光を出してなかまとコミュニケーションをとるカタツムリです。</font></div><font size=\"3\"><br></font><div><font size=\"3\">2人はこのカタツムリのモデルを作りたいと思っています。&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">マックスとミアをてつだってあげましょう！</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">このレッスンで学ぶこと：<br><br></font><div><font size=\"3\">•&nbsp;レゴ<sub>®</sub>モデルを組み立てる</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">できたモデルをデバイスにせつぞくする</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• <font size=\"3\">カタツムリが</font></span><span style=\"line-height: 1.42857;\"><font size=\"3\">緑のライトを</font></span>光らせる<span style=\"line-height: 1.42857;\">ようプログラムする</span></font></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">スマートハブのスイッチを入れ、デバイスにせつぞくします。</font><br><br>"
+      }
+    ]
+  }
+}

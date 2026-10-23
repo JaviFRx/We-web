@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ef94960c-0311-4209-054c-179fa1c7f401",
+        "string": "<font size=\"3\">Max et Mia observent des grenouilles dans leur jardin.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Ils souhaitent en savoir davantage sur les étapes de la vie d’une grenouille.</font></div>"
+      },
+      {
+        "refId": "1d827a2e-1be2-4e8b-9d29-fda4ffb45d1f",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. <font size=\"3\">Quelles sont les différentes caractéristiques&#160;</font><span style=\"line-height: 17.142858505249px;\">physiques</span> d’un têtard, d’une jeune grenouille et d’une grenouille adulte&#160;?</font></div><div><font size=\"3\">2. Quel est le lien entre les changements physiques d’une grenouille et son habitat&#160;?</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Partagez vos idées au moyen de l’outil de documentation.</font></div>"
+      },
+      {
+        "refId": "c3c5024e-8760-46be-4c5a-885a47ad3fd9",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construisez un modèle de têtard.</font></div><div><font size=\"3\" color=\"#ffffff\">Documentez votre modèle avec une photo ou une esquisse.</font></div>"
+      },
+      {
+        "refId": "a563561c-d588-4082-787f-82cea9aa8708",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Continuez de construire votre modèle à mesure qu’il passe de l’état de têtard à celui de jeune grenouille.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Documentez votre nouveau modèle avec une photo ou une esquisse, et notez les changements reflétés par votre nouveau modèle.</font></div>"
+      },
+      {
+        "refId": "7fd56cf5-f271-4308-06b5-6d20a598d555",
+        "string": "<font size=\"3\">Programmez votre jeune grenouille pour qu’elle se déplace dans son habitat.</font>"
+      },
+      {
+        "refId": "576000f9-9908-4f1b-3d71-8f0d167dff11",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "41d5c8b4-8774-4230-4fb6-0dd95f2cf0b7",
+        "string": "<font size=\"5\">Utilisez votre modèle&#160;:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Changez votre jeune grenouille pour qu’elle représente une grenouille adulte.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Tenez compte de tous les aspects suivants&#160;:</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">1. Changement d’apparence.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">2. Changement du mode de déplacement.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Changement de comportement pour imiter une grenouille adulte.</font></span></div><br><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Documentez les changements que vous avez apportés à votre modèle et expliquez pourquoi ces changements se produisent dans la nature.</font></span><br></div></div>"
+      },
+      {
+        "refId": "603bbcfa-a9e5-4d26-a747-8463228f17de",
+        "string": "<font size=\"5\">Terminez votre document&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Examinez l’un des modèles que vous avez construit et documenté. Quelles sont les limites de votre modèle&#160;?</font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">2. Organisez vos informations.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Insérez des textes, images, captures d’écran ou vidéos importants pour montrer de façon précise que votre modèle représente le cycle de vie d’une grenouille.</font></span><br></div>"
+      },
+      {
+        "refId": "158a39f2-17e9-40c0-4f06-9be5b0236bed",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">En utilisant vos propres mots, présentez le cycle de vie d’une grenouille à l’aide de votre modèle.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Indiquez des exemples précis pour décrire comment votre modèle représente le cycle de vie d’une grenouille.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Partagez au moins une limite de votre modèle.</font></div>"
+      },
+      {
+        "refId": "1f60e4e5-0107-499f-cc22-2cf85ab99ddd",
+        "string": "<font size=\"5\">Utilisez davantage votre modèle&#160;</font><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "5bebec68-1df9-4380-4baf-6e9c43dae21a",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "ad406388-fcaf-4283-90f1-3554cec0a157",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">Comment les grenouilles se transforment-elles au cours de leur vie&#160;?</font></span><br></div><div><span style=\"line-height: 1.42857143;\"><font size=\"4\"><br></font></span></div><div><font size=\"3\">Dans ce projet, vous allez&#160;:</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Explorer les étapes du cycle de vie d’une grenouille, de sa naissance à l’âge adulte.</font></div><div><span style=\"line-height: 1.42857143;\">•</span><font size=\"3\">&#160;Créer et programmer un modèle d’une jeune grenouille, puis d’une grenouille adulte.</font></div><div><span style=\"line-height: 1.42857143;\">•</span><font size=\"3\">&#160;Documenter les caractéristiques de votre modèle qui changent au cours des différentes étapes de la vie d’une grenouille.</font></div>"
+      },
+      {
+        "refId": "73a9eeb3-a2bb-4500-eceb-24fd53e46e25",
+        "string": "<font color=\"#000000\" size=\"5\">Utilisez davantage votre modèle&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Les changements d’une grenouille pendant son cycle de vie sont influencés par son environnement.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Choisissez l’une des influences puis et utilisez les briques pour modéliser et décrire son effet sur votre grenouille&#160;:</font></div><div><font size=\"3\">1. Changement de l’habitat</font></div><div><font size=\"3\">2. Pollution ou maladie</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Documentez l’effet de ce facteur externe sur la vie de votre grenouille.</font></div>"
+      },
+      {
+        "refId": "f794366a-9b7e-47ff-9b31-45f0e46b5a37",
+        "string": "4. Métamorphose d’une grenouille"
+      }
+    ]
+  }
+}

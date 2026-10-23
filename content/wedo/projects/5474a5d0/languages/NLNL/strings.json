@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5f56efa-35f4-4614-a9ce-6b558bedaca7",
+        "string": "4b. Ritme"
+      },
+      {
+        "refId": "2788f2f5-c835-466a-4f11-d73b39f02515",
+        "string": "1. Start het programma wanneer \"A\" wordt ingedrukt&nbsp;<div>2. Speel geluid nummer 24 af&nbsp;</div><div>3. Wacht gedurende 0,5 seconden&nbsp;</div><div>4. Herhaal stap 2 en 3 eindeloos&nbsp;</div><br><div>5. Start het programma wanneer \"A\" wordt ingedrukt&nbsp;</div><div>6. Speel geluid nummer 23 af&nbsp;</div><div>7. Wacht gedurende 1 seconde&nbsp;</div><div>8. Herhaal stap 6 en 7 eindeloos.&nbsp;</div><br><div>9. Start het programma&nbsp;</div><div>10. Speel geluid 25 af</div>"
+      },
+      {
+        "refId": "ec5f9c9e-6d2d-41c9-8043-4bf4f5993e57",
+        "string": "Er is geen LEGO model vereist om dit programma te testen."
+      }
+    ]
+  }
+}

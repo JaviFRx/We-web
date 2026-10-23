@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8b964291-66b5-4b21-a5b5-e2c435ceb0e7",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en föremålsdetekteringsarm som kan hjälpa Milo att stanna vid växten.</font></div>"
+      },
+      {
+        "refId": "e7bd83ea-ea4d-4df6-7bb5-e33aa0f41f5b",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet.</font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">Titta på videofilmen om du behöver hjälp.</span></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></span></div></div>"
+      },
+      {
+        "refId": "770464a6-c412-4476-6e59-d3e48253ebf5",
+        "string": "<font size=\"3\">Programmera Milo att stanna framför växtprovet när detta upptäcks.</font>"
+      },
+      {
+        "refId": "2672ca79-2091-4dc0-1dd1-3255e6ba0dc4",
+        "string": "<font size=\"3\">Spela in ett videoklipp där Milo åker fram till växten.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Dokumentera Milos uppdrag.</font></div>"
+      },
+      {
+        "refId": "71ce5714-01e7-4133-4c28-ae7922f1198e",
+        "string": "<font size=\"3\">Max och Mia vill att Milo ska ha en sensor som kan detektera föremål.</font>"
+      },
+      {
+        "refId": "8b17409e-1e28-4f6f-b06d-e0c7300be491",
+        "string": "<div><div><div><font size=\"3\">I det här projektet kommer du att:</font></div><div><font size=\"3\"><br>• Använda rörelsesensorinmatning för att bygga och programmera Milos föremålsdetektorarm.<br>• Dokumentera hur Milo har hittat den eftersökta växten.</font><br><div></div></div></div></div>"
+      },
+      {
+        "refId": "cddad4d0-e43c-446f-97d0-92cb887a08b8",
+        "string": "B. Milos rörelsesensor"
+      }
+    ]
+  }
+}

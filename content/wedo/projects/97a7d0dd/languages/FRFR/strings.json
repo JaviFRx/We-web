@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</span></div>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><font size=\"4\">Comment les alertes précoces peuvent-elles réduire l’impact de violentes tempêtes ?</font><font size=\"3\"><br></font></div><div><font size=\"3\">Dans ce projet, vous allez&nbsp;:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorer différents phénomènes météorologiques extrêmes dont tout le monde doit être informé, comme les tsunamis, les tornades et les ouragans, et les systèmes d’alerte mis en place pour mieux vous protéger.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Créer et programmer un dispositif pour signaler aux personnes qu’elles doivent agir, car les conditions météorologiques vont devenir dangereuses.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Présenter et documenter votre solution et expliquer comment elle peut réduire l’impact sur la population.</font></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. Alerte météorologique"
+      }
+    ]
+  }
+}

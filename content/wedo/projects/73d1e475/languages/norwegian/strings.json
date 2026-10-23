@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">Max og Mia har lagt merke til at ikke alle bygninger rundt om i verden ser like ut.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De ønsker å undersøke hvordan bygninger kan designes, slik at de blir sterkere og tryggere.</font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">Utforsk Max and Mias spørsmål:</font><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\"><br></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">1. Hva forårsaker jordskjelv, og hva er konsekvensene av jordskjelvet?</span><br></font></div><div><font size=\"3\">2. Hvordan klassifiserer forskere styrken på et jordskjelv?</font></div><div><font size=\"3\">3. Hvilke faktorer kan påvirke hvordan bygninger motstår jordskjelv?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del ideene dine ved bruk av dokumentasjonsverktøyet.</font></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<font size=\"3\">Programmer jordskjelvsimulatoren til å simulere et jordskjelv med ulike styrker.</font>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">Slå på Smarthub og koble den til enheten din. Se videoen hvis du trenger hjelp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se i Hjelp-panelet hvis du trenger mer veiledning.</font></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<font size=\"5\">Undersøk med Max og Mia:</font><br><br><div><font size=\"3\">1. Finn den minste styrken som får bygning B til å falle. Test bygning A med samme styrke.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumenter og sammenlign resultatene fra begge testene.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Kjør det samme programmet for bygning B og C.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumenter og sammenlign resultatene fra begge testene.</font></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"5\">Fullfør dokumentet:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Gjennomgå hypotesen din og forklar hva som skjedde i forbindelse med undersøkelsen.</font></div><div><font size=\"3\">2. Organiser informasjonen, og del den med andre.</font></div><div><font size=\"3\">3. Sett inn viktig tekst, bilder, skjermbilder eller videoer i prosjektet.</font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">Del resultatene dine:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Presenter med egne ord evidens om hvilke faktorer som gjør en bygning bedre rustet til å motstå jordskjelv, basert på resultatene fra disse undersøkelsene.</font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<font size=\"5\">Bruk klossene:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en jordskjelvsimulator som kan riste bygninger.</font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"5\">Undersøke mer</font></div><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">Del prosjektet</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<font size=\"5\">Hva er det som gjør at strukturer kan motstå jordskjelv?</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">I dette prosjektet skal du:</font></span></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Utforske opprinnelsen og egenskapene til jordskjelv.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Lage og programmere en enhet som gjør at du kan teste bygningdesign.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Dokumentere evidens og presentere resultatene om hvilke strukturdesign som passer best for å motstå jordskjelv.</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. Kraftige strukturer"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"5\">Undersøke mer:</font><div><span style=\"line-height: 17.142858505249px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1. Forutsi hva som ville ha skjedd, hvis du gjentok undersøkelsen med et veldig kraftig jordskjelv.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumenter hypotesene dine, og dokumenter og sammenlign resultatene fra begge testene. </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Bygg det høyeste strukturen som tåler et jordskjelv med styrke 8.</font></div></div>"
+      }
+    ]
+  }
+}

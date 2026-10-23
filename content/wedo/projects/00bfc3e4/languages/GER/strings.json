@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Joystick"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Programm starten, wenn „A“ gedrückt wird&nbsp;<div>2. Warten, bis der Neigungssensor eine Abwärtsneigung erkennt&nbsp;</div><div>3. Motor in diese Richtung starten&nbsp;</div><div>4. Schritte 2 und 3 unendlich wiederholen&nbsp;</div><br><div>5. Programm starten, wenn „A“ gedrückt wird&nbsp;</div><div>6. Warten, bis der Neigungssensor keine Neigung erkennt&nbsp;</div><div>7. Motor stoppen&nbsp;</div><div>8. Schritte 6 und 7 unendlich wiederholen</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">Max et Mia sont impressionnés par les machines capables de tirer des objets lourds.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Ils souhaitent étudier ce qui cause le déplacement des objets.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construisez un robot tireur pouvant tirer un objet sur une courte distance.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">Programmez votre robot tireur pour qu’il tire un objet sur une courte distance, comme il le fait dans la vidéo.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">Recherchez avec Max et Mia&#160;:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1. Ajoutez des objets au panier jusqu’à ce que le robot tireur s’arrête.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Prévoyez ce qui va se produire si vous montez des pneus sur votre robot tireur. Documentez votre prévision.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Montez les gros pneus sur votre robot et testez.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Documentez vos découvertes.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Recherchez l’objet le plus lourd que votre robot tireur peut tirer avec ses pneus montés.</font></div><div><font color=\"#ffffff\" size=\"3\">Documentez comment les forces sont équilibrées ou non dans chaque cas.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Terminez votre document&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Examinez vos prévisions et expliquez ce qui s’est produit pendant cette recherche.</font></div><div><font size=\"3\">2. Organisez vos informations pour les partager avec d’autres.</font></div><div><font size=\"3\">3. Insérez dans votre projet des textes, images, captures d’écran ou vidéos importants.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">En vous basant sur vos recherches et en utilisant vos propres mots, présentez la différence entre des forces équilibrées et des forces non équilibrées.</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">Allez plus loin&#160;</font><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Comment pouvez-vous faire bouger un objet&#160;?</font></div><div><font size=\"3\">2. Pouvez-vous expliquer le frottement&#160;?</font></div><div><font size=\"3\">3. Prévoyez ce qui va se produire si la force de traction est plus importante dans une direction que dans l’autre.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Partagez vos idées au moyen de l’outil de documentation.</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">Qu’est-ce qui fait se déplacer les objets&#160;?</font><br><div><font size=\"3\">Dans ce projet, vous allez&#160;:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• Explorer ce que sont les forces et comment elles peuvent faire se déplacer des objets.</font></div><div><font size=\"3\">• Créer et programmer un robot pour étudier les effets de forces équilibrées et non équilibrées sur le déplacement d’un objet.</font></div><div><font size=\"3\">• Documenter et présenter vos découvertes sur les forces.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">Recherche supplémentaire&#160;:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Construisez un robot tireur différent pour tirer l’objet le plus lourd possible.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Associez-vous à une autre équipe et faites un concours entre les deux nouveaux robots tireurs.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Documentez la façon dont les forces agissent.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Traction"
+      }
+    ]
+  }
+}

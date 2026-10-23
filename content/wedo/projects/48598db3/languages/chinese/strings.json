@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "80c77c25-97ff-4fb4-b682-be8483721d2f",
+        "string": "13. 检测声音"
+      },
+      {
+        "refId": "c04bb26e-9282-4c9a-d577-ec6da2613ea6",
+        "string": "1. 启动程序&nbsp;<div>2. 等待声音传感器检测到声音&nbsp;</div><div>3. 启动电机 2 秒</div>"
+      },
+      {
+        "refId": "d9f890b1-d466-4126-47fc-22bec24ba828",
+        "string": "1. 启动程序&nbsp;<div>2. 在显示屏上显示声级&nbsp;</div><div>3. 无限重复第 2 步</div>"
+      }
+    ]
+  }
+}

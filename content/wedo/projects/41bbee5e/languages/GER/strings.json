@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Ventilator"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">Heute ist ein heißer Tag. Im Labor von Max und Mia ist es viel zu warm.<br><br></font><div><font size=\"3\">Damit es kühler wird, wollen sie einen Ventilator bauen.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max und Mia brauchen eure Hilfe!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Helft Max und Mia noch mehr (Zusatz-Aufgabe):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Der Ventilator soll sich unterschiedlich schnell drehen. Danach soll er anhalten.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmiert den Ventilator so, dass er noch andere Dinge macht.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Der Ventilator soll sich drehen.<br><br>1. Baut das gezeigte Programm nach.</font><div><font size=\"3\"><br>2. Erklärt euch gegenseitig, wie der Ventilator funktioniert.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><font size=\"3\">In dieser Aufgabe lernt ihr:</font><br></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">ein LEGO®&nbsp;Modell zu bauen</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• euer</span><span style=\"line-height: 1.42857;\">&nbsp;Modell mit eurem Gerät zu verbinden</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• den&nbsp;</span><span style=\"line-height: 1.42857;\">Motor so zu programmieren, dass er sich unterschiedlich schnell dreht</span></font></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">den Smarthub einzuschalten und mit deinem Gerät zu verbinden.</font>"
+      }
+    ]
+  }
+}

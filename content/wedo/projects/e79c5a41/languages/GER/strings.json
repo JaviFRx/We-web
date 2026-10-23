@@ -1,0 +1,46 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<font size=\"3\">Max und Mia sind bereit für Erkundungen und neue Entdeckungen.<br></font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Sie benötigen Hilfe, um ferne Gebiete zu erforschen und neue Lebensformen zu entdecken.</font><br></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<font size=\"5\">Max und Mia fragen sich:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.&#160;<span style=\"line-height: 1.42857143;\">Was machen Wissenschaftler und Ingenieure, wenn sie einen Ort erforschen wollen, aber diesen nicht erreichen können?</span></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Schreibt eure Vermutungen auf. Nutzt dafür die Dokumentationsfunktion der App.</font><br></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<font size=\"3\">Baut eine Forschungssonde,&#160;</font><div><font size=\"3\">die sich fortbewegen kann.</font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<div><font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.<br></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857;\">Schreibt ein Programm, mit dem sich die Forschungssonde Milo bewegen kann.</span><br></div>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<font size=\"3\"><font size=\"5\">Dokumentation:</font><br><font size=\"4\"><br>Macht eine Dokumentation über Milo</font><br><br>1. Macht ein Foto von Milo.<br><br>2. Schreibt auf, was ihr über Milo denkt.<br></font><div><span style=\"line-height: 22px;\"><font color=\"#ffffff\" size=\"3\"><br></font></span></div><div><font color=\"#ffffff\" size=\"3\">Nutzt dafür die Dokumentationsfunktion der App.</font><br></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<font size=\"5\">Präsentiert eure Ergebnisse:<br></font><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Was denkt ihr? Wie kann die Forschungssonde Milo Max und Mia bei Ihren Entdeckungen helfen?</font></span></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<div><div><div><div><div><div><div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">In diesem Projekt werdet ihr</span>:</font></div><div><font size=\"3\"><span style=\"line-height: 22px;\"><br></span></font><div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>lernen, wie Wissenschaftler und Ingenieure ferne Gebiete erforschen</font></div><div><font size=\"3\">• ein Programm für die Forschungssonde Milo schreiben</font></div><div><font size=\"3\">• in der Klasse vorführen, wie Milo euch helfen kann, Dinge zu erforschen</font></div></div></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "undefined",
+        "string": "A. Forschungssonde Milo"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. Milo, die Forschungssonde"
+      }
+    ]
+  }
+}

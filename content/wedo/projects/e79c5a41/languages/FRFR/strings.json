@@ -1,0 +1,42 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<font size=\"3\">Max et Mia sont prêts à explorer le monde et à faire de grandes découvertes.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Ils ont besoin d’aide, principalement pour explorer des endroits éloignés, afin de trouver un échantillon de plante particulier.</font></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<font size=\"5\">Étudiez la question de Max et de Mia&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Que font les scientifiques et les ingénieurs lorsqu’ils ne peuvent pas aller là où ils veulent explorer&#160;?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Partagez vos réponses au moyen de l’outil de documentation.</font></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Créez Milo, une astromobile scientifique qui peut se déplacer.</font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<font size=\"3\">Programmez Milo pour qu’il se déplace vers l’avant.</font>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<font size=\"3\">Prenez une photo de vous et de Milo.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Écrivez dans l’outil de documentation ce que vous en pensez&#160;!</font></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Expliquez comment Milo peut vous aider dans vos projets scientifiques.</font></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<font size=\"3\">Dans ce projet, vous allez&#160;:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Explorer différents moyens par lesquels les scientifiques et les ingénieurs atteignent des endroits éloignés.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Créer et programmer Milo, l’astromobile scientifique.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Documenter comment Milo peut vous aider à découvrir un échantillon de plante particulier.</font></div></div>"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. Milo, l’astromobile scientifique"
+      }
+    ]
+  }
+}

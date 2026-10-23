@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "bde3a4c8-8343-4606-a67a-7c78ebbec2f0",
+        "string": "2. Motortid og motorretning"
+      },
+      {
+        "refId": "c8a76834-03c1-4f5e-5cf4-ef882095f3f7",
+        "string": "1. Start program&#160;<div>2. Start Kjør fremover&#160;</div><div>3. Kjør motoren i 2 sekunder</div>"
+      },
+      {
+        "refId": "71cb1533-f731-4515-92b3-fcf6ebbf1947",
+        "string": "1. Start program&#160;<div>2. Start Kjør bakover&#160;</div><div>3. Kjør motoren i 0.5 sekunder</div>"
+      }
+    ]
+  }
+}

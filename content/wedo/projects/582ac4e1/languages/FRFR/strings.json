@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "Satellite qui bouge"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><font size=\"3\">Au cours de cette leçon, tu apprendras à :<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Construire un modèle LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Connecter ton modèle à ton appareil</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programmer</span><span style=\"line-height: 1.42857;\"> la rotation du moteur pendant une période définie</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Programmer le moteur pour qu’il tourne dans l’autre sens</font></span></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">Max et Mia écoutent les actualités. Ils ont entendu parler des satellites contrôlés par des scientifiques.</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Parfois, les satellites doivent se déplacer pour éviter les météores.&#160;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Ils veulent construire leur propre satellite.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max et Mia ont besoin de ton aide !</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">Fais tourner le satellite pendant 3 secondes.<br><br>1. Crée le programme comme présenté.</font><div><font size=\"3\"><br><font size=\"3\">2.&nbsp;</font></font><span style=\"line-height: 1.42857;\"><font size=\"3\">Explique comment fonctionne le satellite.</font></span><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">Apporte ton aide à Max et Mia (facultatif) :</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Fais tourner le satellite plus longtemps dans l’autre sens.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programme le satellite pour qu’il fasse d’autres actions.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">Active le Smarthub et connecte-le à ton appareil.</font><br>"
+      }
+    ]
+  }
+}

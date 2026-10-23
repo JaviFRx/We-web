@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "163a6e08-7d8d-49ed-46a4-5e2c9257c54a",
+        "string": "<font size=\"3\">Låt dig inspireras av grundmodellerna i designbiblioteket när du bygger egna lösningar i det här projektet.</font>"
+      },
+      {
+        "refId": "6f9a40b8-3dc4-4340-0f92-ab0ccb70392e",
+        "string": "<div><div><font size=\"4\">Hur överlever djur i sina livsmiljöer?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I det här projektet kommer du att:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Undersök olika strategier som djur använder för att kunna fånga byten eller fly undan rovdjur.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Bygga och programmera ett rovdjur eller bytesdjur, för att kunna undersöka förhållandet mellan dem.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentera och dokumentera din djurmodell, förklara relationen</font> mellan de två arterna och hur de har utvecklats för att kunna överleva.</font></div><br></div></div>"
+      },
+      {
+        "refId": "1e81cb50-cb3a-408c-a4cd-055ec83740d8",
+        "string": "9. Rovdjur och bytesdjur"
+      }
+    ]
+  }
+}

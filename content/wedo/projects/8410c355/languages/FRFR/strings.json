@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "cde82c40-bc26-4488-5ac3-65bc37c0907d",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Créez un bras de communication pour aider Milo, l’astromobile scientifique, à communiquer sa découverte.</font></div>"
+      },
+      {
+        "refId": "d28221aa-2cf6-49ef-e480-5abb5d373098",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "744b8b8b-17b8-4a77-b25e-8675f558a0cd",
+        "string": "<font size=\"3\">Programmez Milo pour qu’il envoie le message indiquant qu’il a trouvé l’échantillon de plante.</font>"
+      },
+      {
+        "refId": "ba8a27d9-a890-4d8d-de53-7551cbf894d6",
+        "string": "<font size=\"3\">Faites une capture d’écran du programme de Milo.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Documentez ce qu’il fait.</font></div>"
+      },
+      {
+        "refId": "063962aa-e2c2-4968-e962-3d83807f017e",
+        "string": "<font size=\"3\">Max et Mia attendent que Milo leur envoie un message au sujet de ses découvertes.</font>"
+      },
+      {
+        "refId": "fe0a1e5d-bfda-4140-735c-bf0af20863fe",
+        "string": "<div><font size=\"3\">Dans ce projet, vous allez&#160;:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Créer et programmer le bras de communication de Milo en utilisant le détecteur d’inclinaison.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Documenter la communication de Milo avec la base.</font></div></div>"
+      },
+      {
+        "refId": "7c934476-fbc2-42c8-b1f3-9b37879f2aa6",
+        "string": "C. Détecteur d’inclinaison de Milo"
+      }
+    ]
+  }
+}

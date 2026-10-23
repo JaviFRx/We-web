@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "23b33ab0-3fed-486c-891d-698441478f5d",
+        "string": "13a. Déplacer avec le son"
+      },
+      {
+        "refId": "984da34b-6be5-45d1-716f-67502dc0e714",
+        "string": "1. Lancer le programme&nbsp;<div>2. Démarrer le moteur à l’entrée de puissance du détecteur sonore&nbsp;</div><div>3. Recommencer l’étape&nbsp;2 indéfiniment</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<font size=\"3\">マックスとミアは、初めて発明された時代から現在に至るまでの間、レースカーの姿が大きく変化してきたことに気づきました。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">2人は、どうすれば車のスピードが速くなるのか、調査したいと思っています。</font></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<font size=\"5\">マックスとミアの質問について、考えましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.車が、より速くなるようにするためには、どのような改良をすればいいでしょうか？</font></div><div><font size=\"3\">2.車が、特定の距離を移動するのにかかる時間に影響する条件には何がありますか？</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">自分の考えを、ノートツールを使って共有しましょう。</font></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">前進し、ゴールで停止するレースカーを組み立てましょう。</font></div>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "<font size=\"3\">レースカーが、ビデオのように特定の距離を進むことができるようプログラミングしましょう。</font>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<font size=\"3\">スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合はビデオを見てください。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">ヒントが必要な場合はヘルプパネルを見てください。</font></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<font size=\"5\">マックスとミアと一緒に調査を行う：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">モーターの出力を、10に設定します。</font></div><div><font size=\"3\">1.小さな車輪で、プログラムを3回実行します。</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">試験結果を記録します</font><span style=\"color: inherit; line-height: 1.42857143;\">。</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">2.大きな車輪に付け替え、ステップ1を繰り返します。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3.小さな車輪をつけた場合と、大きな車輪をつけた場合とで、2倍の距離を進むのにどれだけ時間がかかるか予測しましょう。</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">予測した内容を記録します</font><span style=\"color: inherit; line-height: 1.42857143;\">。</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">4.小さな車輪と大きな車輪で、実際に試験してみましょう。</font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">結果を記録します。</font></span></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<font size=\"5\">記録を完成させる：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.予測した内容を振り返って、調査でどのような結果が得られたか説明してみましょう。</font></div><div><font size=\"3\">2.調査に関する情報をまとめて、皆の前で発表する準備をしましょう。</font></div><div><font size=\"3\">3.プロジェクトの記録に、重要な文章や画像、スクリーンキャプチャ、ビデオを挿入します。</font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<font size=\"5\">結果を共有しましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">調査の結果から、車の速度を上げる条件について、自分の言葉で説明しましょう。</font></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<font size=\"5\">マックスとミアと一緒に</font><div><font size=\"5\">追加の調査を行う</font></div>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<font size=\"5\">プロジェクトの共有</font>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">車の速度をあげるにはどうしたらよいでしょうか？</font></span><br></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">このプロジェクトの内容：</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>レースカーの特徴について、考える。</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>調査の結果から、つりあいのとれた力と、とれていない力の違いを、自分の言葉で説明しましょう。</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>車の速度をあげる条件について、説明する資料を作成し、発表する。</font></div>"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<font size=\"5\">追加の調査：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.大きな車輪をつけ、モーター出力5、プーリー構成Aでプログラムを3回実行します。</font></div><div><font color=\"#ffffff\" size=\"3\">結果を記録します。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2.プーリー構成をBに替え、ステップ1を繰り返します。</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3.車の速度に影響する他の要素を探してみましょう。</font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">前回の調査と今回の調査の結果を比較し、記録しましょう。</font></span></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2.速度"
+      }
+    ]
+  }
+}

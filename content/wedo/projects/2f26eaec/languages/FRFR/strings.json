@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5c00a544-2a14-48b1-bfeb-cb02d08f36ff",
+        "string": "1b. Arrêter le moteur"
+      },
+      {
+        "refId": "c44b814b-fee7-4150-8e35-d671282234d1",
+        "string": "1. Lancer le programme&nbsp;<div>2. Démarrer le moteur à la puissance&nbsp;1&nbsp;</div><div>3. Attendre 1&nbsp;seconde&nbsp;</div><div>4. Arrêter le moteur</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ef5e55e7-8c8e-4636-a984-85b2ed014ddf",
+        "string": "9a. Parallelopgaver"
+      },
+      {
+        "refId": "c23b3939-a193-43d5-7b1d-80d79f76a0b0",
+        "string": "1. Start program&#160;<div>2. Send beskeden \"abc\"&#160;</div><br><div>3. Start ved modtagelse af beskeden \"abc\"&#160;</div><div>4. Vis billede 3 på displayet&#160;</div><br><div>5. Start ved modtagelse af beskeden \"abc\"&#160;</div><div>6. Afspil lyd 6&#160;</div>"
+      },
+      {
+        "refId": "0a894d4e-7a21-494b-710e-cb0c9f22120f",
+        "string": "Der kræves ikke en LEGO model for at teste dette program."
+      }
+    ]
+  }
+}

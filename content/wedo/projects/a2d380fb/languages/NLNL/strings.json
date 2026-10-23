@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Zet de Smarthub aan en koppel deze aan jouw apparaat.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bekijk het filmpje als je hulp nodig hebt. Raadpleeg het hulpvenster als je extra hulp nodig hebt.</font></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<font size=\"3\">Programmeer je sondes om de plant naar de eindbestemming te vervoeren.</font>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"5\">Voltooi de documentatie:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">• Voeg een foto van Milo toe.</font></div><div><font size=\"3\">• Voeg een schermafbeelding van één programma toe.</font></div><div><font size=\"3\">• Voeg andere informatie toe die volgens jou belangrijk is.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Deel jouw definitieve document.</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><br>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<font size=\"5\">Gebruik de stenen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Maak een apparaat om met een Milo van een ander team samen te werken om de voorbeeldplant te verplaatsen.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">Max en Mia hebben ontdekt dat de voorbeeldplant te zwaar was voor Milo om alleen te verplaatsen.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<font size=\"3\">In dit project ga je:</font><br><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">Een apparaat ontwerpen en programmeren om de voorbeeldplant te verplaatsen.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\"><font size=\"3\">Documenteren en presenteren hoe de missie van Milo over het algemeen is verlopen.</font></span></div>"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">Deel je bevindingen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Leg uit hoe je de plant vervoert.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. Samenwerken"
+      }
+    ]
+  }
+}

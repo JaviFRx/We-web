@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ea01e383-d4aa-41ba-ac8c-73c2f8d402f0",
+        "string": "<font size=\"3\">Låt dig inspireras av grundmodellerna i designbiblioteket när du bygger egna lösningar i det här projektet.</font>"
+      },
+      {
+        "refId": "9c2d90a7-fcb9-4554-e0e5-57dc2667c26e",
+        "string": "<div><font size=\"4\">Hur gör vi för att utforska andra planeters yta?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I det här projektet kommer du att:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Undersöka verkliga rymduppdrag där terrängbilar har använts, och föreställa dig nya möjligheter.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Bygga och programmera en terrängbil som kan utföra en viss uppgift, till exempel åka ner i och upp ur kratrar, samla in stenprover, borra hål i marken osv.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentera och dokumentera</font> din prototyp och vad du eventuellt kan upptäcka genom att utföra de olika uppdragen.</font></div></div>"
+      },
+      {
+        "refId": "d995953a-dece-494f-954d-9d6bcf56c598",
+        "string": "12. Utforska rymden"
+      }
+    ]
+  }
+}

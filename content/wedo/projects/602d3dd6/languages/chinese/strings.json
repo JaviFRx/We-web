@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6a876355-8c81-4029-b648-ec1d9cf6d9cb",
+        "string": "13b. 随声音调整光线"
+      },
+      {
+        "refId": "87911d68-e2ab-44e6-8f0f-b39432022b84",
+        "string": "1. 启动程序&nbsp;<div>2. 开启 LED 并显示与声音传感器的输入相对应的颜色&nbsp;</div><div>3. 无限重复第 2 步</div>"
+      }
+    ]
+  }
+}

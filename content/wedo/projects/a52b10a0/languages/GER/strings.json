@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<font size=\"3\">Schaut euch die Basismodelle in der Konstruktionsbibliothek an, und lasst euch beim Bau eures Modells davon inspirieren.&#160;</font><br>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><div><div><font size=\"3\">In diesem Projekt werdet ihr:&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">• lernen, welche verschiedenen Möglichkeiten es gibt, Material zu transportieren</font></div><div><font size=\"3\">• eine Maschine bauen, mit der verschiedene Gegenstände transportiert werden können</font></div><div><font size=\"3\">• ein Programm schreiben, mit dem die Maschine unterschiedlich große Gegenstände transportieren und sortieren kann</font></div><div><font size=\"3\">• eure Ergebnisse dokumentieren und präsentieren.</font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Materialtransport"
+      }
+    ]
+  }
+}

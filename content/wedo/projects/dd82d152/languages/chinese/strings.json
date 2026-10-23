@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "75afb6d6-6e0a-4df5-99ee-9b1d28f0b3f1",
+        "string": "5b. 图像序列"
+      },
+      {
+        "refId": "8cfd5415-341b-4b7d-2e6e-2191d9d867cd",
+        "string": "1. 启动程序&nbsp;<div>2. 在显示屏上显示图像 25&nbsp;</div><div>3. 等待 1 秒&nbsp;</div><div>4. 在显示屏上显示图像 23&nbsp;</div><div>5. 等待 1 秒&nbsp;</div><div>6. 在显示屏上显示图像 26</div>"
+      },
+      {
+        "refId": "d18cf7ec-96ca-428b-ec5c-8c4291ad06ea",
+        "string": "LEGO 模型无需测试此程序。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "11513aca-bcc0-4fd3-be56-fc3cd35797f5",
+        "string": "20. Vulkaanalarm"
+      },
+      {
+        "refId": "ff1526d0-52e9-440a-fa57-2b312ebd11b2",
+        "string": "<div><div><div><div><font size=\"5\">Hoe gebruiken wetenschappers de verschillende fasen van vulkanische activiteit om hun wetenschappelijke onderzoeken in te plannen?&nbsp;</font></div><br><div>In dit project:&nbsp;</div><div>- Verschillende manieren onderzoeken waarop wetenschappers vulkanische activiteit observeren</div><div>- Een alarm ontwerpen en programmeren zodat verschillende fasen van vulkanische activiteit worden aangegeven&nbsp;</div><div>- Jouw programma uitproberen en testen hoe goed het deze verschillende fasen aangeeft&nbsp;</div><div>- Je programma en ideeën delen die van dit project een succes maken</div></div></div></div>"
+      },
+      {
+        "refId": "165a3271-75a6-4b2c-5bd6-65e937ad4fa6",
+        "string": "Max en Mia bereiden zich voor om een vulkaan te onderzoeken.&nbsp;<div><br><div>Help hen een vulkaanalarm te programmeren om verschillende acties met hun drone, hun rover en een dier in de omgeving te coördineren.</div></div>"
+      },
+      {
+        "refId": "fab27f42-230a-49eb-bec2-721408a23bea",
+        "string": "<font size=\"5\">Gebruik de stenen:</font><div><br><div>Bouw een alarm dat verschillende niveaus van vulkanische activiteit kan aangeven.&nbsp;</div><br><div>Programmeer het zodat het wordt geactiveerd wanneer ermee wordt geschud.</div></div>"
+      },
+      {
+        "refId": "7be8704a-5aca-48e0-1af6-7ab65e48274c",
+        "string": "1. Start het programma&nbsp;<div>2. Start de motor in de andere richting&nbsp;</div><div>3. Start de motor op vermogen 3&nbsp;</div><div>4. Wacht tot de kantelsensor omhoog kantelt&nbsp;</div><div>5. Start de motor gedurende 2 seconden&nbsp;</div><div>6. Wacht tot de kantelsensor de beweging Schudden heeft gedetecteerd&nbsp;</div><div>7. Start de motor in deze richting&nbsp;</div><div>8. Start de motor gedurende een willekeurig aantal seconden</div>"
+      },
+      {
+        "refId": "91f4101a-154c-4a78-cd27-4e517698b552",
+        "string": "<font size=\"5\">Werk de oplossing uit en test deze:</font><div><br><div>Programmeer je alarm zodat er een waarschuwing wordt geven als de wijzer stopt bij de rode positie.&nbsp;</div><br><div><font color=\"#ffffff\">Verplaats de drone bij elk rood alarm naar de vulkaan, zodat hiermee de uitbarsting kan worden bestudeerd.</font></div></div>"
+      },
+      {
+        "refId": "f9eb0f00-54c8-459f-c0b6-496371f2f78e",
+        "string": "<font size=\"5\">Test je oplossing uit en pas deze aan:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>- Programmeer je alarm zodat het voor elk van de drie fasen van de vulkaan een verschillend signaal geeft.&nbsp;</div><br><div><font color=\"#ffffff\">- Bij elk alarm verplaats je de drone, het dier en de rover in overeenstemming met het signaal.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "d7740519-33e7-48d1-a8e3-5398eff40ca4",
+        "string": "<font size=\"5\">Deel je project</font>"
+      },
+      {
+        "refId": "46a03b2d-27fe-4459-b355-6e7aa76c3a65",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen </font><div><font size=\"5\">met Max en Mia</font></div>"
+      },
+      {
+        "refId": "b916f289-1501-4d1c-2cf7-211d3142a0f5",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen:</font><div><span style=\"font-size: 20px;\"><br></span><div>De meeste vulkaanalarmen hebben vier fasen: groen, geel, oranje en rood.&nbsp;</div><br><div>Probeer een manier te vinden waarop je alarm een vierde fase kan aangeven.&nbsp;<br></div><br></div>"
+      },
+      {
+        "refId": "7821b679-8dea-442d-6043-9df9f0c0f632",
+        "string": "<font size=\"5\">Orden de informatie:</font><div><span style=\"font-size: 20px;\"><br></span><div>Voorbeeld:&nbsp;</div><div>- Maak een schermafbeelding van het uiteindelijke programma.&nbsp;</div><div>- Maak een filmpje waarin je jouw oplossing uitlegt.&nbsp;</div></div>"
+      },
+      {
+        "refId": "c4d962d6-dead-4bba-6766-3751205a1e90",
+        "string": "<font size=\"5\">Deel je bevindingen:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>Presenteer je oplossingen en geef er uitleg over.</div></div>"
+      },
+      {
+        "refId": "e0b7499c-e7e8-42d1-665e-4c037437bfe1",
+        "string": "Max en Mia bereiden zich voor om een vulkaan te onderzoeken.&nbsp;<div><br><div>Help hen een vulkaanalarm te programmeren om verschillende acties met hun drone, hun rover en een dier in de omgeving te coördineren.</div></div>"
+      },
+      {
+        "refId": "a10705c3-dd78-4352-cecf-34ad379eeee5",
+        "string": "<font size=\"5\">Denk na over de vragen van Max en Mia:</font><div><span style=\"font-size: 20px;\"><br></span><div>1. Wat zijn de verschillende fasen van een vulkaan?&nbsp;</div><div>2. Hoe kunnen wetenschappers vulkanen onderzoeken?&nbsp;</div><div><font color=\"#ffffff\">3. Wat zou een goede manier zijn om aan te geven dat een vulkaan uitbarst?</font></div></div>"
+      },
+      {
+        "refId": "08e6bd33-975a-40e5-8215-4ca31daf218e",
+        "string": "Zet de Smarthub aan en koppel deze aan jouw apparaat. Bekijk het filmpje als je hulp nodig hebt.&nbsp;<div><br><div>Raadpleeg het hulpvenster als je extra hulp nodig hebt.&nbsp;</div></div>"
+      }
+    ]
+  }
+}

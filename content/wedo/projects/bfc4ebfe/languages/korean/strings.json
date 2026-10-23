@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5d05ce93-c706-45c1-8a87-ebd2b16a8ac0",
+        "string": "7b. 속도 감소"
+      },
+      {
+        "refId": "7cf59f5b-297c-4d14-e3fb-09e8f0ed8a46",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 화면에 텍스트 \"10\" 표시&nbsp;</div><div>3. 화면에 표시된 숫자와 같은 출력으로 모터 작동&nbsp;</div><div>4. 화면의 숫자에서 1 빼기&nbsp;</div><div>5. 3단계와 4단계를 10회 반복&nbsp;</div><div>6. 모터 멈춤</div>"
+      }
+    ]
+  }
+}

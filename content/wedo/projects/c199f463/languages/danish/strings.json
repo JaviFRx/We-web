@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0199e382-b14e-4aba-a0cd-b3ad605d1bc1",
+        "string": "3b. Trafiklys"
+      },
+      {
+        "refId": "9b6ee4fa-569a-4f4b-366f-6c3440d5636d",
+        "string": "1. Start program&#160;<div>2. Tænd lys ved farve 9 (rød)&#160;</div><div>3. Vent 2 sekunder&#160;</div><div>4. Tænd lys ved farve 5 (grøn)&#160;</div><div>5. Vent 2 sekunder&#160;</div><div>6. Tænd lys ved farve 7 (gul)&#160;</div><div>7. Vent 2 sekunder&#160;</div><div>8. Gentag trin 2 til 7 for evigt</div>"
+      }
+    ]
+  }
+}

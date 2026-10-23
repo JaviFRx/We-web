@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3d4b1dfc-05e1-45db-963c-d37d56c1fdb5",
+        "string": "21. Inspektion"
+      },
+      {
+        "refId": "38ea98b8-f26a-4697-ef22-7a811566b198",
+        "string": "<div><div><font size=\"5\">Wie kann man enge Räume, wie zum Beispiel Tunnel, Höhlen, Rohre usw. untersuchen?&nbsp;</font></div><br><div>In diesem Projekt werdet ihr:&nbsp;</div><div>- lernen, wie man mit Robotern enge Räume erkunden kann&nbsp;</div><div>- einen Roboter bauen und programmieren, der über verschiedene Oberflächen fahren und Hindernissen ausweichen kann</div><div>- eure Programme testen und sicherstellen, dass der Roboter damit Wände, Löcher, eine Höhle und verschiedene Objekte erkennen kann&nbsp;</div><div>- eure Programme vorstellen und Ideen untereinander austauschen&nbsp;</div><div>- eure Ergebnisse dokumentieren und präsentieren</div></div>"
+      },
+      {
+        "refId": "daee8177-ac30-4b6d-49d6-c60cba9f450d",
+        "string": "<div style=\"text-align: center;\">Schaut euch die Basismodelle in der Modellbibliothek an und lasst euch beim Bau eures Modells davon inspirieren.</div>"
+      },
+      {
+        "refId": "6d51c5a4-a698-4766-8716-a6ba7efd1533",
+        "string": "<div style=\"text-align: center;\">Schaut euch die Basisprogramme in der Programmbibliothek an und lasst euch beim Programmieren eures Modells davon inspirieren.</div>"
+      }
+    ]
+  }
+}

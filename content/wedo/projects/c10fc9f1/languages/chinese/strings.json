@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "77bd553a-9bdd-47e6-eb91-01142f67888e",
+        "string": "<div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max（麦克斯）和 Mia（米娅）非常担心人类和动物在一场严重的气象灾害后会有危险。&#160;</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">Max（麦克斯）和Mia（米娅）想知道，在他们生活的地区，会发生什么样的气象灾害。&#160;</font><span style=\"line-height: 1.4285;\"><font size=\"3\"><br></font></span></div>"
+      },
+      {
+        "refId": "a188c5c6-4b84-4c12-16f4-c9fa2bbc6a59",
+        "string": "<div><font size=\"4\">Max（麦克斯）和Mia（米娅）在探究中的疑问：</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 在你生活的地方，会有哪些气象灾害？&#160;</font></div><div><font size=\"3\">2. 气象灾害会给人类和动物带来什么影响？</font></div><div><font size=\"3\">3. 在气象灾害中，直升飞机可以用来做什么？&#160;<span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\"><br></font></span></font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">用乐高文档来分享你的想法。</font><br></div>"
+      },
+      {
+        "refId": "63b3d7b8-1c7d-4a70-ea48-88e5b0dabf55",
+        "string": "<div><font size=\"3\">用乐高积木搭建一架直升飞机，可以在气象灾害地区使用。<br></font></div>"
+      },
+      {
+        "refId": "96d53a28-16af-4a93-65b9-7a0a4848e083",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"3\">给直升飞机编写程序，使飞机上的链条可以上升和下降。</font></span><br></div>"
+      },
+      {
+        "refId": "f52dac05-8b99-4011-41b6-007f02a68777",
+        "string": "<div><font size=\"3\"><span style=\"line-height: 1.42857;\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">如需更多详细指导，请看帮助。&#160;<br></font></div>"
+      },
+      {
+        "refId": "f6f4eb7a-ce5c-4145-d326-23eaa4a359eb",
+        "string": "<div><font size=\"3\"><span style=\"line-height: 1.42857;\">设计两套方案：</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">对直升飞机进行修改，使其可以在气象灾害环境中使用。确保你的设计是安全且易操作的，并能适用于灾害。&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\">选择任意一项营救任务，并为其设计两套解决方案：</font></div><div><font size=\"3\">1. 安全迁移濒临灭绝的动物。&#160;</font></div><div><font size=\"3\">2. 给灾民空投生活物资。&#160;</font></div><div><font size=\"3\">3. 空投水弹灭火。</font></div><div><font size=\"3\">&#160;</font></div><div><font size=\"3\" color=\"#ffffff\">记录下你设计的两套解决方案，并对其做出解释。&#160;</font><font color=\"#ffffff\" size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "c893963f-0040-4c4d-1805-e64d09b1cf6a",
+        "string": "<div><font size=\"4\">完成你的乐高文档：</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 描述你不同的原始模型样本。&#160;</font></div><div><font size=\"3\">2. 解释你最后选择的方案。&#160;</font></div><div><font size=\"3\">3. 请将重要的照片、截屏、录像或文字插入到乐高文档中。&#160;</font></div><div><font size=\"3\">4. 整理并分享实验总结。</font>&#160;<font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "ba7bee72-d449-46ef-7289-cb6522e8a7a5",
+        "string": "<div><font size=\"4\">分享你的发现：</font></div><font size=\"3\"><br></font><div><font size=\"3\">展示并描述，在灾害发生后，你是如何实施营救活动的。&#160;<br></font></div>"
+      },
+      {
+        "refId": "121f6b6c-b564-4668-9d0d-25caa401c8d3",
+        "string": "<div><font size=\"4\">分享你的乐高成果。</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "ec17dd2e-deb7-4f97-121f-87f56e4291c3",
+        "string": "<div><font size=\"4\">与Max（麦克斯）和Mia（米娅）设计新方案。</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "05ed5ed8-d271-46ca-06cb-8b1efcc2cda1",
+        "string": "<div><font size=\"5\">How can you organize a safety mission after a weather-related hazard?</font><br><div><font size=\"3\">In this project, you will:</font></div><div><span style=\"font-size: medium; line-height: 1.42857143;\"><br></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Explore different weather-related hazards that can influence the survival of a population in your region.</font></span><br></div><div><font size=\"3\">Create and program a device to relocate people and animals in a safe, easy-to-use, and respectful way or efficiently drop materials into an area.</font></div><div><font size=\"3\">Present and document your solution and explain why your solution meets the criteria. </font></div></div>"
+      },
+      {
+        "refId": "1be327f8-043c-444c-f8ac-f4d329131b85",
+        "string": "<div><div><font size=\"5\">How can you organize a safety mission after a weather-related hazard?</font><br><div><font size=\"3\">In this project, you will:</font></div><div><span style=\"font-size: medium; line-height: 1.42857143;\"><br></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Explore different weather-related hazards that can influence the survival of a population in your region.</font></span><br></div><div><font size=\"3\">Create and program a device to relocate people and animals in a safe, easy-to-use, and respectful way or efficiently drop materials into an area.</font></div><div><font size=\"3\">Present and document your solution and explain why your solution meets the criteria. </font></div></div></div><div><font size=\"3\"><br></font></div><div>如何在发生气象灾害后组织一场安全的营救活动。</div><br><div>通过这个实验，你会：&#160;\n</div><br><div>探究你的生活所在地中各种气象灾害给人类生存所带来的影响。&#160;</div><div><span style=\"line-height: 1.42857143;\">创造一个可以帮助人类和动物搬迁到安全地带的设备，要求其易于操作，并可有效实施空投。&#160;</span><br></div>"
+      },
+      {
+        "refId": "0bf96ac4-7b83-401a-0e99-1c3313eeac06",
+        "string": "<div><div><div><span style=\"line-height: 1.42857;\"><font size=\"4\">如何在发生气象灾害后组织一场安全的营救活动。</font></span><br></div><font size=\"3\"><br></font><div><font size=\"3\">通过这个实验，你会：&#160;</font></div><div><font size=\"3\">• 探究你的生活所在地中各种气象灾害给人类生存所带来的影响。&#160;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span><span style=\"line-height: 1.42857143;\">创造一个可以帮助人类和动物搬迁到安全地带的设备，要求其易于操作，并可有效实施空投。&#160;</span><br></font></div></div><div><font size=\"3\">• 展示你的方案为什么符合营救条件，并做记录。</font><span style=\"line-height: 1.42857143;\"><br></span></div></div>"
+      },
+      {
+        "refId": "739f6f68-bbe3-4b39-8bcd-a3894536bf80",
+        "string": "7. 空投和营救"
+      },
+      {
+        "refId": "451eebe3-808d-40b7-b438-c33863a4de2d",
+        "string": "<font size=\"4\">设计一套新的方案：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">在某些情况下，直升飞机可能不是最佳的营救和空投工具。&#160; </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">通过思考，设计一套你觉得更好的营救方案。&#160; </font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">解释为什么你的营救方案比直升飞机好，并做记录。&#160;</font></div>"
+      }
+    ]
+  }
+}

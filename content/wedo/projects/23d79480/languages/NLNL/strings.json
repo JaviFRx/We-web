@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0edf5ff0-95fb-4e55-b58d-d76f1dc9eff5",
+        "string": "6a. Aftellen"
+      },
+      {
+        "refId": "e770e1e9-7976-46f7-0752-ef7bb2181814",
+        "string": "1. Start het programma&nbsp;<div>2. Toon de tekst \"3\" op het beeldscherm&nbsp;</div><div>3. Toon de tekst \"2\" op het beeldscherm&nbsp;</div><div>4. Toon de tekst \"1\" op het beeldscherm&nbsp;</div><div>5. Toon de tekst \"0\" op het beeldscherm</div>"
+      },
+      {
+        "refId": "bfa4849d-f371-4d54-b08b-353592b49367",
+        "string": "Er is geen LEGO model vereist om dit programma te testen."
+      }
+    ]
+  }
+}

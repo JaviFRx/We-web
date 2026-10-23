@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "17a63632-ea65-4c5f-be3a-fb89ab508078",
+        "string": "2a. Zufällige Dauer"
+      },
+      {
+        "refId": "65a5ac53-a2ef-4a43-f123-5db2e18a43f8",
+        "string": "1. Programm starten&nbsp;<div>2. Motor eine zufällige Anzahl an Sekunden lang starten</div>"
+      }
+    ]
+  }
+}

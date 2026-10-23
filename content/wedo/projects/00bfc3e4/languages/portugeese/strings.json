@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Controle remoto"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Iniciar programa quando “A” estiver pressionado&#160;<div>2. Esperar que o Sensor de Inclinação detecte inclinação para baixo&#160;</div><div>3. Iniciar motor neste sentido&#160;</div><div>4. Repetir as etapas 2 e 3 indefinidamente.&#160;</div><br><div>5. Iniciar programa quando “A” estiver pressionado&#160;</div><div>6. Esperar que o Sensor de Inclinação detecte ausência de inclinações&#160;</div><div>7. Parar motor&#160;</div><div>8. Repetir as etapas 6 e 7 indefinidamente</div>"
+      }
+    ]
+  }
+}

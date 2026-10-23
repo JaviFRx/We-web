@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ea01e383-d4aa-41ba-ac8c-73c2f8d402f0",
+        "string": "<font size=\"3\">デザインライブラリにある基本モデルを参考にして、このプロジェクトの課題に対するオリジナルの解決策を作ってみましょう。</font>"
+      },
+      {
+        "refId": "9c2d90a7-fcb9-4554-e0e5-57dc2667c26e",
+        "string": "<div><font size=\"4\">どうすれば別の惑星の表面を探索することができるでしょうか？</font><font size=\"3\"><br></font></div><div><font size=\"3\">このプロジェクトの内容：</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">実際の宇宙探査機の任務について考え、今後の展開を予測する。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">クレーターに出入りする、岩のサンプルを採取する、地面に穴を掘るなどの特定の任務を行うことができる宇宙探査機を組み立てて、プログラミングする。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">選んだ任務に取り組むことで、どのような発見があったかを説明する資料を作成し、発表する。</font></font></div></div>"
+      },
+      {
+        "refId": "d995953a-dece-494f-954d-9d6bcf56c598",
+        "string": "12.宇宙での探索活動"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "51383afe-870f-4845-8f5c-1560a43dce77",
+        "string": "10. Warten auf"
+      },
+      {
+        "refId": "008ad605-0eb9-46a4-da9c-4a73e62ef265",
+        "string": "1. Programm starten&nbsp;<div>2. LED mit Farbe 9 (Rot) einschalten&nbsp;</div><div>3. 2 Sekunden warten&nbsp;</div>"
+      },
+      {
+        "refId": "06063442-baa9-4c2e-4b9e-e61ca4ae17f2",
+        "string": "1. Programm starten&nbsp;<div>2. 2 Sekunden warten&nbsp;</div><div>3. LED mit Farbe 9 (Rot) einschalten&nbsp;</div>"
+      }
+    ]
+  }
+}

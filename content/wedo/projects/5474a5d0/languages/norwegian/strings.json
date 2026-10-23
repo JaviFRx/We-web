@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5f56efa-35f4-4614-a9ce-6b558bedaca7",
+        "string": "4b. Rytme"
+      },
+      {
+        "refId": "2788f2f5-c835-466a-4f11-d73b39f02515",
+        "string": "1. Start program når A trykkes ned&#160;<div>2. Spill av lyd 24&#160;</div><div>3. Vent i 0.5 sekund&#160;</div><div>4. Gjenta trinn 2 og 3 for alltid&#160;</div><br><div>5. Start program når A trykkes ned&#160;</div><div>6. Spill av lyd 23&#160;</div><div>7. Vent i 1 sekund&#160;</div><div>8. Gjenta trinn 2 og 3 for alltid&#160;</div><br><div>9. Start program&#160;</div><div>10. Spill av lyd 25</div>"
+      },
+      {
+        "refId": "ec5f9c9e-6d2d-41c9-8043-4bf4f5993e57",
+        "string": "Ingen LEGO modell kreves for å teste dette programmet."
+      }
+    ]
+  }
+}

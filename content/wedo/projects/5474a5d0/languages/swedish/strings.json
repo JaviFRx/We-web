@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5f56efa-35f4-4614-a9ce-6b558bedaca7",
+        "string": "4b. Rytm"
+      },
+      {
+        "refId": "2788f2f5-c835-466a-4f11-d73b39f02515",
+        "string": "1. Starta program när ”A” är intryckt&#160;<div>2. Spela ljud nummer 24&#160;</div><div>3. Vänta i 0.5 sekunder&#160;</div><div>4. Upprepa steg 2 och 3 oändligt&#160;</div><br><div>5. Starta program när ”A” är intryckt&#160;</div><div>6. Spela ljud nummer 23&#160;</div><div>7. Vänta i en sekund&#160;</div><div>8. Upprepa steg 2 och 3 oändligt&#160;</div><br><div>9. Starta program&#160;</div><div>10. Spela ljud 25</div>"
+      },
+      {
+        "refId": "ec5f9c9e-6d2d-41c9-8043-4bf4f5993e57",
+        "string": "Det krävs ingen LEGO modell för att testa det här programmet."
+      }
+    ]
+  }
+}

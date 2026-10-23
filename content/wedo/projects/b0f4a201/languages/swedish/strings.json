@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fa06d35d-b20e-4d2f-87e4-745bcaa452b5",
+        "string": "10b. Räknare"
+      },
+      {
+        "refId": "fc5448ee-3ab4-4720-3bd4-b4fa2b033a35",
+        "string": "1. Starta program&#160;<div>2. Visa text ”0” på displayen&#160;</div><div>3. Lägg till 1 till siffrorna på displayen&#160;</div><div>4. Vänta i en sekund&#160;</div><div>5. Upprepa steg 3 och 4 oändligt</div>"
+      },
+      {
+        "refId": "e2efaf40-5853-4861-1af1-6c98ae46fcca",
+        "string": "Det krävs ingen LEGO modell för att testa det här programmet."
+      }
+    ]
+  }
+}

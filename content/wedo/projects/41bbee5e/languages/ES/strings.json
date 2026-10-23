@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Ventilador de enfriamiento"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">Es un día caluroso. En el laboratorio de ciencias de Max y Mia hace demasiado calor.<br><br></font><div><font size=\"3\">Quieren fabricar un ventilador para refrescar el laboratorio de ciencias.</font></div><font size=\"3\"><br></font><div><font size=\"3\">¡Max y Mia necesitan tu ayuda!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Sigue ayudando a Max y Mia (opcional):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Haz que el ventilador gire a distintas velocidades Luego haz que se detenga.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programa el ventilador para que haga otras cosas.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Haz que el ventilador gire<br><br>1. Crea el programa tal como se indica.</font><div><font size=\"3\"><br>2. Explicaos unos a otros cómo funciona el ventilador.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><font size=\"3\">En esta lección aprenderás a:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Construir un modelo LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Conectar el modelo a tu dispositivo</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programar</span><span style=\"line-height: 1.42857;\">&nbsp;el motor para que gire a distintas velocidades</span></font></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">Enciende el hub inteligente y conéctalo al dispositivo.</font>"
+      }
+    ]
+  }
+}

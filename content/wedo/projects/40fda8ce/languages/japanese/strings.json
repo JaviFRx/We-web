@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "11513aca-bcc0-4fd3-be56-fc3cd35797f5",
+        "string": "20.火山警告"
+      },
+      {
+        "refId": "ff1526d0-52e9-440a-fa57-2b312ebd11b2",
+        "string": "<div><div><div><div><font size=\"5\">科学者は火山活動の様々な段階をどのように利用して科学的探索を進めるのでしょうか？&nbsp;</font></div><br><div>このプロジェクトの内容：&nbsp;</div><div>- 科学者が火山活動を監視する色々な方法を調べる</div><div>- 火山活動の各段階を示すアラームを作成し、プログラミングする&nbsp;</div><div>- プログラムが各段階をどの程度的確に示すかテストする&nbsp;</div><div>- このプロジェクトを成功させるためのプログラムとアイデアを共有する</div></div></div></div>"
+      },
+      {
+        "refId": "165a3271-75a6-4b2c-5bd6-65e937ad4fa6",
+        "string": "マックスとミアは火山探索の準備をしています。&nbsp;<div><br><div>2人が火山アラームをプログラミングするのを手伝いましょう。このアラームで無人飛行機、探査機、付近に生息する動物の様々な行動を調整します。</div></div>"
+      },
+      {
+        "refId": "fab27f42-230a-49eb-bec2-721408a23bea",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><br><div>火山活動のレベルを示すアラームを組み立てます。&nbsp;</div><br><div>その他のかたむきをすると動き出すようにアラームをプログラミングします。</div></div>"
+      },
+      {
+        "refId": "7be8704a-5aca-48e0-1af6-7ab65e48274c",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.モーターを左回転させる&nbsp;</div><div>3.モーターを 動力3で動かす&nbsp;</div><div>4.チルトセンサーが上方向にかたむくのを待つ&nbsp;</div><div>5.モーターを2秒間回転させる&nbsp;</div><div>6.チルトセンサーがその他のかたむきを検出するのを待つ&nbsp;</div><div>7.モーターを右回転させる&nbsp;</div><div>8.モーターを任意の秒数回転させる</div>"
+      },
+      {
+        "refId": "91f4101a-154c-4a78-cd27-4e517698b552",
+        "string": "<font size=\"5\">解決策のプランとテスト：</font><div><br><div>針が赤の位置で停止するとアラートが発信されるようにアラームをプログラムします。&nbsp;</div><br><div><font color=\"#ffffff\">赤のアラートが出る度に、無人飛行機を火山の中に移動させて噴火を調査させます。</font></div></div>"
+      },
+      {
+        "refId": "f9eb0f00-54c8-459f-c0b6-496371f2f78e",
+        "string": "<font size=\"5\">解決策のテストと修正：</font><div><span style=\"font-size: 20px;\"><br></span><div>- 3段階の火山活動それぞれで別々の信号を発信するようにアラームをプログラミングします。&nbsp;</div><br><div><font color=\"#ffffff\">- アラートが発信される度に、信号に従って無人飛行機、動物、探査機を動かします。&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "d7740519-33e7-48d1-a8e3-5398eff40ca4",
+        "string": "<font size=\"5\">プロジェクトの発表</font>"
+      },
+      {
+        "refId": "46a03b2d-27fe-4459-b355-6e7aa76c3a65",
+        "string": "<font size=\"5\">新しい解決策をデザインしましょう</font><div><font size=\"5\">マックスとミアもいっしょです</font></div>"
+      },
+      {
+        "refId": "b916f289-1501-4d1c-2cf7-211d3142a0f5",
+        "string": "<font size=\"5\">新しい解決策のデザイン：</font><div><span style=\"font-size: 20px;\"><br></span><div>大半の火山アラームには、緑、黄色、オレンジ、赤の4つの段階があります。&nbsp;</div><br><div>自分のアラームプログラムで4つ目の段階を知らせる方法を見つけましょう。&nbsp;<br></div><br></div>"
+      },
+      {
+        "refId": "7821b679-8dea-442d-6043-9df9f0c0f632",
+        "string": "<font size=\"5\">情報の整理：</font><div><span style=\"font-size: 20px;\"><br></span><div>例示：&nbsp;</div><div>- プログラムの最終版のスクリーンキャプチャを撮ります。&nbsp;</div><div>- 解決策の説明ビデオを録画します。&nbsp;</div></div>"
+      },
+      {
+        "refId": "c4d962d6-dead-4bba-6766-3751205a1e90",
+        "string": "<font size=\"5\">結果の共有：</font><div><span style=\"font-size: 20px;\"><br></span><div>解決策を発表し、説明します。</div></div>"
+      },
+      {
+        "refId": "e0b7499c-e7e8-42d1-665e-4c037437bfe1",
+        "string": "マックスとミアは火山探索の準備をしています。&nbsp;<div><br><div>2人が火山アラームをプログラミングするのを手伝いましょう。このアラームで無人飛行機、探査機、付近に生息する動物の様々な行動を調整します。</div></div>"
+      },
+      {
+        "refId": "a10705c3-dd78-4352-cecf-34ad379eeee5",
+        "string": "<font size=\"5\">マックスとミアと一緒に次の質問について考えましょう。</font><div><span style=\"font-size: 20px;\"><br></span><div>1.火山活動にはどのような段階がありますか？&nbsp;</div><div>2.科学者は火山をどのように調査しますか？&nbsp;</div><div><font color=\"#ffffff\">3.火山が噴火寸前であることをはっきりと示す予兆にはどのようなものがありますか？</font></div></div>"
+      },
+      {
+        "refId": "08e6bd33-975a-40e5-8215-4ca31daf218e",
+        "string": "スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合は、ビデオを見てください。&nbsp;<div><br><div>ヒントが必要な場合はヘルプパネルを見てください。&nbsp;</div></div>"
+      }
+    ]
+  }
+}

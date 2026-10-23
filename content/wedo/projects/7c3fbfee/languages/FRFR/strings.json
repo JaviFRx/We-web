@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">Max et Mia sont très motivés pour protéger l’environnement.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Ils souhaitent améliorer les méthodes de recyclage afin de réduire les déchets.</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Que signifie recycler&#160;?</font></div><div><font size=\"3\">2. Comment les matériaux à recycler peuvent-ils être triés dans votre région&#160;?</font></div><div><font size=\"3\">3. Pouvez-vous imaginer des dispositifs capables de trier des déchets à recycler selon leur forme&#160;?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Partagez vos idées dans l’outil de documentation.</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><br><br><div><font size=\"3\">Construisez un camion pouvant trier deux objets selon leur forme.</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">Programmez la benne de votre camion pour qu’elle déverse des petits objets recyclables à la station de recyclage.</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">Concevez une solution&#160;:</font><br><br><div><font size=\"3\">Modifiez le camion afin qu’il trie les objets en deux groupes différents, selon la forme des objets.</font></div><br><div><font size=\"3\">Choisissez l’un des aspects suivants&#160;:</font></div><div><font size=\"3\">1. Changez la conception de la benne du camion.</font></div><div><font size=\"3\">2. Utilisez le détecteur de mouvement pour détecter la forme de l’objet.</font></div><div><font size=\"3\">3. Triez les objets dans le camion.</font></div><br><div><font color=\"#ffffff\" size=\"3\">Documentez votre solution en expliquant comment vous avez utilisé la forme de l’objet pour le trier.</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">Terminez votre document&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Décrivez vos différents prototypes.</font></div><div><font size=\"3\">2. Expliquez pourquoi la solution que vous avez finalement choisie vous semble la meilleure.</font></div><div><font size=\"3\">3. Organisez vos informations.</font></div><div><font size=\"3\">4. Insérez des textes, images, captures d’écran ou vidéos importants.</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">En utilisant vos propres mots, présentez comment vous avez pu répartir des boîtes différentes à des emplacements différents.</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions</font><br><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<font size=\"4\">Comment pouvez-vous améliorer les méthodes de recyclage pour réduire les déchets&#160;?</font><br><br><div><font size=\"3\">Dans ce projet, vous allez&#160;:</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Explorer comment de meilleures méthodes de tri en vue du recyclage peuvent réduire la quantité de déchets mis au rebut.</font></div>•&#160;<span style=\"font-size: medium; line-height: 1.42857143;\">Créer et programmer un dispositif permettant de trier des objets recyclables selon leur taille et leur forme.</span><br><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Présenter et documenter la solution que vous avez développée.</font></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions&#160;:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Concevez une solution pour trier trois objets de votre choix.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Choisissez l’un des aspects suivants&#160;:</font></div><div><font size=\"3\">1. Triez les objets à l’aide d’un tapis roulant.</font></div><div><font size=\"3\">2. Triez les objets à l’aide d’un bras robotisé.</font></div><div><font size=\"3\">3. Triez les objets à l’aide de deux dispositifs différents.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Documentez votre nouvelle solution.</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. Tri pour recyclage"
+      }
+    ]
+  }
+}

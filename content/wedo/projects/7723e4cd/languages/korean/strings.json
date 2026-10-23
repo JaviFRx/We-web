@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "51383afe-870f-4845-8f5c-1560a43dce77",
+        "string": "10. 시간 대기"
+      },
+      {
+        "refId": "008ad605-0eb9-46a4-da9c-4a73e62ef265",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 색상 9(빨강)에서 LED 켜기&nbsp;</div><div>3. 2초간 대기&nbsp;</div>"
+      },
+      {
+        "refId": "06063442-baa9-4c2e-4b9e-e61ca4ae17f2",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 2초간 대기&nbsp;</div><div>3. 색상 9(빨강)에서 LED 켜기&nbsp;</div>"
+      }
+    ]
+  }
+}

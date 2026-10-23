@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<font size=\"3\">디자인 라이브러리의 기본 모델을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</font>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">겹쳐 쌓기가 물체를 옮기는 데 어떻게 도움이 되는가?</font><font size=\"3\"><br></font></div><div><font size=\"3\">이번 프로젝트의 과제:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">물건이 운반되고 조립되는 여러 가지 방법을 조사하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">여러 가지 크기의 물체를 운반하고 조립할 수 있는 장치를 조립하고 프로그래밍하세요. 안전, 효율, 보관 방법 등을 아울러 생각해야겠죠.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">자신이 만든 장치를 문서에 기록하고 발표하되, 어떻게 안전하고 효율적으로 디자인되었는지 설명하세요.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. 물건 옮기기"
+      }
+    ]
+  }
+}

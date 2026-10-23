@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8b964291-66b5-4b21-a5b5-e2c435ceb0e7",
+        "string": "<font size=\"5\">Usando as peças:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">criem um braço detector de objetos para ajudar o Milo, o Robô Explorador da Ciência, a parar sobre a planta.</font></div>"
+      },
+      {
+        "refId": "e7bd83ea-ea4d-4df6-7bb5-e33aa0f41f5b",
+        "string": "<font size=\"3\">Liguem o Smarthub e o conectemao dispositivo.</font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">Assistam ao vídeo se precisarem de ajuda.</span></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Consultem o Painel de ajuda para obter outras orientações.</font></span></div></div>"
+      },
+      {
+        "refId": "770464a6-c412-4476-6e59-d3e48253ebf5",
+        "string": "<font size=\"3\">Programem o Milo para parar em frente à planta quando ele detectá-la.</font>"
+      },
+      {
+        "refId": "2672ca79-2091-4dc0-1dd1-3255e6ba0dc4",
+        "string": "<font size=\"3\">Gravem um vídeo do Milo alcançando a planta.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Registrem a missão de descoberta do Milo.</font></div>"
+      },
+      {
+        "refId": "71ce5714-01e7-4133-4c28-ae7922f1198e",
+        "string": "<font size=\"3\">Max e Mia gostariam que o Milo tivesse um sensor para detectar objetos.</font>"
+      },
+      {
+        "refId": "8b17409e-1e28-4f6f-b06d-e0c7300be491",
+        "string": "<div><div><div><font size=\"3\">Neste projeto, vocês irão:</font></div><div><font size=\"3\"><br>• Criar e programar o braço detector de objetos do Milo usando o sensor de movimento.<br>• Registrar como o Milo encontrou a espécie diferente de planta.</font><br><div></div></div></div></div>"
+      },
+      {
+        "refId": "cddad4d0-e43c-446f-97d0-92cb887a08b8",
+        "string": "B. Sensor de Movimento do Milo"
+      }
+    ]
+  }
+}

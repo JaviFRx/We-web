@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0199e382-b14e-4aba-a0cd-b3ad605d1bc1",
+        "string": "3b. 신호등"
+      },
+      {
+        "refId": "9b6ee4fa-569a-4f4b-366f-6c3440d5636d",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 색상 9(빨강)에서 LED 켜기&nbsp;</div><div>3. 2초간 대기&nbsp;</div><div>4. 색상 5(초록)에서 LED 켜기&nbsp;</div><div>5. 2초간 대기&nbsp;</div><div>6. 색상 7(노랑)에서 LED 켜기&nbsp;</div><div>7. 2초간 대기&nbsp;</div><div>8. 2-7단계를 무한 반복</div>"
+      }
+    ]
+  }
+}

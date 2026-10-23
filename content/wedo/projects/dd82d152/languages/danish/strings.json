@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "75afb6d6-6e0a-4df5-99ee-9b1d28f0b3f1",
+        "string": "5b. Billedsekvens"
+      },
+      {
+        "refId": "8cfd5415-341b-4b7d-2e6e-2191d9d867cd",
+        "string": "1. Start program&#160;<div>2. Vis billede 25 på displayet&#160;</div><div>3. Vent 1 sekund&#160;</div><div>4. Vis billede 23 på displayet&#160;</div><div>5. Vent 1 sekund&#160;</div><div>6. Vis billede 26 på displayet</div>"
+      },
+      {
+        "refId": "d18cf7ec-96ca-428b-ec5c-8c4291ad06ea",
+        "string": "Der kræves ikke en LEGO model for at teste dette program."
+      }
+    ]
+  }
+}

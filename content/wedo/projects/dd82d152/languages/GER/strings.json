@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "75afb6d6-6e0a-4df5-99ee-9b1d28f0b3f1",
+        "string": "5b. Abfolge von Bildern"
+      },
+      {
+        "refId": "8cfd5415-341b-4b7d-2e6e-2191d9d867cd",
+        "string": "1. Programm starten&nbsp;<div>2. Bild 25 anzeigen&nbsp;</div><div>3. 1 Sekunde warten&nbsp;</div><div>4. Bild 23 anzeigen&nbsp;</div><div>5. 1 Sekunde warten&nbsp;</div><div>6. Bild 26 anzeigen</div>"
+      },
+      {
+        "refId": "d18cf7ec-96ca-428b-ec5c-8c4291ad06ea",
+        "string": "Zum Testen des Programms ist kein LEGO® Modell erforderlich."
+      }
+    ]
+  }
+}

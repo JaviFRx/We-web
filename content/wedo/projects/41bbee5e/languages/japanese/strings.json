@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "せんぷうき"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">きょうはとてもいい天気です。マックスとミアのじっけんしつもあつくなってきました。<br><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">じっけんしつをすずしくするために</span>、2人はせんぷうきをつくりたいと思っています。</font></div><font size=\"3\"><br></font><div><font size=\"3\">マックスとミアをてつだってあげましょう！</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">マックスとミアをもう少してつだってあげよう（追加課題）：</font><div><font size=\"3\"><br></font><div><font size=\"3\">1.せんぷうきがいろいろなはやさで回るようにできるかな？そのあと止まらせてみよう。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2.せんぷうきにほかのことをさせてみよう。</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">せんぷうきを回すことができるかな？<br><br>1.右のお手本を見てプログラムしてね。</font><div><font size=\"3\"><br>2.せんぷうきがどうやって回っているのか、お友だちにせつめいできるかな？</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><font size=\"3\">このレッスンで学ぶこと：</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">レゴ<sub>®</sub>モデルを組み立てる</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">できたモデルをデバイスにせつぞくする</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span><span style=\"line-height: 1.42857;\">モーターがいろいろなはやさで回るようにプログラムする</span></font></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">スマートハブのスイッチを入れ、デバイスにせつぞくします。</font>"
+      }
+    ]
+  }
+}

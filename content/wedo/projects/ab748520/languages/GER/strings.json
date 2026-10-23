@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5ca3b51c-f0c8-488f-a615-540c8e94ae0f",
+        "string": "6. Text"
+      },
+      {
+        "refId": "1e7fe1b7-c62c-48a9-fd67-5e6e97ddb919",
+        "string": "1. Programm starten&nbsp;<div>2. Text „abc“ anzeigen</div>"
+      },
+      {
+        "refId": "298c635f-bffc-4807-d2e6-b5a68c69afe1",
+        "string": "1. Programm starten&nbsp;<div>2. Text „“ anzeigen</div>"
+      },
+      {
+        "refId": "030ab9ed-d558-4865-6ccb-358e56e51055",
+        "string": "Zum Testen des Programms ist kein LEGO® Modell erforderlich."
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "17a63632-ea65-4c5f-be3a-fb89ab508078",
+        "string": "2a. 무작위 시간"
+      },
+      {
+        "refId": "65a5ac53-a2ef-4a43-f123-5db2e18a43f8",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 무작위 숫자(초)만큼 모터 작동</div>"
+      }
+    ]
+  }
+}

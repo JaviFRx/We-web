@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "80c77c25-97ff-4fb4-b682-be8483721d2f",
+        "string": "13. Detect Sound"
+      },
+      {
+        "refId": "c04bb26e-9282-4c9a-d577-ec6da2613ea6",
+        "string": "1. Start program&#160;<div>2. Wait for Sound Sensor to detect sound&#160;</div><div>3. Start motor for 2 seconds</div>"
+      },
+      {
+        "refId": "d9f890b1-d466-4126-47fc-22bec24ba828",
+        "string": "1. Start program&#160;<div>2. Show sound level on the display&#160;</div><div>3. Repeat step 2 forever</div>"
+      }
+    ]
+  }
+}

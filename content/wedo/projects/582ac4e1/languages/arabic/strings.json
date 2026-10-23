@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "قمر صناعي متحرك"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><font size=\"3\">في هذا الدرس، ستتعلم:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">بناء نموذج LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">توصيل النموذج مع جهازك</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• برمجة</span><span style=\"line-height: 1.42857;\">&nbsp;المحرك على الدوران لمدة زمنية محددة</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• برمجة المحرك على الدوران في الاتجاه المعاكس</font></span></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">يتابع ماكس ومايا الأخبار. ويسمعان عن الأقمار الصناعية التي يتحكم فيها العلماء.</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">في بعض الأحيان، يجب أن تتحرك الأقمار الصناعية لتفادي الشهب.&#160;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">يريد ماكس ومايا بناء قمر صناعي خاص بهما.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">مالك ومايا بحاجة إلى مساعدتك!</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">اجعل القمر الصناعي يدور لمدة 3 ثوان.<br><br>1. أنشئ البرنامج كما هو موضح.</font><div><font size=\"3\"><br>2. تناقشوا بشأن كيفية عمل القمر الصناعي.</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">ساعد مالك ومايا أكثر (اختياري):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. اجعل القمر الصناعي يدور في الاتجاه المعاكس لمدة أطول.</font></div><div><font size=\"3\"><br></font></div><div>2. برمج القمر الصناعي على إنجاز مهامَ أخرى.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">شغّل الموزع الذكي ووصله بجهازك.</font><br>"
+      }
+    ]
+  }
+}

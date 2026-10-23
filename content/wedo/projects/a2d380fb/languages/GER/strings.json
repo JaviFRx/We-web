@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&nbsp;</font><div><span style=\"font-size: 16px; line-height: 22.8571px;\"><br></span><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.&nbsp; </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font><br></div></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">Schreibt ein Programm, mit dem zwei Forschungssonden gesammelte Proben gemeinsam zu einem bestimmten Ort transportieren können.</span></font></div>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"4\"><font size=\"5\">Bereitet eure Präsentation vor:</font><br><br><font size=\"3\">1. Überarbeitet eure Dokumentation.</font></font><div><font size=\"3\">2. Ihr könnt noch wichtige Informationen, passende Bilder, Videos oder Screenshots von Milo oder vom fertigen Programm einfügen.</font><br></div>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<div><font size=\"5\">Zusammenarbeit:</font></div><div><font size=\"4\"><br></font></div><div><font size=\"4\">Arbeitet mit einem anderen Forscherteam zusammen.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Baut eine Transportvorrichtung, mit dem zwei Forschungssonden gesammelte Proben gemeinsam zu einem bestimmten Ort transportieren können.</font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">Max und Mia merken, dass das Objekt, das Milo gefunden hat, für eine Forschungssonde alleine viel zu schwer ist.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<div><div><div><div><div><div><font size=\"3\">In diesem Projekt werdet ihr:</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">• lernen, wie Forschungssonden gesammelte Proben zurück zu ihrer Basisstation transportieren können</font></div><div><font size=\"3\">• eine Vorrichtung bauen, mit der zwei Forschungssonden etwas transportieren können</font></div><div><font size=\"3\">• ein Programm schreiben, mit dem die Forschungssonde zurück zu ihrer Basisstation fahren kann</font></div><div><font size=\"3\">• eure Lösung und Ergebnisse dokumentieren, präsentieren und dabei zeigen, wie wichtig Zusammenarbeit ist</font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. Zusammenarbeit"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">Präsentiert eure Ergebnisse:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Beschreibt mit euren eigenen Worten, wie ihr die gesammelten Proben transportiert habt.</font></div>"
+      }
+    ]
+  }
+}

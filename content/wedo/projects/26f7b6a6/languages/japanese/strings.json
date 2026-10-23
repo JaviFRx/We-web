@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bf97931-9b29-402f-6df6-848426f8b305",
+        "string": "<font size=\"3\">デザインライブラリにある基本モデルを参考にして、このプロジェクトの課題に対するオリジナルの解決策を作ってみましょう。</font>"
+      },
+      {
+        "refId": "7dad6fd3-e13d-494f-56f5-8442f8488352",
+        "string": "<div><font size=\"4\">どうすれは海をきれいにすることができるでしょうか？</font><font size=\"3\"><br></font></div><div><font size=\"3\">このプロジェクトの内容：<br></font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">海の状態を管理し、プラスチックゴミを回収することがなぜ重要なのか考える。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">海に流入した、特定の種類のプラスチックゴミを回収することができる装置を組み立てて、プログラミングする。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">回収するゴミの種類と、回収機能の仕組みを説明する資料を作成し、発表する。</font></font></div></div>"
+      },
+      {
+        "refId": "327fbec1-201b-4cc5-ba4b-77000c21d5b2",
+        "string": "14.海のお掃除"
+      }
+    ]
+  }
+}

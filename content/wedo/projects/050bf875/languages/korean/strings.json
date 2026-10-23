@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<font size=\"3\">맥스와 미아가 인근에서 나타나는 여러 가지 형태의 강수 현상에 대해 조사를 하고 있어요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">맥스와 미아는 강수가 지형에 미치는 영향을 줄이는 방법을 알고 싶어해요.</font></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 인근 지역의 각 계절별 강수 수준을 막대그래프로 표시하여 설명해 줄 수 있나요?</font></div><div><font size=\"3\">2. 강수가 강의 수위에 어떤 영향을 미치나요?</font></div><div><font size=\"3\">3. 홍수를 방지하기 위한 방법으로는 어떤 것들이 있나요?</font></div><div><font size=\"3\">4. 홍수의 발생을 막아 주는 장치를 구상해 보시겠어요?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">문서화 도구를 이용해 아이디어를 공유하세요.</font></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<font size=\"5\">블록 활용:</font><br><font size=\"3\"><br></font><div><font size=\"3\">강의 수위를 조절하는 데 사용되는 수문을 조립하세요.</font></div>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<font size=\"3\">막대그래프의 수치에 따라 적절한 시점에 열리고 닫히도록 수문을 프로그래밍하세요.</font>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<font size=\"4\">해결 방법 구상:</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">수문이 자동으로 작동하도록 센서를 달아 주세요.</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">다음 요소 중 하나를 고려하세요.</font></div><div><font size=\"3\">1. 수문의 작동을 위한 기울기 센서 추가.</font></div><div><font size=\"3\">2. 수위 상승 여부를 감지하기 위한 동작 센서 추가.</font></div><div><font size=\"3\">3. 비상 프로토콜의 작동을 위한 음향 센서 입력 요소 추가.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">수문을 어떻게 자동화할 것인지 설명하세요.</font></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<font size=\"5\">문서 최종 완성:</font><br><br><div><font size=\"3\">1. 자신이 만든 프로토타입의 원리를 설명하세요.</font></div><div><font size=\"3\">2. 최종 해결 방법을 그렇게 선택한 이유를 설명하세요.</font></div><div><font size=\"3\">3. 정보를 정리하세요.</font></div><div><font size=\"3\">4. 중요한 텍스트, 사진, 화면 캡처 또는 비디오를 문서에 넣으세요.</font></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<font size=\"5\">탐구 결과 공유:<br></font><br><div><font size=\"3\">물에 의해 지형의 형상이 바뀌는 것을 수문이 어떻게 막아 줄 수 있는지 자신의 생각으로 발표하세요.</font></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<font size=\"5\">새로운 해결 방법 디자인&#160;</font><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<font size=\"4\">물에 의한 침식 효과를 어떻게 줄일 수 있을까요?</font><br><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">이번 프로젝트의 과제:</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">강수량이 계절별로 어떻게 바뀌며 물을 관리하지 않을 시 어떠한 피해가 예상되는지를 여러 가지 방식으로 조사하세요.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">강의 수위를 조절하기 위한 수문을 조립하고 프로그래밍하세요.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">물에 의해 지형의 형상이 바뀌는 것을 방지하도록 구상된 여러 가지 해결 방법을 문서에 기록하고 발표하세요.</span></font></div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치를 연결하세요.&nbsp;</font><div><font size=\"3\">도움이 필요하면 비디오를 보아 주세요.</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">자세한 지침은 도움말 창을 보아 주세요.</font></div></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6. 홍수 방지"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<font size=\"5\">새로운 해결 방법 디자인:</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">수문의 여타 기능을 나타내는 모델을 조립하세요.</font></div><font size=\"3\"><br></font><div><font size=\"3\">고려해야 할 사항:&#160;</font></div><div><font size=\"3\">1. 수문이 위치한 곳의 지도 그리기(지면과 강이 모두 포함되도록).&#160;</font></div><div><font size=\"3\">2. 다른 유형의<span style=\"line-height: 1.42857143;\">&#160;수문 디자인.</span></font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. 배가 강의 일정 구간을 오갈 수 있도록 두 개의 수문을 프로그래밍.&#160;</font></span></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">새로운 해결 방법을 문서에 기록하세요.</font></span><br></div>"
+      }
+    ]
+  }
+}

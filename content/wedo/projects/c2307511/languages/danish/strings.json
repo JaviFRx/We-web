@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "be0cc785-b4e3-46c6-9eab-7705284c2d44",
+        "string": "14b. Vælg vilkårligt nummer"
+      },
+      {
+        "refId": "0c106ad5-71ff-4653-8530-c1f11bc8a7e7",
+        "string": "1. Start program&#160;<div>2. Vis vilkårligt tal på displayet&#160;</div><div>3. Gentag trin 2 ti gange</div>"
+      },
+      {
+        "refId": "a11f57f6-744a-4c2e-f525-329d1dc8c90d",
+        "string": "Der kræves ikke en LEGO model for at teste dette program."
+      }
+    ]
+  }
+}

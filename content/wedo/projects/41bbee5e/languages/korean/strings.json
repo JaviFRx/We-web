@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "선풍기"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">날이 정말 덥네요. 맥스와 미아의 사이언스 랩도 너무 더워지고 있고요.<br><br></font><div><font size=\"3\">사이언스 랩을 식혀줄 선풍기를 조립하면 좋겠어요.</font></div><font size=\"3\"><br></font><div><font size=\"3\">맥스와 미아를 좀 도와주세요!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">맥스와 미아 조금 더 도와주기(선택 사항):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. 선풍기가 다른 속도로 돌게 만드세요. 그 다음, 멈추게 하시고요.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. 선풍기가 다른 동작을 할 수 있게 프로그래밍하세요.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">선풍기를 돌게 하세요.<br><br>1. 그림과 같이 프로그램을 만드세요.</font><div><font size=\"3\"><br>2. 선풍기의 작동 원리를 서로에게 설명해주세요.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><font size=\"3\">이번 수업에서 배울 내용:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">레고® 모델 조립</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">모델을 장치에 연결</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• 모터가 다른 속도로 회전하도록</span><span style=\"line-height: 1.42857;\">&nbsp;프로그래밍</span></font></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치에 연결하세요.</font>"
+      }
+    ]
+  }
+}

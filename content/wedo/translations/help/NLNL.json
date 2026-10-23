@@ -1,0 +1,689 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "Softwarehandleiding",
+      "subcategories": [
+        {
+          "title": "De WeDo 2.0-werkbalk",
+          "elements": [
+            {
+              "title": "<p>De werkbalk vind je bovenin het scherm. In de werkbalk kun je:</p><ul><li>Op het Home-pictogram drukken om terug te keren naar de lobby.</li><li>Op het pictogram van de projectbibliotheek drukken om toegang te krijgen tot jouw WeDo 2.0-projecten.</li><li>Op het pictogram van de ontwerpbibliotheek drukken om toegang te krijgen tot inspiratie voor het bouwen en programmeren.</li><li>Op het pictogram van de opnametool drukken om toegang te krijgen tot de ingebouwde tools om foto‘s, filmpjes en schermafbeeldingen te maken.</li><li>Op het pictogram van de documentatietool drukken om toegang te krijgen tot je projectdocument.</li><li>Op het Help-pictogram drukken voor aanvullende informatie.</li><li>Op het pictogram Stoppen drukken om alle acties van het programma stop te zetten.</li></ul><p>Door blokken te verslepen en neer te zetten op het programmeercanvas kunnen de leerlingen programmalijnen creëren. Ze kunnen elk van deze programmalijnen starten door op het startblok te drukken. Belangrijk: druk opnieuw op het geselecteerde item in de werkbalk om terug te gaan naar het programmeercanvas.</p>",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "De projectbibliotheek",
+          "elements": [
+            {
+              "title": "<p>In de projectbibliotheek heb je toegang tot:</p><ul><li>Aan de slag-projecten</li><li>Geleide projecten</li><li>Open projecten: zodra je één van deze projecten opent, krijg je een overzicht te zien. Daarna krijg je toegang tot het volledige project.</li></ul>",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "De ontwerpbibliotheek",
+          "elements": [
+            {
+              "title": "<p>De ontwerpbibliotheek is onderverdeeld in twee delen:</p><ul><li>De modellenbibliotheek</li><li>De programmabibliotheek</li></ul><p>In de modellenbibliotheek ontdek je:</p><ul><li>Basismodellen met bouwinstructies en programmeersuggesties</li><li>Twee inspirerende modellen gebaseerd op elk basismodel, met foto‘s en programmeersuggesties.</li></ul>",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "<p>In de programmabibliotheek ontdek je:</p><ul start=\"3\"><li>Basisprogrammeerfuncties die bestaan uit een aantal programmeerblokken om de leerlingen te helpen bij het ontwerpen van eenvoudige programmalijnen.</li><li>Twee inspirerende functies gebaseerd op elke basisprogrammeerfunctie.</li></ul>",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "De tool Geluidsopname",
+          "elements": [
+            {
+              "title": "<p>Je kunt op elk moment vanuit een project de tool Geluidsopname openen. Met deze functie kun je zelf geluidsopnames maken. De WeDo 2.0-software slaat het laatst opgenomen geluid op en je kunt dit geluid beluisteren door het blok Geluid met invoer 0 aan de programmalijn toe te voegen:</p><ul><li>Druk op het microfoonpictogram om het venster te openen.</li></ul>",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "<ul start=\"2\"><li>Druk op het pictogram Opnemen om de opname te starten.</li><li>Druk op het pictogram Afspelen om de opname af te spelen.</li><li>Druk op het pictogram Stoppen om de opname te stoppen.</li></ul>",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "De opnametool",
+          "elements": [
+            {
+              "title": "<p>In de opnametool:</p><ul><li>Druk op de knop Opnemen om:</li><ul><li>Een foto te nemen. <li>Een filmopname te starten en te stoppen. <li>Een schermafbeelding te maken.</ul><li>Druk op de knop Afbeelding opnemen om de fotomodus te selecteren.</li><li>Druk op de knop Filmpje opnemen om de videomodus te selecteren.</li><li>Druk op de knop Canvas opnemen om de canvasmodus te selecteren.</li></ul>",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "De Tips voor de leerkracht gebruiken",
+          "elements": [
+            {
+              "title": "<p>Enkele projecten zijn voorzien van Tips voor de leerkracht. Deze bieden je hulpmiddelen voor het plannen en geven van je lessen. De Tips voor de leerkracht bevat het volgende materiaal:</p><ul><li>Overzicht van het project</li><li>Verwijzingen naar het leerplan per type project</li><li>Plannen</li><li>Discussievragen en antwoorden</li><li>Voorbereiding</li><li>Bouwhulp</li><li>Programmeerhulp</li><li>Hulp bij de ontwikkeling van computational thinking-vaardigheden</li><li>Hulp bij de ontwikkeling van onderzoeksvaardigheden</li><li>Hulp bij de ontwikkeling van modelleervaardigheden</li><li>Hulp bij de ontwikkeling van ontwerpvaardigheden</li><li>Hulp bij de ontwikkeling van communicatievaardigheden</li><li>Evaluatierubrieken</li></ul>",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "Hulpvenster",
+          "elements": [
+            {
+              "title": "<p>In het hulpvenster vind je de volgende hulp:</p><ul><li>De namen van elk programmeerblok en een korte beschrijving</li><li>Hulp bij het verbindingsproces</li><li>Andere belangrijke elementen</li></ul>",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "Documentatietool",
+          "elements": [
+            {
+              "title": "<p>In de documentatietool kunnen de leerlingen tekst, afbeeldingen en filmpjes toevoegen om hun project vast te leggen:</p><ul><li>Druk op het pictogram Pagina toevoegen om een pagina toe te voegen aan het document.</li><li>Druk op het pictogram Sjabloon selecteren om een lay-out voor de pagina te kiezen.</li><li>Druk op het pictogram Pagina verwijderen om de huidige pagina te verwijderen.</li><li>Druk op het pictogram Exporteren om het document op te slaan als PDF of als afbeelding.</li><li>Druk op het pictogram Afbeelding invoegen om een afbeelding toe te voegen die op het apparaat is opgeslagen.</li><li>Druk op het pictogram Filmpje invoegen om een filmpje toe te voegen dat op het apparaat is opgeslagen.</li><li>Druk op het pictogram Tekstinvoer om te beginnen met typen op het apparaat.</li></ul>",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "Programmeerblokken",
+      "subcategories": [
+        {
+          "title": "Verloopblokken",
+          "elements": [
+            {
+              "title": "Startblok",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": "Als dit blok wordt gebruikt, wordt het altijd aan het begin van een programmeerreeks geplaatst. Druk op het blok om de programmalijn die je hebt geschreven te starten.<br><i>Pseudocode: Start het programma</i>"
+            },
+            {
+              "title": "Blok Start na druk op sleutel",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": "Als dit blok wordt gebruikt, wordt het altijd aan het begin van een programmeerreeks geplaatst. Druk op het blok of op de juiste letter op het toetsenbord om de programmalijn die je hebt geschreven te starten. Alle programmalijnen met dezelfde letter starten tegelijk.<br>Houd het blok lang ingedrukt om toegang te krijgen tot het toetsenbord en de activeringsletter te veranderen.<br><i>Pseudocode: Start het programma wanneer A wordt ingedrukt</i>"
+            },
+            {
+              "title": "Blok Start na bericht",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": "Als dit blok wordt gebruikt, wordt het altijd aan het begin van een programmeerreeks geplaatst. Er wordt op het juiste bericht gewacht en daarna wordt de programmalijn gestart die je hebt geschreven.<br><i>Pseudocode: Start het programma bij ontvangst van het bericht ...</i>"
+            },
+            {
+              "title": "Berichten verzenden",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": "Hiermee wordt een bericht naar het programmeercanvas verzonden. Elk blok Start na bericht met hetzelfde bericht wordt geactiveerd. Het bericht bestaat uit tekst of cijfers.<br><i>Pseudocode: Verzend het bericht ...</i>"
+            },
+            {
+              "title": "Wachten op",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": "Gebruik dit blok om het programma te laten wachten tot er een bepaald iets gebeurt. Het programma kan gedurende een vooraf ingestelde tijd wachten of wachten op input van een sensor. Dit blok vereist altijd input om naar behoren te werken.<br><i>Pseudocode: Wachten op...</i>"
+            },
+            {
+              "title": "Blok Herhalen",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": "Gebruik dit blok om acties te herhalen. Blokken die in het blok Herhalen worden geplaatst, worden herhaald. Dit blok wordt ook wel het herhalingsblok genoemd.<br>De herhaling kan eindeloos doorgaan, of voor een bepaalde periode of tot er een bepaald iets gebeurt.<br><i>Pseudocode: Herhaal stap ... eindeloos</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "Output: Motorblokken",
+          "elements": [
+            {
+              "title": "Blok Motor in deze richting",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": "Hiermee stel je de motor zodanig in dat deze in de aangegeven richting rond de as draait en de motor start.<br>Tik op het blok om snel de draairichting te veranderen.<br><i>Pseudocode: Start de motor in deze richting</i>"
+            },
+            {
+              "title": "Blok Motor in de andere richting",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": "Hiermee stel je de motor zodanig in dat deze in de aangegeven richting rond de as draait en de motor start.<br>Tik op het blok om snel de draairichting te veranderen.<br><i>Pseudocode: Start de motor in de andere richting</i>"
+            },
+            {
+              "title": "Blok Motorvermogen",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": "Hiermee stel je het motorvermogen in op het aangegeven niveau en start de motor. Het niveau kan worden ingesteld met een cijfer tussen de 0 tot 10.<br><i>Pseudocode: Start de motor op vermogen ...</i>"
+            },
+            {
+              "title": "Blok Motor aan voor",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": "Hiermee start je de motor voor een bepaalde tijd, opgegeven in seconden. De tijdsduur kan worden ingesteld met een numerieke waarde met gehele of decimale getallen.<br><i>Pseudocode: Start de motor gedurende ... seconde(n)</i>"
+            },
+            {
+              "title": "Blok Motor uit",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": "Hiermee stop je elke beweging van de motor.<br><i>Pseudocode: Stop de motor</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "Output: Ledblokken",
+          "elements": [
+            {
+              "title": "Lichtblok",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": "Hiermee verlicht je het ledlampje op de Smarthub in een specifieke kleur. De kleur kan worden gewijzigd met een numerieke waarde tussen de 0 en 10.<br><br><i>Pseudocode: Stel het ledlampje in op kleur 9 (rood)</i><br><i>Pseudocode: Schakel de led uit door de kleur op 0 (geen kleur) in te stellen</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "Output: Geluidsblokken",
+          "elements": [
+            {
+              "title": "Geluid afspelen",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": "Hiermee speel je een geluid af. Het geluid wordt gekozen uit een lijst die in de software beschikbaar is. Je kunt met behulp van een numerieke waarde een geluid kiezen. Kies geluid nummer 0 om een geluid af te spelen dat je zelf hebt opgenomen.<br><i>Pseudocode: Speel geluid nummer ... af</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "Output: Weergaveblokken",
+          "elements": [
+            {
+              "title": "Achtergrond weergeven",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": "Gebruik dit blok om een afbeelding te kiezen uit de lijst die in de software beschikbaar is. Je kunt met behulp van een numerieke waarde een afbeelding instellen.<br><i>Pseudocode: Toon afbeelding ... op het beeldscherm</i>"
+            },
+            {
+              "title": "Blok Weergave",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": "Gebruik dit blok om het weergavegebied op het softwarescherm te openen. Cijfers of tekst verschijnen in het weergavegebied.<br><i>Pseudocode: Toon ... op het beeldscherm</i>"
+            },
+            {
+              "title": "Toevoegen aan beeldscherm",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": "Een hoeveelheid toevoegen aan het cijfer dat op dat moment op het scherm wordt weergegeven. Voer het cijfer in dat je wilt toevoegen. Tik op het blok om de rekenkundige bewerking te wijzigen.<br><i>Pseudocode: Voeg ... toe aan het cijfer op het beeldscherm</i>"
+            },
+            {
+              "title": "Aftrekken van weergave",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": "Een hoeveelheid aftrekken van het cijfer dat op het beeldscherm wordt weergegeven. Voer het cijfer in dat je wilt aftrekken. Tik op het blok om de rekenkundige bewerking te wijzigen.<br><i>Pseudocode: Trek ... af van het cijfer op het beeldscherm</i>"
+            },
+            {
+              "title": "Weergave vermenigvuldigen",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": "Het cijfer dat op het beeldscherm wordt getoond met een opgegeven cijfer vermenigvuldigen. Voer het cijfer in waarmee je wilt vermenigvuldigen. Tik op het blok om de rekenkundige bewerking te wijzigen.<br><i>Pseudocode: Het cijfer op het beeldscherm vermenigvuldigen met ... </i>"
+            },
+            {
+              "title": "Weergave delen",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": "Het cijfer op het beeldscherm delen door een ander cijfer. Voer het cijfer in waarmee je wilt delen. Tik op het blok om de rekenkundige bewerking te wijzigen.<br><i>Pseudocode: Deel het cijfer op het beeldscherm door ... </i>"
+            },
+            {
+              "title": "Weergave sluiten",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": "Gebruik dit blok om het weergavegebied op het softwarescherm te sluiten. Tik op het blok om de grootte te wijzigen.<br><i>Pseudocode: Sluit het beeldscherm</i>"
+            },
+            {
+              "title": "Volledige schermgrootte weergeven",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": "Gebruik dit blok om de volledige schermgrootte weer te geven. Tik op het blok om de grootte te wijzigen.<br><i>Pseudocode: Wijzig de schermgrootte tot het maximum</i>"
+            },
+            {
+              "title": "Gemiddelde grootte weergeven",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": "Gebruik dit blok om het beeldscherm op gemiddelde grootte in te stellen. Tik op het blok om de grootte te wijzigen.<br><i>Pseudocode: Wijzig de schermgrootte tot een gemiddelde grootte</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "Input: Input sensor wijzigen",
+          "elements": [
+            {
+              "title": "Elke afstand wijzigen",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": "Hiermee wordt de modus Elke afstand wijzigen ingevoerd voor de bewegingssensor van een blok."
+            },
+            {
+              "title": "Wijzigen afstand dichterbij",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": "Hiermee wordt de modus Afstand tussen de sensor en het object verkleinen ingevoerd voor de bewegingssensor van een blok."
+            },
+            {
+              "title": "Wijzigen afstand verderaf",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": "Hiermee wordt de modus Afstand tussen de sensor en het object vergroten ingevoerd voor de bewegingssensor van een blok."
+            },
+            {
+              "title": "De andere kant op kantelen",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": "Hiermee wordt de modus De andere kant op kantelen ingevoerd voor de kantelsensor van een blok."
+            },
+            {
+              "title": "Deze kant op kantelen",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": "Hiermee wordt de modus Deze kant op kantelen ingevoerd voor de kantelsensor van een blok."
+            },
+            {
+              "title": "Naar beneden kantelen",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": "Hiermee wordt de modus Naar beneden kantelen ingevoerd voor de kantelsensor van een blok."
+            },
+            {
+              "title": "Omhoog kantelen",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": "Hiermee wordt de modus Omhoog kantelen ingevoerd voor de kantelsensor van een blok."
+            },
+            {
+              "title": "Kantelsensor - Niet kantelen",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": "Hiermee wordt de modus Niet kantelen (of horizontale positie) ingevoerd voor de kantelsensor van een blok."
+            },
+            {
+              "title": "Schudden",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": "Hiermee wordt de modus Schudden ingevoerd voor de kantelsensor van een blok."
+            },
+            {
+              "title": "Geluidsniveau wijzigen",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": "Hiermee wordt de modus Wijziging van geluidsniveau ingevoerd voor de geluidssensor (van het apparaat) voor een blok."
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "Input: Invoer van cijfers en tekst",
+          "elements": [
+            {
+              "title": "Invoer kantelsensor",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": "Hiermee wordt de numerieke waarde ingevoerd die wordt gegenereerd door de kantelsensor (0, 3, 5, 7 of 9) voor een blok."
+            },
+            {
+              "title": "Invoer bewegingssensor",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": "Hiermee wordt de waarde ingevoerd die is geregistreerd door de bewegingssensor (van 0 tot 10) in voor een blok."
+            },
+            {
+              "title": "Invoer geluidssensor",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": "Hiermee wordt de waarde ingevoerd die is geregistreerd door de geluidssensor (van 0 tot 10) in voor een blok."
+            },
+            {
+              "title": "Invoer aantal",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": "Hiermee wordt een numerieke waarde ingevoerd voor een blok."
+            },
+            {
+              "title": "Tekstinvoer",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": "Hiermee wordt een tekstwaarde ingevoerd voor een blok."
+            },
+            {
+              "title": "Invoer weergeven",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": "Hiermee wordt de numerieke waarde ingevoerd die wordt getoond op het weergavegebied in voor een blok."
+            },
+            {
+              "title": "Willekeurige invoer",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": "Hiermee wordt een willekeurige waarde ingevoerd voor een blok. De reeks cijfers wordt bepaald door het blok waaraan het blok is gekoppeld."
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "Vastleggen",
+          "elements": [
+            {
+              "title": "Tekstballon",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": "Gebruik de tekstballon om opmerkingen in je programma in te voeren. Dit is geen programmeerblok."
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "Programmeerblokken",
+      "subcategories": [
+        {
+          "title": "Verloopblokken",
+          "elements": [
+            {
+              "title": "Startblok",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "Blok Start na druk op sleutel",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "Blok Start na bericht",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "Blok Geluid weergeven",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "Blok Bericht verzenden",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "Blok Wachten op",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "Blok Herhalen",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "Motorblokken",
+          "elements": [
+            {
+              "title": "Blok Motor in de andere richting",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "Blok Motor in deze richting",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "Blok Motorvermogen",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "Blok Motor aan voor",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "Blok motor uit",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "Lichtblok",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "Blokken invoer Sensoren",
+          "elements": [
+            {
+              "title": "Invoer bewegingssensor",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "Wijzigen afstand dichterbij",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "Wijzigen afstand verderaf",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "Elke afstand wijzigen",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "Invoer kantelsensor",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "Omhoog kantelen",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "Naar beneden kantelen",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "In deze richting kantelen",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "In de andere richting kantelen",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "Elke kanteling",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "Blokken invoer Apparaat",
+          "elements": [
+            {
+              "title": "Tekstinvoer",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "Invoer aantal",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "Willekeurige invoer",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "Invoer geluidssensor",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "Invoer weergeven",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "Weergaveblokken",
+          "elements": [
+            {
+              "title": "Blok Weergave",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "Blok Toevoegen aan beeldscherm",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "Blok Aftrekken van weergave",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "Blok Vvermenigvuldigen door weergave",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "Blok Delen door weergave",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "Blok Achtergrond weergeven",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "Blok Weergave sluiten",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "Blok Gemiddelde grootte weergeven",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "Blok Volledige schermgrootte weergeven",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "Andere blokken",
+          "elements": [
+            {
+              "title": "Tekstballon",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "Verbindingsproces",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS en Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "<p>Voor de WeDo 2.0 Smarthub 2 I/O wordt gebruikgemaakt van de energiezuinige functie van Bluetooth 4.0.</p> <p>Wanneer je de WeDo 2.0 Smarthub voor de eerste keer gebruikt, moet je deze koppelen aan uw apparaat, zodat beide apparaten weten hoe ze veilig verbinding met elkaar kunnen maken. Daarna maken ze automatisch verbinding.</p> <p>Opmerking: Als je met verschillende gebruikers op een tablet werkt, kan elke gebruiker de algemene Bluetooth-instellingen wijzigen.</p> <p>Windows 7: De WeDo 2.0 Smarthub koppelen aan een pc (Windows 7):</p> <ol> <li>Ga naar het menu Start en selecteer Apparaten en printers.</li> <li>In het venster Apparaten en printers klik je op Een apparaat toevoegen.</li> <li>Schakel je WeDo 2.0 Smarthub in door op de blauw verlichte knop te drukken.</li> <li>Je WeDo 2.0 Smarthub verschijnt in de lijst met beschikbare apparaten.<br> Als de Smarthub niet wordt gedetecteerd: <ol> <li>Controleer of je computer compatibel is met Bluetooth 4.0 op de website van de fabrikant of in de documentatie die is meegeleverd bij je computer.</li> <li>Verwijder alle (niet verbonden) WeDo 2.0 Smarthubs waarmee je computer eerder in verbinding heeft gestaan uit de lijst en start opnieuw vanaf stap 2.</li> </ol> </li> <li>Selecteer je WeDo 2.0 Smarthub en druk op Volgende.</li> <li>Indien de standaardcode is vereist, voer je 0000 (vier keer nul) in.</li> <li>De WeDo 2.0 Smarthub is nu verbonden met de computer. Als je de Smarthub in de applicatie wilt gebruiken, volg je de instructies uit het filmpje.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>Voor de WeDo 2.0 Smarthub 2 I/O wordt gebruikgemaakt van de energiezuinige functie van Bluetooth 4.0.</p> <p>Wanneer je de WeDo 2.0 Smarthub voor de eerste keer gebruikt, moet je deze koppelen aan uw apparaat, zodat beide apparaten weten hoe ze veilig verbinding met elkaar kunnen maken. Daarna maken ze automatisch verbinding.</p> <p>Opmerking: Als je met verschillende gebruikers op een tablet werkt, kan elke gebruiker de algemene Bluetooth-instellingen wijzigen.</p> <p>Windows 8.1: De WeDo 2.0 Smarthub koppelen aan een pc (Windows 8.1):</p> <ol> <li>Ga naar het menu Start en selecteer Apparaten en printers.</li> <li>In het venster Apparaten en printers klik je op Een apparaat toevoegen.</li> <li>Schakel je WeDo 2.0 Smarthub in door op de blauw verlichte knop te drukken.</li> <li>Je WeDo 2.0 Smarthub verschijnt in de lijst met beschikbare apparaten.<br> Als de Smarthub niet wordt gedetecteerd: <ol> <li>Controleer of je computer compatibel is met Bluetooth 4.0 op de website van de fabrikant of in de documentatie die is meegeleverd bij je computer.</li> <li>Verwijder alle (niet verbonden) WeDo 2.0 Smarthubs waarmee je computer eerder in verbinding heeft gestaan uit de lijst en start opnieuw vanaf stap 2.</li> </ol> </li> <li>Selecteer je WeDo 2.0 Smarthub en druk op Volgende.</li> <li>Indien de standaardcode is vereist, voer je 0000 (vier keer nul) in.</li> <li>De WeDo 2.0 Smarthub is nu verbonden met de computer. Als je de Smarthub in de applicatie wilt gebruiken, volg je de instructies uit het filmpje.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>Start WeDo 2.0 en open het verbindingsvenster.</li> <li>Druk op de groene knop op de WeDo 2.0 Smarthub.</li> <li>Klik op/Druk op de gewenste Smarthub om verbinding te maken. Als de Smarthub niet wordt gedetecteerd:</li> <ol> <li>Controleer of je computer compatibel is met Bluetooth 4.0 (ook wel Bluetooth Low Energy of Bluetooth Smart genoemd) op de website van de fabrikant of in de documentatie die is meegeleverd bij je computer.</li> <li>Ga naar het menu Start, selecteer Instellingen (het tandwielpictogram) en selecteer vervolgens Apparaten en daarna Bluetooth. Vervolgens verwijder je alle (niet verbonden) WeDo 2.0 Smarthubs waarmee je computer eerder in verbinding heeft gestaan door deze te selecteren in de lijst met apparaten en te klikken op Apparaat verwijderen.</li> <li>Keer terug naar de WeDo 2.0-applicatie en herhaal het verbindingsproces vanaf stap 2 hierboven.</li> </ol> <li>Selecteer je WeDo 2.0 Smarthub in de lijst met beschikbare apparaten.</li> <li>Als je wordt gevraagd de Smarthub te koppelen, bevestig je dit door op de knop Toestaan en daarna op Sluiten te klikken.</li> </ol> <p><b>Volg de instructies op het scherm als het koppelen in Windows 10 mislukt</b></p> <ol> <li>Druk opnieuw op de groene knop als je dit wordt gevraagd.</li> <li>Als het koppelen opnieuw mislukt, klik je op Opnieuw proberen. Probeer de Smarthub nog eens te koppelen, ofwel door het dialoogvenster (indien dit verschijnt) te accepteren ofwel door het koppelingsproces vanaf stap 2 hierboven te herhalen.</li> <li>Wanneer je je Smarthub hebt gekoppeld, wordt deze in het verbindingscentrum getoond als verbonden.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Open het verbindingscentrum.</li> <li>Druk op de groene knop op de WeDo 2.0 Smarthub tot de naam van deze Smarthub in het verbindingsvenster verschijnt.</li> <li>Klik op de specifieke naam van de Smarthub om deze te verbinden.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

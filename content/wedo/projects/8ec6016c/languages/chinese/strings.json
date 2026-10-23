@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6ffdb84-08b2-421e-a04e-32235c3b69ea",
+        "string": "23. 城市安全"
+      },
+      {
+        "refId": "09f70808-a0fd-42ef-650f-0d92447e30bb",
+        "string": "<div><div><font size=\"5\">我们怎样才能使城市交通更加安全？</font></div><br><div>在本实验中，需要：&nbsp;</div><div>- 探索与城市交通相关联的各种安全规则，描述如何改进其中的一些规则&nbsp;</div><div>- 创建设备并为其编程，改善城市安全&nbsp;</div><div>- 测试程序并展示如何使用你的设备改善城市安全&nbsp;</div><div>- 分享程序和创意</div></div>"
+      },
+      {
+        "refId": "96cc0dba-24fd-43fb-ba69-704c3d262b89",
+        "string": "<div style=\"text-align: center;\">从设计库的基础模型中寻找启发，在本实验中搭建自己的解决方案。</div>"
+      },
+      {
+        "refId": "e1f4f02f-0f59-4fbc-0f3c-f6a9c2d57b4d",
+        "string": "<div style=\"text-align: center;\">从设计库的基础程序中寻找启发，在本实验中搭建自己的解决方案。</div>"
+      }
+    ]
+  }
+}

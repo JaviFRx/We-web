@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "386f1b09-5068-4e7d-8049-aca38d9cce0b",
+        "string": "19. Enviar mensajes"
+      },
+      {
+        "refId": "4e13b309-d018-4f5a-fffb-5f799f2bfb5e",
+        "string": "<div><font size=\"5\">¿Cómo podemos utilizar patrones para transferir información?</font></div><br><div>En este proyecto, harás lo siguiente:&nbsp;</div><div>- Explora cómo pueden transferirse mensajes de un lugar a otro&nbsp;</div><div>- Crea y programa un mando que te ayude a enviar mensajes mediante códigos&nbsp;</div><div>- Prueba el programa e inventa una nueva manera de intercambiar información&nbsp;</div><div>- Comparte tu programa y tus ideas sobre cómo completar este proyecto con éxito</div>"
+      },
+      {
+        "refId": "bda862d1-cad7-46e7-04ff-b1d748ed9b9a",
+        "string": "A Max y a Mia les gustaría transferir información mediante códigos.&nbsp;<div><br><div>Ayúdales a crear un mando para enviar mensajes.</div></div>"
+      },
+      {
+        "refId": "7dac5021-82f4-4666-b7ce-a044fc340fbb",
+        "string": "<font size=\"5\">Explora la pregunta de Max y Mia: </font><div><span style=\"font-size: 20px;\"><br></span><div>1. ¿Qué métodos existen para enviar mensajes de un lugar a otro?&nbsp;</div><div><font color=\"#ffffff\">2. ¿Qué manera hay de convertir un mensaje en una señal?</font></div></div>"
+      },
+      {
+        "refId": "c0bb2ea3-15ea-449a-4fda-9c01c1a77414",
+        "string": "<font size=\"5\">Usa los ladrillos:</font><div><br><div>Construye un mando para enviar señales.&nbsp;</div><br><div>Prográmalo para que emita un sonido corto en una posición y un sonido largo en otra posición.</div></div>"
+      },
+      {
+        "refId": "030b70ca-ad0c-40de-a349-2e3154cf4b70",
+        "string": "1. Iniciar programa cuando se toque \"A\"&nbsp;<div>2. Esperar a que el sensor de inclinación detecte inclinación hacia arriba&nbsp;</div><div>3. Reproducir sonido 21&nbsp;</div><div>4. Esperar a que el sensor de inclinación no detecte ninguna inclinación&nbsp;</div><div>5. Repetir los pasos 2 a 4 para siempre&nbsp;</div><br><div>6. Iniciar programa cuando se toque \"A\"&nbsp;</div><div>7. Esperar a que el sensor de inclinación detecte inclinación hacia abajo&nbsp;</div><div>8. Reproducir sonido 22&nbsp;</div><div>9. Esperar a que el sensor de inclinación no detecte ninguna inclinación&nbsp;</div><div>10. Repetir los pasos 7 a 9 para siempre</div>"
+      },
+      {
+        "refId": "d5e2f867-55d7-4bcf-10b4-889c9c64dcab",
+        "string": "<font size=\"5\">Planifica y prueba una solución: </font><div><span style=\"font-size: 20px;\"><br></span><div>Utilizando sonidos cortos y largos como código, programa el mando para que envíe un mensaje.&nbsp;</div><br><div>Por ejemplo:&nbsp;</div><div>- Intenta enviar la palabra “Max” o “Mia” utilizando el código Morse.</div></div>"
+      },
+      {
+        "refId": "425cc7a0-69a6-499f-c11f-3f17a17c6ff8",
+        "string": "<font size=\"5\">Prueba y modifica tu solución: </font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">Programa un mensaje utilizando tu propio sistema de señales.</font></div></div>"
+      },
+      {
+        "refId": "36fcc814-8236-4957-0fa2-bd3e42dfe46e",
+        "string": "<font size=\"5\">Diseña nuevas soluciones</font><div><font size=\"5\">con Max y Mia</font></div>"
+      },
+      {
+        "refId": "138add23-39e9-4e1f-5532-f74ae72932cc",
+        "string": "<font size=\"5\">Comparte tu proyecto</font>"
+      },
+      {
+        "refId": "86f0993b-c1a9-4f8e-1346-c395c349c0ef",
+        "string": "<font size=\"5\">Diseña nuevas soluciones: </font><div><br><div>La comunicación inalámbrica necesita antenas o satélites para enviar y recibir mensajes.&nbsp;\n\n</div><br><div>Construye y programa un modelo de antena para enviar o recibir mensajes. &nbsp;</div></div>"
+      },
+      {
+        "refId": "0684c9fc-c315-4c18-0a3d-c501973e1dbb",
+        "string": "<font size=\"5\">Organiza tu información:</font><div><br><div>Por ejemplo:&nbsp;</div><div><font color=\"#ffffff\">-Tomar una captura de pantalla de tu programa final. </font></div><div><font color=\"#ffffff\">- Graba un vídeo explicando tu solución.</font></div></div>"
+      },
+      {
+        "refId": "149276a8-05bb-4b5d-4c50-be9bd35f5c50",
+        "string": "<font size=\"5\">Comparte tus hallazgos: </font><div><br><div>Presenta y explica tus soluciones.</div></div>"
+      },
+      {
+        "refId": "af3b93ec-567c-4029-1cc0-eb2e876cbaef",
+        "string": "Enciende el hub inteligente y conéctalo al dispositivo. Si necesitas ayuda, mira el vídeo.&nbsp;<div><br><div>Consulta el panel de ayuda para obtener asistencia.</div></div>"
+      }
+    ]
+  }
+}

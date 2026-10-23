@@ -1,0 +1,689 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "Guía integrada",
+      "subcategories": [
+        {
+          "title": "La barra de herramientas de WeDo 2.0",
+          "elements": [
+            {
+              "title": "<p>La barra de herramientas se encuentra en la parte superior de la pantalla. Desde ahí puede:</p><ul><li>Pulsar el icono Inicio para regresar al vestíbulo.</li><li>Pulsar el icono Biblioteca de proyectos para acceder a sus proyectos de WeDo 2.0.</li><li>Pulsar el icono Biblioteca de diseños para acceder a diseños que servirán de inspiración para la construcción y programación.</li><li>Pulsar el icono Herramienta de captura para acceder a las herramientas integradas de cámara, vídeo y captura.</li><li>Pulsar el icono Herramienta de documentación para acceder al documento del proyecto.</li><li>Pulsar el icono Ayuda para obtener información adicional.</li><li>Pulsar el icono Parada para detener todas las acciones del programa.</li></ul><p>Los estudiantes podrán crear cadenas de programa arrastrando y soltando bloques en el panel de programación. Para iniciar cualquier cadena de programa, deberán pulsar el bloque de inicio. Importante: Para regresar al panel de programación pulse de nuevo el elemento de la barra de herramientas seleccionado.</p>",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "La biblioteca de proyectos",
+          "elements": [
+            {
+              "title": "<p>La biblioteca de proyectos le ofrece acceso a los siguientes elementos:</p><ul><li>Proyectos Primeros pasos</li><li>Proyectos guiados</li><li>Proyectos abiertos: Al abrir uno de estos proyectos, accederá a una descripción general antes de acceder al proyecto completo.</li></ul>",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "La biblioteca de diseños",
+          "elements": [
+            {
+              "title": "<p>La biblioteca de diseños está dividida en dos secciones:</p><ul><li>La biblioteca de modelos</li><li>La biblioteca de programas</li></ul><p>La biblioteca de modelos le ofrece acceso a los siguientes elementos:</p><ul><li>Modelos básicos con instrucciones de construcción y sugerencias de programación</li><li>Dos modelos de inspiración que siguen a cada modelo básico, con sus respectivas fotos y sugerencias de programación</li></ul>",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "<p>La biblioteca de programas le ofrece acceso a los siguientes elementos:</p><ul start=\"3\"><li>Funciones de programación básicas compuestas por un número de bloques de programación para ayudar a los estudiantes a explorar cadenas de programación simples</li><li>Dos funciones de inspiración que siguen a cada función de programación básica</li></ul>",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "La herramienta de grabación de sonido",
+          "elements": [
+            {
+              "title": "<p>Puede acceder a la herramienta de grabación de sonido desde cualquier fase de un proyecto. Esta función permite grabar su propio sonido. El software WeDo 2.0 almacena el último sonido grabado, al que puede acceder añadiendo el bloque de sonido con la entrada 0 a la cadena del programa:</p><ul><li>Pulse el icono Micrófono para acceder a la ventana.</li></ul>",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "<ul start=\"2\"><li>Pulse el icono Grabar para iniciar la grabación.</li><li>Pulse el icono Reproducir para reproducir la grabación.</li><li>Pulse el icono Parada para detener la grabación.</li></ul>",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "La herramienta de captura",
+          "elements": [
+            {
+              "title": "<p>Desde la herramienta de captura:</p><ul><li>Pulse el botón Capturar para:</li><ul><li>Hacer una foto. <li>Iniciar y detener la grabación de vídeo. <li>Tomar una captura de pantalla.</ul><li>Pulse el botón Capturar imagen para seleccionar el modo foto.</li><li>Pulse el botón Capturar vídeo para seleccionar el modo vídeo.</li><li>Pulse el botón Capturar panel para seleccionar el modo panel.</li></ul>",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "Uso del Profesor asistente",
+          "elements": [
+            {
+              "title": "<p>Algunos proyectos incluyen la funcionalidad profesor asistente, que proporciona material que le ayudará a planificar e impartir sus lecciones. El profesor asistente ofrece los siguientes materiales:</p><ul><li>Información general sobre proyecto</li><li>Tipo de enlaces curriculares de proyecto</li><li>Planificación</li><li>Preguntas para debatir y respuestas</li><li>Crear el ambiente</li><li>Ayuda para la construcción</li><li>Ayuda para la programación</li><li>Apoyo para el desarrollo de habilidades de pensamiento computacional</li><li>Apoyo para el desarrollo de habilidades de investigación</li><li>Apoyo para el desarrollo de habilidades de modelado</li><li>Apoyo para el desarrollo de habilidades de diseño</li><li>Apoyo para el desarrollo de habilidades de comunicación</li><li>Rúbricas de evaluación</li></ul>",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "Panel de ayuda",
+          "elements": [
+            {
+              "title": "<p>Podrá encontrar la siguiente orientación en el panel de ayuda:</p><ul><li>El nombre de cada bloque de programación y una breve descripción</li><li>Asistencia para el proceso de conexión</li><li>Otros elementos relevantes</li></ul>",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "Herramienta de documentación",
+          "elements": [
+            {
+              "title": "<p>En la herramienta de documentación, los estudiantes podrán añadir texto, imágenes y vídeos para documentar su proyecto:</p><ul><li>Pulse el icono Agregar página para añadir una página al documento.</li><li>Pulse el icono Seleccionar plantilla para elegir un diseño para la página.</li><li>Pulse el icono Eliminar página para eliminar la página seleccionada.</li><li>Pulse el icono Exportar para guardar el documento en formato PDF o como varias imágenes.</li><li>Pulse el icono Entrada de imagen para insertar una imagen almacenada en el dispositivo.</li><li>Pulse el icono Entrada de vídeo para insertar un vídeo almacenado en el dispositivo.</li><li>Pulse el icono Entrada de texto para empezar a escribir en el dispositivo.</li></ul>",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "Bloques de programación",
+      "subcategories": [
+        {
+          "title": "Bloques de flujo",
+          "elements": [
+            {
+              "title": "Bloque Inicio",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": "Siempre debe colocarse al principio de la cadena de programación. Pulse sobre él para iniciar la cadena de programa que ha escrito.<br><i>Pseudocódigo: Iniciar programa</i>"
+            },
+            {
+              "title": "Bloque Iniciar al pulsar una tecla",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": "Siempre debe colocarse al principio de la cadena de programación. Pulse sobre él o en la letra correcta del teclado para iniciar la cadena de programa que ha escrito. Todas las cadenas de programa con la misma letra se iniciarán al mismo tiempo.<br>Para cambiar la letra de activación, mantenga pulsado el bloque para acceder al teclado.<br><i>Pseudocódigo: Iniciar programa al pulsar \"A\"</i>"
+            },
+            {
+              "title": "Bloque Iniciar al recibir un mensaje",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": "Siempre debe colocarse al principio de la cadena de programación. Esperará al mensaje correcto y, entonces, iniciará la cadena de programa que ha escrito.<br><i>Pseudocódigo: Iniciar programa cuando se reciba el mensaje \"abc\"</i>"
+            },
+            {
+              "title": "Enviar mensaje",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": "Envía un mensaje al panel de programación. Se activará cada bloque Iniciar al recibir un mensaje con el mismo mensaje. El mensaje puede constar de textos o números.<br><i>Pseudocódigo: Enviar mensaje \"abc\"</i>"
+            },
+            {
+              "title": "Esperar",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": "Utilice este bloque para decirle al programa que espere a que ocurra algo. Puede esperar un periodo de tiempo determinado o la entrada de un sensor. Este bloque siempre necesita una entrada para que funcione correctamente.<br><i>Pseudocódigo: Esperar ...</i>"
+            },
+            {
+              "title": "Bloque Repetir",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": "Utilizar este bloque para repetir acciones. Los bloques colocados dentro del bloque Repetir entrarán en bucle. También puede llamarse “bloque bucle”.<br>El bucle puede repetirse para siempre, durante un periodo de tiempo determinado o hasta que ocurra algo.<br><i>Pseudocódigo: Repetir el paso ... para siempre</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "Salida: Bloques de motor",
+          "elements": [
+            {
+              "title": "Bloque de Activación de motor en un sentido",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": "Prepara el motor para girar el eje en el sentido mostrado e inicia el motor.<br>Toque el bloque para cambiar rápidamente la dirección de rotación.<br><i>Pseudocódigo: Iniciar motor en este sentido</i>"
+            },
+            {
+              "title": "Bloque de Activación de motor en otro sentido",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": "Ajusta el motor para girar el eje en el sentido mostrado e inicia el motor.<br>Toque el bloque para cambiar rápidamente la dirección de rotación.<br><i>Pseudocódigo: Iniciar motor en otro sentido</i>"
+            },
+            {
+              "title": "Bloque Potencia del motor",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": "Ajusta la potencia del motor al nivel especificado e inicia el motor. El nivel puede ajustarse con una entrada numérica de 0 a 10.<br><i>Pseudocódigo: Iniciar motor con potencia 10</i>"
+            },
+            {
+              "title": "Bloque de Activación de motor durante",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": "Inicia el motor durante un periodo de tiempo especificado en segundos. El periodo de tiempo puede establecerse con una entrada numérica, utilizando números enteros o decimales.<br><i>Pseudocódigo: Iniciar motor durante 2 segundos</i>"
+            },
+            {
+              "title": "Bloque de Desactivación de motor",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": "Detiene cualquier movimiento del motor.<br><i>Pseudocódigo: Parar motor</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "Salida: Bloques de LED",
+          "elements": [
+            {
+              "title": "Bloque de Luz",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": "Enciende el LED del hub inteligente en un color determinado. El color puede cambiarse con una entrada numérica entre 0 y 10.<br><br><i>Pseudocódigo: Encender LED en el color 9 (rojo)</i><br><i>Pseudocódigo: Apagar LED en color 0 (sin color)</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "Salida: Bloques de sonido",
+          "elements": [
+            {
+              "title": "Reproducir sonido",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": "Reproduce un sonido. El sonido se elige en una lista disponible dentro del software. Puede establecer un sonido mediante una entrada numérica. Elija el número de sonido 0 para reproducir un sonido que haya grabado usted mismo.<br><i>Pseudocódigo: Reproducir número de sonido 1</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "Salida: Bloques de Pantalla",
+          "elements": [
+            {
+              "title": "Mostrar imagen de fondo",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": "Utilice este bloque para mostrar una imagen elegida de una lista disponible dentro del software. Puede establecer la imagen con una entrada numérica.<br><i>Pseudocódigo: Mostrar imagen 1 en la pantalla</i>"
+            },
+            {
+              "title": "Bloque de Pantalla",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": "Utilice este bloque para abrir el área de visualización en la pantalla del software. Aparecerán números o texto en el área de visualización.<br><i>Pseudocódigo: Mostrar ... en pantalla</i>"
+            },
+            {
+              "title": "Sumar a pantalla",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": "Suma una cantidad al número que se muestra actualmente en la pantalla. Introduzca el número que desee sumar. Toque el bloque para cambiar la operación matemática.<br><i>Pseudocódigo: Sumar a ... el número en pantalla</i>"
+            },
+            {
+              "title": "Restar de pantalla",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": "Resta una cantidad del número que se muestra actualmente en la pantalla. Introduzca el número que desee restar. Toque el bloque para cambiar la operación matemática.<br><i>Pseudocódigo: Restar ... del número en pantalla</i>"
+            },
+            {
+              "title": "Multiplicar por pantalla",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": "Multiplica el número mostrado en pantalla por un número especificado. Introduzca el número por el que desee multiplicar. Toque el bloque para cambiar la operación matemática.<br><i>Pseudocódigo: Multiplicar por ... el número en pantalla</i>"
+            },
+            {
+              "title": "Dividir entre pantalla",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": "Divide el número mostrado en pantalla entre un número especificado. Introduzca el número entre el que desee dividir. Toque el bloque para cambiar la operación matemática.<br><i>Pseudocódigo: Dividir entre ... el número en pantalla</i>"
+            },
+            {
+              "title": "Bloque Pantalla apagada",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": "Utilice este bloque para cerrar el área de visualización en la pantalla del software. Toque el bloque para cambiar el tamaño.<br><i>Pseudocódigo: Cerrar la pantalla</i>"
+            },
+            {
+              "title": "Mostrar pantalla completa",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": "Utilice este bloque para ajustar el área de visualización en pantalla completa. Toque el bloque para cambiar el tamaño.<br><i>Pseudocódigo: Cambiar el tamaño de la pantalla al máximo</i>"
+            },
+            {
+              "title": "Mostrar tamaño mediano",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": "Utilice este bloque para ajustar el área de visualización en tamaño intermedio. Toque el bloque para cambiar el tamaño.<br><i>Pseudocódigo: Cambiar el tamaño de la pantalla a intermedio</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "Entradas: Entradas de cambio de los sensores",
+          "elements": [
+            {
+              "title": "Cualquier cambio de distancia",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": "Introduce el modo del sensor de movimiento “Cualquier cambio de distancia” en un bloque."
+            },
+            {
+              "title": "Cambio de distancia más cerca",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": "Introduce el modo del sensor de movimiento “disminuir la distancia entre el sensor y un objeto” en un bloque."
+            },
+            {
+              "title": "Cambio de distancia más lejos",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": "Introduce el modo del sensor de movimiento “incrementar la distancia entre el sensor y un objeto” en un bloque."
+            },
+            {
+              "title": "Inclinación en otro sentido",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": "Introduce el modo del sensor de inclinación “Inclinación en otro sentido” en un bloque."
+            },
+            {
+              "title": "Inclinación en un sentido",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": "Introduce el modo del sensor de inclinación “Inclinación en un sentido” en un bloque."
+            },
+            {
+              "title": "Inclinación hacia abajo",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": "Introduce el modo del sensor de inclinación “Inclinación hacia abajo” en un bloque."
+            },
+            {
+              "title": "Inclinación hacia arriba",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": "Introduce el modo del sensor de inclinación “Inclinación hacia arriba” en un bloque."
+            },
+            {
+              "title": "Sensor de inclinación sin inclinación",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": "Introduce el modo del sensor de inclinación “Sin inclinación” (o posición horizontal) en un bloque."
+            },
+            {
+              "title": "Agitar",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": "Introduce el modo del sensor de inclinación “Agitar” en un bloque."
+            },
+            {
+              "title": "Cambio del nivel sonoro:",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": "Introduce el modo del sensor de sonido (del dispositivo) “cambiar nivel de sonido” en un bloque."
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "Entradas: Entradas numéricas y de texto",
+          "elements": [
+            {
+              "title": "Entrada de sensor de inclinación",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": "Introduce el valor numérico generado por el sensor de inclinación (0, 3, 5, 7 o 9) en un bloque."
+            },
+            {
+              "title": "Entrada de sensor de movimiento",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": "Introduce el valor detectado por el sensor de movimiento (de 0 a 10) en un bloque."
+            },
+            {
+              "title": "Entrada de sensor de sonido",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": "Introduce el valor detectado por el sensor de sonido (de 0 a 10) en un bloque."
+            },
+            {
+              "title": "Entrada numérica",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": "Introduce un valor numérico en un bloque."
+            },
+            {
+              "title": "Entrada de texto",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": "Introduce un valor de texto en un bloque."
+            },
+            {
+              "title": "Entrada de pantalla",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": "Introduce un valor numérico mostrado en el área de visualización en un bloque."
+            },
+            {
+              "title": "Entrada aleatoria",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": "Introduce un valor aleatorio en un bloque. El rango de número lo determina el bloque al que se acopla."
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "Documentación",
+          "elements": [
+            {
+              "title": "Cuadro de texto",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": "Utilice el cuadro de texto para insertar comentarios en un programa. Este no es un bloque de programa."
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "Bloques de programación",
+      "subcategories": [
+        {
+          "title": "Bloques de flujo",
+          "elements": [
+            {
+              "title": "Bloque Iniciar",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "Bloque Iniciar al pulsar una tecla",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "Bloque Iniciar al recibir un mensaje",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "Bloque de Reproducción de sonido",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "Bloque de envío de mensaje",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "Bloque Esperar",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "Bloque Repetir",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "Bloques de motor",
+          "elements": [
+            {
+              "title": "Bloque de Activación de motor en un sentido",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "Bloque de Activación de motor en otro sentido",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "Bloque Potencia del motor",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "Bloque de Activación de motor durante",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "Bloque de Desactivación de motor",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "Bloque de Luz",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "Bloques de entradas de sensores",
+          "elements": [
+            {
+              "title": "Entrada de sensor de movimiento",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "Cambio de distancia más cerca",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "Cambio de distancia más lejos",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "Cualquier cambio de distancia",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "Entrada de sensor de inclinación",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "Inclinación hacia arriba",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "Inclinación hacia abajo",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "Inclinación en un sentido",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "Inclinación en otro sentido",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "Cualquier inclinación",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "Bloques de entradas de dispositivos",
+          "elements": [
+            {
+              "title": "Entrada de texto",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "Entrada numérica",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "Entrada aleatoria",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "Entrada de sensor de sonido",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "Entrada de pantalla",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "Bloques de Pantalla",
+          "elements": [
+            {
+              "title": "Bloque de Pantalla",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "Bloque Sumar a pantalla",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "Bloque Restar de pantalla",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "Bloque Multiplicar por pantalla",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "Bloque Dividir entre pantalla",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "Bloque Mostrar imagen de fondo",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "Bloque Pantalla apagada",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "Bloque Mostrar tamaño mediano",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "Bloque Mostrar pantalla completa",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "Otros bloques",
+          "elements": [
+            {
+              "title": "Cuadro de texto",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "Proceso de conexión",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS & Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "<p>El hub inteligente 2 i/o de WeDo 2.0 emplea la función de baja energía de Bluetooth 4.0.</p> <p>La primera vez que use el hub inteligente de WeDo 2.0, deberá “emparejarlo” con su dispositivo para que ambos dispositivos sepan cómo conectarse mutuamente con seguridad. Una vez hecho esto, los dispositivos se conectarán automáticamente.</p> <p>Aviso: Si usa una tablet con diferentes usuarios, cada usuario podrá cambiar la configuración global de Bluetooth según sus preferencias.</p> <p>Windows 7: Cómo emparejar el hub inteligente de WeDo 2.0 con un PC en Windows 7:</p> <ol> <li>Vaya a “Inicio” y haga clic en “Dispositivos e impresoras”.</li> <li>En la ventana “Dispositivos e impresoras”, haga clic en “Agregar un dispositivo”.</li> <li>Encienda el hub inteligente de WeDo 2.0; para ello, pulse el botón de color azul claro.</li> <li>Transcurridos unos segundos, el hub inteligente de WeDo 2.0 aparecerá en la lista de dispositivos disponibles.<br> Si no se detecta el hub inteligente: <ol> <li>Compruebe si su ordenador es compatible con Bluetooth 4.0 en el sitio web del fabricante de su ordenador, o en la documentación del ordenador</li> <li>En la lista de dispositivos, elimine todos los hubs inteligentes de WeDo 2.0 emparejados anteriormente que no estén conectados y vuelva a repetir el procedimiento desde el paso 2</li> </ol> </li> <li>Seleccione el hub inteligente de WeDo 2.0 y pulse “Siguiente”.</li> <li>Si se le solicita un código, introduzca 0000.</li> <li>Ahora que el hub inteligente de WeDo 2.0 ya está conectado al ordenador, siga las instrucciones del vídeo sobre la conexión para utilizarlo en la aplicación</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>El hub inteligente 2 i/o de WeDo 2.0 emplea la función de baja energía de Bluetooth 4.0.</p> <p>La primera vez que use el hub inteligente de WeDo 2.0, deberá “emparejarlo” con su dispositivo para que ambos dispositivos sepan cómo conectarse mutuamente con seguridad. Una vez hecho esto, los dispositivos se conectarán automáticamente.</p> <p>Aviso: Si usa una tablet con diferentes usuarios, cada usuario podrá cambiar la configuración global de Bluetooth según sus preferencias.</p> <p>Windows 8.1: Cómo emparejar el hub inteligente de WeDo 2.0 con un PC en Windows 8.1:</p> <ol> <li>Vaya a “Inicio” y haga clic en “Dispositivos e impresoras”.</li> <li>En la ventana “Dispositivos e impresoras”, haga clic en “Agregar un dispositivo”.</li> <li>Encienda el hub inteligente de WeDo 2.0; para ello, pulse el botón de color azul claro.</li> <li>Transcurridos unos segundos, el hub inteligente de WeDo 2.0 aparecerá en la lista de dispositivos disponibles.<br> Si no se detecta el hub inteligente: <ol> <li>Compruebe si su ordenador es compatible con Bluetooth 4.0 en el sitio web del fabricante de su ordenador, o en la documentación del ordenador</li> <li>En la lista de dispositivos, elimine todos los hubs inteligentes de WeDo 2.0 emparejados anteriormente que no estén conectados y vuelva a repetir el procedimiento desde el paso 2</li> </ol> </li> <li>Seleccione el hub inteligente de WeDo 2.0 y pulse “Siguiente”.</li> <li>Si se le solicita un código, introduzca 0000.</li> <li>Ahora que el hub inteligente de WeDo 2.0 ya está conectado al ordenador, siga las instrucciones del vídeo sobre la conexión para utilizarlo en la aplicación</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>Inicia WeDo 2.0 y abre la ventana Conexión.</li> <li>Pulsa el botón verde del hub inteligente WeDo 2.0.</li> <li>Pulsa/haz clic en el hub inteligente correspondiente para conectarte a él. Si no se detecta el hub inteligente:</li> <ol> <li>Comprueba si tu ordenador es compatible con Bluethooth 4.0 (también conocido como Bluetooth de bajo consumo o Bluetooth Smart) mirando en el sitio web del fabricante o la documentación que se incluye con el ordenador.</li> <li>Ve al menú «Inicio», selecciona «Configuración» (icono del engranaje) y, a continuación, «Dispositivos» y «Bluetooth». A continuación, elimina todos los hubs inteligentes de WeDo 2.0 emparejados anteriormente (que no estén conectados) seleccionándolos en la lista de dispositivos y haciendo clic en «Eliminar dispositivo».</li> <li>Vuelve a la aplicación WeDo 2.0 y repite el procedimiento de conexión a partir del paso 2 anterior.</li> </ol> <li>Selecciona tu hub inteligente de WeDo 2.0 en la lista de dispositivos disponibles.</li> <li>Si se te indica que emparejes el hub inteligente, confirma haciendo clic en el botón «Permitir» y, a continuación, en «Cerrar».</li> </ol> <p><b>Sigue las instrucciones de la pantalla y si no se puede emparejar en Windows 10</b></p> <ol> <li>Vuelve a pulsar el botón verde si te indican que lo pulses.</li> <li>Si vuelve a fallar el emparejamiento, haz clic en «Reintentar». Intenta emparejar el hub inteligente una vez más, ya sea aceptando en el cuadro de diálogo de emparejamiento (si se muestra) o repitiendo el procedimiento de emparejamiento a partir del paso 2 anterior.</li> <li>Cuando hayas emparejado el hub inteligente correctamente, aparecerá como conectado en el Centro de conexiones.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Abre el centro de conexiones</li> <li>Pulsa el botón verde del hub inteligente WeDo 2.0 hasta que aparezca su nombre en la ventana de conexión.</li> <li>Haz clic en el nombre del hub inteligente concreto para conectarte.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

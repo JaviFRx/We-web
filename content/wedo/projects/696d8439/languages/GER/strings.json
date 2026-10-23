@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b2c7868b-18d4-4293-9ee3-61727ee611cc",
+        "string": "24. Tierische Sinne"
+      },
+      {
+        "refId": "9431f876-e3ce-45ae-43c5-524860c4f0bb",
+        "string": "<div><font size=\"5\">Wie interagieren Tiere mit ihrer Umwelt?&nbsp;</font></div><br><div>In diesem Projekt werdet ihr:&nbsp;</div><div>- lernen, wie Tiere ihre Sinne einsetzen, um verschiedene Arten von Informationen zu sammeln&nbsp;</div><div>- ein Modell eines Tieres bauen und programmieren, bei dem die Sinne im Mittelpunkt stehen&nbsp;</div><div>- eure Programme testen und mit eurem Model zeigen, wie Tiere auf verschiedene Reize reagieren&nbsp;</div><div>- eure Programme vorstellen und Ideen untereinander austauschen&nbsp;</div><div>- eure Ergebnisse dokumentieren und präsentieren</div>"
+      },
+      {
+        "refId": "4e4564f4-7246-473a-273d-88e0e8dd2a13",
+        "string": "<div style=\"text-align: center;\">Schaut euch die Basismodelle in der Modellbibliothek an und lasst euch beim Bau eures Modells davon inspirieren.</div>"
+      },
+      {
+        "refId": "0852da6c-6822-462c-426b-8b127c7b15b1",
+        "string": "<div style=\"text-align: center;\">Schaut euch die Basisprogramme in der Programmbibliothek an und lasst euch beim Programmieren eures Modells davon inspirieren.</div>"
+      }
+    ]
+  }
+}

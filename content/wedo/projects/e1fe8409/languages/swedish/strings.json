@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8c532bed-856d-4304-b8a5-1a24a79ab7d3",
+        "string": "11. Upptäcka rörelse"
+      },
+      {
+        "refId": "c2c50a9e-a292-4508-9436-2d6ec6da173b",
+        "string": "1. Starta program&#160;<div>2. Vänta på rörelsesensor för att upptäcka rörelser&#160;</div><div>3. Spela ljud 6</div>"
+      },
+      {
+        "refId": "8bdc22f9-b828-48c1-8082-ca6a439dd4c9",
+        "string": "1. Starta program&#160;<div>2. Vänta på rörelsesensor för att upptäcka när avståndet till föremålet blir kortare&#160;</div><div>3. Spela ljud 10</div>"
+      }
+    ]
+  }
+}

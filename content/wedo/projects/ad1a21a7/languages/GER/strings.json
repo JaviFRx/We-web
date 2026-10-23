@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7812391c-1d5c-47e3-99b6-dcad15a5f4d6",
+        "string": "4a. Alarm"
+      },
+      {
+        "refId": "f62b44e3-4e08-445d-74d0-4c64089985a2",
+        "string": "1. Programm starten&nbsp;<div>2. Klang 26 abspielen&nbsp;</div><div>3. 0.5 Sekunden warten&nbsp;</div><div>4. Schritte 2 und 3 viermal wiederholen&nbsp;</div>"
+      },
+      {
+        "refId": "18a476f7-0c2d-4577-6282-0ee0a2b044da",
+        "string": "Zum Testen des Programms ist kein LEGO® Modell erforderlich."
+      }
+    ]
+  }
+}

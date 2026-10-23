@@ -1,0 +1,689 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "",
+      "subcategories": [
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "",
+      "subcategories": [
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": ""
+            },
+            {
+              "title": "Wait For",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "Programmeringsblokke",
+      "subcategories": [
+        {
+          "title": "Flowblokke",
+          "elements": [
+            {
+              "title": "Startblok",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "Start ved tryk på tast-blok",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "Start ved besked-blok",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "Afspil lyd-blok.",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "Send besked-blok",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "Venteblok",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "Gentagelsesblok",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "Motorblokke",
+          "elements": [
+            {
+              "title": "Køre denne vej-blok",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "Køre den anden vej-blok",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "Motoreffekt-blok",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "Tænd motor i-blok",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "Sluk motor-blok",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "Lysblok",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "Sensorinput-blokke",
+          "elements": [
+            {
+              "title": "Afstandssensor-input",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "Afstandsændring tættere på",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "Afstandsændring længere væk",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "Tilfældig afstandsændring",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "Hældningssensor-input",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "Hældning opad",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "Hældning nedad",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "Hældning denne vej",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "Hældning den anden vej",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "Tilfældig hældning",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "Enhedsinput-blokke",
+          "elements": [
+            {
+              "title": "Tekstinput",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "Talinput",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "Tilfældigt input",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "Lydsensor-input",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "Skærminput",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "Display-blokke",
+          "elements": [
+            {
+              "title": "Display-blok",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "Tilføj til-display-blok",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "Træk fra-display-blok",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "Gang med-display-blok",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "Divider med-display-blok",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "Vis baggrund-blok",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "Vis afsluttet-blok",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "Vis mellemstørrelse-blok",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "Vis fuld størrelse-blok",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "Andre blokke",
+          "elements": [
+            {
+              "title": "Boble",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "Forbindelsesprocess",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS & Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "<p>WeDo 2.0 Smarthub 2 I/O bruger lavenergifunktionen i Bluetooth 4.0.</p> <p>Første gang du bruger WeDo 2.0 Smarthub, skal den \"parres\" med en enhed, så begge enheder ved, hvordan de opnår sikker forbindelse til hinanden. Derefter foregår tilslutningen automatisk.</p> <p>Bemærk: Hvis du bruger en tablet med flere brugere, kan de enkelte brugere ændre de globale Bluetooth-indstillinger.</p> <p>Windows 7: Sådan parres WeDo 2.0 Smarthub med en pc med Windows 7:</p> <ol> <li>Gå til \"Start\", og klik på \"Enheder og printere\".</li> <li>Klik på \"Tilføj en enhed\" i vinduet \"Enheder og printere\".</li> <li>Tænd for din WeDo 2.0 Smarthub ved at trykke på den lysende blå knap.</li> <li>Kort efter vises din WeDo 2.0 Smarthub på listen over tilgængelige enheder.<br> Hvis Smarthub ikke bliver fundet: <ol> <li>Kontrollér på computerproducentens hjemmeside eller i computerens dokumentation, at din computer er kompatibel med Bluetooth 4.0.</li> <li>Slet alle tidligere parrede WeDo 2.0 Smarthubs, der ikke er tilsluttet, fra listen over enheder, og start igen fra pkt. 2.</li> </ol> </li> <li>Vælg din WeDo 2.0 Smarthub, og tryk på \"Næste\".</li> <li>Hvis du bliver bedt om en kode, er den 0000.</li> <li>Nu er WeDo 2.0 Smarthub tilsluttet til computeren. For at bruge den skal du følge vejledningen i tilslutningsvideoen.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>WeDo 2.0 Smarthub 2 I/O bruger lavenergifunktionen i Bluetooth 4.0.</p> <p>Første gang du bruger WeDo 2.0 Smarthub, skal den \"parres\" med en enhed, så begge enheder ved, hvordan de opnår sikker forbindelse til hinanden. Derefter foregår tilslutningen automatisk.</p> <p>Bemærk: Hvis du bruger en tablet med flere brugere, kan de enkelte brugere ændre de globale Bluetooth-indstillinger.</p> <p>Windows 8.1: Sådan parres WeDo 2.0 Smarthub med en pc med Windows 8.1:</p> <ol> <li>Gå til \"Start\", og klik på \"Enheder og printere\".</li> <li>Klik på \"Tilføj en enhed\" i vinduet \"Enheder og printere\".</li> <li>Tænd for din WeDo 2.0 Smarthub ved at trykke på den lysende blå knap.</li> <li>Kort efter vises din WeDo 2.0 Smarthub på listen over tilgængelige enheder.<br> Hvis Smarthub ikke bliver fundet: <ol> <li>Kontrollér på computerproducentens hjemmeside eller i computerens dokumentation, at din computer er kompatibel med Bluetooth 4.0.</li> <li>Slet alle tidligere parrede WeDo 2.0 Smarthubs, der ikke er tilsluttet, fra listen over enheder, og start igen fra pkt. 2.</li> </ol> </li> <li>Vælg din WeDo 2.0 Smarthub, og tryk på \"Næste\".</li> <li>Hvis du bliver bedt om en kode, er den 0000.</li> <li>Nu er WeDo 2.0 Smarthub tilsluttet til computeren. For at bruge den skal du følge vejledningen i tilslutningsvideoen.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>Start WeDo 2.0, og åbn forbindelsesvinduet.</li> <li>Tryk på den grønne knap på WeDo 2.0 Smarthub.</li> <li>Klik/tryk på den ønskede Smarthub for at etablere forbindelse til den. Hvis din Smarthub ikke bliver fundet:</li> <ol> <li>Kontrollér, at din computer er kompatibel med Bluetooth 4.0 (også kaldet Bluetooth low energy eller Bluetooth Smart). Det kan du gøre på computerproducentens hjemmeside eller i den dokumentation, der fulgte med computeren.</li> <li>Gå til menuen Start, vælg \"Indstillinger\" (Settings, tandhjulsikonet), derefter \"Enheder\" (Devices) og \"Bluetooth\". Slet derefter alle tidligere parrede WeDo 2.0 Smarthubs (der ikke er tilsluttet i øjeblikket) ved at markere dem på listen over enheder og klikke på \"Fjern enhed\" (Remove device).</li> <li>Gå tilbage til WeDo 2.0, og gentag forbindelsesprocessen fra trin 2 herover.</li> </ol> <li>Vælg din WeDo 2.0 Smarthub på listen over tilgængelige enheder.</li> <li>Hvis du bliver bedt om at parre din Smarthub, skal du bekræfte dette ved at klikke på \"Tillad\" (Allow) og derefter \"Luk\" (Close).</li> </ol> <p><b>Følg vejledningen på skærmen, hvis parringen mislykkes på Windows 10.</b></p> <ol> <li>Tryk igen på den grønne knap, hvis du bliver bedt om det.</li> <li>Hvis parringen mislykkes igen, skal du klikke på \"Forsøg igen\" (Retry). Forsøg at parre din Smarthub én gang til, enten ved at acceptere parringsdialogboksen (hvis den dukker op) eller ved at gentage parringsprocessen fra trin 2 herover.</li> <li>Når du har parret din Smarthub, vil den blive vist som forbundet i forbindelsescenteret.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Åbn forbindelsescenteret.</li> <li>Tryk på den grønne knap på WeDo 2.0 Smarthub\\'en, indtil dens navn vises i forbindelsesvinduet.</li> <li>Klik på navnet på den Smarthub, du vil tilslutte.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

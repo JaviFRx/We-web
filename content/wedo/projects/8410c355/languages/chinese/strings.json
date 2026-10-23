@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "cde82c40-bc26-4488-5ac3-65bc37c0907d",
+        "string": "<div><font size=\"3\">用乐高积木搭建一个通信手臂，帮助 Milo（麦乐）科学漫游器发出它的探索信息。&#160;<br></font></div>"
+      },
+      {
+        "refId": "d28221aa-2cf6-49ef-e480-5abb5d373098",
+        "string": "<div><font size=\"3\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">如需更多详细指导，请看帮助。&#160;<br></font></div>"
+      },
+      {
+        "refId": "744b8b8b-17b8-4a77-b25e-8675f558a0cd",
+        "string": "<div><font size=\"3\">给Milo（麦乐）编写程序，使其可以发出找到植物标本的信息。<br></font></div>"
+      },
+      {
+        "refId": "ba8a27d9-a890-4d8d-de53-7551cbf894d6",
+        "string": "<div><font size=\"3\">给Milo（麦乐）的程序截屏。&#160; </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">记录下它可以做什么。</font>&#160;<font color=\"#ffffff\" size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "063962aa-e2c2-4968-e962-3d83807f017e",
+        "string": "<div><font size=\"3\">Max（麦克斯）和 Mia（米娅）正在等待 Milo（麦乐）的消息，他们想知道它的探索发现。<br></font></div>"
+      },
+      {
+        "refId": "fe0a1e5d-bfda-4140-735c-bf0af20863fe",
+        "string": "<div><div><font size=\"3\">通过这个实验，你会：&#160;&#160;</font><div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span>运用倾斜传感器创造一个 Milo（麦乐）信息手臂。&#160;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span>记录下 Milo（麦乐）和基地之间的通信。&#160;</font><div></div></div></div></div></div>"
+      },
+      {
+        "refId": "7c934476-fbc2-42c8-b1f3-9b37879f2aa6",
+        "string": "C. Milo（麦乐）倾斜传感器"
+      }
+    ]
+  }
+}

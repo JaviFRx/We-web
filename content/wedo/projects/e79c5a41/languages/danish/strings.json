@@ -1,0 +1,42 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<font size=\"3\">Max og Mia er klar til at undersøge verden og gøre nogle store opdagelser.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De får brug for hjælp, især til at undersøge fjerne steder, så de kan finde et særligt planteeksemplar.</font></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<font size=\"5\">Undersøg Max' og Mias spørgsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hvad gør videnskabsfolk og ingeniører, når de ikke kan komme til det sted, de gerne vil udforske?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del dine svar ved hjælp af dokumentationsværktøjet.</font></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<font size=\"5\">Brug klodserne:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg Milo, et udforskningskøretøjet , der selv kan bevæge sig.</font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed. Se videoen, hvis du har brug for hjælp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se panelet Hjælp, hvis du har brug for mere hjælp.</font></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<font size=\"3\">Programmér Milo, så den kan køre fremad.</font>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<font size=\"3\">Tag et billede af dig og Milo.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Skriv i dokumentationsværktøjet, hvad du synes om det!</font></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<font size=\"5\">Del dine resultater:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Forklar, hvordan Milo kan hjælpe dig med dine natur og teknologi-projekter.</font></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<div><font size=\"3\">I dette projekt skal du:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">undersøge forskellige måder, som videnskabsfolk og ingeniører kan komme frem til fjerne steder</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">bygge og programmere Udforskningskøretøjet Milo</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">dokumentere, hvordan Milo kan hjælpe dig med at opdage et særligt planteeksemplar.</font></div></div></div>"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. Udforskningskøretøjet Milo"
+      }
+    ]
+  }
+}

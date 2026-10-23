@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "98b4d326-2233-4773-8dae-54c99fc8d218",
+        "string": "11a. Rapprochement et éloignement"
+      },
+      {
+        "refId": "0bdd3730-9df7-47c9-a810-74e7f80a46f3",
+        "string": "1. Lancer le programme&nbsp;<div>2. Attendre que le détecteur de mouvement détecte un mouvement&nbsp;</div><div>3. Démarrer le moteur dans le sens&nbsp;1&nbsp;</div><div>4. Attendre que le détecteur de mouvement détecte un mouvement&nbsp;</div><div>5. Démarrer le moteur dans le sens&nbsp;2&nbsp;</div><div>6. Recommencer les étapes&nbsp;2 à 5 indéfiniment</div>"
+      }
+    ]
+  }
+}

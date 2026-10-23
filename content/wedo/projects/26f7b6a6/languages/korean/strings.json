@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bf97931-9b29-402f-6df6-848426f8b305",
+        "string": "<font size=\"3\">디자인 라이브러리의 기본 모델을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</font>"
+      },
+      {
+        "refId": "7dad6fd3-e13d-494f-56f5-8442f8488352",
+        "string": "<div><font size=\"4\">어떻게 해야 바다를 깨끗하게 만들 수 있을까?</font><font size=\"3\"><br></font></div><div><font size=\"3\">이번 프로젝트의 과제:<br></font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">바다를 깨끗하게 관리하고 플라스틱 쓰레기를 치우는 것이 왜 중요한지 알아보세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">특정한 유형과 크기의 플라스틱을 바다에서 물리적으로 수거하는 데 도움이 될 장치를 조립하고 프로그래밍하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">자신이 만든 장치를 </font>문서에 기록하고 발표하되, 해결 방법을 어떻게 디자인하였고 어떻게 문제가 해결되는지 설명하세요.</font></div></div>"
+      },
+      {
+        "refId": "327fbec1-201b-4cc5-ba4b-77000c21d5b2",
+        "string": "14. 해양 정화"
+      }
+    ]
+  }
+}

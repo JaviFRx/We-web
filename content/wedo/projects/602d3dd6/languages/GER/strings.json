@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6a876355-8c81-4029-b648-ec1d9cf6d9cb",
+        "string": "13b. Licht bei Geräusch wechseln"
+      },
+      {
+        "refId": "87911d68-e2ab-44e6-8f0f-b39432022b84",
+        "string": "1. Programm starten&nbsp;<div>2. LED bei der Farbe einschalten, die der Eingabe des Geräuschsensors entspricht&nbsp;</div><div>3. Schritt 2 unendlich wiederholen</div>"
+      }
+    ]
+  }
+}

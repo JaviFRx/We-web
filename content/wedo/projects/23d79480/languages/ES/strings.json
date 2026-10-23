@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0edf5ff0-95fb-4e55-b58d-d76f1dc9eff5",
+        "string": "6a. Cuenta atrás"
+      },
+      {
+        "refId": "e770e1e9-7976-46f7-0752-ef7bb2181814",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Mostrar texto \"3\" en la pantalla&nbsp;</div><div>3. Mostrar texto \"2\" en la pantalla&nbsp;</div><div>4. Mostrar texto \"1\" en la pantalla&nbsp;</div><div>5. Mostrar texto \"0\" en la pantalla</div>"
+      },
+      {
+        "refId": "bfa4849d-f371-4d54-b08b-353592b49367",
+        "string": "No se requieren modelos LEGO para probar este programa."
+      }
+    ]
+  }
+}

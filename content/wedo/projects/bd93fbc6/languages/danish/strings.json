@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "35d30095-da52-4527-99ef-2f253c0cee29",
+        "string": "5a. Displaystørrelse"
+      },
+      {
+        "refId": "80154b18-9014-4b4a-671e-b2d8985f64c8",
+        "string": "1. Start program&#160;<div>2. Vis display i mellemstor visning&#160;</div><div>3. Vis teksten \"123\" på displayet&#160;</div><div>4. Vent 1 sekund&#160;</div><div>5. Vis display i fuld visning&#160;</div><div>6. Vent 1 sekund&#160;</div><div>7. Luk display</div>"
+      },
+      {
+        "refId": "681e019c-50fd-42a1-b5ee-e1a4b2482047",
+        "string": "Der kræves ikke en LEGO model for at teste dette program."
+      }
+    ]
+  }
+}

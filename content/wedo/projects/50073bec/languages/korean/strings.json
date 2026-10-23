@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "빛나는 달팽이"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\">달팽이가 초록색 빛을 깜박거리게 하세요.<br><br></font><font size=\"3\">1. 그림과 같이 프로그램을 만드세요.</font><br><br><div><div><font size=\"3\">2. 달팽이의 작동 원리를 서로에게 설명해주세요.</font><br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">맥스와 미아 조금 더 도와주기(선택 사항):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. 불빛이 여러 번 깜박이게 하세요.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. 달팽이가 다른 동작을 할 수 있게 프로그래밍하세요.</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">맥스와 미아가 <font color=\"#000000\">수족관</font>을 방문했어요. 그리고 희귀한 달팽이를 보았죠.</font><div><font size=\"3\">그 달팽이는 초록색 빛을 깜박거리는 것으로 의사소통을 해요.</font></div><font size=\"3\"><br></font><div><font size=\"3\">달팽이 모델을 만들어보고 싶어요.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">맥스와 미아를 좀 도와주세요!&#160;</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><div><font size=\"3\">이번 수업에서 배울 내용:<br><br></font><div><font size=\"3\">•&nbsp;레고® 모델 조립</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">모델을 장치에 연결</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• 달팽이가 불빛을 깜박거리도록</span><span style=\"line-height: 1.42857;\">&nbsp;프로그래밍</span></font></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치에 연결하세요.</font><br><br>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<font size=\"3\">Max och Mia vet att racerbilar har ändrats mycket sedan den första racerbilen uppfanns.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Nu vill de undersöka hur man kan få en bil att åka snabbare.</font></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<font size=\"5\">Undersök Max och Mias frågor:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. På vilka sätt har bilarna förbättrats för att kunna åka snabbare?</font></div><div><font size=\"3\">2. Vilka faktorer påverkar hur lång tid det tar för en bil att åka en viss sträcka?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Använd dokumentationsverktyget för att dela med dig av dina resonemang.</font></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en racerbil som kan åka framåt och stanna vid mållinjen.</font></div>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "<font size=\"3\">Programmera bilen att åka framåt en given sträcka, som i videofilmen.</font>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<font size=\"5\">Undersöka med Max och Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Ställ motorns styrka på 10.</font></div><div><font size=\"3\">1. Kör programmet med de små hjulen, och upprepa tre gånger.&#160;</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Dokumentera testet</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">2. Byt till stora hjul och upprepa steg 1.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Förutsäg hur lång tid det kommer att ta för bilen att åka dubbelt så lång sträcka med de små och stora hjulen.</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Dokumentera dina förutsägelser</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">4. Testa om dina förutsägelser stämmer för de små och stora hjulen.</font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Dokumentera dina upptäckter.</font></span></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<font size=\"5\">Slutför dokumentationen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Granska din förutsägelse och förklara vad som hände i undersökningen.</font></div><div><font size=\"3\">2. Organisera din information så att du kan dela den med andra.</font></div><div><font size=\"3\">3. Lägg till viktig text, bilder, skärmdumpar eller videoklipp i ditt projekt.</font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beskriv med egna ord – och baserat på dina undersökningar – vilka faktorer som får en bil att åka snabbare.</font></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<font size=\"5\">Undersök mer</font><div><font size=\"5\">med Max och Mia</font></div>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<font size=\"5\">Dela ditt projekt</font>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">Hur får man en bil att åka snabbare?</font></span><br></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">I det här projektet kommer du att:</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Undersöka racerbilars egenskaper.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Bygga och programmera en racerbil för att undersöka vilka faktorer som kan få den att åka snabbare.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Dokumentera och presentera sätt att få bilen att åka så snabbt som möjligt.</font></div>"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<font size=\"5\">Undersök mer:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Kör programmet med de stora hjulen, med motorstyrka 5 och med remskivekonfiguration A. Upprepa tre gånger.&#160;</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentera dina upptäckter.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Byt till remskivekonfiguration B och upprepa steg 1.&#160;</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Hitta andra faktorer som påverkar bilens hastighet.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Jämför dessa faktorer med faktorerna i den tidigare undersökningen, och dokumentera resultatet.</font></span></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2. Hastighet"
+      }
+    ]
+  }
+}

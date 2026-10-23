@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "11513aca-bcc0-4fd3-be56-fc3cd35797f5",
+        "string": "20. 화산 경고"
+      },
+      {
+        "refId": "ff1526d0-52e9-440a-fa57-2b312ebd11b2",
+        "string": "<div><div><div><div><font size=\"5\">과학자들이 과학 탐사 활동의 지침으로 삼기 위해 화산 활동의 여러 단계를 어떻게 사용하나요?&nbsp;</font></div><br><div>이 프로젝트의 과제:&nbsp;</div><div>- 과학자들이 화산 활동을 모니터링하기 위해 사용하는 여러 가지 방법을 조사하세요.</div><div>- 화산 활동의 여러 단계를 나타내는 경보 장치를 만들고 프로그래밍하세요.&nbsp;</div><div>- 프로그램을 테스트하고, 화산 활동의 단계를 얼마나 정확하게 보여주는지 확인하세요.&nbsp;</div><div>- 프로젝트를 성공으로 이끌기 위한 프로그램과 아이디어를 공유하세요.</div></div></div></div>"
+      },
+      {
+        "refId": "165a3271-75a6-4b2c-5bd6-65e937ad4fa6",
+        "string": "맥스와 미아가 화산 탐사를 준비하고 있어요.&nbsp;<div><br><div>드론, 탐사 차량 및 주변의 동물을 이용해 여러 가지 대응 조치를 취하기 위해 필요한 화산 경보 장치를 프로그래밍하세요.</div></div>"
+      },
+      {
+        "refId": "fab27f42-230a-49eb-bec2-721408a23bea",
+        "string": "<font size=\"5\">블록 사용:&nbsp;</font><div><br><div>화산 활동의 수준을 나타내는 경보 장치를 조립하세요.&nbsp;</div><br><div>흔들림이 감지되면 작동하도록 프로그래밍하세요.</div></div>"
+      },
+      {
+        "refId": "7be8704a-5aca-48e0-1af6-7ab65e48274c",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 시계방향&nbsp;</div><div>3. 3의 출력으로 모터 작동&nbsp;</div><div>4. 기울기 센서가 위로 기울 때까지 대기&nbsp;</div><div>5. 2초간 모터 작동&nbsp;</div><div>6. 기울기 센서가 흔들림을 감지할 때까지 대기&nbsp;</div><div>7. 반시계방향&nbsp;</div><div>8. 무작위 숫자(초)만큼 모터 작동</div>"
+      },
+      {
+        "refId": "91f4101a-154c-4a78-cd27-4e517698b552",
+        "string": "<font size=\"5\">해법의 계획 및 시도:&nbsp;</font><div><br><div>바늘이 적색 위치에 멈출 경우 경보를 보내도록 경보 장치를 프로그래밍하세요.&nbsp;</div><br><div><font color=\"#ffffff\">적색 경보가 발령될 때마다 분화 활동의 연구를 위해 드론을 화산으로 보내세요.</font></div></div>"
+      },
+      {
+        "refId": "f9eb0f00-54c8-459f-c0b6-496371f2f78e",
+        "string": "<font size=\"5\">해법의 시도 및 수정:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>- 화산 활동의 세 가지 단계별로 상이한 신호가 발생하도록 경보 장치를 프로그래밍하세요.&nbsp;</div><br><div><font color=\"#ffffff\">- 경보가 발령될 때마다 신호에 따라 드론, 동물 및 탐사 차량을 움직이세요.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "d7740519-33e7-48d1-a8e3-5398eff40ca4",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "46a03b2d-27fe-4459-b355-6e7aa76c3a65",
+        "string": "<font size=\"5\">새로운 해법 구상&nbsp;</font><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "b916f289-1501-4d1c-2cf7-211d3142a0f5",
+        "string": "<font size=\"5\">새로운 해법 구상:</font><div><span style=\"font-size: 20px;\"><br></span><div>대다수의 화산 경보 장치는 녹색, 황색, 주황 및 적색의 4단계 경보를 알려줍니다.&nbsp;</div><br><div>네 번째 단계를 신호로 알리도록 경보 프로그램을 작성할 방법을 찾아보세요.&nbsp;<br></div><br></div>"
+      },
+      {
+        "refId": "7821b679-8dea-442d-6043-9df9f0c0f632",
+        "string": "<font size=\"5\">정보의 정리:</font><div><span style=\"font-size: 20px;\"><br></span><div>예:&nbsp;</div><div>- 최종 프로그램의 화면을 캡처하세요.&nbsp;</div><div>- 해법에 대한 설명을 비디오로 기록하세요.&nbsp;</div></div>"
+      },
+      {
+        "refId": "c4d962d6-dead-4bba-6766-3751205a1e90",
+        "string": "<font size=\"5\">조사 결과 공유:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>해법을 발표하고 설명하세요.</div></div>"
+      },
+      {
+        "refId": "e0b7499c-e7e8-42d1-665e-4c037437bfe1",
+        "string": "맥스와 미아가 화산 탐사를 준비하고 있어요.&nbsp;<div><br><div>드론, 탐사 차량 및 주변의 동물을 이용해 여러 가지 대응 조치를 취하기 위해 필요한 화산 경보 장치를 프로그래밍하세요.</div></div>"
+      },
+      {
+        "refId": "a10705c3-dd78-4352-cecf-34ad379eeee5",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><span style=\"font-size: 20px;\"><br></span><div>1. 화산 활동의 단계는 무엇무엇인가요?&nbsp;</div><div>2. 과학자들은 어떻게 화산을 탐사하나요?&nbsp;</div><div><font color=\"#ffffff\">3. 화산 분화를 신호로 알리기 위한 좋은 방법이 무엇일까요?</font></div></div>"
+      },
+      {
+        "refId": "08e6bd33-975a-40e5-8215-4ca31daf218e",
+        "string": "Smarthub를 켜고 장치에 연결하세요.&nbsp;<div>도움이 필요하면 비디오를 보아주세요.&nbsp;<div><br><div>자세한 지침은 도움말 창을 보아주세요.&nbsp;</div></div></div>"
+      }
+    ]
+  }
+}

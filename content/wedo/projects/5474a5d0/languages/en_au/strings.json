@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5f56efa-35f4-4614-a9ce-6b558bedaca7",
+        "string": "4b. Rhythm"
+      },
+      {
+        "refId": "2788f2f5-c835-466a-4f11-d73b39f02515",
+        "string": "1. Start program when\"A\" is pressed&#160;<div>2. Play sound number 24&#160;</div><div>3. Wait for 0.5 seconds&#160;</div><div>4. Repeat steps 2 and 3 forever&#160;</div><br><div>5. Start program when \"A\" is pressed&#160;</div><div>6. Play sound number 23&#160;</div><div>7. Wait for 1 second&#160;</div><div>8. Repeat steps 6 and 7 forever&#160;</div><br><div>9. Start program&#160;</div><div>10. Play sound 25</div>"
+      },
+      {
+        "refId": "ec5f9c9e-6d2d-41c9-8043-4bf4f5993e57",
+        "string": "No LEGO model is required to test this program."
+      }
+    ]
+  }
+}

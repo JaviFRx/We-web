@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0deb3fe1-fc82-41d6-febc-e4e0de54bf0f",
+        "string": "<font size=\"3\">In this project, you will:</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">Explore different weather-related hazards that everyone needs to be aware of, like tsunamis, tornados, and hurricanes, and the warning systems in place to help protect you.</font></div><br><div><font size=\"3\">Create and program a device that could warn people to take action because dangerous weather is coming.</font></div><br><div><font size=\"3\">Present and document your solution and explain how it helps reduce the impact on the population.</font></div>"
+      },
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<div><font size=\"3\">查看设计库的基本模型，并在它的启发下搭建你的解决方案。<br></font></div>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><div><div><div><div><div><div><font size=\"4\">预先警报如何帮助减少强风暴所带来的影响?</font><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">通过这个实验，你会：&nbsp;</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">• 探究不同的气象灾害（比如：海啸、龙卷风和飓风）以及为我们提供保护的预警系统。&nbsp;</font></div><div><font size=\"3\">• 创造一个设备，使其可以警告人们危险的天气即将来临，需要对此采取措施。&nbsp;</font></div><div><font size=\"3\">• 展示你的解决方案，并解释它是如何减少气象灾害对人们的影响的。</font></div><div><font size=\"3\">• 将你的学习成果记录在乐高文档中。</font></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. 灾害警报"
+      }
+    ]
+  }
+}

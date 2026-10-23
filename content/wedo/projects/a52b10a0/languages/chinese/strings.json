@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "4cf82175-7373-4169-0ba7-b1fb1f0e5cfb",
+        "string": "<font size=\"3\">In this project, you will:</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">Explore different ways material is transported and assembled.</font></div><br><div><font size=\"3\">Create and program a device that will help you carry and/or assemble differently sized objects, considering safety, efficiency, and storage.</font></div><br><div><font size=\"3\">Present and document your device and explain how it is designed to be safe and efficient.</font></div>"
+      },
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<div><font size=\"3\">查看设计库的基本模型，并在它的启发下搭建你的解决方案。<br></font></div>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><div><div><div><font size=\"4\">如何移动堆叠的物品?</font><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">通过这个实验，你会：&nbsp;</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">• 探究运输和组装材料的不同方式。&nbsp;</font></div><div><font size=\"3\">• 创造一个可以帮助你搬运和／或组装不同大小物体的设备，要考虑其安全性、工作效率和储藏方便性。&nbsp;</font></div><div><font size=\"3\">• 展示你的设备，并解释它的安全性和高效率。&nbsp;<br></font></div><font size=\"3\">• 将你的学习成果记录在乐高文档中。</font><br></div></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. 搬运材料"
+      }
+    ]
+  }
+}

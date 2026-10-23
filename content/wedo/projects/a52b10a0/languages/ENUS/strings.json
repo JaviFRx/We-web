@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Get inspired by the Design Library base models to build your own solution to this project.</span></div>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">How can stacking objects help move them?</font><font size=\"3\"><br></font></div><div><font size=\"3\">In this project, you will:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explore different ways material is transported and assembled.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Create and program a device that will help you carry and/or assemble differently sized objects, considering safety, efficiency, and storage.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Present and document your device and explain how it is designed to be safe and efficient.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Moving Materials"
+      }
+    ]
+  }
+}

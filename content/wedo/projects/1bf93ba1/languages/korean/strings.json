@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8b964291-66b5-4b21-a5b5-e2c435ceb0e7",
+        "string": "<font size=\"5\">블록 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">과학 탐사 차량 마일로가 식물 표본 앞에서 멈출 수 있도록 물체 탐지용 팔을 만드세요.</font></div>"
+      },
+      {
+        "refId": "e7bd83ea-ea4d-4df6-7bb5-e33aa0f41f5b",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치에 연결하세요.</font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">도움이 필요하거든 비디오를 보아 주세요.</span></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">추가로 지침이 필요하면 도움말 창을 보세요.</font></span></div></div>"
+      },
+      {
+        "refId": "770464a6-c412-4476-6e59-d3e48253ebf5",
+        "string": "<font size=\"3\">마일로가 식물 표본을 감지하는 순간 그 앞에서 멈추도록 프로그램을 작성하세요.</font>"
+      },
+      {
+        "refId": "2672ca79-2091-4dc0-1dd1-3255e6ba0dc4",
+        "string": "<font size=\"3\">마일로가 식물 표본에 다가가는 모습을 비디오로 녹화하세요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">마일로의 탐사 임무 과정을 문서화하세요.</font></div>"
+      },
+      {
+        "refId": "71ce5714-01e7-4133-4c28-ae7922f1198e",
+        "string": "<font size=\"3\">맥스와 미아가 마일로에게 물체를 감지할 수 있는 센서를 달아 주고 싶어 해요.</font>"
+      },
+      {
+        "refId": "8b17409e-1e28-4f6f-b06d-e0c7300be491",
+        "string": "<div><div><div><font size=\"3\">이번 프로젝트의 과제:</font></div><div><font size=\"3\"><br>• 모터 센서를 이용해 마일로의 물체 탐지용 팔을 조립하고 프로그래밍하세요.<br>• 마일로가 특별한 식물 표본을 어떻게 찾았는지를 문서에 기록하세요.</font><br><div></div></div></div></div>"
+      },
+      {
+        "refId": "cddad4d0-e43c-446f-97d0-92cb887a08b8",
+        "string": "B. 동작 센서"
+      }
+    ]
+  }
+}

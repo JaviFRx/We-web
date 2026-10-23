@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ef5e55e7-8c8e-4636-a984-85b2ed014ddf",
+        "string": "9a. Tareas paralelas"
+      },
+      {
+        "refId": "c23b3939-a193-43d5-7b1d-80d79f76a0b0",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Enviar mensaje \"abc\"&nbsp;</div><br><div>3. Iniciar cuando se reciba el mensaje \"abc\"&nbsp;</div><div>4. Mostrar imagen 3 en la pantalla&nbsp;</div><br><div>5. Iniciar cuando se reciba el mensaje \"abc\"&nbsp;</div><div>6. Reproducir sonido 6&nbsp;</div>"
+      },
+      {
+        "refId": "0a894d4e-7a21-494b-710e-cb0c9f22120f",
+        "string": "No se requieren modelos LEGO para probar este programa."
+      }
+    ]
+  }
+}

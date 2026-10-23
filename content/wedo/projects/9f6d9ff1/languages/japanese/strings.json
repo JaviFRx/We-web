@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d8d0a44f-fe6f-460d-b65c-f544560e927e",
+        "string": "3a.まばたき"
+      },
+      {
+        "refId": "7033c8ec-8f24-4405-7a2b-ba3e4b33ee4d",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.LED を色9 (赤) でオンにする&nbsp;</div><div>3.LED を色0 (色なし) でオフにする&nbsp;</div><div>4.ステップ2と3を永久に繰り返す&nbsp;</div>"
+      }
+    ]
+  }
+}

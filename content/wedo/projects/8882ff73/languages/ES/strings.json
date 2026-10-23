@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "98b4d326-2233-4773-8dae-54c99fc8d218",
+        "string": "11a. Movimiento de aproximación y alejamiento"
+      },
+      {
+        "refId": "0bdd3730-9df7-47c9-a810-74e7f80a46f3",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Esperar a que el sensor de movimiento detecte movimiento&nbsp;</div><div>3. Iniciar el motor en este sentido&nbsp;</div><div>4. Esperar a que el sensor de movimiento detecte movimiento&nbsp;</div><div>5. Iniciar el motor en otro sentido&nbsp;</div><div>6. Repetir pasos 2 a 5 para siempre</div>"
+      }
+    ]
+  }
+}

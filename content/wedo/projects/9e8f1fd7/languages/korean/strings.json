@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8889bb08-cc03-4540-8448-ee67d3ab4e50",
+        "string": "17. 달 기지"
+      },
+      {
+        "refId": "42b013c8-6baa-4fff-0317-26f266cc064b",
+        "string": "<font size=\"3\">맥스와 미아가 달에 기지를 건설하기 위해 로봇을 만들고 있어요.&nbsp;<br><br></font><div><font size=\"3\">여러 가지 물체를 수집할 로봇을 프로그래밍하는 것을 도와주세요.&nbsp;</font></div>"
+      },
+      {
+        "refId": "e69e786b-066d-45cf-8ef1-a2411c598995",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. 달에 물건을 보내려면 어떻게 해야 하나요?&nbsp;</font></div><div><font size=\"3\">2. 달에 물건을 내려놓으려면 어떻게 해야 하나요?&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">3. 달에 기지를 만들고 조립하기 위한 좋은 방법이 무엇일까요? </font></div></div>"
+      },
+      {
+        "refId": "cfee27b3-529f-4b74-47af-baf64b172566",
+        "string": "<font size=\"5\">블록 활용:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">방향을 이리저리 바꾸면서 움직일 수 있는 로봇을 조립하세요.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">이동할 수 있게 프로그래밍하세요.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "b532c30d-f275-477d-8070-209a6fbd1650",
+        "string": "<div><span style=\"color: inherit; font-size: 16px;\">1. 프로그램 시작 </span><br></div><div><font size=\"3\">2. 반시계 방향으로 모터 작동&nbsp;</font></div><div><font size=\"3\">3. 4의 출력으로 모터 작동 </font></div><div><font size=\"3\">4. 2초간 모터 작동 </font></div><div><font size=\"3\">5. 시계 방향으로 모터 작동&nbsp;</font></div><div><font size=\"3\">6. 2초간 모터 작동</font></div>"
+      },
+      {
+        "refId": "7f368ff6-a865-4f73-ff7e-22283eaaa470",
+        "string": "<font size=\"5\">해법 계획 및 시도:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\" size=\"3\">- 첫 번째 달 기지 모듈에 다다르기 위해 로봇이 따라가야 할 경로를 계획하세요.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">- 첫 번째 모듈로 이동하도록 로봇을 프로그래밍하세요.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "cecfc75b-ac62-487b-12c5-367028a970ba",
+        "string": "<font size=\"5\">해법 시도 및 수정:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">- 첫 번째와 두 번째 달 기지 모듈에 다다르기 위해 로봇이 가야 할 경로를 계획하세요.&nbsp;</font></div><font color=\"#ffffff\"><br></font><div><font color=\"#ffffff\">- 최종 위치에 다다르기 위해 로봇이 거쳐야 할 경로를 계획하세요.&nbsp;</font></div><br><div>- 이 경로들을 따라 이동하도록 로봇을 프로그래밍하세요. &nbsp;</div></div>"
+      },
+      {
+        "refId": "f929372d-e146-40cd-a16c-b25737005614",
+        "string": "<font size=\"5\">새로운 해법 구상&nbsp;</font><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "91fbc3ae-c4f2-4e12-af7c-040827afa6bb",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "57541f06-6c38-4970-5c61-8e318eb1830a",
+        "string": "<font size=\"5\">새로운 해법 구상:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">새 모듈이 달에 착륙했어요. 모듈들이 정사각형 형태로 착륙했어요.&nbsp; </font></div><font size=\"3\"><br></font><div><font size=\"3\">네 개의 모듈을 수거하도록 로봇을 프로그래밍하세요. &nbsp;</font><br></div></div>"
+      },
+      {
+        "refId": "c50d5eeb-496e-4a96-5e43-db7edd6718cf",
+        "string": "<font size=\"5\">정보의 정리:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">예:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- 최종 프로그램의 화면을 캡처하세요.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- 해법에 대한 설명을 비디오로 기록하세요. &nbsp;</font></div></div>"
+      },
+      {
+        "refId": "11e6d357-ed21-4621-8de1-257a567749b3",
+        "string": "<font size=\"5\">조사 결과 공유:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">해법을 발표하고 설명하세요.</font></div></div>"
+      },
+      {
+        "refId": "0b9e4a01-e5c9-4ad8-a3f7-4f310b12d736",
+        "string": "<div><div><font size=\"5\">달 기지를 어떻게 설치하면 좋을까요?</font></div><br><div>이 프로젝트의 과제:&nbsp;</div><div>&nbsp;- 달에 기지를 설치해야 하는 이유와 어떻게 할 수 있는지를 연구하세요.&nbsp;</div><div>&nbsp;- 달의 표면에서 이동할 수 있는 로봇을 만들고 프로그래밍하세요.&nbsp;&nbsp;</div><div>&nbsp;- 특정 위치에 달 기지를 세우기 위한 프로그램을 테스트하세요.&nbsp;</div><div>&nbsp;- 이 임무를 성공적으로 완수할 방법에 관한 프로그램과 아이디어를 공유하세요.&nbsp;</div></div>"
+      },
+      {
+        "refId": "e4effe28-5fa1-42ad-ae93-1fa15fb20754",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치에 연결하세요.&nbsp;</font><div><font size=\"3\">도움이 필요하면 비디오를 보아주세요.&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">자세한 지침은 도움말 창을 보아주세요.&nbsp;</font></div></div></div>"
+      }
+    ]
+  }
+}

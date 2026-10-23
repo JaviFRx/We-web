@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. 操纵杆"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. 当按压“A”时启动程序&nbsp;<div>2. 等待倾斜传感器检测到向下倾斜&nbsp;</div><div>3. 顺时针运转启动电机&nbsp;</div><div>4. 无限重复第 2 步和第 3 步&nbsp;</div><br><div>5. 当按压“A”时启动程序&nbsp;</div><div>6. 等待倾斜传感器检测到不存在倾斜&nbsp;</div><div>7. 停止电机&nbsp;</div><div>8. 无限重复第 6 步和第 7 步</div>"
+      }
+    ]
+  }
+}

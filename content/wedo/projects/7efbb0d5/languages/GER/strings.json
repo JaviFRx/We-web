@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "163a6e08-7d8d-49ed-46a4-5e2c9257c54a",
+        "string": "<font size=\"3\">Schaut euch die Basismodelle in der Konstruktionsbibliothek an und lasst euch beim Bau eures Modells davon inspirieren.</font>"
+      },
+      {
+        "refId": "6f9a40b8-3dc4-4340-0f92-ab0ccb70392e",
+        "string": "<div><div><div><div><div><font size=\"3\">In diesem Projekt werdet ihr:</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">• lernen, wie unterschiedlich Tiere ihre Beute jagen</font></div><div><font size=\"3\">• ein Modell eines Raubtieres bauen</font></div><div><font size=\"3\">• ein Programm schreiben, mit dem ihr zeigen könnt, wie sich das Jagdverhalten eines Tieres an das Verhalten seiner Beute anpasst</font></div><div><font size=\"3\">• eure Ergebnisse dokumentieren und präsentieren</font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "1e81cb50-cb3a-408c-a4cd-055ec83740d8",
+        "string": "9. Räuber und Beute"
+      }
+    ]
+  }
+}

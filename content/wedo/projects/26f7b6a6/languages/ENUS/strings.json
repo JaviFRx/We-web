@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bf97931-9b29-402f-6df6-848426f8b305",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Get inspired by the Design Library base models to build your own solution to this project.</span></div>"
+      },
+      {
+        "refId": "7dad6fd3-e13d-494f-56f5-8442f8488352",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">How can you clean the oceans?</font></span></div><div><font size=\"3\">In this project, you will:<br></font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explore why is it important to take care of the oceans and keep them clean of plastic debris.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Create and program a device that can help physically collect plastics of certain types and sizes from the ocean.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Present and document</font> your device, and explain what your solution has been designed to collect and how it does that.</font></div></div>"
+      },
+      {
+        "refId": "327fbec1-201b-4cc5-ba4b-77000c21d5b2",
+        "string": "14. Cleaning the Oceans"
+      }
+    ]
+  }
+}

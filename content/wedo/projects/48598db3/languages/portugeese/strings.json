@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "80c77c25-97ff-4fb4-b682-be8483721d2f",
+        "string": "13. Detectar som"
+      },
+      {
+        "refId": "c04bb26e-9282-4c9a-d577-ec6da2613ea6",
+        "string": "1. Iniciar programa&#160;<div>2. Esperar que o Sensor de Som detecte sons&#160;</div><div>3. Iniciar motor em 2 segundos</div>"
+      },
+      {
+        "refId": "d9f890b1-d466-4126-47fc-22bec24ba828",
+        "string": "1. Iniciar programa&#160;<div>2. Mostrar o nível do som no monitor&#160;</div><div>3. Repetir a etapa 2 indefinidamente</div>"
+      }
+    ]
+  }
+}

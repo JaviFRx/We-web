@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "abe58040-caca-4821-9462-b1e537383b01",
+        "string": "<font size=\"3\">Schaut euch die Basismodelle in der Konstruktionsbibliothek an, und lasst euch beim Bau eures Modells davon inspirieren.&#160;</font><br>"
+      },
+      {
+        "refId": "5dbcbe83-c813-45e9-0c35-d6cbd095991d",
+        "string": "<div><div><div><div><font size=\"3\">In diesem Projekt werdet ihr:</font><div><font size=\"3\"><br></font><div><font size=\"3\">• lernen, welche Techniken Tiere entwickelt haben, um sich zu verständigen</font></div><div><font size=\"3\">• ein Modell eines Tieres bauen</font></div><div><font size=\"3\">• ein Programm schreiben, mit dem ihr veranschaulichen könnt, wie sich euer Tier mit seinen Artgenossen verständigen kann</font></div><div><font size=\"3\">• eure Ergebnisse dokumentieren und präsentieren</font><br></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "2e31136e-0888-421a-a08b-1a26dc5c41ad",
+        "string": "10. Kommunikation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8ba87780-571f-4aa6-b409-ff895199687b",
+        "string": "7a. 속도 곱하기"
+      },
+      {
+        "refId": "ecf860f4-b4d1-4e66-9c5b-2a234dc6277e",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 화면에 텍스트 \"2\" 표시&nbsp;</div><div>3. 화면에 표시된 숫자와 같은 수준의 출력으로 모터 작동&nbsp;</div><div>4. 3단계를 무한 반복&nbsp;</div><div>5. 프로그램 시작&nbsp;</div><div>6. 화면의 숫자에 2 곱하기</div>"
+      }
+    ]
+  }
+}

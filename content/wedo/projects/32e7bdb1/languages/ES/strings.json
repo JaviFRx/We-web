@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "765a1a50-52a3-42d1-bf5a-adb579d3db32",
+        "string": "3. Luz"
+      },
+      {
+        "refId": "e13efddc-e9e0-4a99-92ec-a7a349ec6ecb",
+        "string": "1. Iniciar el programa<div>2. Encender el LED en el color 9 (rojo)</div>"
+      },
+      {
+        "refId": "9f50f589-5887-482f-2c6b-f3aea3632543",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Apagar el LED color 0 (sin color)</div>"
+      }
+    ]
+  }
+}

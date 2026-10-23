@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ea01e383-d4aa-41ba-ac8c-73c2f8d402f0",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</span></div>"
+      },
+      {
+        "refId": "9c2d90a7-fcb9-4554-e0e5-57dc2667c26e",
+        "string": "<div><font size=\"4\">Comment est-il possible d’explorer la surface d’autres planètes ?</font><font size=\"3\"><br></font></div><div><font size=\"3\">Dans ce projet, vous allez&nbsp;:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorer des missions réelles d’astromobiles et imaginer de nouvelles possibilités.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Créer et programmer une astromobile pour une tâche précise, comme&nbsp;: entrer dans un cratère et en sortir, prélever un échantillon de roche, creuser un trou dans le sol, etc.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Présenter et documenter vo</font>tre prototype et ce que vous pouvez découvrir si votre mission réussit.</font></div></div>"
+      },
+      {
+        "refId": "d995953a-dece-494f-954d-9d6bcf56c598",
+        "string": "12. Exploration spatiale"
+      }
+    ]
+  }
+}

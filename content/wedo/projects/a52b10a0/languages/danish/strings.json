@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<font size=\"3\">Kig på grundmodellerne i designbiblioteket, og få idéer til, hvordan du kan bygge din egen løsning til dette projekt.</font>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">Hvordan kan stabling af genstande være en hjælp til at flytte dem?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette projekt skal du:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">undersøge forskellige måder, man kan transportere og samle materialer</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">bygge og programmere en indretning, der kan hjælpe med at transportere og/eller samle genstande af forskellige størrelser med fokus på sikkerhed, effektivitet og opbevaring</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">præsentere og dokumentere din indretning og forklare, hvordan den er designet til at være sikker og effektiv.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Flytning af materialer"
+      }
+    ]
+  }
+}

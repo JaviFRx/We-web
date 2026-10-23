@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Joystick"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Start programmet ved tryk på \"A\"&#160;<div>2. Vent på, at hældningssensoren registrerer hældning nedad&#160;</div><div>3. Start motor på denne måde&#160;</div><div>4. Gentag trin 2 og 3 for evigt.&#160;</div><br><div>5. Start programmet ved tryk på \"A\"&#160;</div><div>6. Vent på, at hældningssensoren registrerer ingen hældning&#160;</div><div>7. Stop motor&#160;</div><div>8. Gentag trin 6 og 7 for evigt</div>"
+      }
+    ]
+  }
+}

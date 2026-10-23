@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "Lichtgevende slak"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\"><font size=\"3\">Laat de slak een groene lichtflits&nbsp;maken.<br></font><br></font><font size=\"3\">1. Maak het programma zoals aangegeven.</font><br><br><div><div><font size=\"3\">2. Leg aan elkaar uit hoe de slak werkt.</font><br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">Help Max en Mia verder (optioneel):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Laat het licht meerdere keren knipperen.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmeer de slak zodat hij andere dingen doet.</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">Max en Mia brengen een bezoek aan een <font color=\"#000000\">aquarium</font>. Ze zien er een zeldzame slak.</font><div><font size=\"3\">De slak geeft groene lichtflitsen om te communiceren.</font><br></div><font size=\"3\"><br></font><div><font size=\"3\">Ze willen een model van de slak bouwen.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max en Mia hebben je hulp nodig!&nbsp;</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">Tijdens deze les leer je de volgende dingen:<br><br></font><div><font size=\"3\">•&nbsp;Een LEGO® model bouwen</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Je model verbinden met je apparaat</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span></font><span style=\"line-height: 1.42857;\"><font size=\"3\">De slak programmeren zodat deze een groene lichtflits geeft.</font></span></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">Zet de Smarthub aan en koppel deze aan je apparaat.</font><br><br>"
+      }
+    ]
+  }
+}

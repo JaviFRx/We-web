@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "35d30095-da52-4527-99ef-2f253c0cee29",
+        "string": "5a. 显示屏大小"
+      },
+      {
+        "refId": "80154b18-9014-4b4a-671e-b2d8985f64c8",
+        "string": "1. 启动程序&nbsp;<div>2. 以中等大小显示&nbsp;</div><div>3. 在显示屏上显示文本“123”&nbsp;</div><div>4. 等待 1 秒&nbsp;</div><div>5. 以全屏显示&nbsp;</div><div>6. 等待 1 秒&nbsp;</div><div>7. 关闭显示屏</div>"
+      },
+      {
+        "refId": "681e019c-50fd-42a1-b5ee-e1a4b2482047",
+        "string": "LEGO 模型无需测试此程序。"
+      }
+    ]
+  }
+}

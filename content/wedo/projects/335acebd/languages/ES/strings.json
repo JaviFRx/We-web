@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "482c5392-d024-4315-a8db-f4acecc3f44d",
+        "string": "22. Diseño emocional"
+      },
+      {
+        "refId": "9ba064a0-ce30-463e-0826-cb0cfff554e2",
+        "string": "<div><div><div><font size=\"5\">¿Cómo interaccionan los robots con los humanos para crear emociones positivas?</div><br><div>En este proyecto, harás lo siguiente:&nbsp;</div><div>- Explorar cómo los robots pueden crear emociones positivas en situaciones cotidianas&nbsp;</div><div>- Construir y programar un robot que interactúe con la gente para crear emociones positivas&nbsp;</div><div>- Probar tu programa en situaciones diferentes y registrar los datos sobre tu prototipo&nbsp;</div><div>- Compartir tu programa y tus ideas</div></div></div>"
+      },
+      {
+        "refId": "6c7fdc7c-74c6-434c-2738-081b21424fd9",
+        "string": "<div style=\"text-align: center;\">Inspírate en los modelos básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</div>"
+      },
+      {
+        "refId": "252b07a9-50b9-44d3-89b3-8e38912b2b8d",
+        "string": "<div style=\"text-align: center;\">Inspírate en los programas básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</div>"
+      }
+    ]
+  }
+}

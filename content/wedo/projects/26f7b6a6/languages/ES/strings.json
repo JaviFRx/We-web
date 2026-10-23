@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bf97931-9b29-402f-6df6-848426f8b305",
+        "string": "<font size=\"3\">Inspírate en los modelos básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</font>"
+      },
+      {
+        "refId": "7dad6fd3-e13d-494f-56f5-8442f8488352",
+        "string": "<div><font size=\"4\">¿Cómo limpiar mares y océanos?</font><font size=\"3\"><br></font></div><div><font size=\"3\">En este proyecto, harás lo siguiente:<br></font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorar por qué es importante cuidar los mares y océanos y mantenerlos limpios de residuos plásticos.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Crear y programar un dispositivo que sea capaz de recoger físicamente plásticos de determinados tipos y tamaños del mar.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentar y documentar</font> tu dispositivo y explicar qué objetos va a recoger tu solución según su diseño y cómo lo conseguirá.</font></div></div>"
+      },
+      {
+        "refId": "327fbec1-201b-4cc5-ba4b-77000c21d5b2",
+        "string": "14. Limpieza del mar"
+      }
+    ]
+  }
+}

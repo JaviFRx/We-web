@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "Движущийся спутник"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><font size=\"3\">На этом уроке вы научитесь:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">собирать модель из конструктора LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">подключать модель к своему электронному устройству</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• программировать</span><span style=\"line-height: 1.42857;\">&nbsp;мотор, чтобы он вращался в течение определенного времени</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• программировать мотор, чтобы он вращался в другую сторону</font></span></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">Миша и Маша слушают новости. Они узнают, что ученые запустили в космос спутник.</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Иногда спутникам нужно поворачивать, чтобы не столкнуться с космическими объектами.&#160;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Ребята решают построить свой спутник.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Мише и Маше нужна ваша помощь!</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">Заставьте двигатель спутника вращаться в течение 3 секунд.<br><br>1. Выполните показанную программу.</font><div><font size=\"3\"><br>2. Расскажите друг другу, как работает ваш спутник.</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">Давайте ещё поможем Мише и Маше (дополнительное задание)?</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Сделайте так, чтобы двигатель спутника вращался в другую сторону дольше.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Придумайте программу, чтобы научить спутник выполнять и другие команды.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">включать СмартХаб и подключать его к своему электронному устройству.</font><br>"
+      }
+    ]
+  }
+}

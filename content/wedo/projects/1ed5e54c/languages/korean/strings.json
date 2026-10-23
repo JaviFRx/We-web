@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5348bb44-c747-4bcc-ab3b-8a1368e8d9cd",
+        "string": "9b. 무작위 메시지 전송"
+      },
+      {
+        "refId": "e0f98a27-bf25-4f43-c5f6-b330055efd81",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 화면에 무작위 숫자 표시&nbsp;</div><div>3. 화면의 숫자와 일치하는 메시지 전송&nbsp;</div><br><div>4. 메시지 \"1\"이 수신되면 시작&nbsp;</div><div>5. 화면에 표시된 번호의 사운드를 재생&nbsp;</div><br><div>6. 메시지 \"2\"가 수신되면 시작&nbsp;</div><div>7. 화면에 표시된 번호의 사운드를 재생&nbsp;</div>"
+      },
+      {
+        "refId": "64381edb-26cf-4c95-0b16-f084e716f017",
+        "string": "레고 모델이 없어도 이 프로그램을 테스트할 수 있습니다."
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fbadd076-3c96-4231-a39a-80b81d55e499",
+        "string": "10a. Vent på tilfeldig"
+      },
+      {
+        "refId": "21742926-c43b-437f-41f8-b25fb615f850",
+        "string": "1. Start program&#160;<div>2. Start Kjør fremover&#160;</div><div>3. Vent i et tilfeldig antall sekunder&#160;</div><div>4. Stans motor</div>"
+      }
+    ]
+  }
+}

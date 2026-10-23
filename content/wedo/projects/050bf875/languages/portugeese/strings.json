@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<font size=\"3\">Max e Mia estão considerando diferentes tipos de precipitação na sua região.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Eles querem saber como fazer com que a precipitação não impacteo solo em sua região.</font></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<font size=\"5\">Explorem as dúvidas de Max e Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Vocês podem descrever os níveis de precipitação para cada estação do ano na sua região usando um gráfico de barras?</font></div><div><font size=\"3\">2. De que forma a precipitação influencia os níveis de água em um rio?</font></div><div><font size=\"3\">3. Quais são algumas formas pelas quais pode-se evitar uma inundação?</font></div><div><font size=\"3\">4. Vocês conseguem imaginar um dispositivo que pode evitar que uma inundação aconteça?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Compartilhem as suas ideias na ferramenta Registro.</font></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<font size=\"5\">Usando as peças:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Construam uma comporta que possa controlar o nível de água de um rio.</font></div>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<font size=\"3\">Programem sua comporta para abrir e fechar no período apropriado de acordo com o seu gráfico de barras.</font>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<font size=\"4\">Projetem uma solução:</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">Adicionem sensores à comporta para automatizá-la.</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">Considerem um dos itens a seguir:</font></div><div><font size=\"3\">1. Adicionar uma alavanca de sensor de inclinação para operar o portão.</font></div><div><font size=\"3\">2. Adicionar um sensor de movimento para detectar a elevação da água.</font></div><div><font size=\"3\">3. Adicionar uma entrada de sensor de som para ativar o protocolo de emergência.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Descrevam como vocês automatizaram a comporta.</font></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<font size=\"5\">Finalizem o seu registro.</font><br><br><div><font size=\"3\">1. Descrevam seus diferentes protótipos.</font></div><div><font size=\"3\">2. Expliquem por que vocês escolheram sua solução final.</font></div><div><font size=\"3\">3. Organizem suas informações.</font></div><div><font size=\"3\">4. Insiram textos, imagens, capturas de tela ou vídeos importantes.</font></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<font size=\"5\">Compartilhem as suas descobertas:<br></font><br><div><font size=\"3\">Apresentem, com suas próprias palavras, como uma comporta pode evitar que a água modifique o formato do solo.</font></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<font size=\"5\">Compartilhem seu projeto</font>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<font size=\"5\">Projetem novas soluções</font><div><font size=\"5\">com Max e Mia</font></div>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<font size=\"4\">Como vocês podem reduzir o impacto da erosão hídrica?</font><br><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Neste projeto, você irá:</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">Explorar as alterações de precipitação de acordo com as das estações do ano e como a água pode causar danos se não for controlada.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">Criar e programar uma comporta para controlar o nível de água de um rio.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">Registrar e apresentar as diversas soluções projetadas para evitar que a água altere o formato do solo.</span></font></div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<font size=\"3\">Liguem o Smarthub e o conectem ao seu dispositivo. Assistam ao vídeo se precisarem de ajuda.</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">Consultem o painel de ajuda para obter outras orientações.</font></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6. Prevenindo Inundações"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<font size=\"5\">Projetem novas soluções:</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construam outras funções que um portão possa ter.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Considerem o seguinte:</font></div><div><font size=\"3\">1. Façam um mapa da localização da comporta, incluindo as áreas do solo e do rio.</font></div><div><font size=\"3\">2. Projetem <span style=\"line-height: 1.42857143;\">outro tipo de portão.</span></font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. Programem dois portões para ajudar um barco a navegar pela seção de um rio.</font></span></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Registrem a nova solução.</font></span><br></div>"
+      }
+    ]
+  }
+}

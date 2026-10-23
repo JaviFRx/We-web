@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<font size=\"3\">Max et Mia examinent différents types de précipitations dans leur région.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Ils veulent savoir comment empêcher les précipitations d’abîmer le terrain dans leur région.</font></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Pouvez-vous décrire les niveaux de précipitation dans votre région, pour chaque saison, à l’aide d’un graphique à barres.</font></div><div><font size=\"3\">2. Comment les précipitations influencent-elles les niveaux d’eau dans un fleuve&#160;?</font></div><div><font size=\"3\">3. Par quels différents moyens pouvez-vous empêcher une inondation&#160;?</font></div><div><font size=\"3\">4. Pouvez-vous imaginer un dispositif permettant d’éviter les inondations&#160;?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Partagez vos idées dans l’outil de documentation.</font></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Construisez une vanne de décharge pouvant contrôler le niveau de l’eau dans un fleuve.</font></div>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<font size=\"3\">Programmez votre vanne de décharge pour qu’elle s’ouvre et se ferme aux moments appropriés, selon votre graphique à barres.</font>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<font size=\"4\">Concevez une solution&#160;:</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">Ajoutez des capteurs à la vanne de décharge afin de l’automatiser.</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">Choisissez l’un des aspects suivants&#160;:</font></div><div><font size=\"3\">1. Ajoutez un détecteur d’inclinaison pour faire fonctionner la vanne de décharge.</font></div><div><font size=\"3\">2. Ajoutez un détecteur de mouvement pour détecter la montée des eaux.</font></div><div><font size=\"3\">3. Ajoutez une entrée de capteur sonore pour activer un protocole d’urgence.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Décrivez comment vous avez automatisé la vanne de décharge.</font></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<font size=\"5\">Terminez votre document&#160;:</font><br><br><div><font size=\"3\">1. Décrivez vos différents prototypes.</font></div><div><font size=\"3\">2. Expliquez pourquoi la solution que vous avez finalement choisie vous semble la meilleure.</font></div><div><font size=\"3\">3. Organisez vos informations.</font></div><div><font size=\"3\">4. Insérez des textes, images, captures d’écran ou vidéos importants.</font></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:<br></font><br><div><font size=\"3\">En utilisant vos propres mots, présentez comment une vanne de décharge peut empêcher l’eau de changer la forme du terrain.</font></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions</font><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<font size=\"4\">Comment pouvez-vous réduire l’impact de l’érosion causée par l’eau&#160;?</font><br><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Dans ce projet, vous allez&#160;:</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">Explorer le changement des précipitations au cours des saisons et comment l’eau peut causer des dégâts si elle n’est pas contrôlée.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">Créer et programmer une vanne de décharge pour contrôler le niveau d’eau d’un fleuve.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">Présenter et documenter plusieurs solutions conçues pour empêcher l’eau de modifier la forme du terrain.</span></font></div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6. Prévention des inondations"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions&#160;:</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construisez d’autres fonctions possibles pour une vanne de décharge.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Choisissez l’un des aspects suivants&#160;:</font></div><div><font size=\"3\">1. Dessinez une carte de l’emplacement de la vanne de décharge, en incluant les zones de terre et les fleuves.</font></div><div><font size=\"3\">2. Concevez<span style=\"line-height: 1.42857143;\"> un autre type de vanne de décharge.</span></font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. Programmez deux vannes de décharge pour aider un bateau à naviguer sur une partie d’un fleuve.</font></span></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Documentez votre nouvelle solution.</font></span><br></div>"
+      }
+    ]
+  }
+}

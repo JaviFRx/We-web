@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9997a889-7228-456c-aa52-711510c4a900",
+        "string": "8. Start beim Drücken einer Taste"
+      },
+      {
+        "refId": "d70cc55c-4f0d-4b2e-6562-f5693f988a3a",
+        "string": "1. Programm starten, wenn „A“ gedrückt wird&nbsp;<div>2. Motor 2 Sekunden lang starten</div>"
+      },
+      {
+        "refId": "f88783b4-f0eb-41b3-3860-f2f246ab33a0",
+        "string": "1. Programm starten, wenn „Y“ gedrückt wird&nbsp;<div>2. Motor 2 Sekunden lang starten<br><br><div>3. Programm starten, wenn „A“ gedrückt wird&nbsp;</div><div>4. Klang 1 abspielen</div></div>"
+      }
+    ]
+  }
+}

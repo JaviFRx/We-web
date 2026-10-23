@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "80c77c25-97ff-4fb4-b682-be8483721d2f",
+        "string": "13. 사운드 감지"
+      },
+      {
+        "refId": "c04bb26e-9282-4c9a-d577-ec6da2613ea6",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 사운드 센서가 사운드를 감지할 때까지 대기&nbsp;</div><div>3. 2초간 모터 작동</div>"
+      },
+      {
+        "refId": "d9f890b1-d466-4126-47fc-22bec24ba828",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 화면에 사운드 크기 표시&nbsp;</div><div>3. 2단계를 무한 반복</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8b964291-66b5-4b21-a5b5-e2c435ceb0e7",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Create an object-detector arm to help Milo the Science Rover stop at the plant specimen.</font></div>"
+      },
+      {
+        "refId": "e7bd83ea-ea4d-4df6-7bb5-e33aa0f41f5b",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device.</font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">Watch the video if you need help.</span></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">See the Help panel for more guidance.</font></span></div></div>"
+      },
+      {
+        "refId": "770464a6-c412-4476-6e59-d3e48253ebf5",
+        "string": "<font size=\"3\">Program Milo to stop in front of the plant specimen when it detects it.</font>"
+      },
+      {
+        "refId": "2672ca79-2091-4dc0-1dd1-3255e6ba0dc4",
+        "string": "<font size=\"3\">Record a video of Milo reaching the plant specimen.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Document Milo's discovery mission.</font></div>"
+      },
+      {
+        "refId": "71ce5714-01e7-4133-4c28-ae7922f1198e",
+        "string": "<font size=\"3\">Max and Mia would like Milo to have a sensor to detect objects.</font><br>"
+      },
+      {
+        "refId": "8b17409e-1e28-4f6f-b06d-e0c7300be491",
+        "string": "<div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">In this project, you will:&nbsp;</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857;\">•&nbsp;</span><font size=\"3\"><span style=\"line-height: 1.42857;\">Create and program Milo's object-detector arm using the Motion Sensor Input.&nbsp;</span></font></div><div><span style=\"line-height: 1.42857;\">•&nbsp;</span><font size=\"3\"><span style=\"line-height: 1.42857;\">Document how Milo has found the special plant specimen.</span></font></div><div><div></div></div></div>"
+      },
+      {
+        "refId": "cddad4d0-e43c-446f-97d0-92cb887a08b8",
+        "string": "B. Milo's Motion Sensor"
+      }
+    ]
+  }
+}

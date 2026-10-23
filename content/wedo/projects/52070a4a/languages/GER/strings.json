@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1ed6e30e-6c7f-4970-79b7-802f0fae7408",
+        "string": "<font size=\"3\">Max und Mia sind fasziniert von den Blumen in ihrem Garten.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Sie wollen herausfinden, wie das mit den Bienen und der Blütenbestäubung funktioniert.</font><br></div>"
+      },
+      {
+        "refId": "e1f3b987-e02b-4478-1064-76a51d683354",
+        "string": "<font size=\"5\">Max und Mia fragen sich:&nbsp;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Wie tragen Bienen zur Blütenbestäubung bei?</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Überlegt gemeinsam.&nbsp;<span style=\"color: inherit; line-height: 1.42857;\">Was vermutet ihr?</span></font></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">• Schreibt eure Überlegungen und Antworten auf.</font></span></div>"
+      },
+      {
+        "refId": "90b1b939-544c-4339-32a7-7bf54f35a8e0",
+        "string": "<div><font size=\"5\">Verwendet die Bausteine:</font></div><font size=\"3\"><div><font size=\"3\"><br></font></div><font size=\"3\">Baut ein Modell, mit dem man die Blütenbestäubung durch Bienen veranschaulichen kann.</font></font><br>"
+      },
+      {
+        "refId": "248a9f42-8469-4c6e-b2b1-64c82f192e78",
+        "string": "<div><font size=\"5\">Programmieren:</font></div><div><font size=\"3\"><br></font></div><font size=\"3\">Schreibt ein Programm, mit dem die Biene in eurem Modell über die Blüte fliegen kann.&#160;</font>"
+      },
+      {
+        "refId": "0c165a49-c4b1-402e-cc15-6fd169f3172d",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font><br></div></div>"
+      },
+      {
+        "refId": "bd9689bb-8482-4a1c-24f4-c558e5fa63b6",
+        "string": "<div><font size=\"5\">Das Modell zur Blütenbestäubung verbessern</font></div><br><div><font size=\"3\">1. Wie könnt ihr mit den Sensoren den Flug der Biene noch steuern?</font></div><div><font size=\"3\">• Baut euer Modell entsprechend um.</font></div><div><font size=\"3\">• Schreibt ein passendes Programm.</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">2. Was kann euer Modell im Vergleich zur echten Biene nicht?</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\"><font size=\"3\">• Überlegt gemeinsam.</font>&#160;</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">• Schreibt eure Überlegungen und Ergebnisse auf.</font></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">• Dokumentiert eure Änderungen am Modell.</font></span><br></div>"
+      },
+      {
+        "refId": "f2efc131-abe3-422b-36ea-9e1746fdda34",
+        "string": "<font size=\"5\">Bereitet eure Präsentation vor:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Beantwortet Max' und Mias Fragen.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Beschreibt, was euer Modell im Vergleich zur echten Biene nicht kann.</span><br></font></div><div><font size=\"3\">2.&nbsp;<span style=\"color: inherit; line-height: 1.42857;\">Überarbeitet eure Präsentation.</span></font></div><div><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\">3. Ihr könnt noch wichtige Informationen, passende Bilder, Videos oder Screenshots einfügen.</font></span></div>"
+      },
+      {
+        "refId": "22896aef-5632-4d2e-e0f8-b49593eabc3a",
+        "string": "<font size=\"5\">Präsentiert eure Ergebnisse:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beschreibt mit euren eigenen Worten, wie Bienen Blüten bestäuben.</font><br></div>"
+      },
+      {
+        "refId": "e8080f5f-d4a8-4546-7c0d-f2cf11128489",
+        "string": "<div><span style=\"line-height: 28px;\"><font size=\"5\">Expertenauftrag</font></span></div>"
+      },
+      {
+        "refId": "6d909856-1718-4a63-08d8-0a8b8c297284",
+        "string": "<font size=\"5\">Dokumentation</font>"
+      },
+      {
+        "refId": "59076eff-8410-43d6-3d73-ea4f58d9c3b4",
+        "string": "<div><font size=\"4\">Wie tragen Bienen zur Blütenbestäubung bei?</font><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">In diesem Projekt werdet ihr:</span><br></font></div><div><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>lernen, wie Bienen zur Blütenbestäubung beitragen&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>ein Modell bauen, mit dem man die Blütenbestäubung durch Bienen veranschaulichen kann&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>ein Programm schreiben, mit dem man die Blütenbestäubung durch Bienen veranschaulichen kann&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>eure Ergebnisse dokumentieren und präsentieren</font><br></div></div>"
+      },
+      {
+        "refId": "322b8ea4-3045-4c2e-233f-94b00d524e24",
+        "string": "<font size=\"3\"><font size=\"5\">Expertenauftrag:<br></font><br><font size=\"3\">1. Bienen sind nicht die einzigen Insekten, die zur Blütenbestäubung beitragen.</font></font><div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">Kennt ihr noch andere Insekten?&nbsp;</span><br></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"color: inherit; line-height: 1.42857;\">Überlegt gemeinsam.&nbsp;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"color: inherit; line-height: 1.42857;\">Baut ein neues Modell.&nbsp;</span><br></font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">• Beschreibt euer Vorgehen.</font></div><div><font color=\"#ffffff\" size=\"3\">• Dokumentiert, wie eure gewählten Insekten zur Blütenbestäubung beitragen.</font><br></div></div>"
+      },
+      {
+        "refId": "7f9c9614-0d01-4cd5-b7fa-504fc1294a98",
+        "string": "5. Blütenbestäubung"
+      }
+    ]
+  }
+}

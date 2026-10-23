@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bf97931-9b29-402f-6df6-848426f8b305",
+        "string": "<font size=\"3\">Bli inspirert av grunnmodellene i designbiblioteket, og bygg din egen løsning på dette prosjektet."
+      },
+      {
+        "refId": "7dad6fd3-e13d-494f-56f5-8442f8488352",
+        "string": "<div><font size=\"4\">Hvordan kan du rengjøre havene?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette prosjektet skal du:<br></font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Utforske hvorfor det er viktig å ta vare på havene og fjerne plastavfall.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Lage og programmere en enhet som fysisk kan bidra til å samle inn bestemte typer plastavfall med ulike størrelser, fra havene.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presenterer og dokumentere</font> enheten, og forklare hva løsningen din har blitt designet for å samle inn og hvordan.</font></div></div>"
+      },
+      {
+        "refId": "327fbec1-201b-4cc5-ba4b-77000c21d5b2",
+        "string": "14. Rensing av havene"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<font size=\"3\">경주차가 처음 발명된 이래로 경주차의 여러 부분이 달라졌다는 것을 맥스와 미아가 알게 되었어요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">맥스와 미아는 자동차를 더 빨리 달리게 하는 방법을 조사하고 싶어 해요.</font></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 자동차를 더 빨리 달리게 하기 위해 사용된 방법으로는 어떠한 것들이 있나요?</font></div><div><font size=\"3\">2. 자동차가 일정 거리를 달리는 데 걸리는 시간은 어떠한 요인에 의해 결정되나요?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">문서화 도구를 이용해 아이디어를 공유하세요.</font></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<font size=\"5\">블록 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">앞으로 전진하다가 결승선에서 멈춰 설 수 있는 경주차를 조립하세요.</font></div>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "<font size=\"3\">비디오에서 본 것처럼 일정한 거리만큼 앞으로 전진하도록 경주차를 프로그래밍하세요.</font>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치를 연결하세요.&nbsp;</font><div><font size=\"3\">도움이 필요하면 비디오를 보아 주세요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">자세한 지침은 도움말 창을 보아 주세요.</font></div></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<font size=\"5\">맥스와 미아가 함께 하는 조사 활동:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">모터의 출력을 10으로 설정하세요.</font></div><div><font size=\"3\">1. 작은 바퀴를 이용해 프로그램을 실행하고, 세 번 반복하세요.&#160;</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">테스트 결과를 문서에 기록하세요</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">2. 큰 바퀴로 바꾸고, 1단계를 반복하세요.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. 자동차가 작은 바퀴와 큰 바퀴를 사용하여 두 배의 거리를 이동하는 데 걸리는 시간이 얼마나 될지 예측해 보세요.</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">예측한 내용을 문서에 기록하세요</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">4. 작은 바퀴와 큰 바퀴에 대해 자신이 예측한 값을 테스트해 보세요.</font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">알아낸 바를 문서에 기록하세요.</font></span></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<font size=\"5\">문서 최종 완성:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 예측 값을 검토하고, 이번 조사에서 어떤 일이 일어났는지를 설명하세요.</font></div><div><font size=\"3\">2. 정보를 정리하고 다른 학생들과 공유하세요.</font></div><div><font size=\"3\">3. 중요한 글, 그림, 화면 캡처 또는 비디오를 프로젝트에 추가하세요.</font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<font size=\"5\">탐구 결과 공유:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">조사 결과에 기초하여 어떤 요인이 자동차를 더 빨리 달리게 하는지를 자신의 생각으로 설명하세요.</font></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<font size=\"5\">맥스와 미아가 함께 하는</font><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">어떻게 해야 차가 더 빨리 달릴 수 있을까요?</font></span><br></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">이번 프로젝트의 과제:</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>경주차의 특성을 조사하세요.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>어떠한 요인이 자동차를 더 빨리 달리게 하는지를 조사하기 위한 경주차 모델을 조립하고 프로그래밍하세요.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>자동차를 가장 빨리 달리게 만드는 방법을 문서에 기록하고 발표하세요.</font></div>"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<font size=\"5\">추가 조사:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 큰 바퀴와 5의 모터 출력과 도르래 구성 A를 이용해 프로그램을 실행하되, 세 번 반복하세요.&#160;</font></div><div><font color=\"#ffffff\" size=\"3\">결과를 문서에 기록하세요.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. 도르래 구성을 B로 바꾸고, 1단계를 반복하세요.&#160;</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. 자동차의 속도에 영향을 미치는 다른 요인을 찾아보세요.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">이전에 조사한 결과와 이번의 결과가 어떻게 다른지 문서에 기록하세요.</font></span></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2. 속도"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5ca3b51c-f0c8-488f-a615-540c8e94ae0f",
+        "string": "6. Texte"
+      },
+      {
+        "refId": "1e7fe1b7-c62c-48a9-fd67-5e6e97ddb919",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher le texte «&nbsp;abc&nbsp;» à l’écran</div>"
+      },
+      {
+        "refId": "298c635f-bffc-4807-d2e6-b5a68c69afe1",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher le texte «&nbsp;.&nbsp;» à l’écran</div>"
+      },
+      {
+        "refId": "030ab9ed-d558-4865-6ccb-358e56e51055",
+        "string": "Aucun modèle LEGO n’est nécessaire pour tester ce programme."
+      }
+    ]
+  }
+}

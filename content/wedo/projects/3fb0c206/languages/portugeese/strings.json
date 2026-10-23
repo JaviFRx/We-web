@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "63c0d963-d7f9-4686-a549-ecb47d5f72e3",
+        "string": "2b. Controle remoto da tela"
+      },
+      {
+        "refId": "64b721cf-a61b-408e-3645-17acdb5b769c",
+        "string": "1. Iniciar programa&#160;<div>2. Iniciar motor neste sentido&#160;</div><br><div>3. Iniciar programa&#160;</div><div>4. Iniciar motor para o outro sentido&#160;</div><br><div>5. Iniciar programa&#160;</div><div>6. Parar motor</div>"
+      }
+    ]
+  }
+}

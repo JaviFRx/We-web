@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9997a889-7228-456c-aa52-711510c4a900",
+        "string": "8. 키를 누르면 시작"
+      },
+      {
+        "refId": "d70cc55c-4f0d-4b2e-6562-f5693f988a3a",
+        "string": "1. 문자 \"A\"에 프로그램 시작&nbsp;<div>2. 2초간 모터 작동</div>"
+      },
+      {
+        "refId": "f88783b4-f0eb-41b3-3860-f2f246ab33a0",
+        "string": "1. 문자 \"Y\"에 프로그램 시작&nbsp;<div>2. 2초간 모터 작동<br><br><div>3. 문자 \"A\"에 프로그램 시작&nbsp;</div><div>4. 사운드 1 재생</div></div>"
+      }
+    ]
+  }
+}

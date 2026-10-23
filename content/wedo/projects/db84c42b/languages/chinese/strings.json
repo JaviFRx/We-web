@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9997a889-7228-456c-aa52-711510c4a900",
+        "string": "8. 通过键启动"
+      },
+      {
+        "refId": "d70cc55c-4f0d-4b2e-6562-f5693f988a3a",
+        "string": "1. 通过字母“A”启动程序&nbsp;<div>2. 启动电机 2 秒</div>"
+      },
+      {
+        "refId": "f88783b4-f0eb-41b3-3860-f2f246ab33a0",
+        "string": "1. 通过字母“Y”启动程序&nbsp;<div>2. 启动电机 2 秒<br><br><div>3. 通过字母“A”启动程序&nbsp;</div><div>4. 播放声音 1</div></div>"
+      }
+    ]
+  }
+}

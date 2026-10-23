@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<font size=\"3\">디자인 라이브러리의 기본 모델을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</font>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><font size=\"4\">사전 경고가 강한 폭풍의 영향을 줄이는 데 어떻게 도움이 되는가?</font><font size=\"3\"><br></font></div><div><font size=\"3\">이번 프로젝트의 과제:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">쓰나미, 토네이도, 허리케인 등 모두가 알아야 할 여러 가지 기후 관련 재해와 인명의 보호를 위해 사용되는 경고 시스템을 조사하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">위험한 기상 조건이 닥칠 수 있으니 대비하라고 경고할 수 있는 장치를 조립하고 프로그래밍하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">자신이 찾아낸 해결 방법을 문서에 기록하고 발표하되, 어떤 방법으로 자연 재해가 사람들에게 미치는 영향을 줄여 주는지 설명하세요.</font></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. 위험 경고"
+      }
+    ]
+  }
+}

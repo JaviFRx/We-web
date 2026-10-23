@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1b30cf7d-5870-47e2-a7e8-3f32b797f498",
+        "string": "18. Agarre de objetos"
+      },
+      {
+        "refId": "991c048e-798d-463e-5fc7-811967895c84",
+        "string": "<div><div><div><font size=\"5\">¿Cómo pueden agarrar objetos pequeños las personas con discapacidades relacionadas con las manos? </font></div><div><br><div>En este proyecto, harás lo siguiente:&nbsp;</div><div>- Explorar cómo ayudan los diseños protésicos a las personas discapacitadas&nbsp;</div><div>- Crear y programar una mano protésica para mover objetos&nbsp;</div><div>- Prueba tu programa para hacer la mano lo más funcional posible&nbsp;</div><div>- Comparte tu programa y tus ideas sobre cómo completar este proyecto con éxito<br></div></div></div></div>"
+      },
+      {
+        "refId": "48fe8e6f-e967-4699-1e20-ba08a9686e38",
+        "string": "A Max y a Mia les gustaría ayudar a las personas discapacitadas.&nbsp;&nbsp;<div>&nbsp;\n<br><div>Ayúdales a programar una mano que pueda agarrar diferentes objetos.</div></div>"
+      },
+      {
+        "refId": "bdc4db6f-6c46-4663-a54c-9675fc2a4af3",
+        "string": "<font size=\"5\">Explora las preguntas de Max y Mia:</font><div><br><div>1. ¿Qué movimientos puedes hacer con tu mano?&nbsp;</div><div>2. ¿Cuál es la función de los músculos de tu mano?&nbsp;</div><div><font color=\"#ffffff\">3. ¿Cómo puedes crear una mano artificial?</font><br></div></div>"
+      },
+      {
+        "refId": "a9e86e5d-0c2f-492f-2d1a-422dd7e90d79",
+        "string": "<font size=\"5\">Usa los ladrillos: </font><div><span style=\"font-size: 20px;\"><br></span><div>Construye una mano que pueda agarrar diferentes objetos.&nbsp;\n</div><br><div>Prográmala para que se abra y se cierre.</div></div>"
+      },
+      {
+        "refId": "ea8276cd-b3fe-4061-54af-f29a472f1a16",
+        "string": "1. Iniciar programa&nbsp;<div>2. Esperar a que el sensor de movimiento detecte movimiento&nbsp;</div><div>3. Iniciar el motor en otro sentido&nbsp;</div><div>4. Iniciar el motor durante 2 segundos&nbsp;</div><div>5. Esperar 2 segundos&nbsp;</div><div>6. Iniciar el motor en este sentido&nbsp;</div><div>7. Iniciar el motor durante 2 segundos</div>"
+      },
+      {
+        "refId": "bdc58061-18ca-479d-614c-759506f45670",
+        "string": "<font size=\"5\">Planifica y prueba una solución: </font><div><span style=\"font-size: 20px;\"><br></span><div>Programa tu mano robótica para:&nbsp;</div><div>- Agarrar la flor y ponerla en el estante&nbsp;</div><div>- Agarrar la clavija y conectarla al enchufe</div></div>"
+      },
+      {
+        "refId": "7bde3747-6cdb-4ecd-c313-343fb0c243b0",
+        "string": "<font size=\"5\">Prueba y modifica tu solución </font><div><br><div>La mano robótica no funciona correctamente con este programa.&nbsp;</div><br><div>Debería encenderse la luz verde del hub inteligente cuando la pinza esté cerrada, y debería encenderse la luz roja cuando la pinza esté abierta.&nbsp;</div><br><div><font color=\"#ffffff\">Realiza cambios en el programa para solucionar el problema.</font></div></div>"
+      },
+      {
+        "refId": "50279510-14bc-463c-5078-6f17d5474810",
+        "string": "<font size=\"5\">Diseña nuevas soluciones </font><div><font size=\"5\">con Max y Mia</font></div>"
+      },
+      {
+        "refId": "44fe0336-824e-4242-7e5a-ef4dcf96ca4e",
+        "string": "<font size=\"5\">Comparte tu proyecto</font>"
+      },
+      {
+        "refId": "abc1d817-50d5-4add-dce5-353c6c7a8e29",
+        "string": "<font size=\"5\">Organiza tu información:  </font><div><br><div>Por ejemplo:&nbsp;</div><div><font color=\"#ffffff\">-Tomar una captura de pantalla de tu programa final. </font></div><div><font color=\"#ffffff\">- Graba un vídeo explicando tu solución. </font></div></div>"
+      },
+      {
+        "refId": "3e03ada0-54f8-40a1-fc75-9a2d092bfa85",
+        "string": "<font size=\"5\">Comparte tus hallazgos: </font><div><span style=\"font-size: 20px;\"><br></span><div>Presenta y explica tus soluciones.</div></div>"
+      },
+      {
+        "refId": "6835b1da-0a51-4494-052e-7ed1dfeca056",
+        "string": "<font size=\"5\">Diseña nuevas soluciones: </font><div>&nbsp;</div><div>¡Equipos, poneos en pareja!&nbsp;</div><br><div>Mueve objetos entre el punto A y el punto B.&nbsp;</div><br><div>Mueve objetos lo más rápido posible de una mano robótica a otra.</div>"
+      },
+      {
+        "refId": "39d55ae5-a248-4014-b9fa-bee563f5bb85",
+        "string": "Enciende el hub inteligente y conéctalo al dispositivo. Si necesitas ayuda, mira el vídeo.&nbsp;<br><br><div>Consulta el panel de ayuda para obtener asistencia.&nbsp;</div>"
+      }
+    ]
+  }
+}

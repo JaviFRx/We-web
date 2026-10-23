@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Joystick"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Start het programma wanneer \"A\" wordt ingedrukt&nbsp;<div>2. Wacht tot de kantelsensor de beweging Naar beneden kantelen heeft gedetecteerd&nbsp;</div><div>3. Start de motor in deze richting&nbsp;</div><div>4. Herhaal stap 2 en 3 eindeloos&nbsp;</div><br><div>5. Start het programma wanneer \"A\" wordt ingedrukt&nbsp;</div><div>6. Wacht tot de kantelsensor de beweging Niet kantelen heeft gedetecteerd&nbsp;</div><div>7. Stop de motor&nbsp;</div><div>8. Herhaal stap 6 en 7 eindeloos</div>"
+      }
+    ]
+  }
+}

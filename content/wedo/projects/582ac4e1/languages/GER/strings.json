@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "Beweglicher Satellit"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><div><div><div><font size=\"3\">In dieser Aufgabe lernt ihr:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">ein LEGO®&nbsp;Modell zu bauen</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• euer</span><span style=\"line-height: 1.42857;\">&nbsp;Modell mit eurem Gerät zu verbinden</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• den Motor</span><span style=\"line-height: 1.42857;\">&nbsp;so zu programmieren, dass er sich eine bestimmte Zeit lang dreht</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• den Motor so zu programmieren, dass er sich in die andere Richtung dreht</font></span></div></div></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">Max und Mia hören sich die Nachrichten an. Die Nachrichten berichten von Satelliten. Wissenschaftler steuern diese Satelliten.</font><br><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Manchmal müssen sich Satelliten bewegen, um Meteoriten auszuweichen.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Jetzt möchten Max und Mia einen eigenen Satelliten bauen.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max und Mia brauchen eure Hilfe!</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">Der Satellit soll sich 3&nbsp;Sekunden lang drehen.<br><br>1. Baut das gezeigte Programm nach.</font><div><font size=\"3\"><br>2. Erklärt euch gegenseitig, wie der Satellit funktioniert.</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">Helft Max und Mia noch mehr (Zusatz-Aufgabe):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Der Satellit soll sich in die andere Richtung drehen. Dieses Mal soll er sich länger drehen.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmiert den Satelliten so, dass er noch andere Dinge macht.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">Schalte den Smarthub ein. Verbinde ihn mit deinem Gerät.</font><br>"
+      }
+    ]
+  }
+}

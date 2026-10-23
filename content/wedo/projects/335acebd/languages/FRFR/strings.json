@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "482c5392-d024-4315-a8db-f4acecc3f44d",
+        "string": "22. Conception émotionnelle"
+      },
+      {
+        "refId": "9ba064a0-ce30-463e-0826-cb0cfff554e2",
+        "string": "<div><div><div><font size=\"5\">Comment les robots interagissent-ils avec les humains pour créer des émotions positives&nbsp;?&nbsp;</font></div><br><div>Dans ce projet, vous allez&nbsp;:&nbsp;</div><div>- Explorer la manière dont les robots peuvent créer des émotions positives dans les situations de la vie quotidienne&nbsp;</div><div>- Construire et programmer un robot qui interagit avec les humains pour créer des émotions positives&nbsp;</div><div>- Tester votre programme dans différentes situations et enregistrer des données à propos de votre prototype&nbsp;</div><div>- Partager votre programme et vos idées</div></div></div>"
+      },
+      {
+        "refId": "6c7fdc7c-74c6-434c-2738-081b21424fd9",
+        "string": "<div style=\"text-align: center;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</div>"
+      },
+      {
+        "refId": "252b07a9-50b9-44d3-89b3-8e38912b2b8d",
+        "string": "<div style=\"text-align: center;\">Inspirez-vous des programmes de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "77bd553a-9bdd-47e6-eb91-01142f67888e",
+        "string": "<font size=\"3\">Max och Mia bekymrar sig över risken för att människor och djur kan hamna i fara efter allvarliga väderrelaterade händelser.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">De vill veta vilka väderrelaterade naturkatastrofer som kan inträffa där de bor.</font></span><br></div>"
+      },
+      {
+        "refId": "a188c5c6-4b84-4c12-16f4-c9fa2bbc6a59",
+        "string": "<font size=\"5\">Undersök Max och Mias frågor:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Vilka typer av väderrelaterade naturkatastrofer kan inträffa där du bor eller i andra områden?&#160;</font></div><div><font size=\"3\">2. Hur påverkas människor och djur av väderrelaterade naturkatastrofer?</font></div><div><font size=\"3\">3. På vilka sätt kan en helikopter användas när en väderrelaterad naturkatastrof har inträffat?</font><br></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Använd dokumentationsverktyget för att dela med dig av dina idéer.</font></span><br></div>"
+      },
+      {
+        "refId": "63b3d7b8-1c7d-4a70-ea48-88e5b0dabf55",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en helikopter som kan användas i ett område som har drabbats av en väderrelaterad katastrof.</font></div>"
+      },
+      {
+        "refId": "96d53a28-16af-4a93-65b9-7a0a4848e083",
+        "string": "<font size=\"3\">Programmera helikoptern att flytta snöret uppåt och nedåt.</font>"
+      },
+      {
+        "refId": "f52dac05-8b99-4011-41b6-007f02a68777",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "f6f4eb7a-ce5c-4145-d326-23eaa4a359eb",
+        "string": "<font size=\"5\">Utforma två lösningar:</font><br><br><div><font size=\"3\">Modifiera helikoptern så att den kan användas i ett väderdrabbat område, och se till att konstruktionen är säker, enkel att använda och anpassad för situationen.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Gör två olika lösningar för något av följande syften:</font></div><div><font size=\"3\">1. Flytta ett djur som är i fara.</font></div><div><font size=\"3\">2. Släppa ner förnödenheter till människor.</font></div><div><font size=\"3\">3. Släcka bränder genom att släppa ner vatten.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumentera de två lösningar som du har utformat och förklara på vilket sätt den ena lösningen är bättre än den andra.&#160;</font></div>"
+      },
+      {
+        "refId": "c893963f-0040-4c4d-1805-e64d09b1cf6a",
+        "string": "<font size=\"5\">Slutför dokumentationen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Beskriv de olika prototyperna.</font></div><div><font size=\"3\">2. Förklara varför du valde en viss lösning.</font></div><div><font size=\"3\">3. Organisera din information.</font></div><div><font size=\"3\">4. Lägg till viktig text, bilder, skärmdumpar eller videoklipp.</font></div>"
+      },
+      {
+        "refId": "ba7bee72-d449-46ef-7289-cb6522e8a7a5",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Presentera vilken typ av olycka som har inträffat och beskriv ditt räddningsuppdrag.</font></div>"
+      },
+      {
+        "refId": "121f6b6c-b564-4668-9d0d-25caa401c8d3",
+        "string": "<font size=\"5\">Dela ditt projekt</font>"
+      },
+      {
+        "refId": "ec17dd2e-deb7-4f97-121f-87f56e4291c3",
+        "string": "<font size=\"5\">Utforma nya lösningar </font><div><font size=\"5\">med Max och Mia</font></div>"
+      },
+      {
+        "refId": "0bf96ac4-7b83-401a-0e99-1c3313eeac06",
+        "string": "<font size=\"4\">Hur kan du organisera ett skyddsuppdrag efter en väderrelaterad naturkatastrof?</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">I det här projektet kommer du att:</font></div><div><font size=\"3\">•&#160;<span style=\"color: inherit; line-height: 1.42857143;\">Undersöka olika väderrelaterade naturkatastrofer som kan påverka människors eller djurs överlevnad i ditt område.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Bygga och programmera en enhet som kan förflytta människor och djur på ett säkert, enkelt och värdigt sätt, eller som kan släppa ner förnödenheter i området.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Presentera och dokumentera din lösning och förklara hur den uppfyller kriterierna. </font></div>"
+      },
+      {
+        "refId": "739f6f68-bbe3-4b39-8bcd-a3894536bf80",
+        "string": "7. Släppa ner och rädda"
+      },
+      {
+        "refId": "451eebe3-808d-40b7-b438-c33863a4de2d",
+        "string": "<font size=\"5\">Utforma nya lösningar:</font><br><font size=\"3\"><br></font><div><font size=\"3\">I vissa fall kanske inte en helikopter är det bästa sättet att genomföra ett räddningsuppdrag.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Beakta följande:&#160;</font></div><div><font size=\"3\">1. Utforma en annan lösning som du tror kan vara bättre.</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentera varför din nya lösning är bättre än helikoptern.&#160;</font></div><br>"
+      }
+    ]
+  }
+}

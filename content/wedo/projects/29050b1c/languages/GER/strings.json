@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<div><font size=\"3\">Max und Mia haben festgestellt, dass sich Rennautos seit ihrer Erfindung verändert haben.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Jetzt wollen sie herausfinden, wie man ein Rennauto schneller machen kann.</font><br></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<div><font size=\"5\">Max und Mia fragen sich:&#160;</font></div><br><div><font size=\"3\">1. Wodurch kann ein Rennauto schneller werden?</font></div><div><font size=\"3\">2. Welche Teile am Rennauto beeinflussen die Geschwindigkeit?</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Überlegt gemeinsam. Was vermutet ihr?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">• Schreibt eure Überlegungen und Vermutungen auf.</font><br></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<div><font size=\"5\">Verwendet die Bausteine:<br></font></div><div><font size=\"3\"><br></font></div><font size=\"3\">Baut ein Rennauto.</font><br>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "<div><font size=\"5\">Programmieren:</font><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div><font size=\"3\">Schreibt ein Programm, mit dem euer Rennauto vorwärts fahren kann.</font><br>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font><br></div></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<div><font size=\"3\">Es ist wichtig, dass ihr&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span>Vermutungen besprecht und&nbsp;<span style=\"color: inherit; line-height: 1.42857;\">überprüft.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span>eure Änderungen am Rennauto testet.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bei jedem Test darf es nur eine Änderung geben. Jeder der Tests muss dreimal wiederholt werden. So bekommt ihr ein genaueres Ergebnis.<br></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Wie lange braucht euer Rennauto für eine Strecke von 2 Metern?</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentiert eure Testergebnisse.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. <span style=\"color: inherit; line-height: 1.42857;\">Wie verändert sich die Fahrzeit des Rennautos, wenn ihr</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>die Größe der Reifen verändert?</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>die Größe der Antriebsrolle verändert?</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>die Motorenleistung verändert?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span>Schreibt eure Vermutungen auf.</font></div><div><font color=\"#ffffff\" size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Dokumentiert eure Testergebnisse.</span></font><br></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<font size=\"3\"><font size=\"5\">Bereitet eure Präsentation vor:</font><br></font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Beantwortet Max' und Mias Fragen.</font></div><div><font size=\"3\">• Vergleicht eure Vermutungen mit euren Testergebnissen.</font></div><div><font size=\"3\">2. Überarbeitet eure Präsentation.</font></div><div><font size=\"3\">3. Ihr könnt noch wichtige Informationen, passende Bilder, Videos oder Screenshots einfügen.</font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<font size=\"5\">Präsentiert eure Ergebnisse:</font><div><font size=\"3\"><br></font><div><font size=\"3\">Beschreibt mit euren eigenen Worten, wodurch ein Rennauto schneller wird.</font><br></div></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<span style=\"line-height: 28px;\"><font size=\"5\">Expertenauftrag</font></span>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<font size=\"5\">Dokumentation</font>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><div><div><div><font size=\"4\">Wie kann ein Rennauto schneller werden?</font></div><div><font size=\"3\">In diesem Projekt werdet ihr:</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">•&nbsp;</span><span style=\"color: inherit; line-height: 1.42857143;\">lernen, wie sich Rennautos im Laufe der Zeit verändert haben</span><br></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>ein eigenes Rennauto bauen</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"color: inherit; line-height: 1.42857143;\">ein Programm schreiben, mit dem man die Geschwindigkeit verändern und testen kann</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"color: inherit; line-height: 1.42857143;\">eure Ergebnisse dokumentieren und präsentieren</span></font></div></div></div></div>"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<div><font size=\"3\"><font size=\"5\">Expertenauftrag:</font><br><br><font size=\"3\">1. Wie muss euer Rennauto gebaut sein, damit es am schnellsten fährt?&#160;</font></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span>Probiert beide Motorentypen (A und B) aus.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857;\">Schaut euch eure Testergebnisse an.</span><br></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">•&#160;</font></span><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\">Baut euer Rennauto entsprechend um.</font></span><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">• Beschreibt euer Vorgehen.</font></div><div><font color=\"#ffffff\" size=\"3\">• Dokumentiert eure Testergebnisse.</font><br></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2. Geschwindigkeit"
+      }
+    ]
+  }
+}

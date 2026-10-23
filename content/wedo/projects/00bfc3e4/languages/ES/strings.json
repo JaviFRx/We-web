@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Mando"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Iniciar el programa cuando se pulse \"A\"&nbsp;<div>2. Esperar a que el sensor de inclinación detecte inclinación hacia abajo&nbsp;</div><div>3. Iniciar el motor en este sentido&nbsp;</div><div>4. Repetir pasos 2 y 3 para siempre&nbsp;</div><br><div>5. Iniciar el programa cuando se pulse \"A\"&nbsp;</div><div>6. Esperar a que el sensor de inclinación detecte que no hay inclinación&nbsp;</div><div>7. Parar el motor&nbsp;</div><div>8. Repetir pasos 6 y 7 para siempre</div>"
+      }
+    ]
+  }
+}

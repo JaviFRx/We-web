@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "75afb6d6-6e0a-4df5-99ee-9b1d28f0b3f1",
+        "string": "5b. 이미지 순서"
+      },
+      {
+        "refId": "8cfd5415-341b-4b7d-2e6e-2191d9d867cd",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 화면에 이미지 25 표시&nbsp;</div><div>3. 1초간 대기&nbsp;</div><div>4. 화면에 이미지 23 표시&nbsp;</div><div>5. 1초간 대기&nbsp;</div><div>6. 화면에 이미지 26 표시</div>"
+      },
+      {
+        "refId": "d18cf7ec-96ca-428b-ec5c-8c4291ad06ea",
+        "string": "레고 모델이 없어도 이 프로그램을 테스트할 수 있습니다."
+      }
+    ]
+  }
+}

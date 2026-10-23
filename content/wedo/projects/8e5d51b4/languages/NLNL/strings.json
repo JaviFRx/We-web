@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8ba87780-571f-4aa6-b409-ff895199687b",
+        "string": "7a. Snelheid vermenigvuldigen"
+      },
+      {
+        "refId": "ecf860f4-b4d1-4e66-9c5b-2a234dc6277e",
+        "string": "1. Start het programma&nbsp;<div>2. Toon de tekst \"2\" op het beeldscherm&nbsp;</div><div>3. Start de motor op een vermogen dat gelijk is aan het cijfer dat op het beeldscherm wordt getoond&nbsp;</div><div>4. Herhaal stap 3 eindeloos</div><div>&nbsp;</div><div>5. Start het programma&nbsp;</div><div>6. Vermenigvuldig het aantal dat op het beeldscherm wordt getoond met twee</div>"
+      }
+    ]
+  }
+}

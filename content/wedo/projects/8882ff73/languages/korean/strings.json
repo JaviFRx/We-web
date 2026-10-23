@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "98b4d326-2233-4773-8dae-54c99fc8d218",
+        "string": "11a. 다가가기와 멀어지기"
+      },
+      {
+        "refId": "0bdd3730-9df7-47c9-a810-74e7f80a46f3",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 동작 센서가 움직임을 감지할 때까지 대기&nbsp;</div><div>3. 이 방향으로 모터 작동&nbsp;</div><div>4. 동작 센서가 움직임을 감지할 때까지 대기&nbsp;</div><div>5. 저 방향으로 모터 작동&nbsp;</div><div>6. 2-5단계를 무한 반복</div>"
+      }
+    ]
+  }
+}

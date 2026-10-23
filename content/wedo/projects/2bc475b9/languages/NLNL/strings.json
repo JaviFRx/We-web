@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "Robotspion"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><font size=\"3\">Tijdens deze les leer je de volgende dingen:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Een LEGO® model bouwen</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Je model verbinden met je apparaat</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• De bewegingssensor programmeren</span><span style=\"line-height: 1.42857;\">&nbsp;zodat deze beweging detecteert</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">Max en Mia willen een verrassingsfeestje organiseren voor een vriend. Ze weten niet wanneer die vriend bij hen zal arriveren.</font><div><font size=\"3\">Ze hebben een apparaat nodig dat hen zal waarschuwen.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Ze willen een robotspion bouwen.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max en Mia hebben je hulp nodig!&#160;</font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">Laat de robot een geluid<font size=\"3\">&nbsp;</font>maken<font size=\"3\">&nbsp;</font>als hij&nbsp;beweging detecteert.<br><br>1. Maak het programma zoals aangegeven.</font><div><font size=\"3\"><br>2. Leg aan elkaar uit hoe de robot werkt.</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">Help Max en Mia verder (optioneel):&#160;<br><br></font><div><font size=\"3\">1. Neem zelf een geluid op zodat de robot het kan afspelen.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Programmeer de robot zodat hij andere dingen doet.&#160;</span></div></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">Zet de Smarthub aan en koppel deze aan je apparaat.</font>"
+      }
+    ]
+  }
+}

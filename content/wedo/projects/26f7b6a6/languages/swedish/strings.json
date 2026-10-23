@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bf97931-9b29-402f-6df6-848426f8b305",
+        "string": "<font size=\"3\">Låt dig inspireras av grundmodellerna i designbiblioteket när du bygger egna lösningar i det här projektet.</font>"
+      },
+      {
+        "refId": "7dad6fd3-e13d-494f-56f5-8442f8488352",
+        "string": "<div><font size=\"4\">Hur kan du göra för att städa havet?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I det här projektet kommer du att:<br></font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Undersöka varför det är viktigt att hålla haven rena och städa bort plastskräp från dem.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Bygga och programmera en enhet som kan städa havet genom att samla in plastföremål av olika slag och storlekar.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentera och dokumentera</font> din enhet, och förklara hur lösningen har utformats för att kunna samla in olika föremål.</font></div></div>"
+      },
+      {
+        "refId": "327fbec1-201b-4cc5-ba4b-77000c21d5b2",
+        "string": "14. Städa havet"
+      }
+    ]
+  }
+}

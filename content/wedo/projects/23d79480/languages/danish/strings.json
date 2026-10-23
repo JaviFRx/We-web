@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0edf5ff0-95fb-4e55-b58d-d76f1dc9eff5",
+        "string": "6a. Nedtælling"
+      },
+      {
+        "refId": "e770e1e9-7976-46f7-0752-ef7bb2181814",
+        "string": "1. Start program&#160;<div>2. Vis teksten \"3\" på displayet&#160;</div><div>3. Vis teksten \"2\" på displayet&#160;</div><div>4. Vis teksten \"1\" på displayet&#160;</div><div>5. Vis teksten \"0\" på displayet</div>"
+      },
+      {
+        "refId": "bfa4849d-f371-4d54-b08b-353592b49367",
+        "string": "Der kræves ikke en LEGO model for at teste dette program."
+      }
+    ]
+  }
+}

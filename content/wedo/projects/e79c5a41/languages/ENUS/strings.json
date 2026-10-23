@@ -1,0 +1,42 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<font size=\"3\">Max and Mia are ready to explore the world and make some great discoveries.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">They will need some help, especially to explore remote places, in order to find a special plant specimen.</font></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<font size=\"5\">Explore Max’s and Mia's question:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.What do scientists and engineers do when they cannot go where they want to explore?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Share your answers using the Documentation tool.</font></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Create Milo, a Science Rover that can move.</font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you need help.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">See the Help panel for more guidance.</font></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<font size=\"3\">Program Milo to move forward.</font>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<font size=\"3\">Take a picture of you and Milo.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Write in the Documentation tool what you think about it!</font></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<font size=\"5\">Share your findings:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Explain how Milo can help you in your science projects.</font></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<div><div><font size=\"3\">In this project, you will:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">Explore different ways scientists and engineers reach remote places.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">Create and program Milo the Science Rover.&nbsp; </font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">Document how Milo can help you discover a special plant specimen.</font></div></div></div></div>"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. Milo the Science Rover"
+      }
+    ]
+  }
+}

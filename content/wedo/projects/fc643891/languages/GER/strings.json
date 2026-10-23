@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9b799c0f-ffdf-4694-ae70-9173041428e5",
+        "string": "14a. Wiederholung mit Sensor stoppen"
+      },
+      {
+        "refId": "330631af-42d0-427f-e123-6a94d1e390a1",
+        "string": "1. Programm starten&nbsp;<div>2. Motor in diese Richtung starten&nbsp;</div><div>3. Schritt 2 wiederholen, bis der Bewegungssensor eine Bewegung erkennt&nbsp;</div><div>4. Motor stoppen</div>"
+      }
+    ]
+  }
+}

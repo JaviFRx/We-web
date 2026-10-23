@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Joystick"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Start program when 'A' is pressed&nbsp;<div>2. Wait for Tilt Sensor to Detect Tilt Down&nbsp;</div><div>3. Start motor this way&nbsp;</div><div>4. Repeat steps 2 and 3 forever&nbsp;</div><br><div>5. Start program when 'A' is pressed&nbsp;</div><div>6. Wait for Tilt Sensor to detect No Tilt&nbsp;</div><div>7. Stop motor&nbsp;</div><div>8. Repeat steps 6 and 7 forever</div>"
+      }
+    ]
+  }
+}

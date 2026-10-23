@@ -1,0 +1,689 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "Software Guide",
+      "subcategories": [
+        {
+          "title": "The WeDo 2.0 Toolbar",
+          "elements": [
+            {
+              "title": "<p>The Toolbar is at the top of the screen. From there, you can:</p><ul><li>Press the Home icon to get back to the lobby.</li><li>Press the Project Library icon to access your WeDo 2.0 projects.</li><li>Press the Design Library icon to access building and programming inspiration.</li><li>Press the Capture tool icon to access the software’s built-in camera, video, and screen capture tools.</li><li>Press the Documentation tool icon to access your project document.</li><li>Press the Help icon to access additional information.</li><li>Press the Stop icon to stop all actions of the program.</li></ul><p>By dragging and dropping blocks onto the Programming Canvas, students can create program strings. They can start every one of these program strings by pressing the Start Block. Important Press the selected Toolbar item again to go back to the Programming Canvas.</p>",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "The Project Library",
+          "elements": [
+            {
+              "title": "<p>From the Project Library, you have access:</p><ul><li>Getting Started Projects</li><li>Guided Projects</li><li>Open Projects Once you open one of these projects, you will go to an overview before accessing the full project.</li></ul>",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "The Design Library",
+          "elements": [
+            {
+              "title": "<p>The Design Library is divided into two sections:</p><ul><li>The Model Library</li><li>The Program Library</li></ul><p>Inside the Model Library, you will discover:</p><ul><li>Base models with building instructions and programming suggestions</li><li>Two inspiration models that follow each base model and include photos and programing suggestions</li></ul>",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "<p>Inside the Program Library, you will discover:</p><ul start=\"3\"><li>Basic programming functions comprised of a number of programming blocks to help students explore simple program strings</li><li>Two inspiration functions that follow each of the basic programming function</li></ul>",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "The Sound Recording Tool",
+          "elements": [
+            {
+              "title": "<p>You can access the Sound Recording tool from a project at all times. This function allows you to record your own sound. The WeDo 2.0 Software will store the last recorded sound and, you can access this sound by adding Sound Block with input 0 to the program string:</p><ul><li>Press the Mic icon to access the window.</li></ul>",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "<ul start=\"2\"><li>Press the Record icon to begin the recording.</li><li>Press the Play icon to play back the recording.</li><li>Press the Stop icon to stop the recording.</li></ul>",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "The Capture Tool",
+          "elements": [
+            {
+              "title": "<p>From within the Capture tool:</p><ul><li>1. Press the Capture button to:</li><ul><li>Take a photo <li>Start and stop the video recording <li>Take a screen capture</ul><li>2. Press the Capture picture button to select photo mode.</li><li>3. Press the Capture Video button to select video mode.</li><li>4. Press the Capture Canvas button to select canvas mode.</li></ul>",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "Using the Teacher Assistant",
+          "elements": [
+            {
+              "title": "<p>Some projects are equiped with teacher assistant functionality, which provides material to help you during your lesson planning and during your teaching sessions. The teacher assistant offers the following material:</p><ul><li>Overview of the project</li><li>Type of project Curriculum links</li><li>Planning</li><li>Discussion questions and answers</li><li>Setting the scene</li><li>Building help</li><li>Programming help</li><li>Computational thinking skills development support</li><li>Investigation skills development support</li><li>Modeling skills development support</li><li>Design skills develpment support</li><li>Communication skills development support</li><li>Assessment rubics</li></ul>",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "Help Panel",
+          "elements": [
+            {
+              "title": "<p>Inside the Help panel, you will find the following guidance:</p><ul><li>The names of each programming block and a short description</li><li>Assistance with the connection process</li><li>Other relevant element</li></ul>",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "Documentation Tool",
+          "elements": [
+            {
+              "title": "<p>Inside the Documentation tool, students can add text, images, and videos to document their project:</p><ul><li>Press the Add page icon to add a page to the document.</li><li>Press the Template select icon to choose a layout for the page.</li><li>Press the Delete page icon to delete the current page.</li><li>Press the Export icon to save the document as a PDF or as images.</li><li>Press the Image Input icon to insert a picture stored on the device.</li><li>Press the Video Input icon to insert a video stored on the device.</li><li>Press the Text Input icon to begin typing on the device.</li></ul>",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "Programming Blocks",
+      "subcategories": [
+        {
+          "title": "Flow Blocks",
+          "elements": [
+            {
+              "title": "Start Block",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": "When the Start Block is used, it is always placed at the beginning of a programming string. Press on it to start the program string that you have written.<br><i>Pseudocode: Start program</i>"
+            },
+            {
+              "title": "Key Press Block",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": "When the Start On Key Press Block is used, it is always placed at the beginning of a programming string. Press on the block or on the correct letter on the keyboard to start the program string that you have written. All of the program strings that have the same letter will start at the same time.<br>To change the letter of activation, long press on the block to access the keyboard.<br><i>Pseudocode: Start program on tap \"A\"</i>"
+            },
+            {
+              "title": "Start On Message Block",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": "When the Start On Message Block is used, it is always placed at the beginning of a programming string. It will wait for the correct message and then start the program string that you have written.<br><i>Pseudocode: Start program when receiving message ...</i>"
+            },
+            {
+              "title": "Send Message",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": "This sends a message to the Programming Canvas. Every Start On Message Block that has the same message will be activated. The message can be in the form of text or numbers.<br><i>Pseudocode: Send message ...</i>"
+            },
+            {
+              "title": "Wait For",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": "Use this block to tell the program to wait for something to happen. It can wait for a set amount of time or for an input from a sensor. This block always requires an input in order to work properly.<br><i>Pseudocode: Wait for ...</i>"
+            },
+            {
+              "title": "Repeat Block",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": "Use this block to repeat actions. Blocks that are placed inside of the Repeat Block will be looped. This can also be called the 'loop block'.<br>The loop can be repeated forever, for a certain amount of time or until something happens.<br><i>Pseudocode: Repeat step ... forever</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "Output: Motor Blocks",
+          "elements": [
+            {
+              "title": "Motor This Way Block",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": "Sets the motor to turn the axle in the direction shown and starts the motor.<br>Tap on the block to quickly change the direction of the rotation.<br><i>Pseudocode: Start motor this way</i>"
+            },
+            {
+              "title": "Motor That Way Block",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": "Sets the motor to turn the axle in the direction shown and starts the motor.<br>Tap on the block to quickly change the direction of the rotation.<br><i>Pseudocode: Start motor that way</i>"
+            },
+            {
+              "title": "Motor Power Block",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": "This block sets the motor power to the level that you have specified and starts the motor. The level can be set with a numerical input from 0 to 10.<br><i>Pseudocode: Start motor at power ...</i>"
+            },
+            {
+              "title": "Motor on for Block",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": "This block starts the motor for a chosen amount of time that is specified in seconds. The amount of time can be set with a numerical input, using whole or decimal numbers.<br><i>Pseudocode: Start motor for ... second(s)</i>"
+            },
+            {
+              "title": "Motor Off Block",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": "This block stops any movement of the motor.<br><i>Pseudocode: Stop motor</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "Output: LED Blocks",
+          "elements": [
+            {
+              "title": "Light Block",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": "This block lights up the LED on the Smarthub in a specific colour. The colour can be changed using a numerical input between 0 and 10.<br><br><i>Pseudocode: Turn LED on to colour 9 (red)</i><br><i>Pseudocode: Turn LED off to colour 0 (no colour)</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "Output: Sound Blocks",
+          "elements": [
+            {
+              "title": "Play Sound",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": "This block plays a sound that is chosen from a list that is available within the software. You can set a sound by using a numerical input. Choose sound number 0 in order to play a sound that you have recorded yourself.<br><i>Pseudocode: Play sound number ...</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "Output: Display Blocks",
+          "elements": [
+            {
+              "title": "Display Background",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": "Use this block to display an image that has been chosen from a list that is available within the software. You can set an image by using a numerical input.<br><i>Pseudocode: Show image ... on display</i>"
+            },
+            {
+              "title": "Display Block",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": "Use this block to open the display area on the software screen. Numbers or text will appear in the display area.<br><i>Pseudocode: Show ... on display</i>"
+            },
+            {
+              "title": "Add to Display",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": "This adds a quantity to the number that is currently shown on the display. Enter the number that you wish to add. Tap on the block to change the mathematical operation.<br><i>Pseudocode: Add ... to the number on display</i>"
+            },
+            {
+              "title": "Subtract from Display",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": "Subtracts a quantity from the number that is currently shown on the display. Enter the number that you wish to subtract. Tap on the block to change the mathematical operation.<br><i>Pseudocode: Subtract ... from the number on display</i>"
+            },
+            {
+              "title": "Multiply Display",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": "This multiplies the number that is shown on the display by a specified number. Enter the number that you wish to multiply by. Tap on the block to change the mathematical operation.<br><i>Pseudocode: Multiply by ... the number on display</i>"
+            },
+            {
+              "title": "Divide Display",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": "This divides the number that is shown on the display by another number. Enter the number that you wish to divide by. Tap on the block to change the mathematical operation.<br><i>Pseudocode: Divide by ... the number on display</i>"
+            },
+            {
+              "title": "Display Closed",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": "Use this block to close the display area on the software screen. Tap on the block to close the display.<br><i>Pseudocode: Close the display</i>"
+            },
+            {
+              "title": "Display Full Size",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": "Use this block to set the display area to full size. Tap on the block to change the size of the display.<br><i>Pseudocode: Change the size of the display to maximum</i>"
+            },
+            {
+              "title": "Display Medium Size",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": "Use this block to set the display area to medium size. Tap on the block to change the size of the display.<br><i>Pseudocode: Change the size of the display to medium</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "Inputs: Sensors Change Inputs",
+          "elements": [
+            {
+              "title": "Any Distance Change",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": "This inputs the Motion Sensor mode 'Any Distance Change' to a block."
+            },
+            {
+              "title": "Distance Change Closer",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": "This inputs the Motion Sensor mode 'decreasing distance between the sensor and an object' to a block."
+            },
+            {
+              "title": "Distance Change Further",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": "This inputs the Motion Sensor mode 'increasing distance between the sensor and an object' to a block."
+            },
+            {
+              "title": "Tilt Left",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": "This inputs the Tilt Sensor mode 'Tilt Left' to a block."
+            },
+            {
+              "title": "Tilt Right",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": "This inputs the Tilt Sensor mode 'Tilt Right' to a block."
+            },
+            {
+              "title": "Tilt Down",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": "This inputs the Tilt Sensor mode 'Tilt Down' to a block."
+            },
+            {
+              "title": "Tilt Up",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": "This inputs the Tilt Sensor mode 'Tilt Up' to a block."
+            },
+            {
+              "title": "Tilt Sensor No Tilt",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": "This inputs the Tilt Sensor mode 'No Tilt' (or horizontal position) to a block."
+            },
+            {
+              "title": "Shake",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": "This inputs the Tilt Sensor mode 'Shake' to a block."
+            },
+            {
+              "title": "Sound Level Change",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": "This inputs the Sound Sensor (from the device) mode 'sound level change' to a block."
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "Inputs: Numerical and Text Inputs",
+          "elements": [
+            {
+              "title": "Tilt Sensor Input",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": "This inputs the numerical value that is generated by the Tilt Sensor (0, 3, 5, 7, or 9) to a block."
+            },
+            {
+              "title": "Distance Sensor Input",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": "This inputs the value that is detected by the Motion Sensor (from 0 to 10) to a block."
+            },
+            {
+              "title": "Sound Sensor Input",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": "This inputs the value that is detected by the Sound Sensor (from 0 to 10) to a block."
+            },
+            {
+              "title": "Number Input",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": "This inputs a specified numerical value to a block."
+            },
+            {
+              "title": "Text Input",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": "This inputs a specified text value to a block."
+            },
+            {
+              "title": "Display Input",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": "This inputs the numerical value that is shown on the display area to a block."
+            },
+            {
+              "title": "Random Input",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": "This inputs a random value to a block. The range of numbers is determined by the block to which it is attached."
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "Documenting",
+          "elements": [
+            {
+              "title": "Bubble",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": "Use the Bubble in order to insert comments into your program. This is not a programming block."
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "Programming Blocks",
+      "subcategories": [
+        {
+          "title": "Flow Blocks",
+          "elements": [
+            {
+              "title": "Start Block",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "Start On Key Press Block",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "Start On Message Block",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "Play Sound Block",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "Send Message Block",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "Wait For Block",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "Repeat Block",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "Motor Blocks",
+          "elements": [
+            {
+              "title": "Motor This Way Block",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "Motor That Way Block",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "Motor Power Block",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "Motor On For Block",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "Motor Off Block",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "Light Block",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "Sensors inputs Blocks",
+          "elements": [
+            {
+              "title": "Distance Sensor Input",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "Distance Change Closer",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "Distance Change Further",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "Any Distance Change",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "Tilt Sensor Input",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "Tilt Up",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "Tilt Down",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "Tilt This Way",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "Tilt That Way",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "Any Tilt",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "Device Inputs Blocks",
+          "elements": [
+            {
+              "title": "Text Input",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "Number Input",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "Random Input",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "Sound Sensor Input",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "Display Input",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "Display Blocks",
+          "elements": [
+            {
+              "title": "Display Block",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "Add to Display Block",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "Subtract from Display Block",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "Multiply by Display Block",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "Divide by Display Block",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "Display Background Block",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "Display Closed Block",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "Display Medium Size Block",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "Display Full Size Block",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "Other blocks",
+          "elements": [
+            {
+              "title": "Bubble",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "Connection Process",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS & Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "<p>The WeDo 2.0 Smarthub 2 I/O uses the low-energy feature of Bluetooth 4.0.</p> <p>The first time you use the WeDo 2.0 Smarthub, you need to “pair” it with your device so that both devices know how to connect securely to each other. After that, they connect automatically.</p> <p>Note: If you are using a tablet with multiple users, each user can change the global Bluetooth settings.</p> <p>Windows 7: How to pair the WeDo 2.0 Smarthub to a PC (Windows 7):</p> <ol> <li>Go to the “Start” menu and select “Devices and printers”.</li> <li>In the “Devices and printers” window, click “Add a device”.</li> <li>Turn on your WeDo 2.0 Smarthub by pressing the blue light button.</li> <li>Your WeDo 2.0 Smarthub will appear in the list of available devices.<br> If the Smarthub is not detected: <ol> <li>Verify that your computer is compatible with Bluetooth 4.0, by checking the manufacturer’s website, or the documentation that was included with your computer.</li> <li>Delete all previously paired WeDo 2.0 Smarthubs (that are not connected) from the device list, and restart from step 2.</li> </ol> </li> <li>Select your WeDo 2.0 Smarthub and press “Next”.</li> <li>If required, the default code is 0000 (four zeros).</li> <li>The WeDo 2.0 Smarthub is now connected to the computer. To use it in the application, follow the connection video instructions.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>The WeDo 2.0 Smarthub 2 I/O uses the low-energy feature of Bluetooth 4.0.</p> <p>The first time you use the WeDo 2.0 Smarthub, you need to “pair” it with your device so that both devices know how to connect securely to each other. After that, they connect automatically.</p> <p>Note: If you are using a tablet with multiple users, each user can change the global Bluetooth settings.</p> <p>Windows 8.1: How to pair the WeDo 2.0 Smarthub to a PC (Windows 8.1):</p> <ol> <li>Go to the “Start” menu and select “Devices and printers”.</li> <li>In the “Devices and printers” window, click “Add a device”.</li> <li>Turn on your WeDo 2.0 Smarthub by pressing the blue light button.</li> <li>Your WeDo 2.0 Smarthub will appear in the list of available devices.<br> If the Smarthub is not detected: <ol> <li>Verify that your computer is compatible with Bluetooth 4.0, by checking the manufacturer’s website, or the documentation that was included with your computer.</li> <li>Delete all previously paired WeDo 2.0 Smarthubs (that are not connected) from the device list, and restart from step 2.</li> </ol> </li> <li>Select your WeDo 2.0 Smarthub and press “Next”</li> <li>If required, the default code is 0000 (four zeros).</li> <li>Now the WeDo 2.0 Smarthub is connected to the computer, to use it in the application follow the connection video instructions</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>Start WeDo 2.0 and open the Connection window.</li> <li>Press the green button on the WeDo 2.0 Smarthub.</li> <li>Click/press the desired Smarthub to connect to it. If your Smarthub is not detected:</li> <ol> <li>Verify that your computer is compatible with Bluetooth 4.0 (also known as Bluetooth low energy or Bluetooth Smart), by checking the manufacturer's website or the documentation that was included with your computer.</li> <li>Go to the ‘Start’ menu, select ‘Settings’ (the gear icon), then ‘Devices’ and ‘Bluetooth’. Next, delete all previously paired WeDo 2.0 Smarthubs (that are not currently connected) by selecting them in the device list and clicking ‘Remove device’.</li> <li>Return to the WeDo 2.0 application and repeat the connection process from step 2 above.</li> </ol> <li>Select your WeDo 2.0 Smarthub in the list of available devices.</li> <li>If you are prompted to pair the Smarthub, confirm by clicking the ‘Allow’ button and then ‘Close’.</li> </ol> <p><b>Follow the on-screen instructions if the pairing fails on Windows 10</b></p> <ol> <li>Press the green button again if prompted to do so.</li> <li>If the pairing fails again, click ‘Retry’. Try to pair the Smarthub once more, either by accepting the pairing dialog (if it appears) or by repeating the pairing process from step 2 above.</li> <li>When you have successfully paired your Smarthub, it will be shown as connected in the Connection Center.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Open the Connection Center.</li> <li>Press the green button on the WeDo 2.0 Smarthub until its name appears in the connection window.</li> <li>Click on the specific Smarthub name to connect.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

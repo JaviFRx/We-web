@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "89f2d386-1be5-434d-b520-0c32c9d97d5c",
+        "string": "9. Start on Message and Send Message"
+      },
+      {
+        "refId": "58f3d022-211b-47fa-a536-8502ab37a774",
+        "string": "1. Start program&nbsp;<div>2. Send  message 'abc'&nbsp;</div><br><div>3. Start when receiving message 'abc'&nbsp;</div><div>4. Show image 3 on the display</div>"
+      },
+      {
+        "refId": "c5c768f3-c584-4629-e335-16341214eabd",
+        "string": "1. Start program&nbsp;<div>2. Send  message 'abc'&nbsp;</div><br><div>3. Start when receiving message 'abc'&nbsp;</div><div>4. Show image 3 on the display&nbsp;</div><br><div>5. Start when receiving message 'xyz'&nbsp;</div><div>6. Play sound 6&nbsp;</div>"
+      },
+      {
+        "refId": "b5bcf16d-c5cc-4746-f11a-0b8ba81ed458",
+        "string": "No LEGO model is required in order to test this program."
+      }
+    ]
+  }
+}

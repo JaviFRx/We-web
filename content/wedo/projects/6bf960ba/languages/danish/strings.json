@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "df288298-bcb9-481b-8e7c-cf4eaf8465c2",
+        "string": "4. Lyd"
+      },
+      {
+        "refId": "14104693-ad0f-418b-ddd3-c9b528c8d6d4",
+        "string": "Der kræves ikke en LEGO model for at teste dette program."
+      },
+      {
+        "refId": "88800ea8-17b2-4a1e-56df-391adff0e077",
+        "string": "1. Start program&#160;<div>2. Afspil lyd 1</div>"
+      },
+      {
+        "refId": "299156fd-941b-4944-9348-013be47a6dc2",
+        "string": "1. Start program&#160;<div>2. Afspil lyd 0</div>"
+      }
+    ]
+  }
+}

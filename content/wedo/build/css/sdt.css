@@ -1,0 +1,1202 @@
+body.exporting .wysiwyg-editor {
+  overflow: hidden !important;
+}
+.documentation-tool .template-selector .modal-header .close {
+  width: calc(55.25px);
+  height: calc(33.25px);
+  background-image: url('../../images/close-icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+  opacity: 1;
+  outline: none;
+  margin: 0;
+  position: absolute;
+  top: calc(10.5px);
+  right: calc(10.5px);
+}
+.documentation-tool .template-selector .modal-header {
+  height: 54px;
+}
+.documentation-tool .template-selector .modal-body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.documentation-tool .template-selector .modal-body .template-thumb {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 200px;
+          flex: 1 0 200px;
+  width: 200px;
+  height: 150px;
+}
+.documentation-tool .template-selector[dir='rtl'] .close {
+  left: 0;
+  right: initial;
+}
+.documentation-tool .template-selector[dir='rtl'] .modal-header .close {
+  left: 10.5px;
+  right: initial;
+}
+.documentation-tool .template-selector[dir='rtl'] .template-thumb {
+  -webkit-transform: scaleX(-1);
+          transform: scaleX(-1);
+}
+.documentation-tool .export-options-modal .modal-content {
+  border-radius: 10px;
+}
+.documentation-tool .export-options-modal .modal-header {
+  border-bottom: 0;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: #F1F1F1;
+  padding-bottom: 10px;
+  height: 44px;
+}
+.documentation-tool .export-options-modal .modal-body {
+  background-color: #F1F1F1;
+  padding: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.documentation-tool .export-options-modal .modal-body .row {
+  background-color: white;
+  padding: 40px;
+  margin: 0;
+  border-radius: 5px;
+  border: 1px solid #BCBCBC;
+}
+.documentation-tool .export-options-modal .modal-dialog {
+  width: calc(310px);
+}
+.documentation-tool .export-options-modal .export-btn:first-child {
+  margin-right: calc(38.5px);
+}
+.documentation-tool .export-options-modal .export-btn {
+  width: calc(79.5px);
+  height: calc(79.5px);
+  background-size: contain;
+  display: inline-block;
+}
+.documentation-tool .export-options-modal .export-btn.export-image {
+  background-image: url('../../images/ExportImage.png');
+}
+.documentation-tool .export-options-modal .export-btn.export-image:hover,
+.documentation-tool .export-options-modal .export-btn .export-image:hover {
+  background-image: url('../../images/ExportImageActive.png');
+}
+.documentation-tool .export-options-modal .export-btn.export-pdf {
+  background-image: url('../../images/ExportPDF.png');
+}
+.documentation-tool .export-options-modal .export-btn.export-pdf:hover,
+.documentation-tool .export-options-modal .export-btn .export-pdf:hover {
+  background-image: url('../../images/ExportPDFActive.png');
+}
+.documentation-tool.export-modal {
+  top: 40%;
+}
+.documentation-tool.export-modal .modal-content {
+  border: none;
+  box-shadow: none;
+}
+.documentation-tool .icon-holder {
+  background-color: #6c6764;
+}
+.documentation-tool .video-frame {
+  width: 100%;
+  height: 100%;
+}
+.documentation-tool .video-frame video {
+  width: 100%;
+  height: auto;
+}
+.documentation-tool .edit-mode .block-container {
+  border: 1px solid gainsboro;
+}
+.documentation-tool .block-container {
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.documentation-tool .block-container .close {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 10px;
+  border: 1px solid #8D1522;
+  background: #E60009;
+  opacity: 1;
+  border-radius: 5px;
+  color: white;
+  padding: 6px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 11;
+  height: 30px;
+  width: 30px;
+  text-shadow: none;
+}
+.documentation-tool .block-page-element {
+  height: inherit;
+}
+.documentation-tool.modal-backdrop.exporting {
+  background-color: white !important;
+  opacity: 1 !important;
+}
+.documentation-tool .page-arrow-hide {
+  visibility: hidden;
+}
+.documentation-tool.popup-background {
+  bottom: 0;
+  opacity: 0 !important;
+}
+.documentation-tool .template-background {
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+.documentation-tool .text-container {
+  overflow: auto;
+  height: 100%;
+  font-size: medium;
+  word-wrap: break-word;
+}
+.documentation-tool .lego-wysiwyg-editor {
+  height: inherit;
+  position: relative;
+  width: 100%;
+  -webkit-transform: translateZ(0px);
+}
+.documentation-tool .lego-wysiwyg-editor .lego-wysiwyg-editor-close {
+  position: absolute;
+  right: 0;
+  z-index: 999999;
+  top: -6px;
+}
+.documentation-tool .lego-wysiwyg-editor .wysiwyg-container {
+  height: inherit;
+  overflow-y: auto;
+}
+.documentation-tool .lego-wysiwyg-editor .wysiwyg-container .wysiwyg-toolbar-list {
+  padding: 10px;
+}
+.documentation-tool .lego-wysiwyg-editor .wysiwyg-container .wysiwyg-toolbar {
+  display: none !important;
+}
+.documentation-tool .lego-wysiwyg-editor .wysiwyg-container .wysiwyg-editor {
+  width: 100%;
+  height: inherit;
+  overflow: auto;
+}
+.documentation-tool .page-elements > div {
+  margin: 5px;
+  transition: all 0.2s;
+  outline: none !important;
+  height: 62px;
+  width: 62px;
+  background-size: cover;
+}
+.documentation-tool .page-elements > div.image-element {
+  background-image: url('../../images/SDT/Image.png');
+}
+.documentation-tool .page-elements > div.image-element:hover,
+.documentation-tool .page-elements > div.image-element :focus {
+  background-image: url('../../images/SDT/ImageActive.png');
+}
+.documentation-tool .page-elements > div.video-element {
+  background-image: url('../../images/SDT/Video.png');
+}
+.documentation-tool .page-elements > div.video-element:hover,
+.documentation-tool .page-elements > div.video-element :focus {
+  background-image: url('../../images/SDT/VideoActive.png');
+}
+.documentation-tool .page-elements > div.text-element {
+  background-image: url('../../images/SDT/Text.png');
+}
+.documentation-tool .page-elements > div.text-element:hover,
+.documentation-tool .page-elements > div.text-element :focus {
+  background-image: url('../../images/SDT/TextActive.png');
+}
+.documentation-tool .page-elements {
+  font-size: 1rem;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  display: -webkit-flex;
+  -webkit-justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 100%;
+}
+.documentation-tool .template-modal-row {
+  padding-bottom: 10px;
+  margin: 0;
+  height: 68px;
+}
+.documentation-tool .template-modal-row > div {
+  height: inherit;
+}
+.documentation-tool .template-modal-row .template-thumb-include {
+  margin: 5px;
+}
+.documentation-tool .template-modal-row .template-thumb-include > .row {
+  margin: 0;
+  padding: 0;
+}
+.documentation-tool .template-thumb {
+  height: inherit;
+  width: 100%;
+  padding: 10px;
+}
+.documentation-tool .template-thumb.active {
+  border: 1px #377FC6 solid;
+}
+.documentation-tool .template-image {
+  width: 100%;
+  background-size: contain;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.documentation-tool .text-large {
+  font-size: 14pt;
+}
+.modal-backdrop {
+  bottom: 0;
+  position: fixed;
+}
+.wysiwyg-format-pane {
+  position: fixed;
+  bottom: 100%;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #e4e4e4;
+  font-size: 20px;
+  transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+}
+.wysiwyg-format-pane.active {
+  -webkit-transform: translate3d(0, 100%, 0);
+  transform: translate3d(0, 100%, 0);
+}
+.wysiwyg-format-pane a,
+.wysiwyg-format-pane div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 80px;
+  height: 80px;
+  padding: 10px 20px;
+  background-color: #e4e4e4;
+  cursor: pointer;
+  margin: 0 3px;
+  color: black;
+}
+.wysiwyg-format-pane a:hover,
+.wysiwyg-format-pane div:hover {
+  text-decoration: none;
+  font-size: 1.5em;
+  background-color: #bebebe;
+}
+.wysiwyg-format-pane a.font-4,
+.wysiwyg-format-pane div.font-4 {
+  font-size: 1.4em;
+}
+.wysiwyg-format-pane a.font-4:hover,
+.wysiwyg-format-pane div.font-4:hover {
+  font-size: 1.8em;
+}
+.wysiwyg-format-pane a.font-5,
+.wysiwyg-format-pane div.font-5 {
+  font-size: 1.8em;
+}
+.wysiwyg-format-pane a.font-5:hover,
+.wysiwyg-format-pane div.font-5:hover {
+  font-size: 2.2em;
+}
+.wysiwyg-format-pane a.undo-redo,
+.wysiwyg-format-pane div.undo-redo {
+  font-size: 30px;
+}
+.wysiwyg-format-pane a.undo-redo:hover,
+.wysiwyg-format-pane div.undo-redo:hover {
+  font-size: 2em;
+}
+.wysiwyg-format-pane a.undo-redo.disabled,
+.wysiwyg-format-pane div.undo-redo.disabled {
+  color: #808080;
+}
+.wysiwyg-format-pane a.undo-redo.disabled:hover,
+.wysiwyg-format-pane div.undo-redo.disabled:hover {
+  font-size: 30px;
+  background-color: #e4e4e4;
+}
+.wysiwyg-format-pane a.selected,
+.wysiwyg-format-pane div.selected {
+  background-color: #b3b3b3;
+}
+
+body.exporting .wysiwyg-editor {
+  overflow: hidden !important;
+}
+
+.export-options-modal .modal-header .close {
+  width: calc(55.25px);
+  height: calc(33.25px);
+  background-image: url('../../images/close-icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+  opacity: 1;
+  outline: none;
+  margin: 0;
+  position: absolute;
+  top: calc(10.5px);
+  right: calc(10.5px);
+}
+.export-options-modal .modal-content {
+  border-radius: 10px;
+}
+.export-options-modal .modal-header {
+  border-bottom: 0;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: #F1F1F1;
+  padding-bottom: 10px;
+  height: 44px;
+}
+.export-options-modal .modal-body {
+  background-color: #F1F1F1;
+  padding: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.export-options-modal .modal-body .row {
+  background-color: white;
+  padding: 40px;
+  margin: 0;
+  border-radius: 5px;
+  border: 1px solid #BCBCBC;
+}
+.export-options-modal .modal-dialog {
+  width: calc(310px);
+}
+.export-options-modal .export-btn:first-child {
+  margin-right: calc(38.5px);
+}
+.export-options-modal .export-btn {
+  width: calc(79.5px);
+  height: calc(79.5px);
+  background-size: contain;
+  display: inline-block;
+}
+.export-options-modal .export-btn.export-image {
+  background-image: url('../../images/ExportImage.png');
+}
+.export-options-modal .export-btn.export-image:hover,
+.export-options-modal .export-btn .export-image:hover {
+  background-image: url('../../images/ExportImageActive.png');
+}
+.export-options-modal .export-btn.export-pdf {
+  background-image: url('../../images/ExportPDF.png');
+}
+.export-options-modal .export-btn.export-pdf:hover,
+.export-options-modal .export-btn .export-pdf:hover {
+  background-image: url('../../images/ExportPDFActive.png');
+}
+.export-modal {
+  top: 40%;
+}
+.export-modal .modal-content {
+  border: none;
+  box-shadow: none;
+}
+
+.modal-header .close {
+  width: calc(55.25px);
+  height: calc(33.25px);
+  background-image: url('../../images/close-icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+  opacity: 1;
+  outline: none;
+  margin: 0;
+  position: absolute;
+  top: calc(10.5px);
+  right: calc(10.5px);
+}
+
+.template-selector .modal-header .close {
+  width: calc(55.25px);
+  height: calc(33.25px);
+  background-image: url('../../images/close-icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+  opacity: 1;
+  outline: none;
+  margin: 0;
+  position: absolute;
+  top: calc(10.5px);
+  right: calc(10.5px);
+}
+.template-selector .modal-header {
+  height: 54px;
+}
+.template-selector .modal-body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.template-selector .modal-body .template-thumb {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 200px;
+          flex: 1 0 200px;
+  width: 200px;
+  height: 150px;
+}
+.template-selector[dir='rtl'] .close {
+  left: 0;
+  right: initial;
+}
+.template-selector[dir='rtl'] .modal-header .close {
+  left: 10.5px;
+  right: initial;
+}
+.template-selector[dir='rtl'] .template-thumb {
+  -webkit-transform: scaleX(-1);
+          transform: scaleX(-1);
+}
+
+.documentation-tool {
+  height: 100%;
+}
+.documentation-tool * {
+  -webkit-user-drag: none;
+  /* Prevents dragging of images/divs etc */
+  user-drag: none;
+}
+.documentation-tool [contenteditable="true"],
+.documentation-tool input,
+.documentation-tool textarea {
+  -webkit-user-select: auto !important;
+     -moz-user-select: auto !important;
+      -ms-user-select: auto !important;
+          user-select: auto !important;
+  font-size: medium;
+  color: black;
+}
+.documentation-tool .project-view {
+  height: 100%;
+  -webkit-touch-callout: none;
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  /*
+     Introduced in IE 10.
+     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+  -ms-user-select: none;
+  user-select: none;
+}
+.documentation-tool .project-view .template-container {
+  width: 100%;
+  height: 100%;
+  padding-top: calc(15.05208333px);
+  padding-left: calc(12.234375px);
+  padding-right: calc(12.234375px);
+  padding-bottom: calc(56.22395833px);
+}
+.documentation-tool .project-view .template-container .pad-top-14 {
+  padding-top: 14px;
+}
+.documentation-tool .project-view .template-container .pad-bottom-14 {
+  padding-bottom: 14px;
+}
+.documentation-tool .project-view .template-container .pad-left-14 {
+  padding-left: 14px;
+}
+.documentation-tool .project-view .template-container .pad-right-14 {
+  padding-right: 14px;
+}
+.documentation-tool .project-view .template-container .connection-center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding: 20px;
+}
+.documentation-tool .project-view .template-container .connection-center .headline {
+  font-size: 24px;
+  color: #646464;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 40px 0;
+  z-index: 1;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .tablet {
+  display: none;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons.ios .tablet,
+.documentation-tool .project-view .template-container .connection-center .connection-icons.android .tablet {
+  display: initial;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons.ios .laptop,
+.documentation-tool .project-view .template-container .connection-center .connection-icons.android .laptop {
+  display: none;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons img {
+  height: 130px;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .hub {
+  height: 180px;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .connection-indicators {
+  margin: 60px 40px 80px 60px;
+  width: 100px;
+  position: relative;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .connection-indicators .indicator {
+  width: 90px;
+  height: 90px;
+  top: -40px;
+  left: -5px;
+  position: absolute;
+  background-color: transparent;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .connection-indicators .indicator-line {
+  width: 210px;
+  height: 10px;
+  top: 0px;
+  left: -60px;
+  position: absolute;
+  z-index: -1;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+  -webkit-animation-name: pulse;
+          animation-name: pulse;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .connection-indicators.disconnected .indicator {
+  width: 90px;
+  height: 140px;
+  top: -60px;
+  left: -10px;
+  position: absolute;
+  -webkit-animation-duration: 1.5s;
+          animation-duration: 1.5s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: normal;
+          animation-direction: normal;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .connection-indicators.disconnected .indicator:nth-child(2) {
+  -webkit-animation-name: connect1;
+          animation-name: connect1;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .connection-indicators.disconnected .indicator:nth-child(3) {
+  -webkit-animation-name: connect2;
+          animation-name: connect2;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-icons .connection-indicators.disconnected .indicator:nth-child(4) {
+  -webkit-animation-name: connect3;
+          animation-name: connect3;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #2cafe5;
+  color: white;
+  font-size: 16px;
+  width: 300px;
+  height: 60px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button .connecting-img {
+  -webkit-padding-end: 1em;
+     -moz-padding-end: 1em;
+          padding-inline-end: 1em;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button.connected {
+  position: relative;
+  background-color: #009835;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button.connected .disconnected-text {
+  display: none;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button.connected .connected-text,
+.documentation-tool .project-view .template-container .connection-center .connection-button.connected .checkmark {
+  display: inline;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button.connected .connecting-img {
+  display: none;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button.connected .checkmark {
+  -webkit-padding-end: 1em;
+     -moz-padding-end: 1em;
+          padding-inline-end: 1em;
+}
+.documentation-tool .project-view .template-container .connection-center .connection-button .connected-text,
+.documentation-tool .project-view .template-container .connection-center .connection-button .checkmark {
+  display: none;
+}
+@-webkit-keyframes pulse {
+  from {
+    opacity: 0.5;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes pulse {
+  from {
+    opacity: 0.5;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes connect1 {
+  0% {
+    opacity: 1;
+  }
+  33% {
+    opacity: 0;
+  }
+  66% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes connect1 {
+  0% {
+    opacity: 1;
+  }
+  33% {
+    opacity: 0;
+  }
+  66% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes connect2 {
+  0% {
+    opacity: 0;
+  }
+  33% {
+    opacity: 1;
+  }
+  66% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes connect2 {
+  0% {
+    opacity: 0;
+  }
+  33% {
+    opacity: 1;
+  }
+  66% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes connect3 {
+  0% {
+    opacity: 0;
+  }
+  33% {
+    opacity: 0;
+  }
+  66% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes connect3 {
+  0% {
+    opacity: 0;
+  }
+  33% {
+    opacity: 0;
+  }
+  66% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.documentation-tool .project-view .template-container .block {
+  height: 100%;
+}
+.documentation-tool .project-view .template-container .flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.documentation-tool .project-view .template-container .flex-10 {
+  width: 10%;
+  float: left;
+}
+.documentation-tool .project-view .template-container .flex-33 {
+  width: 33.33%;
+  float: left;
+}
+.documentation-tool .project-view .template-container .flex-45 {
+  width: 45%;
+  float: left;
+}
+.documentation-tool .project-view .template-container .flex-50 {
+  width: 50%;
+  float: left;
+}
+.documentation-tool .project-view .template-container .flex-66 {
+  width: 66%;
+  float: left;
+}
+.documentation-tool .project-view .template-container .flex-100 {
+  width: 100%;
+  float: left;
+}
+.documentation-tool .project-view .template-container .flex-row {
+  width: 100%;
+  height: 50%;
+}
+.documentation-tool .project-view .template-container .flex-row-100 {
+  height: 100%;
+}
+.documentation-tool .project-view .template-container .flex-row-99 {
+  height: 99%;
+}
+.documentation-tool .project-view .template-container .flex-row-98 {
+  height: 98%;
+}
+.documentation-tool .project-view .template-container .flex-row-97 {
+  height: 97%;
+}
+.documentation-tool .project-view .template-container .flex-row-96 {
+  height: 96%;
+}
+.documentation-tool .project-view .template-container .flex-row-95 {
+  height: 95%;
+}
+.documentation-tool .project-view .template-container .flex-row-94 {
+  height: 94%;
+}
+.documentation-tool .project-view .template-container .flex-row-93 {
+  height: 93%;
+}
+.documentation-tool .project-view .template-container .flex-row-92 {
+  height: 92%;
+}
+.documentation-tool .project-view .template-container .flex-row-91 {
+  height: 91%;
+}
+.documentation-tool .project-view .template-container .flex-row-90 {
+  height: 90%;
+}
+.documentation-tool .project-view .template-container .flex-row-89 {
+  height: 89%;
+}
+.documentation-tool .project-view .template-container .flex-row-88 {
+  height: 88%;
+}
+.documentation-tool .project-view .template-container .flex-row-87 {
+  height: 87%;
+}
+.documentation-tool .project-view .template-container .flex-row-86 {
+  height: 86%;
+}
+.documentation-tool .project-view .template-container .flex-row-85 {
+  height: 85%;
+}
+.documentation-tool .project-view .template-container .flex-row-84 {
+  height: 84%;
+}
+.documentation-tool .project-view .template-container .flex-row-83 {
+  height: 83%;
+}
+.documentation-tool .project-view .template-container .flex-row-82 {
+  height: 82%;
+}
+.documentation-tool .project-view .template-container .flex-row-81 {
+  height: 81%;
+}
+.documentation-tool .project-view .template-container .flex-row-80 {
+  height: 80%;
+}
+.documentation-tool .project-view .template-container .flex-row-79 {
+  height: 79%;
+}
+.documentation-tool .project-view .template-container .flex-row-78 {
+  height: 78%;
+}
+.documentation-tool .project-view .template-container .flex-row-77 {
+  height: 77%;
+}
+.documentation-tool .project-view .template-container .flex-row-76 {
+  height: 76%;
+}
+.documentation-tool .project-view .template-container .flex-row-75 {
+  height: 75%;
+}
+.documentation-tool .project-view .template-container .flex-row-74 {
+  height: 74%;
+}
+.documentation-tool .project-view .template-container .flex-row-73 {
+  height: 73%;
+}
+.documentation-tool .project-view .template-container .flex-row-72 {
+  height: 72%;
+}
+.documentation-tool .project-view .template-container .flex-row-71 {
+  height: 71%;
+}
+.documentation-tool .project-view .template-container .flex-row-70 {
+  height: 70%;
+}
+.documentation-tool .project-view .template-container .flex-row-69 {
+  height: 69%;
+}
+.documentation-tool .project-view .template-container .flex-row-68 {
+  height: 68%;
+}
+.documentation-tool .project-view .template-container .flex-row-67 {
+  height: 67%;
+}
+.documentation-tool .project-view .template-container .flex-row-66 {
+  height: 66%;
+}
+.documentation-tool .project-view .template-container .flex-row-65 {
+  height: 65%;
+}
+.documentation-tool .project-view .template-container .flex-row-64 {
+  height: 64%;
+}
+.documentation-tool .project-view .template-container .flex-row-63 {
+  height: 63%;
+}
+.documentation-tool .project-view .template-container .flex-row-62 {
+  height: 62%;
+}
+.documentation-tool .project-view .template-container .flex-row-61 {
+  height: 61%;
+}
+.documentation-tool .project-view .template-container .flex-row-60 {
+  height: 60%;
+}
+.documentation-tool .project-view .template-container .flex-row-59 {
+  height: 59%;
+}
+.documentation-tool .project-view .template-container .flex-row-58 {
+  height: 58%;
+}
+.documentation-tool .project-view .template-container .flex-row-57 {
+  height: 57%;
+}
+.documentation-tool .project-view .template-container .flex-row-56 {
+  height: 56%;
+}
+.documentation-tool .project-view .template-container .flex-row-55 {
+  height: 55%;
+}
+.documentation-tool .project-view .template-container .flex-row-54 {
+  height: 54%;
+}
+.documentation-tool .project-view .template-container .flex-row-53 {
+  height: 53%;
+}
+.documentation-tool .project-view .template-container .flex-row-52 {
+  height: 52%;
+}
+.documentation-tool .project-view .template-container .flex-row-51 {
+  height: 51%;
+}
+.documentation-tool .project-view .template-container .flex-row-50 {
+  height: 50%;
+}
+.documentation-tool .project-view .template-container .flex-row-49 {
+  height: 49%;
+}
+.documentation-tool .project-view .template-container .flex-row-48 {
+  height: 48%;
+}
+.documentation-tool .project-view .template-container .flex-row-47 {
+  height: 47%;
+}
+.documentation-tool .project-view .template-container .flex-row-46 {
+  height: 46%;
+}
+.documentation-tool .project-view .template-container .flex-row-45 {
+  height: 45%;
+}
+.documentation-tool .project-view .template-container .flex-row-44 {
+  height: 44%;
+}
+.documentation-tool .project-view .template-container .flex-row-43 {
+  height: 43%;
+}
+.documentation-tool .project-view .template-container .flex-row-42 {
+  height: 42%;
+}
+.documentation-tool .project-view .template-container .flex-row-41 {
+  height: 41%;
+}
+.documentation-tool .project-view .template-container .flex-row-40 {
+  height: 40%;
+}
+.documentation-tool .project-view .template-container .flex-row-39 {
+  height: 39%;
+}
+.documentation-tool .project-view .template-container .flex-row-38 {
+  height: 38%;
+}
+.documentation-tool .project-view .template-container .flex-row-37 {
+  height: 37%;
+}
+.documentation-tool .project-view .template-container .flex-row-36 {
+  height: 36%;
+}
+.documentation-tool .project-view .template-container .flex-row-35 {
+  height: 35%;
+}
+.documentation-tool .project-view .template-container .flex-row-34 {
+  height: 34%;
+}
+.documentation-tool .project-view .template-container .flex-row-33 {
+  height: 33%;
+}
+.documentation-tool .project-view .template-container .flex-row-32 {
+  height: 32%;
+}
+.documentation-tool .project-view .template-container .flex-row-31 {
+  height: 31%;
+}
+.documentation-tool .project-view .template-container .flex-row-30 {
+  height: 30%;
+}
+.documentation-tool .project-view .template-container .flex-row-29 {
+  height: 29%;
+}
+.documentation-tool .project-view .template-container .flex-row-28 {
+  height: 28%;
+}
+.documentation-tool .project-view .template-container .flex-row-27 {
+  height: 27%;
+}
+.documentation-tool .project-view .template-container .flex-row-26 {
+  height: 26%;
+}
+.documentation-tool .project-view .template-container .flex-row-25 {
+  height: 25%;
+}
+.documentation-tool .project-view .template-container .flex-row-24 {
+  height: 24%;
+}
+.documentation-tool .project-view .template-container .flex-row-23 {
+  height: 23%;
+}
+.documentation-tool .project-view .template-container .flex-row-22 {
+  height: 22%;
+}
+.documentation-tool .project-view .template-container .flex-row-21 {
+  height: 21%;
+}
+.documentation-tool .project-view .template-container .flex-row-20 {
+  height: 20%;
+}
+.documentation-tool .project-view .template-container .flex-row-19 {
+  height: 19%;
+}
+.documentation-tool .project-view .template-container .flex-row-18 {
+  height: 18%;
+}
+.documentation-tool .project-view .template-container .flex-row-17 {
+  height: 17%;
+}
+.documentation-tool .project-view .template-container .flex-row-16 {
+  height: 16%;
+}
+.documentation-tool .project-view .template-container .flex-row-15 {
+  height: 15%;
+}
+.documentation-tool .project-view .template-container .flex-row-14 {
+  height: 14%;
+}
+.documentation-tool .project-view .template-container .flex-row-13 {
+  height: 13%;
+}
+.documentation-tool .project-view .template-container .flex-row-12 {
+  height: 12%;
+}
+.documentation-tool .project-view .template-container .flex-row-11 {
+  height: 11%;
+}
+.documentation-tool .project-view .template-container .flex-row-10 {
+  height: 10%;
+}
+.documentation-tool .project-view .template-container .flex-row-9 {
+  height: 9%;
+}
+.documentation-tool .project-view .template-container .flex-row-8 {
+  height: 8%;
+}
+.documentation-tool .project-view .template-container .flex-row-7 {
+  height: 7%;
+}
+.documentation-tool .project-view .template-container .flex-row-6 {
+  height: 6%;
+}
+.documentation-tool .project-view .template-container .flex-row-5 {
+  height: 5%;
+}
+.documentation-tool .project-view .template-container .flex-row-4 {
+  height: 4%;
+}
+.documentation-tool .project-view .template-container .flex-row-3 {
+  height: 3%;
+}
+.documentation-tool .project-view .template-container .flex-row-2 {
+  height: 2%;
+}
+.documentation-tool .project-view .template-container .flex-row-1 {
+  height: 1%;
+}
+.documentation-tool .project-view .template-container .full-height {
+  height: 100%;
+}
+.documentation-tool .project-view .template-container .branch-arrow-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 100%;
+}
+.documentation-tool .project-view .templates {
+  height: calc(100vh - 70px);
+  background-color: white;
+}

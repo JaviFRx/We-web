@@ -1,0 +1,98 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "",
+        "string": ""
+      },
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<div><font size=\"3\">Max（麦克斯）和Mia（米娅）发现机器可以拖动重物，他们对此产生了极大的好奇心。&#160; </font></div><font size=\"3\"><br></font><div><span style=\"line-height: 1.4285;\"><font size=\"3\">他们希望探究出什么能使物体移动。&#160;</font></span></div>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<div><font size=\"3\">用乐高积木搭建一个机器人，使其可以将一物体拖动一小段距离。<br></font></div>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"3\">根据视频内容，给你的机器人编写程序，使其可以将一物体拖动一小段距离。</font></span><br></div>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<div><font size=\"3\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;<br></font></div><font size=\"3\"><br></font><div><font size=\"3\">如需更多详细指导，请看帮助。&#160;</font><br></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<div><font size=\"4\">Max（麦克斯）和Mia（米娅）一起探究:</font></div><br><div><font size=\"3\">1. 往篮筐里加入更多的重物，直至机器人停止移动。&#160;</font></div><div><font size=\"3\" color=\"#ffffff\">试想一下，如果安装上大轮胎，机器人能否拖动篮筐里的重物呢？</font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">记录下你的推测。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. 安装上大轮胎，并继续测试。&#160;</font></div><div><font size=\"3\" color=\"#ffffff\">记录下你的发现。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">3. 将篮筐放在粗糙的木板上时，机器人是否需要用更多的拉力来拖动篮筐？ （思考：摩擦与物体运动是否有关系？）</font></div><br><div><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"4\">4.用弹簧测力计测量出机器人的拉力（大轮胎）。</font></span></div><div><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"4\">（思考: 找到与拉力相等的重物，放在篮子中，在大轮胎的帮助下，机器人能否拖动重物？）</font></span></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">记录下每个实验中的力是如何平衡和不平衡的。&#160;</font><br></div>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<div><font size=\"3\"></font></div><div><span style=\"color: inherit; line-height: 17.14px;\"><font size=\"4\">完成你的乐高文档：</font></span><br></div><div><span style=\"line-height: 17.14px; font-size: 12px;\"><br></span></div><div><font size=\"3\">1.回顾所做的预测，解释在实验过程中发生了什么。</font></div><div><font size=\"3\">2. 请将重要的照片、截屏、录像或文字插入到乐高文档中。&#160;</font></div><div><font size=\"3\">3.整理并分享实验总结。<br></font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">分享你的发现：</font></span><br></div><br><div><font size=\"3\">根据探究结果，解释平衡力与非平衡力之间的区别。<br></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">＊注意语言的组织与专有名词的运用。</font><br></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<div><span style=\"line-height: 22.8571px;\"><font size=\"4\">分享你的乐高成果。</font></span></div>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<div><font size=\"4\"><span style=\"line-height: 1.42857;\">与</span>Max（麦克斯）和Mia（米娅）深层<span style=\"line-height: 1.42857;\">探究。</span></font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<div><font size=\"4\">Max（麦克斯）和Mia（米娅）在探究中的疑问：</font></div><br><div><font size=\"3\">1. 怎样才能使物体移动？&#160; </font></div><div><font size=\"3\">2. 什么是摩擦力？&#160; </font></div><div><font size=\"3\">3. 如何测量力的大小？&#160;</font></div><div><font size=\"3\">4. 当一端的拉力大于另一端时，会发生什么情况？&#160;</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\" color=\"#ffffff\">用乐高文档来分享你的想法。</font></span></div>"
+      },
+      {
+        "refId": "6b8888ee-07d9-4dae-0eb4-c592d4c70ddc",
+        "string": "<div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？ 通过这个实验，你会：探究什么是力及其怎么能使物体移动。 通过创造机器人和给机器人编写程序来探究平衡力与非平衡力对物体运动的影响。 记录下实验细节，并展示对各种力的发现。&#160;<br></div><br><br></div>"
+      },
+      {
+        "refId": "5712598c-da1c-478a-910d-02c809d84b94",
+        "string": "<div><div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？&#160;</div><br><div>通过这个实验，你会：探究什么是力及其怎么能使物体移动。 通过创造机器人和给机器人编写程序来探究平衡力与非平衡力对物体运动的影响。 记录下实验细节，并展示对各种力的发现。&#160;<br></div><br><br><br></div></div>"
+      },
+      {
+        "refId": "7062571d-7b61-4a1a-b4d7-aada376c8769",
+        "string": "<div><div><div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？&#160;</div><br><div>通过这个实验，你会：探究什么是力及其怎么能使物体移动。 通过创造机器人和给机器人编写程序来探究平衡力与非平衡力对物体运动的影响。 记录下实验细节，并展示对各种力的发现。&#160;<br></div><br><br><br></div></div></div>"
+      },
+      {
+        "refId": "2936af8e-4e5a-476f-041e-199f7d74a6e4",
+        "string": "<div><div><div><div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？&#160;</div><br><div>通过这个实验，你会：探究什么是力及其怎么能使物体移动。 通过创造机器人和给机器人编写程序来探究平衡力与非平衡力对物体运动的影响。 记录下实验细节，并展示对各种力的发现。&#160;<br></div><br><br><br></div></div></div></div>"
+      },
+      {
+        "refId": "307ba4c4-718e-4cc5-fd0d-81cd19b4670e",
+        "string": "<div><div><div><div><div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？&#160;</div><br><div>通过这个实验，你会：探究什么是力及其怎么能使物体移动。 通过创造机器人和给机器人编写程序来探究平衡力与非平衡力对物体运动的影响。 记录下实验细节，并展示对各种力的发现。&#160;<br></div><br><br><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "231633ce-a02b-4a2b-f3fc-eb0c8a47152c",
+        "string": "<div><div><div><div><div><div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？&#160;</div><br><div>通过这个实验，你会：探究什么是力及其怎么能使物体移动。 通过创造机器人和给机器人编写程序来探究平衡力与非平衡力对物体运动的影响。 记录下实验细节，并展示对各种力的发现。&#160;<br></div><br><br><br></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "46f3f43d-b3ba-4591-69e8-0a34b77b7ba8",
+        "string": "<div><div><div><div><div><div><div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？&#160;</div><br><div>通过这个实验，你会：&#160;</div><div>探究什么是力及其怎么能使物体移动。&#160;</div><div>通过创造机器人和给机器人编写程序。&#160;</div><div>来探究平衡力与非平衡力对物体运动的影响。&#160;</div><div>记录下实验细节，并展示对各种力的发现。\n<br></div><br><br><br></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "70f2d68b-50cc-4baa-e0fe-547f46782ecf",
+        "string": "<div><div><div><div><div><div><div><div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？&#160;</div><br><div>通过这个实验，你会：&#160;</div><div>探究什么是力及其怎么能使物体移动。&#160;</div><div>通过创造机器人和给机器人编写程序。&#160;</div><div>来探究平衡力与非平衡力对物体运动的影响。&#160;</div><div>记录下实验细节，并展示对各种力的发现。\n<br></div><br><br><br></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca553b66-a17e-4e87-b347-b2776a74a6f1",
+        "string": "<div><div><div><div><div><div><div><div><div>What makes objects move?&#160;<br><br><div>In this project, you will</div><br><div>Explore what forces are and how they can make objects move.</div><br><div>Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</div><br><div>Document and present your findings about forces:</div><br><div>什么能使物体移动？&#160;</div><br><div>通过这个实验，你会：&#160;</div><div>探究什么是力及其怎么能使物体移动。&#160;</div><div>通过创造机器人和给机器人编写程序。&#160;</div><div>来探究平衡力与非平衡力对物体运动的影响。&#160;</div><div>记录下实验细节，并展示对各种力的发现。\n<br></div><br><br><br></div></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. 拉力"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<span style=\"line-height: 1.42857;\"><font size=\"4\">深层探究：</font></span><div><span style=\"line-height: 25.7143px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1.搭建一个不同的机器人，使其可以拖动最重的物体。</font></div><font size=\"3\"><br></font><div><font size=\"3\">2.与另一组合作，让两个机器人进行拔河比赛。</font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">记录各种力是如何相互作用的。</font></div></div>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><font size=\"4\">什么能使物体移动？&#160;</font></div><div><span style=\"font-size: 18px; line-height: 25.7143px;\"><br></span><div><font size=\"3\">通过这个实验，你会：&#160;</font></div><div><font size=\"3\">• 探究什么是力及其怎么能使物体移动。&#160;</font></div><div><font size=\"3\">• 通过创造机器人和给机器人编写程序。 来探究平衡力与非平衡力对物体运动的影响。&#160;</font></div><div><font size=\"3\">• 记录下实验细节，并展示对各种力的发现。&#160;</font><div></div></div></div></div>"
+      }
+    ]
+  }
+}

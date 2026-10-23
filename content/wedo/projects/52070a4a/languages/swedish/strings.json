@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1ed6e30e-6c7f-4970-79b7-802f0fae7408",
+        "string": "<font size=\"3\">Max och Mia har börjat kika närmare på vårblommorna och bina i parken.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De vill veta mer om sambandet mellan blommande växter och de djur som ofta besöker växterna.</font></div>"
+      },
+      {
+        "refId": "e1f3b987-e02b-4478-1064-76a51d683354",
+        "string": "<font size=\"5\">Undersök Max och Mias frågor:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Vad finns inuti en blomma?</font></div><div><font size=\"3\">2. Hur hjälper olika organismer växterna att fortplanta sig?&#160;</font></div><div><font size=\"3\">3. Vad kallas sådana processer?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Använd dokumentationsverktyget för att dela med dig av dina resonemang.</font></div>"
+      },
+      {
+        "refId": "90b1b939-544c-4339-32a7-7bf54f35a8e0",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en modell av ett bi som cirklar i luften kring en blomma full av pollen.</font></div>"
+      },
+      {
+        "refId": "248a9f42-8469-4c6e-b2b1-64c82f192e78",
+        "string": "<font size=\"3\">Programmera biet att stanna vid blomman för att hämta pollen.</font>"
+      },
+      {
+        "refId": "0c165a49-c4b1-402e-cc15-6fd169f3172d",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "bd9689bb-8482-4a1c-24f4-c558e5fa63b6",
+        "string": "<font size=\"5\">Använda modellen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en ny pollinatör som skulle kunna bli lockad till en <span style=\"line-height: 1.42857143;\">annan blomma</span><span style=\"line-height: 17.142858505249px;\">.</span></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beakta något av följande:</font></div><div><font size=\"3\">1. Rörformade blommor passar fåglar bäst.&#160;</font></div><div><font size=\"3\">2. Fjärilar dras till olika färger.&#160;</font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. Pollinering kan inträffa mellan två olika blommor.&#160;</font></span></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumentera hur din blomma och motsvarande pollinatör passar för varandra.</font></div>"
+      },
+      {
+        "refId": "f2efc131-abe3-422b-36ea-9e1746fdda34",
+        "string": "<font size=\"5\">Slutför dokumentationen:</font><br><br><div><font size=\"3\">1. Beskriv din modells begränsningar.</font></div><div><font size=\"3\">2. Organisera din information.</font></div><div><font size=\"3\">3. Lägg till viktig text, bilder, skärmdumpar eller videoklipp för att beskriva hur din modell representerar en organism som hjälper en växt att fortplanta sig.</font></div>"
+      },
+      {
+        "refId": "22896aef-5632-4d2e-e0f8-b49593eabc3a",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:</font><br><br><div><font size=\"3\">Använd egna ord för att beskriva hur pollinatörer bidrar till växternas fortplantning. Kom ihåg att ge specifika exempel på hur din modell representerar detta. Beskriv minst en begränsning som modellen har.</font></div>"
+      },
+      {
+        "refId": "e8080f5f-d4a8-4546-7c0d-f2cf11128489",
+        "string": "<div><font size=\"5\">Fortsätt att använda modellen&#160;</font></div><div><font size=\"5\">med Max och Mia</font></div>"
+      },
+      {
+        "refId": "6d909856-1718-4a63-08d8-0a8b8c297284",
+        "string": "<font size=\"5\">Dela ditt projekt</font>"
+      },
+      {
+        "refId": "59076eff-8410-43d6-3d73-ea4f58d9c3b4",
+        "string": "<div><font size=\"4\">På vilket sätt kan vissa organismer vara viktiga för växternas livscykler?</font><br><font size=\"3\"><br></font><div><font size=\"3\">I det här projektet kommer du att:</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">Undersöka på vilket sätt olika organismer har en aktiv roll i växternas fortplantningsprocess.</span><br></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Bygga och programmera en modell av ett bi och en blomma, för att visa relationen mellan pollinatören och växten.</font></div><font size=\"3\">•&#160;<span style=\"color: inherit; line-height: 1.42857143;\">Presentera och dokumentera de modeller av växter och deras pollinatörer som du har skapat.</span></font></div>"
+      },
+      {
+        "refId": "7f9c9614-0d01-4cd5-b7fa-504fc1294a98",
+        "string": "5. Växter och pollinatörer"
+      },
+      {
+        "refId": "322b8ea4-3045-4c2e-233f-94b00d524e24",
+        "string": "<font size=\"5\">Fortsätt att använda modellen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg växten efter att blomman har pollinerats och visa hur fröna sprids:</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beakta något av följande:</font></div><div><font size=\"3\">1. Frön sprids från blommande eller icke blommande växter&#160;</font></div><div><font size=\"3\">2. Frön som sprids av organismer</font></div><div><font size=\"3\">3. Frön som sprids på andra sätt</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentera den fröspridningsprocess som du har valt att bygga en modell av.</font></div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">Max and Mia have noticed that not all of the buildings around the world look the same.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">They wish to investigate how buildings could be designed to be stronger and safer.</font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">Explore Max and Mia's questions:</font><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\"><br></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">1. What causes earthquakes, and what hazards do they create?</span><br></font></div><div><font size=\"3\">2. How do scientists rate the strength of an earthquake?</font></div><div><font size=\"3\">3. What factors can influence the damage resistance of buildings during an earthquake?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Share your ideas using the Documentation tool.</font></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<font size=\"3\">Program your earthquake simulator to simulate an earthquake with various magnitudes.</font>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you need help.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">See the Help panel for more guidance.</font></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<font size=\"5\">Investigate with Max and Mia:</font><br><br><div><font size=\"3\">1. Find the minimum magnitude required to make building B fall. Test building A with the same magnitude.</font></div><div><font color=\"#ffffff\" size=\"3\">Document and compare your results for both tests.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Run the same program to shake buildings B and C.</font></div><div><font color=\"#ffffff\" size=\"3\">Document and compare your results for both tests.</font></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"5\">Finalise your document:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Review your predictions, and explain what happened in this investigation.</font></div><div><font size=\"3\">2. Organise your information to share with others.</font></div><div><font size=\"3\">3. Insert important text, pictures, screenshots or videos into your project.</font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">Share your findings:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Based on your findings during these investigations, present evidence in your own words about what factors make a building better suited to withstand earthquakes.</font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Build an earthquake simulator that can shake a building.</font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"5\">Investigate more&#160;</font></div><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<font size=\"5\">What other factors make structures earthquake-resistant?</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">In this project, you will:</font></span></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Explore the origin and nature of earthquakes.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Create and program a device that will allow you to test building designs.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Document evidence and present your findings about which design(s) is/are the most earthquake-resistant.</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. Robust Structures"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"5\">Investigate more:</font><div><span style=\"line-height: 17.142858505249px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1. Predict what would happen if you repeated your investigation with a high-magnitude earthquake.</font></div><div><font color=\"#ffffff\" size=\"3\">Document your predictions, and document and compare your results for both tests.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Build the tallest structure possible that is capable of withstanding a magnitude 8 earthquake.</font></div></div>"
+      }
+    ]
+  }
+}

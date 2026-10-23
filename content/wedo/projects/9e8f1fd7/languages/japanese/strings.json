@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8889bb08-cc03-4540-8448-ee67d3ab4e50",
+        "string": "17.月面基地"
+      },
+      {
+        "refId": "42b013c8-6baa-4fff-0317-26f266cc064b",
+        "string": "<font size=\"3\">マックスとミアは月面基地を組み立てるロボットを制作中です。&nbsp;<br><br></font><div><font size=\"3\">パーツを集めるロボットのプログラミングを手伝ってください。&nbsp;</font></div>"
+      },
+      {
+        "refId": "e69e786b-066d-45cf-8ef1-a2411c598995",
+        "string": "<font size=\"5\">マックスとミアの質問について、考えましょう：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1.月にどうやって荷物を送れるでしょうか？</font></div><div><font size=\"3\">2.荷物を月に安全に着陸させるには、どんな方法がありますか？</font></div><div><font color=\"#ffffff\" size=\"3\">3.月に基地を作成・建設する良い方法は？</font></div></div>"
+      },
+      {
+        "refId": "cfee27b3-529f-4b74-47af-baf64b172566",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">様々な方向に進み回転できるロボットを組み立てます。&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">ロボットが動くようにプログラミングします。&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "b532c30d-f275-477d-8070-209a6fbd1650",
+        "string": "<div><span style=\"color: inherit; font-size: 16px;\">1.プログラムをスタートさせる</span><br></div><div><font size=\"3\">2.モーターを右回転させる</font></div><div><font size=\"3\">3.モーターを 動力4で動かす</font></div><div><font size=\"3\">4.モーターを2秒間回転させる</font></div><div><font size=\"3\">5.モーターを左回転させる</font></div><div><font size=\"3\">6.モーターを2秒間回転させる</font></div>"
+      },
+      {
+        "refId": "7f368ff6-a865-4f73-ff7e-22283eaaa470",
+        "string": "<font size=\"5\">解決策のプランを立てて試す</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\" size=\"3\">- ロボットが最初の月面基地モジュールにたどり着くルートを定めます。&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">- 最初のパーツに進むようにロボットをプログラミングします。&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "cecfc75b-ac62-487b-12c5-367028a970ba",
+        "string": "<font size=\"5\">解決策を試し、修正します。</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">- ロボットが最初と2番目の月面基地パーツにたどり着くルートを計画します。&nbsp;</font></div><font color=\"#ffffff\"><br></font><div><font color=\"#ffffff\">- ロボットが最終目的地にたどり着くルートを計画します。</font></div><br><div>- 以下のルートに沿って進むようにロボットをプログラミングします。&nbsp;</div></div>"
+      },
+      {
+        "refId": "f929372d-e146-40cd-a16c-b25737005614",
+        "string": "<font size=\"5\">新しい解決策をデザインしましょう</font><div><font size=\"5\">マックスとミアもいっしょです</font></div>"
+      },
+      {
+        "refId": "91fbc3ae-c4f2-4e12-af7c-040827afa6bb",
+        "string": "<font size=\"5\">プロジェクトの発表</font>"
+      },
+      {
+        "refId": "57541f06-6c38-4970-5c61-8e318eb1830a",
+        "string": "<font size=\"5\">新解決策のデザイン：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">新しいパーツが月面に着陸しました！ 着陸位置を結ぶと正方形になりました。 </font></div><font size=\"3\"><br></font><div><font size=\"3\">4つのパーツを回収するようにロボットをプログラミングしましょう。</font><br></div></div>"
+      },
+      {
+        "refId": "c50d5eeb-496e-4a96-5e43-db7edd6718cf",
+        "string": "<font size=\"5\">情報の整理：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">例示：&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- プログラムの最終版のスクリーンキャプチャを撮ります。</font></div><div><font color=\"#ffffff\" size=\"3\">- 解決策の説明ビデオを録画します。</font></div></div>"
+      },
+      {
+        "refId": "11e6d357-ed21-4621-8de1-257a567749b3",
+        "string": "<font size=\"5\">結果の共有：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">解決策を発表し、説明します。</font></div></div>"
+      },
+      {
+        "refId": "0b9e4a01-e5c9-4ad8-a3f7-4f310b12d736",
+        "string": "<div><div><font size=\"5\">月面基地はどうやって設置されますか？</font></div><br><div>このプロジェクトの内容：&nbsp;</div><div>&nbsp;- 月面基地を設置する理由とその実現方法について検討する&nbsp;</div><div>&nbsp;- 月面を動くことができるロボットを作成し、プログラミングする&nbsp;&nbsp;</div><div>&nbsp;- プログラムをテストして、特定の場所に月面基地を組み立てる&nbsp;</div><div>&nbsp;- この任務を成し遂げるためのプログラムとアイデアを共有する&nbsp;</div></div>"
+      },
+      {
+        "refId": "e4effe28-5fa1-42ad-ae93-1fa15fb20754",
+        "string": "<font size=\"3\">スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合は、ビデオを見てください。&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">さらにヒントが必要な場合はヘルプパネルを見てください。&nbsp;</font></div></div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "소프트웨어 가이드",
+      "subcategories": [
+        {
+          "title": "WeDo 2.0 도구 모음",
+          "elements": [
+            {
+              "title": "<p>도구 모음은 프로젝트 페이지 상단에 표시됩니다. 도구 모음의 주요 기능은 다음과 같습니다.</p><ul><li>홈 아이콘을 누르면 로비로 되돌아갑니다.</li><li>프로젝트 라이브러리 아이콘을 누르면 WeDo 2.0 프로젝트를 열 수 있습니다.</li><li>디자인 라이브러리 아이콘을 누르면 조립 및 프로그래밍 아이디어를 볼 수 있습니다.</li><li>캡처 도구 아이콘을 누르면 WeDo 2.0 소프트웨어의 내장형 카메라, 비디오 및 화면 캡처 도구에 접근할 수 있습니다.</li><li>문서화 도구 아이콘을 누르면 프로젝트 문서를 열 수 있습니다.</li><li>도움말 아이콘을 누르면 추가 정보를 볼 수 있습니다.</li><li>중지 아이콘을 누르면 프로그램의 모든 기능이 멈춥니다.</li></ul><p>프로그램 문자열은 프로그래밍 캔버스에 블록을 끌어다 놓는 방식으로 간단히 작성할 수 있으며, 시작 블록을 눌러 프로그램 문자열을 원하는 곳에서 시작할 수 있습니다. 중요: 선택된 도구 모음 항목을 다시 누르면 프로그래밍 캔버스로 되돌아갑니다.</p>",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "프로젝트 라이브러리",
+          "elements": [
+            {
+              "title": "<p>프로젝트 라이브러리의 구성:</p><ul><li>시작하기 프로젝트.</li><li>안내형 프로젝트.</li><li>개방형 프로젝트. 이들 프로젝트 중 하나를 열면 개요 페이지가 표시되고 뒤이어 프로젝트의 내용 전체를 볼 수 있습니다.</li></ul>",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "디자인 라이브러리",
+          "elements": [
+            {
+              "title": "<p>디자인 라이브러리는 두 개의 섹션으로 구성되어 있습니다.</p><ul><li>모델 라이브러리</li><li>프로그램 라이브러리</li></ul><p>모델 라이브러리에서 찾아볼 수 있는 항목:</p><ul><li>기본 모델, 조립 설명서 및 프로그램 제안</li><li>두 개의 응용 모델(각각의 기본 모델과 연결되며, 관련 사진 및 프로그램 제안이 포함되어 있음)</li></ul>",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "<p>프로그램 라이브러리에서 찾아볼 수 있는 항목:</p><ul start=\"3\"><li>기본적 프로그래밍 기능(학생들이 간단한 프로그래밍 문자열을 살펴볼 수 있도록 다수의 프로그래밍 블록으로 구성되어 있음)</li><li>두 개의 응용 기능(각각의 기본 프로그래밍 기능과 연결되어 있음)</li></ul>",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "소리 녹음 도구",
+          "elements": [
+            {
+              "title": "<p>소리 녹음 도구는 프로젝트 화면에서 언제든 이용할 수 있습니다. 이 기능은 소리를 녹음하기 위한 용도로 사용됩니다. WeDo 2.0 소프트웨어는 마지막으로 기록된 소리를 저장하며, 프로그램 문자열에 사운드 블록(입력 0)을 추가하면 해당 사운드에 접근할 수 있습니다.</p><ul><li>마이크 아이콘을 누르면 창이 열립니다.</li></ul>",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "<ul start=\"2\"><li>녹음 아이콘을 누르면 녹음이 시작됩니다.</li><li>재생 아이콘을 누르면 녹음된 소리가 재생됩니다.</li><li>중지 아이콘을 누르면 녹음이 멈춥니다.</li></ul>",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "캡처 도구",
+          "elements": [
+            {
+              "title": "<p>캡처 도구의 용도는 다음과 같습니다.</p><ul><li>캡처 버튼의 기능:</li><ul><li>사진 촬영 <li>비디오 녹화 시작 및 중지 <li>화면 캡처</ul><li>사진 캡처 버튼을 누르면 사진 모드를 선택할 수 있습니다.</li><li>비디오 캡처 버튼을 누르면 비디오 모드를 선택할 수 있습니다.</li><li>캔버스 캡처 버튼을 누르면 캔버스 모드를 선택할 수 있습니다.</li></ul>",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "교사 지원 기능 사용하기",
+          "elements": [
+            {
+              "title": "<p>교사 지원 기능은 일부 프로젝트에 한해 포함되어 있으며, 수업 계획 및 수업 진행 중에 도움이 될 만한 자료를 제공합니다. 교사 지원 기능을 통해 제공되는 자료는 다음과 같습니다.</p><ul><li>프로젝트 개요</li><li>프로젝트 유형 교육과정 링크</li><li>계획 수립</li><li>토의, 질의 및 응답</li><li>장면 설정하기</li><li>조립 도움말</li><li>프로그래밍 도움말</li><li>컴퓨팅 사고력 개발 지원</li><li>조사 기술 개발 지원</li><li>모델링 기술 개발 지원</li><li>디자인 기술 개발 지원</li><li>커뮤니케이션 기술 개발 지원</li><li>관찰평가표</li></ul>",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "도움말 창",
+          "elements": [
+            {
+              "title": "<p>도움말 창에서 찾아볼 수 있는 지침은 다음과 같습니다.</p><ul><li>각 프로그래밍 블록의 명칭 및 간략한 설명</li><li>연결 프로세스와 관련된 도움말</li><li>기타 관련 요소</li></ul>",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "문서화 도구",
+          "elements": [
+            {
+              "title": "<p>학생들이 문서화 도구를 이용해 텍스트, 이미지 및 비디오를 추가하는 방식으로 프로젝트를 기록할 수 있습니다.</p><ul><li>페이지 추가 아이콘을 누르면 문서에 새 페이지가 추가됩니다.</li><li>템플릿 선택 아이콘을 누르면 페이지 레이아웃을 선택할 수 있습니다.</li><li>페이지 삭제 아이콘을 누르면 현재의 페이지가 삭제됩니다.</li><li>내보내기 아이콘을 누르면 문서를 PDF 또는 이미지로 저장할 수 있습니다.</li><li>이미지 입력 아이콘을 누르면 장치에 저장된 이미지를 삽입할 수 있습니다.</li><li>비디오 입력 아이콘을 누르면 장치에 저장된 비디오를 삽입할 수 있습니다.</li><li>텍스트 입력 아이콘을 누르면 장치에서 글자 입력을 시작할 수 있습니다.</li></ul>",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "프로그래밍 블록",
+      "subcategories": [
+        {
+          "title": "플로우 블록",
+          "elements": [
+            {
+              "title": "시작 블록",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": "항상 프로그램 문자열의 시작 위치에 배치됩니다. 이 블록을 누르면 만들어 놓은 프로그램이 시작됩니다.<br><i>유사 코드: 프로그램 시작</i>"
+            },
+            {
+              "title": "키 누르면 시작 블록",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": "항상 프로그램 문자열의 시작 위치에 배치됩니다. 이 블록을 누르거나 키보드의 해당 문자 키를 누르면 만들어 놓은 프로그램 문자열이 시작됩니다. 동일한 문자를 포함한 모든 프로그램 문자열이 동시에 시작됩니다.<br>활성화 문자를 변경하려면 블록을 길게 눌러 키보드 액세스를 활성화합니다.<br><i>유사 코드: \"A\"를 터치하면 프로그램 시작</i>"
+            },
+            {
+              "title": "메시지와 함께 시작 블록",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": "항상 프로그램 문자열의 시작 위치에 배치됩니다. 올바른 메시지가 도착할 때까지 기다렸다가 프로그램 문자열을 시작합니다.<br><i>유사 코드: 메시지  … 수신과 동시에 프로그램 시작</i>"
+            },
+            {
+              "title": "메시지 보내기",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": "메시지를 프로그래밍 캔버스로 보냅니다. 동일한 메시지를 가진 ‘메시지와 함께 시작’ 블록이 모두 활성화됩니다. 메시지는 텍스트 또는 숫자 형태로 구성될 수 있습니다.<br><i>유사 코드: 메시지  … 보내기</i>"
+            },
+            {
+              "title": "대기",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": "무언가 이벤트가 발생할 때까지 프로그램을 기다리게 할 때 이 블록을 사용합니다. 일정 시간 동안 또는 센서가 입력을 감지할 때까지 기다리도록 할 수 있습니다. 이 블록은 적절한 동작을 위해 입력을 필요로 합니다.<br><i>유사 코드: ... 동안 대기</i>"
+            },
+            {
+              "title": "반복 블록",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": "이 블록을 이용해 동작을 반복 실행합니다. 반복 블록 안에 배치된 블록이 반복 실행됩니다. 이러한 형태를 “루프 블록”이라고도 합니다.<br>루프는 영구히 반복되거나 특정 시간 동안 또는 무언가 이벤트가 발생할 때까지만 반복될 수도 있습니다.<br><i>유사 코드: 단계 ... 영구 반복</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "출력: 모터 블록",
+          "elements": [
+            {
+              "title": "모터 이 방향 회전 블록",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": "모터 축을 표시된 방향으로 회전하게 설정하고 모터를 작동합니다.<br>블록을 터치하면 회전 방향이 즉각 바뀝니다.<br><i>유사 코드: 시계 방향으로 모터 작동</i>"
+            },
+            {
+              "title": "모터 저 방향 회전 블록",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": "모터 축을 표시된 방향으로 회전하게 설정하고 모터를 작동합니다.<br>블록을 터치하면 회전 방향이 즉각 바뀝니다.<br><i>유사 코드: 반시계 방향으로 모터 작동</i>"
+            },
+            {
+              "title": "모터 출력 블록",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": "모터의 출력을 지정된 수준으로 설정하고 모터를 작동합니다. 출력 수준은 0에서 10까지의 숫자 입력을 이용해 설정할 수 있습니다.<br><i>유사 코드: …의 출력으로 모터 작동</i>"
+            },
+            {
+              "title": "모터 켜짐 시간 블록",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": "지정된 초 단위의 시간 동안 모터를 작동합니다. 시간의 길이는 숫자 입력을 이용해 설정할 수 있으며, 정수 또는 소수가 사용됩니다.<br><i>유사 코드: ...초간 모터 작동</i>"
+            },
+            {
+              "title": "모터 꺼짐 블록",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": "모터의 모든 동작을 멈춥니다.<br><i>유사 코드: 모터 정지</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "출력: LED 블록",
+          "elements": [
+            {
+              "title": "조명 블록",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": "Smarthub의 LED를 지정된 색상으로 켭니다. 색상은 0부터 10까지의 숫자 입력을 이용해 변경할 수 있습니다.<br><br><i>유사 코드: LED를 색상 9(빨강)로 점등</i><br><i>유사 코드: LED를 색상 0(색상 없음)으로 소등</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "출력: 사운드 블록",
+          "elements": [
+            {
+              "title": "사운드 재생",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": "사운드를 재생합니다. 사운드는 소프트웨어를 통해 제공되는 목록에서 선택됩니다. 숫자 입력을 이용해 사운드를 설정할 수 있습니다. 사운드 번호 0을 선택하면 사용자가 기록한 사운드가 재생됩니다.<br><i>유사 코드: 사운드 번호 … 재생</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "출력: 디스플레이 블록",
+          "elements": [
+            {
+              "title": "디스플레이 배경",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": "이 블록을 이용해 소프트웨어를 통해 제공되는 목록에서 선택한 이미지를 표시할 수 있습니다. 이미지는 숫자 입력을 이용해 설정할 수 있습니다.<br><i>유사 코드: 이미지  ...을(를) 화면에 표시</i>"
+            },
+            {
+              "title": "디스플레이 블록",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": "이 블록을 이용해 소프트웨어 화면에 디스플레이 영역을 열 수 있습니다. 디스플레이 영역에 숫자 또는 텍스트가 표시됩니다.<br><i>유사 코드: ...을(를) 화면에 표시</i>"
+            },
+            {
+              "title": "디스플레이에 추가",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": "디스플레이에 현재 표시된 숫자에 특정 수량을 더합니다. 더하고자 하는 숫자를 입력합니다. 숫자 연산을 변경하려면 블록을 터치합니다.<br><i>유사 코드: 디스플레이의 숫자에 ... 더하기</i>"
+            },
+            {
+              "title": "디스플레이에서 빼기",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": "디스플레이에 현재 표시된 숫자에서 특정 수량을 뺍니다. 빼고자 하는 숫자를 입력합니다. 숫자 연산을 변경하려면 블록을 터치합니다.<br><i>유사 코드: 디스플레이의 숫자에서 ... 빼기</i>"
+            },
+            {
+              "title": "디스플레이에 곱하기",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": "디스플레이에 표시된 숫자에 특정 숫자를 곱합니다. 곱하고자 하는 숫자를 입력합니다. 숫자 연산을 변경하려면 블록을 터치합니다.<br><i>유사 코드: 디스플레이의 숫자에 ... 곱하기</i>"
+            },
+            {
+              "title": "디스플레이를 나누기",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": "디스플레이에 표시된 숫자를 특정 숫자로 나눕니다. 몇으로 나눌지를 숫자로 입력합니다. 숫자 연산을 변경하려면 블록을 터치합니다.<br><i>유사 코드: 디스플레이의 숫자를 ...(으)로 나누기</i>"
+            },
+            {
+              "title": "디스플레이 닫힘",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": "이 블록을 이용해 소프트웨어 화면의 디스플레이 영역을 닫습니다. 크기를 변경하려면 블록을 터치합니다.<br><i>유사 코드: 디스플레이 닫기</i>"
+            },
+            {
+              "title": "전체 크기 디스플레이",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": "이 블록을 이용해 디스플레이 영역을 전체 크기로 설정합니다. 크기를 변경하려면 블록을 터치합니다.<br><i>유사 코드: 디스플레이 크기를 최대로 변경</i>"
+            },
+            {
+              "title": "중간 크기 디스플레이",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": "이 블록을 이용해 디스플레이 영역을 중간 크기로 설정합니다. 크기를 변경하려면 블록을 터치합니다.<br><i>유사 코드: 디스플레이의 크기를 중간으로 변경</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "입력: 센서 입력 변경",
+          "elements": [
+            {
+              "title": "모든 거리 변화",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": "동작 센서 모드 “모든 거리 변화”를 블록에 입력합니다."
+            },
+            {
+              "title": "거리 가까워짐",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": "동작 센서 모드 “센서와 물체 사이의 거리 감소 중”을 블록에 입력합니다."
+            },
+            {
+              "title": "거리 멀어짐",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": "동작 센서 모드 “센서와 물체 사이의 거리 증가 중”을 블록에 입력합니다."
+            },
+            {
+              "title": "저쪽으로 기울기",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": "기울기 센서 모드 “저쪽으로 기울기”를 블록에 입력합니다."
+            },
+            {
+              "title": "이쪽으로 기울기",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": "기울기 센서 모드 “이쪽으로 기울기”를 블록에 입력합니다."
+            },
+            {
+              "title": "아래로 기울기",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": "기울기 센서 모드 “아래로 기울기”를 블록에 입력합니다."
+            },
+            {
+              "title": "위로 기울기",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": "기울기 센서 모드 “위로 기울기”를 블록에 입력합니다."
+            },
+            {
+              "title": "기울기 센서 기울기 없음",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": "기울기 센서 모드 “기울기 없음”(또는 수평 위치)을 블록에 입력합니다."
+            },
+            {
+              "title": "흔들기",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": "기울기 센서 모드 “흔들기”를 블록에 입력합니다."
+            },
+            {
+              "title": "사운드 크기 변화",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": "사운드 센서(장치로부터) 모드 “사운드 레벨 변화”를 블록에 입력합니다."
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "입력: 숫자 및 텍스트 입력",
+          "elements": [
+            {
+              "title": "기울기 센서 입력",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": "기울기 센서에서 생성된 숫자 값(0, 3, 5, 7 또는 9)을 블록에 입력합니다."
+            },
+            {
+              "title": "동작 센서 입력",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": "동작 센서에 의해 탐지된 값(0부터 10까지)을 블록에 입력합니다."
+            },
+            {
+              "title": "사운드 센서 입력",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": "사운드 센서에 의해 탐지된 값(0부터 10까지)을 블록에 입력합니다."
+            },
+            {
+              "title": "번호 입력",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": "숫자 값을 블록에 입력합니다."
+            },
+            {
+              "title": "텍스트 입력",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": "텍스트 값을 블록에 입력합니다."
+            },
+            {
+              "title": "화면 입력",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": "디스플레이 영역에 표시된 숫자 값을 블록에 입력합니다."
+            },
+            {
+              "title": "무작위 입력",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": "무작위 값을 블록에 입력합니다. 숫자 범위는 연결된 블록에 의해 결정됩니다."
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "문서화",
+          "elements": [
+            {
+              "title": "말풍선",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": "말풍선을 이용해 프로그램에 주석을 삽입합니다. 이 블록은 프로그래밍 블록이 아닙니다."
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "프로그래밍 블록",
+      "subcategories": [
+        {
+          "title": "플로우 블록",
+          "elements": [
+            {
+              "title": "시작 블록",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "키 누르면 시작 블록",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "메시지와 함께 시작 블록",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "사운드 재생 블록",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "메시지 전송 블록",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "대기 시간 블록",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "반복 블록",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "모터 블록",
+          "elements": [
+            {
+              "title": "모터 이 방향 회전 블록",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "모터 저 방향 회전 블록",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "모터 출력 블록",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "모터 켜짐 시간 블록",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "모터 꺼짐 블록",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "조명 블록",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "센서 입력 블록",
+          "elements": [
+            {
+              "title": "거리 센서 입력",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "거리 가까워짐",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "거리 멀어짐",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "모든 거리 변화",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "기울기 센서 입력",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "위로 기울기",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "아래로 기울기",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "이쪽으로 기울기",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "저쪽으로 기울기",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "모든 기울기",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "장치 입력 블록",
+          "elements": [
+            {
+              "title": "텍스트 입력",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "번호 입력",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "무작위 입력",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "음향 센서 입력",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "화면 입력",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "화면 표시 블록",
+          "elements": [
+            {
+              "title": "디스플레이 블록",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "화면의 숫자에 더하기 블록",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "화면의 숫자에서 빼기 블록",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "화면의 숫자에 곱하기 블록",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "화면의 숫자로 나누기 블록",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "화면 배경 블록",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "화면 닫기 블록",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "화면 중간 크기 블록",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "화면 전체 크기 블록",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "기타 블록",
+          "elements": [
+            {
+              "title": "말풍선",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "연결 프로세스",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS & Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "<p>WeDo 2.0 Smarthub 2 i/o는 Bluetooth 4.0 저전력 기술을 사용합니다.</p> <p>WeDo 2.0 Smarthub는 우선적으로 원하는 장치와 “페어링”을 해야 사용할 수 있으며, 이 과정을 거쳐야만 페어링된 두 대의 장치가 서로 안전하게 연결됩니다. 한번 페어링된 장치는 이후 자동으로 연결됩니다.</p> <p>알림: 여러 사용자가 공용하는 태블릿 장치를 사용하는 경우, 각 사용자가 전역 Bluetooth 설정을 변경할 수 있습니다.</p> <p>Windows 7: WeDo 2.0 Smarthub를 PC(Windows 7)에 연결하는 방법:</p> <ol> <li>“시작”을 클릭하고 “장치 및 프린터”를 클릭합니다.</li> <li>“장치 및 프린터” 창에서 “장치 추가”를 클릭합니다.</li> <li>파란색 불빛 버튼을 눌러 WeDo 2.0 Smarthub를 켭니다.</li> <li>잠시 후 사용 가능한 장치의 목록에 WeDo 2.0 Smarthub가 표시됩니다.<br> Smarthub가 인식되지 않을 경우: <ol> <li>컴퓨터 제조사의 인터넷 사이트 또는 컴퓨터 설명서를 참조하여 컴퓨터가 Bluetooth 4.0과 호환되는지 확인하십시오.</li> <li>장치 목록에서 이전에 페어링된 모든 WeDo 2.0 Smarthub를 삭제한 다음, 2단계부터 다시 시작하십시오.</li> </ol> </li> <li>WeDo 2.0 Smarthub를 선택하고 “다음”을 누릅니다.</li> <li>코드를 입력하라는 메시지가 표시되면 0000을 입력합니다.</li> <li>이제 WeDo 2.0 Smarthub가 컴퓨터에 연결됩니다. Smarthub를 응용 프로그램에서 사용하는 방법은 연결 비디오 설명서를 참조하십시오.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>WeDo 2.0 Smarthub 2 i/o는 Bluetooth 4.0 저전력 기술을 사용합니다.</p> <p>WeDo 2.0 Smarthub는 우선적으로 원하는 장치와 “페어링”을 해야 사용할 수 있으며, 이 과정을 거쳐야만 페어링된 두 대의 장치가 서로 안전하게 연결됩니다. 한번 페어링된 장치는 이후 자동으로 연결됩니다.</p> <p>알림: 여러 사용자가 공용하는 태블릿 장치를 사용하는 경우, 각 사용자가 전역 Bluetooth 설정을 변경할 수 있습니다.</p> <p>Windows 8.1: WeDo 2.0 Smarthub를 PC(Windows 8.1)에 연결하는 방법:</p> <ol> <li>“시작”을 클릭하고 “장치 및 프린터”를 클릭합니다.</li> <li>“장치 및 프린터” 창에서 “장치 추가”를 클릭합니다.</li> <li>파란색 불빛 버튼을 눌러 WeDo 2.0 Smarthub를 켭니다.</li> <li>잠시 후 사용 가능한 장치의 목록에 WeDo 2.0 Smarthub가 표시됩니다.<br> Smarthub가 인식되지 않을 경우: <ol> <li>컴퓨터 제조사의 인터넷 사이트 또는 컴퓨터 설명서를 참조하여 컴퓨터가 Bluetooth 4.0과 호환되는지 확인하십시오.</li> <li>장치 목록에서 이전에 페어링된 모든 WeDo 2.0 Smarthub를 삭제한 다음, 2단계부터 다시 시작하십시오.</li> </ol> </li> <li>WeDo 2.0 Smarthub를 선택하고 “다음”을 누릅니다.</li> <li>코드를 입력하라는 메시지가 표시되면 0000을 입력합니다.</li> <li>이제 WeDo 2.0 Smarthub가 컴퓨터에 연결됩니다. Smarthub를 응용 프로그램에서 사용하는 방법은 연결 비디오 설명서를 참조하십시오.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>WeDo 2.0을 시작하고 ‘연결’ 창을 여십시오.</li> <li>WeDo 2.0 Smarthub의 녹색 버튼을 누르십시오.</li> <li>연결하고자 하는 Smarthub을 클릭하십시오. Smarthub가 인식되지 않을 경우:</li> <ol> <li>컴퓨터 제조사의 웹 사이트 또는 컴퓨터와 함께 제공된 설명서를 참조하여 컴퓨터가 Bluetooth 4.0(저에너지 Bluetooth 또는 Bluetooth Smart라고도 함)과 호환되는지 확인하십시오.</li> <li>‘시작’ 메뉴에서 ‘설정’(톱니바퀴 아이콘)을 선택하고 ‘장치’ 및 ‘Bluetooth’를 클릭하십시오. 이전에 페어링된 WeDo 2.0 Smarthub(현재 연결되지 않은 항목)를 목록에서 찾아 모두 선택한 다음 ‘장치 제거’를 클릭하여 삭제하십시오.</li> <li>WeDo 2.0 애플리케이션 화면으로 되돌아가 위의 2단계(연결 프로세스)를 반복하십시오.</li> </ol> <li>사용 가능한 장치 목록에서 WeDo 2.0 Smarthub을 선택하십시오.</li> <li>Smarthub를 페어링하라는 메시지가 표시되면 ‘허용’ 버튼을 클릭하여 승인하고 ‘닫기’를 클릭하십시오.</li> </ol> <p><b>윈도우 10에서 페어링이 원활치 않을 경우, 화면의 지침을 따르십시오</b></p> <ol> <li>화면의 안내에 따라 녹색 버튼을 다시 누르십시오.</li> <li>여전히 페어링에 실패할 경우, ‘다시 시도’를 클릭하십시오. 페어링 대화 상자에서 확인 버튼을 누르거나 위의 2단계(연결 프로세스)를 반복하여 Smarthub의 페어링을 다시 시도하십시오.</li> <li>Smarthub가 성공적으로 페어링되면 연결 센터에 연결되었다는 표시가 나타납니다.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Open the Connection Center.</li> <li>Press the green button on the WeDo 2.0 Smarthub until its name appears in the connection window.</li> <li>Click on the specific Smarthub name to connect.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

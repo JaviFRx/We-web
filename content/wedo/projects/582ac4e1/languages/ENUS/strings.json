@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "Moving Satellite"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><div><div><font size=\"3\">In this lesson, you will learn to:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Build a LEGO® model</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Connect your model to your device</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Program</span><span style=\"line-height: 1.42857;\">&nbsp;the motor to turn for a set length of time</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Program the motor to turn the other way</font></span></div></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">Max and Mia listen to the news. They hear about satellites controlled by scientists.</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Sometimes satellites need to move to avoid meteors.&nbsp;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">They want to build their own satellite.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max and Mia need your help!</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">Make the satellite turn for 3 seconds.<br><br>1. Create the program as shown.</font><div><font size=\"3\"><br>2. Explain to each other how the satellite works.</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">Help Max and Mia further (optional):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Make the satellite turn the other way for longer.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Program the satellite to do other things.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device.</font><br>"
+      }
+    ]
+  }
+}

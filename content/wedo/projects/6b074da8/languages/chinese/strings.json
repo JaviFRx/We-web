@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c0163cd5-2132-4dc3-bed1-0dd1a46fbb6c",
+        "string": "14. 循环"
+      },
+      {
+        "refId": "ebd3a045-0318-491b-ce0c-2ee51f5580d8",
+        "string": "1. 启动程序&nbsp;<div>2. 播放声音 1&nbsp;</div><div>3. 无限重复第 2 步</div>"
+      },
+      {
+        "refId": "6aa083e3-07c5-47db-8116-ecc93be288cd",
+        "string": "1. 启动程序&nbsp;<div>2. 播放声音 3&nbsp;</div><div>3. 重复第 2 步 3 次</div>"
+      },
+      {
+        "refId": "7714ede6-7b16-4a4b-777e-4e8e62d9a844",
+        "string": "LEGO 模型无需测试此程序。"
+      }
+    ]
+  }
+}

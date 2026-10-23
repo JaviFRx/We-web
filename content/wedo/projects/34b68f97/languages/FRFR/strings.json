@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1b30cf7d-5870-47e2-a7e8-3f32b797f498",
+        "string": "18. Capture d’objets"
+      },
+      {
+        "refId": "991c048e-798d-463e-5fc7-811967895c84",
+        "string": "<div><div><div><font size=\"5\">Comment les personnes handicapées au niveau des mains peuvent-elles saisir de petits objets&nbsp;?&nbsp;</font></div><div><br><div>Dans ce projet, vous allez&nbsp;:&nbsp;</div><div>- Explorer comment certaines conceptions de prothèses aident les personnes handicapées&nbsp;</div><div>- Créer et programmer une prothèse de main pour déplacer des objets&nbsp;</div><div>- Tester votre programme pour rendre la main aussi fonctionnelle que possible&nbsp;</div><div>- Partager votre programme et vos idées pour réussir ce projet<br></div></div></div></div>"
+      },
+      {
+        "refId": "48fe8e6f-e967-4699-1e20-ba08a9686e38",
+        "string": "Max et Mia souhaitent aider les personnes handicapées.&nbsp;&nbsp;<div>&nbsp;\n<br><div>Aidez-les à programmer une main pouvant saisir différents objets.</div></div>"
+      },
+      {
+        "refId": "bdc4db6f-6c46-4663-a54c-9675fc2a4af3",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&nbsp;:</font><div><br><div>1. Quels sont les mouvements que vous pouvez effectuer avec votre main&nbsp;?&nbsp;</div><div>2. Quel est le rôle des muscles de votre main&nbsp;?&nbsp;</div><div><font color=\"#ffffff\">3. Comment pouvez-vous créer une main artificielle&nbsp;?</font><br></div></div>"
+      },
+      {
+        "refId": "a9e86e5d-0c2f-492f-2d1a-422dd7e90d79",
+        "string": "<font size=\"5\">Utilisez les briques&nbsp;:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>Construisez une main robotique pouvant saisir différents objets.&nbsp;\n</div><br><div>Programmez-la pour qu'elle puisse s'ouvrir et se fermer.</div></div>"
+      },
+      {
+        "refId": "ea8276cd-b3fe-4061-54af-f29a472f1a16",
+        "string": "1. Lancer le programme&nbsp;<div>2. Attendre que le détecteur de mouvement détecte un mouvement&nbsp;</div><div>3. Démarrer le moteur dans le sens&nbsp;2&nbsp;</div><div>4. Démarrer le moteur pendant 2&nbsp;secondes&nbsp;</div><div>5. Attendre 2&nbsp;secondes&nbsp;</div><div>6. Démarrer le moteur dans le sens&nbsp;1&nbsp;</div><div>7. Démarrer le moteur pendant 2&nbsp;secondes</div>"
+      },
+      {
+        "refId": "bdc58061-18ca-479d-614c-759506f45670",
+        "string": "<font size=\"5\">Préparez et essayez une solution&nbsp;:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>Programmez votre main robotique pour qu'elle réalise les actions suivantes&nbsp;:&nbsp;</div><div>- Saisir la fleur et la poser sur le stand&nbsp;</div><div>- Saisir la prise électrique et la brancher</div></div>"
+      },
+      {
+        "refId": "7bde3747-6cdb-4ecd-c313-343fb0c243b0",
+        "string": "<font size=\"5\">Testez et modifiez votre solution&nbsp;</font><div><br><div>La main robotique ne fonctionne pas correctement avec ce programme.&nbsp;</div><br><div>Il devrait allumer le voyant vert du Smarthub lorsque la pince est fermée et allumer le voyant rouge lorsque la pince est ouverte.&nbsp;</div><br><div><font color=\"#ffffff\">Modifiez le programme pour résoudre le problème.</font></div></div>"
+      },
+      {
+        "refId": "50279510-14bc-463c-5078-6f17d5474810",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions&nbsp;</font><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "44fe0336-824e-4242-7e5a-ef4dcf96ca4e",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "abc1d817-50d5-4add-dce5-353c6c7a8e29",
+        "string": "<font size=\"5\">Organisez vos informations&nbsp;:&nbsp;&nbsp;</font><div><br><div>Par exemple&nbsp;:&nbsp;</div><div><font color=\"#ffffff\">- Faites une capture d’écran de votre programme final.&nbsp;</font></div><div><font color=\"#ffffff\">- Enregistrez une vidéo expliquant votre solution.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "3e03ada0-54f8-40a1-fc75-9a2d092bfa85",
+        "string": "<font size=\"5\">Partagez vos découvertes&nbsp;:</font><div><span style=\"font-size: 20px;\"><br></span><div>Présentez et expliquez vos solutions.</div></div>"
+      },
+      {
+        "refId": "6835b1da-0a51-4494-052e-7ed1dfeca056",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions&nbsp;:</font><div>&nbsp;</div><div>Les équipes doivent se regrouper&nbsp;!&nbsp;</div><br><div>Déplacez des objets entre le point A et le point B.&nbsp;</div><br><div>Déplacez les objets aussi vite que possible d'une main robotique à l'autre.</div>"
+      },
+      {
+        "refId": "39d55ae5-a248-4014-b9fa-bee563f5bb85",
+        "string": "Activez le Smarthub et connectez-le à votre appareil. Regardez la vidéo si vous avez besoin d’aide.&nbsp;<br><br><div>Consultez le Panneau d’aide pour obtenir plus de conseils.&nbsp;</div>"
+      }
+    ]
+  }
+}

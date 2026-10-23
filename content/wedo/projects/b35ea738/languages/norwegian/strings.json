@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "89f2d386-1be5-434d-b520-0c32c9d97d5c",
+        "string": "9. Start ved melding og send melding"
+      },
+      {
+        "refId": "58f3d022-211b-47fa-a536-8502ab37a774",
+        "string": "1. Start program&#160;<div>2. Send melding abc&#160;</div><br><div>3. Start når du mottar melding abc&#160;</div><div>4. Vis bilde 3 på skjermen</div>"
+      },
+      {
+        "refId": "c5c768f3-c584-4629-e335-16341214eabd",
+        "string": "1. Start program&#160;<div>2. Send melding abc&#160;</div><br><div>3. Start når du mottar melding abc&#160;</div><div>4. Vis bilde 3 på skjermen&#160;</div><br><div>5. Start når du mottar melding xyz&#160;</div><div>6. Spill av lyd 6&#160;</div>"
+      },
+      {
+        "refId": "b5bcf16d-c5cc-4746-f11a-0b8ba81ed458",
+        "string": "Ingen LEGO modell kreves for å teste dette programmet."
+      }
+    ]
+  }
+}

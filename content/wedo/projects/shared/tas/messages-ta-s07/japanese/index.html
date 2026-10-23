@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 1.5.4">
+<title>プログラミングヘルプ</title>
+<link rel="stylesheet" href="../css/custom.css">
+</head>
+<body class="article">
+<div id="header">
+</div>
+<div id="content">
+<div class="quoteblock">
+<div class="title">プログラミング的思考スキル</div>
+<blockquote>
+<div class="paragraph">
+<p>評価では全部のスキルを網羅する必要はなく、自分と子どもたちに最も関連するスキルに重点を置いて考えても良いです。</p>
+</div>
+<div class="paragraph">
+<p>パターン発見スキル（規則性を見出す）</p>
+</div>
+<div class="paragraph">
+<p>パターンとは、別の状況でも共通性を見出して同じ方法を適用できる状態をさします。
+このプロジェクトで検討するパターンを以下に挙げます。</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>モールス信号の短音はどのように送信できますか？</p>
+</li>
+<li>
+<p>モールス信号の長音はどのように送信できますか？</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>連続動作のプログラミングスキル（プログラミング）</strong></p>
+</div>
+<div class="paragraph">
+<p>子どもたちは「Max」か「Mia」という単語を表す信号を送るための連続動作をコード化する必要があります。 モールス信号での「Max」の表し方： M（長音、長音）、A（短音、長音）、X（短音、短音、短音、短音）。</p>
+</div>
+<div class="paragraph">
+<p>利用できる方法がいくつかあります。</p>
+</div>
+<div class="paragraph">
+<p>1.単語別コード：コントローラーを上方向に傾けて、単語全体をプログラムする。</p>
+</div>
+<div class="paragraph">
+<p>+
+image::messages-img06.png[]</p>
+</div>
+<div class="paragraph">
+<p>2.文字別コード：コントローラーを上方向にかたむけて「M」を、下方向にかたむけて「A」を、左方向にかたむけて「X」をプログラムする。</p>
+</div>
+<div class="paragraph">
+<p>+
+image::messages-img07.png[]</p>
+</div>
+<div class="paragraph">
+<p>3.サウンド別コード（モールス信号機器と同じ）：コントローラーを上方向に傾けて短音を、下方向に傾けて長音をプログラムする。このオプションを使う場合、メッセージを送信するにはコントローラーを動かす必要があります。このオプション用解決策の一例：</p>
+</div>
+<div class="paragraph">
+<p>+
+image::messages-img08.png[]</p>
+</div>
+<div class="paragraph">
+<p>ノートツールを使ってこのプロセスを記録するよう子どもたちに指示します。</p>
+</div>
+<div class="paragraph">
+<p><strong>解決策の改良スキル（試行錯誤）</strong></p>
+</div>
+<div class="paragraph">
+<p>子どもたちはプログラムをテストして、デバイスの機能向上が見込める箇所を調整します。</p>
+</div>
+</blockquote>
+</div>
+<div class="sect1">
+<h2 id="__">プログラミングヘルプ</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="___2">完全な文字のプログラミング</h3>
+<div class="paragraph">
+<p>モールス信号を使って一度に 1 文字をプログラミングするには、各信号の間に短い一時停止を入れる必要がある場合があります。例えば、2 つの長音で構成される「M」は次のようにプログラミングすることができます。</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="../img/messages-img09.png" alt="messages img09">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

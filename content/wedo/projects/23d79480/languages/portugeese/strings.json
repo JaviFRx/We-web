@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0edf5ff0-95fb-4e55-b58d-d76f1dc9eff5",
+        "string": "6a. Contagem regressiva"
+      },
+      {
+        "refId": "e770e1e9-7976-46f7-0752-ef7bb2181814",
+        "string": "1. Iniciar programa&#160;<div>2. Mostrar texto “3” no monitor&#160;</div><div>3. Mostrar texto “2” no monitor&#160;</div><div>4. Mostrar texto “1” no monitor&#160;</div><div>5. Mostrar texto “0” no monitor</div>"
+      },
+      {
+        "refId": "bfa4849d-f371-4d54-b08b-353592b49367",
+        "string": "Não é necessário nenhum modelo LEGO para testar este programa."
+      }
+    ]
+  }
+}

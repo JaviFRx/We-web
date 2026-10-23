@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</span></div>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">Comment déplacer plus facilement des objets en les empilant ?</font><font size=\"3\"><br></font></div><div><font size=\"3\">Dans ce projet, vous allez&nbsp;:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorer les différentes façons de transporter et d’assembler des matériaux.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Créer et programmer un dispositif vous permettant de transporter et/ou d’assembler plus facilement des objets de différentes tailles, en tenant compte de la sécurité, de l’efficacité et du stockage.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Présenter et documenter votre dispositif et expliquer comment il est conçu pour être sûr et efficace.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Déplacement de matériaux"
+      }
+    ]
+  }
+}

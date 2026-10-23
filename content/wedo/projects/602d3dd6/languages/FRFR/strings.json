@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6a876355-8c81-4029-b648-ec1d9cf6d9cb",
+        "string": "13b. Changement de la lumière avec le son"
+      },
+      {
+        "refId": "87911d68-e2ab-44e6-8f0f-b39432022b84",
+        "string": "1. Lancer le programme&nbsp;<div>2. Activer la LED en la définissant sur la couleur égale à la valeur d’entrée du détecteur sonore&nbsp;</div><div>3. Recommencer l’étape&nbsp;2 indéfiniment</div>"
+      }
+    ]
+  }
+}

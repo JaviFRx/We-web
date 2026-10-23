@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Вентилятор"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">Сегодня так жарко! Из-за этого невозможно работать.<br><br></font><div><font size=\"3\">Миша и Маша хотят собрать вентилятор, чтобы в лаборатории стало прохладнее.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Мише и Маше нужна ваша помощь!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Давайте ещё поможем Мише и Маше (дополнительное задание)?</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Пусть вентилятор крутится с разной скоростью. Теперь остановите его.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Придумайте программу, чтобы научить вентилятор делать и другие вещи.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Пусть вентилятор крутится.<br><br>1. Выполните показанную программу.</font><div><font size=\"3\"><br>2. Расскажите друг другу, как работает вентилятор.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><font size=\"3\">На этом уроке вы научитесь:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">собирать модель из конструктора LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">подключать модель к своему электронному устройству</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• программировать</span><span style=\"line-height: 1.42857;\">&nbsp;мотор, чтобы он крутился с разной скоростью</span></font></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">включать СмартХаб и подключать его к своему электронному устройству.</font>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "80c77c25-97ff-4fb4-b682-be8483721d2f",
+        "string": "13. Geluid detecteren"
+      },
+      {
+        "refId": "c04bb26e-9282-4c9a-d577-ec6da2613ea6",
+        "string": "1. Start het programma&nbsp;<div>2. Wacht tot de geluidssensor een geluid heeft gedetecteerd&nbsp;</div><div>3. Start de motor gedurende 2 seconden</div>"
+      },
+      {
+        "refId": "d9f890b1-d466-4126-47fc-22bec24ba828",
+        "string": "1. Start het programma&nbsp;<div>2. Toon het geluidsniveau op het beeldscherm&nbsp;</div><div>3. Herhaal stap 2 eindeloos</div>"
+      }
+    ]
+  }
+}

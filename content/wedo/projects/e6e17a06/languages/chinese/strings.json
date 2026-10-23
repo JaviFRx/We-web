@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3d4b1dfc-05e1-45db-963c-d37d56c1fdb5",
+        "string": "21. 检查"
+      },
+      {
+        "refId": "38ea98b8-f26a-4697-ef22-7a811566b198",
+        "string": "<div><div><font size=\"5\">我们可以如何探索狭小空间，例如隧道、洞穴、管道等等？</font></div><br><div>在本实验中，需要：&nbsp;</div><div>- 探索如何使用机器人探索狭小空间&nbsp;</div><div>- 制作一个机器人并为其编程，使其可以在某种表面上移动并绕过障碍</div><div>- 测试程序，确保它可以探测墙壁、洞穴和其他物体&nbsp;</div><div>- 分享程序和创意</div></div>"
+      },
+      {
+        "refId": "daee8177-ac30-4b6d-49d6-c60cba9f450d",
+        "string": "<div style=\"text-align: center;\">从设计库的基础模型中寻找启发，在本实验中搭建自己的解决方案。</div>"
+      },
+      {
+        "refId": "6d51c5a4-a698-4766-8716-a6ba7efd1533",
+        "string": "<div style=\"text-align: center;\">从设计库的基础程序中寻找启发，在本实验中搭建自己的解决方案。</div>"
+      }
+    ]
+  }
+}

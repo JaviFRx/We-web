@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">Max och Mia är mycket engagerade i att skydda miljön.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">De vill veta hur olika återvinningsmetoder kan förbättras så att sopmängderna minskar.</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">Undersök Max och Mias frågor:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Vad betyder det att återvinna?</font></div><div><font size=\"3\">2. Hur bör material som ska återvinnas sorteras i det område där du bor?</font></div><div><font size=\"3\">3. Kan du föreställa dig en enhet som kan sortera återvinningsbara föremål utifrån deras form?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Använd dokumentationsverktyget för att dela med dig av dina idéer.</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">Använd klossarna:</font><br><br><div><font size=\"3\">Bygg en lastbil som kan sortera de två föremålen utifrån form.</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">Programmera lastbilen att släppa av små återvinningsbara föremål vid återvinningsstationen.</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">Utforma en lösning:</font><br><br><div><font size=\"3\">Modifiera lastbilen så att den sorterar föremål i två olika grupper baserat på form.</font></div><br><div><font size=\"3\">Beakta något av följande:</font></div><div><font size=\"3\">1. Ändra utformningen av lastbilens flak.</font></div><div><font size=\"3\">2. Använd avståndssensorinmatning för att känna av föremålets form.</font></div><div><font size=\"3\">3. Sortera föremålen i lastbilen.</font></div><br><div><font color=\"#ffffff\" size=\"3\">Dokumentera din lösning genom att förklara hur du har använt föremålets form.</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">Slutför dokumentationen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Beskriv de olika prototyperna.</font></div><div><font size=\"3\">2. Förklara varför du har valt en viss lösning.</font></div><div><font size=\"3\">3. Organisera din information.</font></div><div><font size=\"3\">4. Lägg till viktig text, bilder, skärmdumpar eller videoklipp.</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beskriv med egna ord hur du gjorde för att sortera olika lådor till olika platser.</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">Utforma nya lösningar </font><br><div><font size=\"5\">med Max och Mia</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">Dela ditt projekt</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<font size=\"4\">Hur kan du förbättra återvinningsmetoder för att minska mängden sopor?</font><br><br><div><font size=\"3\">I det här projektet kommer du att:</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Undersöka hur bättre sorteringsmetoder i återvinningsprocesser kan bidra till att minska sopmängderna.</font></div>•&#160;<span style=\"font-size: medium; line-height: 1.42857143;\">Bygga och programmera en enhet som sorterar återvinningsbart material utifrån storlek och form.</span><br><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Presentera och dokumentera den lösning som du har utvecklat.</font></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">Utforma nya lösningar:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Utforma en lösning för att sortera tre valfria föremål.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Beakta något av följande:&#160;</font></div><div><font size=\"3\">1. Sortera föremålen med hjälp av ett transportband.</font></div><div><font size=\"3\">2. Sortera föremålen med hjälp av en robotarm.</font></div><div><font size=\"3\">3. Sortera föremålen med hjälp av två olika enheter.&#160;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumentera den nya lösningen.</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. Sortera för återvinning"
+      }
+    ]
+  }
+}

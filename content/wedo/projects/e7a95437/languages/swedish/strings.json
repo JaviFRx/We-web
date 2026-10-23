@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "abe58040-caca-4821-9462-b1e537383b01",
+        "string": "Låt dig inspireras av grundmodellerna i designbiblioteket när du bygger egna lösningar i det här projektet."
+      },
+      {
+        "refId": "5dbcbe83-c813-45e9-0c35-d6cbd095991d",
+        "string": "<div><div><font size=\"4\">Hur bidrar djurens kommunikation till deras överlevnad?</font><font size=\"3\"><span style=\"line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">I det här projektet kommer du att:</span><br></font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Undersöka olika sätt som djuren använder för att kommunicera, till exempel vissa insekters förmåga att bli självlysande i mörker.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Bygga och programmera en insekt eller ett annat djur, för att visa hur det kommunicerar med andra djur av samma art.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentera och dokumentera</font> din modell, förklara hur djuret kommunicerar och hur det kan hjälpa djuret.</font></div></div>"
+      },
+      {
+        "refId": "2e31136e-0888-421a-a08b-1a26dc5c41ad",
+        "string": "10. Djurens kommunikation"
+      }
+    ]
+  }
+}

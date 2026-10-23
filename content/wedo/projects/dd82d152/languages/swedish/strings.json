@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "75afb6d6-6e0a-4df5-99ee-9b1d28f0b3f1",
+        "string": "5b. Sekvens av bilder"
+      },
+      {
+        "refId": "8cfd5415-341b-4b7d-2e6e-2191d9d867cd",
+        "string": "1. Starta program&#160;<div>2. Visa bild 25 på displayen&#160;</div><div>3. Vänta i en sekund&#160;</div><div>4. Visa bild 23 på displayen&#160;</div><div>5. Vänta i en sekund&#160;</div><div>6. Visa bild 26 på displayen</div>"
+      },
+      {
+        "refId": "d18cf7ec-96ca-428b-ec5c-8c4291ad06ea",
+        "string": "Det krävs ingen LEGO modell för att testa det här programmet."
+      }
+    ]
+  }
+}

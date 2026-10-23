@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bf97931-9b29-402f-6df6-848426f8b305",
+        "string": "<font size=\"3\">Kig på grundmodellerne i designbiblioteket, og få idéer til, hvordan du kan bygge din egen løsning til dette projekt.</font>"
+      },
+      {
+        "refId": "7dad6fd3-e13d-494f-56f5-8442f8488352",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">Hvordan kan man rense havene?</font></span></div><div><font size=\"3\">I dette projekt skal du:<br></font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">undersøge, hvorfor det er vigtigt at passe på havene og holde dem fri for plasticaffald</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">bygge og programmere en indretning, der kan hjælpe med at opsamle plastic af bestemte typer og størrelser fra havet</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">præsentere og dokumentere</font> din indretning og forklare, hvordan din løsning er designet til at opsamle, og hvordan den gør det.</font></div></div>"
+      },
+      {
+        "refId": "327fbec1-201b-4cc5-ba4b-77000c21d5b2",
+        "string": "14. Rensning af havene"
+      }
+    ]
+  }
+}

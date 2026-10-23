@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "51383afe-870f-4845-8f5c-1560a43dce77",
+        "string": "10. Esperar por Tempo"
+      },
+      {
+        "refId": "008ad605-0eb9-46a4-da9c-4a73e62ef265",
+        "string": "1. Iniciar programa&#160;<div>2. Ligar LED na cor 9 (vermelho)&#160;</div><div>3. Aguardar por 2 segundos&#160;</div>"
+      },
+      {
+        "refId": "06063442-baa9-4c2e-4b9e-e61ca4ae17f2",
+        "string": "1. Iniciar programa&#160;<div>2. Aguardar por 2 segundos&#160;</div><div>3. Ligar LED na cor 9 (vermelho)&#160;</div>"
+      }
+    ]
+  }
+}

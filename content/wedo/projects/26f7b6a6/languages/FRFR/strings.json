@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bf97931-9b29-402f-6df6-848426f8b305",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</span></div>"
+      },
+      {
+        "refId": "7dad6fd3-e13d-494f-56f5-8442f8488352",
+        "string": "<div><font size=\"4\">Comment nettoyer les océans ?</font><font size=\"3\"><br></font></div><div><font size=\"3\">Dans ce projet, vous allez&nbsp;:<br></font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorer pourquoi il est important de prendre soin des océans et d’en retirer les débris en plastique.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Créer et programmer un dispositif pour retirer plus facilement de l’océan des objets en plastique de certains types et de certaines dimensions.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Présenter et documenter</font> votre dispositif, et expliquer ce que votre solution enlève de l’océan et comment vous l’avez conçue pour qu’elle le fasse.</font></div></div>"
+      },
+      {
+        "refId": "327fbec1-201b-4cc5-ba4b-77000c21d5b2",
+        "string": "14. Nettoyage de l’océan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<font size=\"3\">Inspirem-se nos modelos base da Biblioteca de Design para construir suas próprias soluções para este projeto.</font>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><font size=\"4\">Como um aviso prévio pode ajudar a reduzir o impacto de tempestades fortes?</font><font size=\"3\"><br></font></div><div><font size=\"3\">Neste projeto, vocês irão:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorar diferentes perigos relacionados ao clima sobre os quais todos precisam estar cientes, como tsunamis, tornados e furacões, e os possíveis sistemas de aviso presentes no local para ajudar a proteger a população.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Criar e programar um dispositivo que possa avisar as pessoas a tomarem medidas de precaução em um possível desastre natural.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Registrar e apresentar as soluções e explicar como essa solução ajuda a reduzir o impacto negativo na população.</font></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. Alarme de Perigo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Levier de commande"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Démarrer le programme à la pression sur la touche «&nbsp;A&nbsp;»&nbsp;<div>2. Attendre que le détecteur d’inclinaison détecte l’inclinaison vers le bas&nbsp;</div><div>3. Démarrer le moteur dans le sens&nbsp;1&nbsp;</div><div>4. Recommencer les étapes&nbsp;2 et 3 indéfiniment&nbsp;</div><br><div>5. Démarrer le programme à la pression sur la touche «&nbsp;A&nbsp;»&nbsp;</div><div>6. Attendre que le détecteur d’inclinaison ne détecte aucune inclinaison&nbsp;</div><div>7. Arrêter le moteur&nbsp;</div><div>8. Recommencer les étapes&nbsp;6 et 7 indéfiniment</div>"
+      }
+    ]
+  }
+}

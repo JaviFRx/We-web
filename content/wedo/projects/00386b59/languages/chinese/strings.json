@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ef5e55e7-8c8e-4636-a984-85b2ed014ddf",
+        "string": "9a. 并行任务"
+      },
+      {
+        "refId": "c23b3939-a193-43d5-7b1d-80d79f76a0b0",
+        "string": "1. 启动程序&nbsp;<div>2. 发送信息“abc”&nbsp;</div><br><div>3. 接收到消息“abc”时启动&nbsp;</div><div>4. 在显示屏上显示图像 3&nbsp;</div><br><div>5. 接收到消息“abc”时启动&nbsp;</div><div>6. 播放声音 6&nbsp;</div>"
+      },
+      {
+        "refId": "0a894d4e-7a21-494b-710e-cb0c9f22120f",
+        "string": "LEGO 模型无需测试此程序。"
+      }
+    ]
+  }
+}

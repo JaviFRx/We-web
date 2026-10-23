@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">Max e Mia estão muito motivados em proteger o meio ambiente.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Eles querem saber como métodos de reciclagem podem ser melhorados a fim de reduzir o desperdício.</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">Explorem as dúvidas de Max e Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. O que significa reciclar?</font></div><div><font size=\"3\">2. Como os materiais a serem reciclados podem ser classificados na sua região?</font></div><div><font size=\"3\">3. Vocês conseguem imaginar dispositivos que possam classificar resíduos recicláveis de acordo com o seu formato?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Compartilhem as suas ideias na ferramenta Registro.</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">Usando as peças:</font><br><br><div><font size=\"3\">Construam um caminhão que consiga classificar dois objetos, com base em seus formatos.</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">Programem a base do seu caminhão para soltar pequenos objetos recicláveis na estação de reciclagem.</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<font size=\"3\">Liguem o Smarthub e o conectem ao seu dispositivo. Assistam ao vídeo se precisarem de ajuda.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultem o painel de ajuda para obter outras orientações.</font></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">Projetem uma solução:</font><br><br><div><font size=\"3\">Modifiquem o caminhão para classificar objetos em dois grupos diferentes com base no formato.</font></div><br><div><font size=\"3\">Considerem um dos itens a seguir:</font></div><div><font size=\"3\">1. Alterem o design da base do caminhão.</font></div><div><font size=\"3\">2. Use o sensor de distância para detectar o formato do objeto.</font></div><div><font size=\"3\">3. Classifiquem os objetos no caminhão.</font></div><br><div><font color=\"#ffffff\" size=\"3\">Registrem a solução explicando como vocês usaram o formato do objeto.</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">Finalizem o seu registro.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Descrevam seus diferentes protótipos.</font></div><div><font size=\"3\">2. Expliquem por que vocês escolheram sua solução final.</font></div><div><font size=\"3\">3. Organizem suas informações.</font></div><div><font size=\"3\">4. Insiram textos, imagens, capturas de tela ou vídeos importantes.</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">Compartilhem as suas descobertas:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Apresentem, com suas próprias palavras, como vocês classificaram caixas diferentes em localizações diferentes.</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">Projetem novas soluções</font><br><div><font size=\"5\">com Max e Mia</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">Compartilhem seu projeto</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<font size=\"4\">Quais melhorias nos métodos de reciclagem podem ser feitas para reduzir o resíduo que vai para um aterro sanitário?</font><br><br><div><font size=\"3\">Neste projeto, vocês irão:</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Explorar como métodos melhores de classificação para a reciclagem podem auxiliar na redução da quantidade de resíduos que são descartados em um aterro sanitário.</font></div>•&#160;<span style=\"font-size: medium; line-height: 1.42857143;\">Criar e programar um dispositivo que irá classificar materiais recicláveis de acordo com o seu tamanho e formato.</span><br><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Apresentar e registrar a solução que vocês desenvolveram.</font></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">Projetem novas soluções:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Projetem uma solução para classificar três objetos à sua escolha.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Considerem um dos itens a seguir: </font></div><div><font size=\"3\">1. Classifiquem os objetos usando uma esteira.</font></div><div><font size=\"3\">2. Classifiquem os objetos usando um braço robótico.</font></div><div><font size=\"3\">3. Classifiquem os objetos usando dois dispositivos diferentes.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Registrem a nova solução.</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. Classificar para Reciclar"
+      }
+    ]
+  }
+}

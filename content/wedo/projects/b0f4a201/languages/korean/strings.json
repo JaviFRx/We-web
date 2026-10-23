@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fa06d35d-b20e-4d2f-87e4-745bcaa452b5",
+        "string": "10b. 계수기"
+      },
+      {
+        "refId": "fc5448ee-3ab4-4720-3bd4-b4fa2b033a35",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 화면에 텍스트 \"0\" 표시&nbsp;</div><div>3. 화면의 숫자에 1 더하기&nbsp;</div><div>4. 1초간 대기&nbsp;</div><div>5. 3단계와 4단계를 무한 반복</div>"
+      },
+      {
+        "refId": "e2efaf40-5853-4861-1af1-6c98ae46fcca",
+        "string": "레고 모델이 없어도 이 프로그램을 테스트할 수 있습니다."
+      }
+    ]
+  }
+}

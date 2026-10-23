@@ -1,6 +1,6 @@
 # WeDo Lab
 
-**Cambio de objetivo: copia exacta del original.** La entrada `http://localhost:8080/` muestra ahora el visor original de actividades instalado en este PC. El prototipo descrito más abajo se conserva en `http://localhost:8080/lab/`. Estado y pendientes de la réplica: [ESTADO-REPLICA.md](ESTADO-REPLICA.md).
+**Visor independiente de la instalación de WeDo.** La entrada `http://localhost:8080/` muestra el visor de actividades con los recursos incluidos en `content/wedo`: páginas, traducciones, imágenes y vídeos (unos 473 MiB). No busca archivos en `Program Files`. El prototipo descrito más abajo se conserva en `http://localhost:8080/lab/`. Estado y pendientes de la réplica: [ESTADO-REPLICA.md](ESTADO-REPLICA.md).
 
 Ejecuta `start.cmd` para iniciar el servidor en segundo plano. No necesitas mantener su ventana abierta. El servidor se deja activo para usar la aplicación; después de reiniciar Windows, ejecuta de nuevo `start.cmd`.
 
@@ -8,11 +8,14 @@ Primera versión independiente de un taller web para WeDo 2.0. Investigación de
 
 ## Abrir
 
-1. Ejecuta `E:\Wedo\start.cmd` y mantén esa ventana abierta.
-2. Abre http://localhost:8080 en Chrome o Edge.
-3. Pulsa **Iniciar** para probar el ejemplo en el simulador.
+1. Instala Node.js 22 o posterior. No necesitas instalar WeDo ni REA.
+2. Clona o descarga este repositorio completo, incluida la carpeta `content/wedo`.
+3. Desde su carpeta ejecuta `npm start` y mantén esa terminal abierta. En Windows también puedes ejecutar `start.cmd` para arrancar en segundo plano; en VS Code, pulsa F5.
+4. Abre http://localhost:8080 en Chrome o Edge para ver las actividades y vídeos. El simulador está en http://localhost:8080/lab/.
 
-El servidor solo escucha en este PC (127.0.0.1). No hay cuentas, servicios externos ni publicación en Internet. La web no requiere instalación de dependencias: `npm start` también sirve si tienes Node. Para detener el servidor, pulsa Ctrl+C en su ventana.
+No es necesario ejecutar `npm install` para servir la web. `WEDO_CONTENT_ROOT` permite usar otra carpeta de contenidos de forma opcional; `PORT` permite cambiar el puerto (8080 por defecto). Los recursos conservan sus avisos y licencias originales.
+
+El servidor solo escucha en este PC (127.0.0.1). No hay cuentas, servicios externos ni publicación en Internet. Para detener una sesión de `npm start`, pulsa Ctrl+C en su terminal; con F5, utiliza el botón de detener de VS Code.
 
 ## Funciones disponibles
 

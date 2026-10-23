@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "be0cc785-b4e3-46c6-9eab-7705284c2d44",
+        "string": "14b. Choisir un chiffre aléatoire"
+      },
+      {
+        "refId": "0c106ad5-71ff-4653-8530-c1f11bc8a7e7",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher un chiffre aléatoire à l’écran&nbsp;</div><div>3. Recommencer 10&nbsp;fois l’étape&nbsp;2</div>"
+      },
+      {
+        "refId": "a11f57f6-744a-4c2e-f525-329d1dc8c90d",
+        "string": "Aucun modèle LEGO n’est nécessaire pour tester ce programme."
+      }
+    ]
+  }
+}

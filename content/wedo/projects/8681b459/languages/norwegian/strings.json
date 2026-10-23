@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "a37c33da-10a6-4999-93e4-0e39db2ec5ad",
+        "string": "<font size=\"3\">Bli inspirert av grunnmodellene i designbiblioteket, og bygg din egen løsning på dette prosjektet."
+      },
+      {
+        "refId": "1d8a916d-52f6-411b-7707-13e1316d104e",
+        "string": "<div><font size=\"4\">Hvordan kan man redusere innvirkningene av miljøendring?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette prosjektet skal du:<br></font><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Utforske innvirkningen av veiarbeid på dyr og planter, og forestille deg muligheter for å redusere denne innvirkningen.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Lage og programmere en enhet som lar dyr krysse farlige områder.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentere og dokumentere løsningen, og forklare hvordan overfarten har blitt designet</font> for et bestemt dyr.</font></div></div>"
+      },
+      {
+        "refId": "add4eed8-e8c9-41e1-921b-03edd27203b7",
+        "string": "15. Dyreoverfart"
+      }
+    ]
+  }
+}

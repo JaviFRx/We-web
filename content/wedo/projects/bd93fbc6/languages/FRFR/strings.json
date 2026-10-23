@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "35d30095-da52-4527-99ef-2f253c0cee29",
+        "string": "5a. Taille de l’affichage"
+      },
+      {
+        "refId": "80154b18-9014-4b4a-671e-b2d8985f64c8",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher en écran intermédiaire&nbsp;</div><div>3. Afficher le texte «&nbsp;123&nbsp;» à l’écran&nbsp;</div><div>4. Attendre 1&nbsp;seconde&nbsp;</div><div>5. Afficher en plein écran&nbsp;</div><div>6. Attendre 1&nbsp;seconde&nbsp;</div><div>7. Fermer l’affichage</div>"
+      },
+      {
+        "refId": "681e019c-50fd-42a1-b5ee-e1a4b2482047",
+        "string": "Aucun modèle LEGO n’est nécessaire pour tester ce programme."
+      }
+    ]
+  }
+}

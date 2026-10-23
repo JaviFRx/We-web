@@ -1,0 +1,689 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "软件指南",
+      "subcategories": [
+        {
+          "title": "WeDo 2.0 工具栏",
+          "elements": [
+            {
+              "title": "<p>工具栏位于界面顶端。在这里，您可以：</p><ul><li>按下“主页”图标返回首页。</li><li>按下“实验库”图标访问 WeDo 2.0 实验。</li><li>按下“设计库”图标查看搭建和编程示例。</li><li>按下“拍摄工具”图标使用软件的内置相机、视频和截屏工具。</li><li>按下“记录工具”图标访问您的实验记录。</li><li>按下“帮助”图标访问其他信息。</li><li>按下“停止”图标将停止程序的所有操作。</li></ul><p>通过将程序块 拖动到程序条 上，学生可以创建程序链。可以按下“启动程序块 ”来启动每一个程序链。重要提示：再次按下所选的工具栏项目可以返回到程序条。</p>",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "实验库",
+          "elements": [
+            {
+              "title": "<p>您可以在实验库中访问：</p><ul><li>基础实验</li><li>引导实验</li><li>开放性实验 打开其中一个实验，在查看完整实验之前可以首先查看实验概述。</li></ul>",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "设计库",
+          "elements": [
+            {
+              "title": "<p>设计库分为两部分：</p><ul><li>模型库</li><li>程序库</li></ul><p>在模型库中，可以找到：</p><ul><li>基础模型以及搭建说明和编程建议</li><li>每个基础模型提供的两个启发模型，还有照片和编程建议</li></ul>",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "<p>在程序库中，可以找到：</p><ul start=\"3\"><li>由一系列程序块组成的基础编程功能，可以帮助学生编写简单的程序链</li><li>每个基础编程功能提供的两个启发功能。</li></ul>",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "录音工具",
+          "elements": [
+            {
+              "title": "<p>可以随时在实验中使用录音工具。此功能可用于录制声音。WeDo 2.0 软件会存储上一次录制的声音，可通过向程序链添加输入为 0 的声音程序块来获取该录音：</p><ul><li>按下“麦克风”图标进入窗口。</li></ul>",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "<ul start=\"2\"><li>按下“录音”图标开始录音。</li><li>按下“播放”图标开始试听。</li><li>按下“停止”图标停止录音。</li></ul>",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "拍摄工具",
+          "elements": [
+            {
+              "title": "<p>在“拍摄”工具中：</p><ul><li>按下“拍摄”按钮可：</li><ul><li>拍照。<li>开始和停止视频录制。<li>截屏。</ul><li>按下“拍摄照片”按钮可选择照片模式。</li><li>按下“拍摄视频”按钮可选择视频模式。</li><li>按下“拍摄画布”按钮可选择画布模式。</li></ul>",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "使用教师助手",
+          "elements": [
+            {
+              "title": "<p>某些实验提供了教师助手功能，可以为您提供材料，帮助您进行课程规划和教学。教师助手提供了以下材料：</p><ul><li>实验概述</li><li>实验课程类型链接</li><li>计划</li><li>讨论问题和答案</li><li>设定情景</li><li>搭建助手</li><li>编程帮助</li><li>计算思维培养支持材料</li><li>探究技能培养支持材料</li><li>模拟技能培养支持材料</li><li>设计技能培养支持材料</li><li>沟通技能培养支持材料</li><li>评价标准</li></ul>",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "帮助面板",
+          "elements": [
+            {
+              "title": "<p>在帮助面板中，可以找到以下辅助内容：</p><ul><li>每个程序块的名称和短描述</li><li>连接助手</li><li>其他相关元素</li></ul>",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "记录工具",
+          "elements": [
+            {
+              "title": "<p>在记录工具中，学生可以通过添加文本、图像和视频来记录自己的实验：</p><ul><li>按下“添加页面”图标可以在记录中添加页面。</li><li>按下“模板选择”图标可以选择页面布局。</li><li>按下“删除页面”图标可以删除当前页面。</li><li>按下“导出”图标可以将记录保存为 PDF 或图像。</li><li>按下“图像输入”图标可以插入存储在设备中的图片。</li><li>按下“视频输入”图标可以插入存储在设备中的视频。</li><li>按下“文本输入”图标可以在设备上输入文本。</li></ul>",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "程序块",
+      "subcategories": [
+        {
+          "title": "指令块",
+          "elements": [
+            {
+              "title": "启动块",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": "使用时，应始终放在程序链的开头。按下启动块将启动您编写的程序链。<br><i>伪代码： 启动程序</i>"
+            },
+            {
+              "title": "按键启动块",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": "使用时，应始终放在程序链的开头。按下此程序块，或在键盘上按下正确的字母启动您编写的程序链。将同时启动具有相同字母的所有程序链。<br>要更改启动字母，可长按程序块进入键盘。<br><i>伪代码： 点击 “A” 启动程序</i>"
+            },
+            {
+              "title": "信息启动块",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": "使用时，应始终放在程序链的开头。它将等到出现正确的信息后再启动您编写的程序链<br><i>伪代码： 接收到消息… 时启动程序</i>"
+            },
+            {
+              "title": "发送信息",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": "向程序条发送一条信息。将启动所有具有相同信息的信息启动块。信息格式可以是文本或数字。<br><i>伪代码： 发送信息…</i>"
+            },
+            {
+              "title": "等待",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": "可使用此程序块告诉程序等待特定事件发生。这样可以使程序在等待设定时长或传感器输入特定信息后再执行。此程序块需要输入才能正常运作。<br><i>伪代码： 等待...</i>"
+            },
+            {
+              "title": "重复块",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": "可使用此程序块重复操作。放在重复块内的程序块将循环执行。也称为“循环块”。<br>循环可以无限重复、在一段时间内重复或在发生特定事件后停止。<br><i>伪代码： 始终重复第 ... 步</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "输出： 马达块",
+          "elements": [
+            {
+              "title": "马达顺时针运转块",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": "设置马达按所示方向转动轮轴，启动马达。<br>点击程序块可快速更改旋转方向。<br><i>伪代码： 顺时针运转启动马达</i>"
+            },
+            {
+              "title": "马达逆时针运转块",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": "设置马达按所示方向转动轮轴，启动马达。<br>点击程序块可快速更改旋转方向。<br><i>伪代码： 逆时针运转启动马达&nbsp;</i>"
+            },
+            {
+              "title": "马达功率块",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": "设置在功率到达一定水平时启动马达。可以输入 0 到 10 的数值来设置功率水平。<br><i>伪代码： 以功率…启动马达</i>"
+            },
+            {
+              "title": "马达运行块",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": "使马达运行所选的时长（以秒为单位）。可以通过输入数值来设置时长，可以使用整数或小数。<br><i>伪代码： 运行马达…秒</i>"
+            },
+            {
+              "title": "马达停止块",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": "停止马达的任何移动。<br><i>伪代码： 停止马达</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "输出： LED 灯程序块",
+          "elements": [
+            {
+              "title": "灯光块",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": "以特定颜色点亮智能集线器上的 LED 灯。可以通过输入数字 0 到 10 来改变颜色。<br><br><i>伪代码： 以颜色 9 点亮 LED 灯（红色）</i><br><i>伪代码： 以颜色 0 关闭 LED 灯（无颜色）</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "输出： 声音程序块",
+          "elements": [
+            {
+              "title": "播放声音",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": "播放声音。可以从软件内提供的列表中选择声音。可通过输入数值来设置声音。选择声音 0 可以播放您自己录制的声音。<br><i>伪代码： 播放声音…</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "输出： 显示块",
+          "elements": [
+            {
+              "title": "显示背景",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": "可使用此程序块显示从软件内的列表中选择的图像。可以通过输入数字来设置图像。<br><i>伪代码： 在显示器上显示图像…</i>"
+            },
+            {
+              "title": "显示块",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": "可使用此程序块打开软件界面上的显示区域。将在显示区域显示数字或文本。<br><i>伪代码： 在显示器上显示 ...</i>"
+            },
+            {
+              "title": "添加到显示器",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": "在显示器当前显示的数字上加上特定数值。输入要添加的数值。点击程序块可更改数学运算。<br><i>伪代码： 给显示器上的数字加上 ...</i>"
+            },
+            {
+              "title": "从显示值中减去",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": "从显示器当前显示的数字中减去特定数值。输入要减去的数值。点击程序块可更改数学运算。<br><i>伪代码： 将显示器上的数字减去 ...</i>"
+            },
+            {
+              "title": "乘以显示值",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": "将显示器当前显示的数字乘以指定数值。输入要乘以的数值。点击程序块可更改数学运算。<br><i>伪代码： 将显示器上的数字乘以 ...</i>"
+            },
+            {
+              "title": "除以显示值",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": "将显示器当前显示的数字除以一个数值。输入要除以的数值。点击程序块可更改数学运算。<br><i>伪代码： 将显示器上的数字除以 ...</i>"
+            },
+            {
+              "title": "关闭显示器",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": "可使用此程序块关闭软件界面上的显示区域。点击程序块更改大小。<br><i>伪代码： 关闭显示器</i>"
+            },
+            {
+              "title": "全屏显示",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": "可使用此程序块将显示区域设置为全屏大小。点击程序块更改大小。<br><i>伪代码： 将显示区域的大小改为最大值</i>"
+            },
+            {
+              "title": "中屏显示",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": "可使用此程序块将显示区域设置为中等大小。点击程序块更改大小。<br><i>伪代码： 将显示区域的大小改为中等值</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "输入： 传感器变化输入",
+          "elements": [
+            {
+              "title": "任何距离变化",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": "向程序块输入运动传感器模式——“任何距离变化”。"
+            },
+            {
+              "title": "距离变近",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": "向程序块输入运动传感器模式——“传感器和物体之间的距离变近”。"
+            },
+            {
+              "title": "距离变远",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": "向程序块输入运动传感器模式——“传感器和物体之间的距离变远”。"
+            },
+            {
+              "title": "向彼侧倾斜",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": "向程序块输入倾斜传感器模式——“向彼侧倾斜”。"
+            },
+            {
+              "title": "向此侧倾斜",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": "向程序块输入倾斜传感器模式——“向此侧倾斜”。"
+            },
+            {
+              "title": "向下倾斜",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": "向程序块输入倾斜传感器模式——“向下倾斜”。"
+            },
+            {
+              "title": "向上倾斜",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": "向程序块输入倾斜传感器模式——“向上倾斜”。"
+            },
+            {
+              "title": "倾斜传感器不倾斜",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": "向程序块输入倾斜传感器模式——“不倾斜”（或水平位置）。"
+            },
+            {
+              "title": "震动",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": "向程序块输入倾斜传感器模式——“震动”。"
+            },
+            {
+              "title": "音量变化",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": "（由设备）向程序块输入声音传感器模式——“音量变化”。"
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "输入： 数字和文本输入",
+          "elements": [
+            {
+              "title": "倾斜传感器输入",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": "向程序块输入倾斜传感器生成的数值（0、3、5、7 或 9）。"
+            },
+            {
+              "title": "运动传感器输入",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": "向程序块输入运动传感器检测到的值（0 到 10）。"
+            },
+            {
+              "title": "声音传感器输入",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": "向程序块输入声音传感器检测到的值（0 到 10）。"
+            },
+            {
+              "title": "数值输入",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": "向程序块输入数值。"
+            },
+            {
+              "title": "文本输入",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": "向程序块输入文本值。"
+            },
+            {
+              "title": "显示输入",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": "向程序块输入显示区域显示的数值。"
+            },
+            {
+              "title": "随机输入",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": "向程序块输入随机值。数字范围由所附加的程序块确定。"
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "记录",
+          "elements": [
+            {
+              "title": "注解框",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": "可使用注解框在程序中添加注释。这不是程序块。"
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "程序块",
+      "subcategories": [
+        {
+          "title": "指令块",
+          "elements": [
+            {
+              "title": "启动块",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "按键块",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "信息块",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "音乐块",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "发送信息块",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "等待块",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "重复块",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "马达块",
+          "elements": [
+            {
+              "title": "马达左转块",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "马达右转块",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "马达功率块",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "马达运行块",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "马达停止块",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "闪灯块",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "插入传感器块",
+          "elements": [
+            {
+              "title": "插入运动传感器",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "近距离",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "远距离",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "任何距离",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "倾斜传感器",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "向上倾斜",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "向下倾斜",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "向左倾斜",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "向右倾斜",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "任何倾斜（震动）",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "插入附加功能块",
+          "elements": [
+            {
+              "title": "插入文字",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "插入数字",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "随机插入",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "插入声音",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "插入显示数值",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "显示块",
+          "elements": [
+            {
+              "title": "显示块",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "加法显示块",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "减法显示块",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "乘法显示块",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "除法显示块",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "显示背景块",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "关闭显示块",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "显示小屏幕块",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "全屏显示块",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "其他程序块",
+          "elements": [
+            {
+              "title": "文字框",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "连接程序",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS &amp; Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "<p>WeDo 2.0 Smarthub 2 i/o 采用了蓝牙 4.0 的低耗功能。</p> <p>首次使用 WeDo 2.0 Smarthub 时，您需要将其与您的设备进行“配对”，以便两台设备知道如何安全地相互连接。 之后，它们将会自动连接。</p> <p>注意： 如果您使用的平板电脑存在多个用户，则每位用户均可更改蓝牙设置。</p> <p>Windows 7： 如何将 WeDo 2.0 Smarthub 与 Windows 7 操作系统的个人电脑配对：</p> <ol> <li>打开“开始”，点击“设备和打印机”</li> <li>在“设备和打印机”窗口，点击“添加设备”</li> <li>按蓝灯按钮打开 WeDo 2.0 Smarthub</li> <li>很快您便可以在可用设备列表中看到 WeDo 2.0 Smarthub<br> 如果未检测到 Smarthub： <ol> <li>通过访问您的制造商网站或查阅计算机说明，验证您的电脑是否兼容蓝牙 4.0。</li> <li>从设备列表中删除所有之前配对过的未连接的 WeDo 2.0 Smarthubs，然后从步骤 2 重新开始</li> </ol> </li> <li>选择您的 WeDo 2.0 Smarthub，然后按“下一步”</li> <li>如要求输入代码，代码为 0000</li> <li>现在 WeDo 2.0 Smarthub 已与您的电脑连接，要在应用程序中使用，请遵循连接视频中的说明</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>WeDo 2.0 Smarthub 2 i/o 采用了蓝牙 4.0 的低耗功能。</p> <p>首次使用 WeDo 2.0 Smarthub 时，您需要将其与您的设备进行“配对”，以便两台设备知道如何安全地相互连接。 之后，它们将会自动连接。</p> <p>注意： 如果您使用的平板电脑存在多个用户，则每位用户均可更改蓝牙设置。</p> <p>Windows 8.1： 如何将 WeDo 2.0 Smarthub 与 Windows 8.1 操作系统的个人电脑配对：</p> <ol> <li>打开“开始”，点击“设备和打印机”</li> <li>在“设备和打印机”窗口，点击“添加设备”</li> <li>按蓝灯按钮打开 WeDo 2.0 Smarthub</li> <li>很快您便可以在可用设备列表中看到 WeDo 2.0 Smarthub<br> 如果未检测到 Smarthub： <ol> <li>通过访问您的制造商网站或查阅计算机说明，验证您的电脑是否兼容蓝牙 4.0。</li> <li>从设备列表中删除所有之前配对过的未连接的 WeDo 2.0 Smarthubs，然后从步骤 2 重新开始</li> </ol> </li> <li>选择您的 WeDo 2.0 Smarthub，然后按“下一步”</li> <li>如要求输入代码，代码为 0000</li> <li>现在 WeDo 2.0 Smarthub 已与您的电脑连接，要在应用程序中使用，请遵循连接视频中的说明</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>启动 WeDo 2.0 并打开“连接”窗口。</li> <li>按下 WeDo 2.0 智能集线器上的绿色按钮。</li> <li>点击/按下所需的智能集线器进行连接。如果未检测到智能集线器：</li> <ol> <li>访问制造商网站进行查询，或查看计算机包含的文档，确认计算机兼容蓝牙 4.0（又称低能耗蓝牙或智能蓝牙）。</li> <li>转到“开始”菜单，选择“设置”（齿轮图标），然后依次选择“设备”和“蓝牙”。接下来，在设备列表中选择所有之前配对过的 WeDo 2.0 智能集线器（当前未连接），点击“移除设备”，将这些智能集线器全部删除。</li> <li>返回 WeDo 2.0 应用程序，重复上面第 2 步的连接过程。</li> </ol> <li>在可用设备列表中选择 WeDo 2.0 智能集线器。</li> <li>如果提示与智能集线器配对，请点击“允许”按钮进行确认，然后点击“关闭”。</li> </ol> <p><b>如果在 Windows 10 上配对失败，请遵照屏幕上的说明操作</b></p> <ol> <li>按照提示，再次按下绿色按钮。</li> <li>如果配对再次失败，请点击“重试”。通过点击确认配对对话框（如果显示）或重复上面第 2 步的配对过程，尝试与智能集线器重新配对。</li> <li>如果智能集线器配对成功， 连接中心将显示已连接状态。</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Open the Connection Center.</li> <li>Press the green button on the WeDo 2.0 Smarthub until its name appears in the connection window.</li> <li>Click on the specific Smarthub name to connect.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

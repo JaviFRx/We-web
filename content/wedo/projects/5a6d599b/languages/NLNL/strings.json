@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">Max en Mia zijn onder de indruk van machines die zware objecten kunnen trekken.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Ze willen onderzoeken hoe objecten kunnen worden verplaatst.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">Gebruik de stenen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bouw een trekrobot die een object over een korte afstand kan trekken.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">Programmeer je trekrobot om een object over een korte afstand te trekken zoals dit in het filmpje is te zien.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">Zet de Smarthub aan en koppel deze aan jouw apparaat. Bekijk het filmpje als je hulp nodig hebt.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Raadpleeg het hulpvenster als je extra hulp nodig hebt.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">Onderzoek samen met Max en Mia:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1. Voeg objecten toe aan het mandje tot de trekrobot stopt.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Voorspel wat er gebeurt wanneer je jouw trekrobot wielen geeft. Geef uitleg over je verwachtingen en leg deze vast.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Monteer grote wielen onder je robot en voer de test uit.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Documenteer je bevindingen.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Zoek het zwaarste object dat je trekrobot kan trekken als hij wielen heeft.</font></div><div><font color=\"#ffffff\" size=\"3\">Beschrijf hoe de krachten in elk afzonderlijke geval al dan niet goed zijn verdeeld.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Voltooi de documentatie:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Bekijk je verwachtingen opnieuw en leg uit wat er tijdens het onderzoek is gebeurd.</font></div><div><font size=\"3\">2. Orden je informatie zodat deze met anderen kan worden gedeeld.</font></div><div><font size=\"3\">3. Voeg belangrijke tekst, afbeeldingen, schermafbeeldingen en/of filmpjes toe aan je project.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">Deel je bevindingen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Presenteer op basis van je onderzoek en in je eigen woorden wat het verschil is tussen krachten die in balans en krachten die niet in balans zijn.</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Deel je project</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">Onderzoek verder </font><div><font size=\"5\">met Max en Mia</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">Denk na over de vragen van Max en Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hoe kun je een object verplaatsen? </font></div><div><font size=\"3\">2. Kun je uitleggen wat wrijving is? </font></div><div><font size=\"3\">3. Voorspel wat er gebeurt wanneer de trekkracht in de ene richting groter is dan in de andere. </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Deel je ideeën met behulp van de documentatietool.</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">Waardoor bewegen objecten? </font><br><div><font size=\"3\">In dit project:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• onderzoek je wat krachten zijn en hoe ze objecten kunnen laten bewegen.</font></div><div><font size=\"3\">• creëer en programmeer je een robot om de effecten te onderzoeken van krachten die wel (of niet) in evenwicht zijn op de beweging van een object.</font></div><div><font size=\"3\">• documenteer en presenteer je jouw bevindingen over krachten.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">Onderzoek verder:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Bouw een andere trekrobot om het zwaarst mogelijke object te trekken. </font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Werk samen met een ander team. Bouw allebei een nieuwe trekrobot en ontdek welke robot de zwaarste last kan trekken.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Documenteer hoe de krachten op elkaar hebben gereageerd.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Trekken"
+      }
+    ]
+  }
+}

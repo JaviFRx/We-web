@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6ffdb84-08b2-421e-a04e-32235c3b69ea",
+        "string": "23. City Safety"
+      },
+      {
+        "refId": "09f70808-a0fd-42ef-650f-0d92447e30bb",
+        "string": "<div><div><font size=\"5\">How can we make city transportation safer?&#160;</font></div><br><div>In this project you will:&#160;</div><div>- Explore the different safety rules that are linked to city transportation and describe how some of them can be improved&#160;</div><div>- Create and program a device to improve city safety&#160;</div><div>- Test your program and show how safety has been improved with your device&#160;</div><div>- Share your program and ideas</div></div>"
+      },
+      {
+        "refId": "96cc0dba-24fd-43fb-ba69-704c3d262b89",
+        "string": "<div style=\"text-align: center;\">Find inspiration in the Design Library by looking at the different base models that you can use to build your own solution to this project.</div>"
+      },
+      {
+        "refId": "e1f4f02f-0f59-4fbc-0f3c-f6a9c2d57b4d",
+        "string": "<div style=\"text-align: center;\">Find inspiration in the Design Library by looking at the different base programs that you can use to program your own solution to this project.</div>"
+      }
+    ]
+  }
+}

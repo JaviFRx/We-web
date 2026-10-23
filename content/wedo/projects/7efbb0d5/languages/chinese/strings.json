@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "163a6e08-7d8d-49ed-46a4-5e2c9257c54a",
+        "string": "<font size=\"3\">查看设计库的基本模型，并在它的启发下搭建你的解决方案。</font>"
+      },
+      {
+        "refId": "6f9a40b8-3dc4-4340-0f92-ab0ccb70392e",
+        "string": "<div><div><div><div><font size=\"4\">动物如何在环境的影响下生存?</font><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">通过这个实验，你会：&nbsp;</span><br></font></div></div><font size=\"3\"><br></font><div><font size=\"3\">• 探究动物是如何运用不同的策略来捕获食物的，以及是如何逃离捕食者的追捕的。&nbsp;</font></div><div><font size=\"3\">• 创造一个捕食者或者猎物，进一步探究捕食者与猎物之间的关系。&nbsp;</font></div><div><font size=\"3\">• 展示你的模型，并解释两个物种之间的关系，以及它们是如何适应危险的环境并生存下来的。&nbsp;</font></div><div><font size=\"3\">• 将你的学习成果记录在乐高文档中。&nbsp;</font><br></div></div></div>"
+      },
+      {
+        "refId": "1e81cb50-cb3a-408c-a4cd-055ec83740d8",
+        "string": "9. 捕食者和猎物"
+      }
+    ]
+  }
+}

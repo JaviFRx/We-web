@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fbadd076-3c96-4231-a39a-80b81d55e499",
+        "string": "10a. Esperar tiempo aleatorio"
+      },
+      {
+        "refId": "21742926-c43b-437f-41f8-b25fb615f850",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Iniciar el motor en este sentido&nbsp;</div><div>3. Esperar un número aleatorio de segundos&nbsp;</div><div>4. Parar el motor</div>"
+      }
+    ]
+  }
+}

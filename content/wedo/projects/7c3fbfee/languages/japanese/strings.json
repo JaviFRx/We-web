@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">マックスとミアは、環境を保護したいと真剣に考えています。</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">2人は、ゴミの量を減らすにはリサイクル方法をどのように改善すればよいか知りたいと思っています。</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">マックスとミアの質問について、考えましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.リサイクルとは何ですか？</font></div><div><font size=\"3\">2.あなたの住む地域では、資源ゴミはどのように分別されていますか？</font></div><div><font size=\"3\">3.資源ゴミを、形で分別する装置を想像できますか？</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">自分の考えをノートツールを使って、保存しましょう。</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">ブロックを使う：</font><br><br><div><font size=\"3\">2種類の異なる物体を、その形に応じて分別できるトラックを組み立てましょう。</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">小さなゴミだけを、リサイクルステーションに落とすことができるよう、トラックの荷台をプログラミングしましょう。</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<font size=\"3\">スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合はビデオを見てください。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">ヒントが必要な場合はヘルプパネルを見てください。</font></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">解決策をデザインしましょう：</font><br><br><div><font size=\"3\">物体をその形に応じて、2つのグループに分別できるようトラックを改造しましょう。</font></div><br><div><font size=\"3\">次の事柄のうちいずれかを取り入れましょう：</font></div><div><font size=\"3\">1.荷台のデザインを変える。</font></div><div><font size=\"3\">2.モーションセンサーを使って、物体の形を検出する。</font></div><div><font size=\"3\">3.トラックの荷台の上で物体を分別する。</font></div><br><div><font color=\"#ffffff\" size=\"3\">物体の形をどのように利用して、解決策をデザインしたかを説明する記録を作成します。</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">記録を完成させる：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.それぞれの試作品について説明してください。</font></div><div><font size=\"3\">2.なぜその解決策を選んだか理由を述べましょう。</font></div><div><font size=\"3\">3.情報を整理しましょう。</font></div><div><font size=\"3\">4.重要な文章や画像、スクリーンキャプチャ、ビデオを挿入します。</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">結果を共有しましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">種類の異なる箱をどのように分別したか、自分の言葉で説明してみましょう。</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">マックスとミアと一緒に</font><br><div><font size=\"5\">新しい解決策をデザインしましょう</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">プロジェクトの共有</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<font size=\"4\">ゴミを減らすには、リサイクルの方法をどのように改善すればよいでしょうか？</font><br><br><div><font size=\"3\">このプロジェクトの内容：</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">リサイクルゴミの分別方法を改善して、ゴミの量を減らす方法について考える。</font></div>•&#160;<span style=\"font-size: medium; line-height: 1.42857143;\">資源ゴミを形や大きさに応じて分別する装置を組み立ててプログラミングする。</span><br><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">制作した装置について、資料を作成し、発表する。</font></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">新しい解決策をデザインしましょう：</font><br><font size=\"3\"><br></font><div><font size=\"3\">自分が選んだ３種類の物体を分別する解決策をデザインしましょう。</font></div><font size=\"3\"><br></font><div><font size=\"3\">次の事柄のうちいずれかを取り入れましょう：</font></div><div><font size=\"3\">1.コンベヤーベルトを使って分別する。</font></div><div><font size=\"3\">2.ロボットアームを使って分別する。</font></div><div><font size=\"3\">3.2種類の異なる装置を使って分別する。</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">新しい解決策について記録します。</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8.リサイクル・ゴミの分別"
+      }
+    ]
+  }
+}

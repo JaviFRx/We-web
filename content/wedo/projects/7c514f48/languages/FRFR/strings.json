@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "49d79c2a-a229-4cbe-90bc-ca5bc8c552d8",
+        "string": "11b. Vitesse variable"
+      },
+      {
+        "refId": "8dc75c06-1293-418a-c3d2-1b8c83097a8d",
+        "string": "1. Lancer le programme&nbsp;<div>2. Démarrer le moteur à l’entrée de puissance du capteur de distance&nbsp;</div><div>3. Recommencer l’étape&nbsp;2 indéfiniment</div>"
+      }
+    ]
+  }
+}

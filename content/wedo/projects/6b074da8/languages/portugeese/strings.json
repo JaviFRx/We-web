@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c0163cd5-2132-4dc3-bed1-0dd1a46fbb6c",
+        "string": "14. Ciclo"
+      },
+      {
+        "refId": "ebd3a045-0318-491b-ce0c-2ee51f5580d8",
+        "string": "1. Iniciar programa&#160;<div>2. Reproduzir som 1&#160;</div><div>3. Repetir a etapa 2 indefinidamente</div>"
+      },
+      {
+        "refId": "6aa083e3-07c5-47db-8116-ecc93be288cd",
+        "string": "1. Iniciar programa&#160;<div>2. Reproduzir som 3&#160;</div><div>3. Repetir 3 vezes a etapa 2</div>"
+      },
+      {
+        "refId": "7714ede6-7b16-4a4b-777e-4e8e62d9a844",
+        "string": "Não é necessário nenhum modelo LEGO para testar este programa."
+      }
+    ]
+  }
+}

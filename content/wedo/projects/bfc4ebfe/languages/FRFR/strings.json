@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5d05ce93-c706-45c1-8a87-ebd2b16a8ac0",
+        "string": "7b. Diminuer la vitesse"
+      },
+      {
+        "refId": "7cf59f5b-297c-4d14-e3fb-09e8f0ed8a46",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher le texte «&nbsp;10&nbsp;» à l’écran&nbsp;</div><div>3. Démarrer le moteur à la puissance égale au chiffre affiché à l’écran&nbsp;</div><div>4. Ôter 1 au chiffre affiché à l’écran&nbsp;</div><div>5. Recommencer 10&nbsp;fois les étapes&nbsp;3 et 4&nbsp;</div><div>6. Arrêter le moteur</div>"
+      }
+    ]
+  }
+}

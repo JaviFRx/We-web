@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8889bb08-cc03-4540-8448-ee67d3ab4e50",
+        "string": "17. 月球基地"
+      },
+      {
+        "refId": "42b013c8-6baa-4fff-0317-26f266cc064b",
+        "string": "<font size=\"3\">麦克斯和米娅要制作一个机器人，用于在月球建造基地。&nbsp;<br><br></font><div><font size=\"3\">帮助他们为机器人编程，使机器人能收集物体。</font></div>"
+      },
+      {
+        "refId": "e69e786b-066d-45cf-8ef1-a2411c598995",
+        "string": "<font size=\"5\">来看一看麦克斯和米娅遇到的问题：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. 如何将东西送往月球？</font></div><div><font size=\"3\">2. 运送的东西如何在月球着陆？</font></div><div><font color=\"#ffffff\" size=\"3\">3. 在月球上建造基地有哪些好的方法？</font></div></div>"
+      },
+      {
+        "refId": "cfee27b3-529f-4b74-47af-baf64b172566",
+        "string": "<font size=\"5\">使用积木：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">搭建一个可以行进并向不同方向转向的机器人。</font></div><font size=\"3\"><br></font><div><font size=\"3\">编程使它移动。</font></div></div>"
+      },
+      {
+        "refId": "b532c30d-f275-477d-8070-209a6fbd1650",
+        "string": "<div><span style=\"color: inherit; font-size: 16px;\">1. 启动程序</span><br></div><div><font size=\"3\">2. 逆时针运转启动马达</font></div><div><font size=\"3\">3. 以功率 4 启动马达</font></div><div><font size=\"3\">4. 运行马达 2 秒&nbsp;</font></div><div><font size=\"3\">5. 顺时针运转启动马达&nbsp;</font></div><div><font size=\"3\">6. 运行马达 2 秒</font></div>"
+      },
+      {
+        "refId": "7f368ff6-a865-4f73-ff7e-22283eaaa470",
+        "string": "<font size=\"5\">计划和尝试解决方案：</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\" size=\"3\">- 确定机器人到达第一个月球基地模块的行进路线。</font></div><font size=\"3\"><br></font><div><font size=\"3\">- 为机器人编程，使它移动到第一个模块。</font></div></div>"
+      },
+      {
+        "refId": "cecfc75b-ac62-487b-12c5-367028a970ba",
+        "string": "<font size=\"5\">测试并修改你的解决方案：</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">- 规划机器人到达第一个和第二个月球基地模块的行进路线。</font></div><font color=\"#ffffff\"><br></font><div><font color=\"#ffffff\">- 规划机器人到达最终位置的行进路线。</font></div><br><div>- 为机器人编程，使它按以下路线移动。&nbsp;</div></div>"
+      },
+      {
+        "refId": "f929372d-e146-40cd-a16c-b25737005614",
+        "string": "<font size=\"5\">与麦克斯和米娅一起</font><div><font size=\"5\">设计新的解决方案</font></div>"
+      },
+      {
+        "refId": "91fbc3ae-c4f2-4e12-af7c-040827afa6bb",
+        "string": "<font size=\"5\">分享实验</font>"
+      },
+      {
+        "refId": "57541f06-6c38-4970-5c61-8e318eb1830a",
+        "string": "<font size=\"5\">设计新的解决方案：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">新的模块在月球着陆啦！ 它们着陆后形成一个正方形。</font></div><font size=\"3\"><br></font><div><font size=\"3\">为机器人编程，使它捡起四个模块。</font><br></div></div>"
+      },
+      {
+        "refId": "c50d5eeb-496e-4a96-5e43-db7edd6718cf",
+        "string": "<font size=\"5\">整理你的信息：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">例如：</font></div><div><font color=\"#ffffff\" size=\"3\">- 为最终完成的程序截屏。</font></div><div><font color=\"#ffffff\" size=\"3\">- 录制一段视频，解释你的解决方案。</font></div></div>"
+      },
+      {
+        "refId": "11e6d357-ed21-4621-8de1-257a567749b3",
+        "string": "<font size=\"5\">分享你的发现：</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">展示并解释你的解决方案。</font></div></div>"
+      },
+      {
+        "refId": "0b9e4a01-e5c9-4ad8-a3f7-4f310b12d736",
+        "string": "<div><div><font size=\"5\">要如何建造一个月球基地？</font></div><br><div>在本实验中，需要：&nbsp;</div><div>&nbsp;- 探究我们为什么要在月球上建造基地，以及如何建造&nbsp;</div><div>&nbsp;- 制作一个机器人并为其编程，使它可以在月球表面移动&nbsp;&nbsp;</div><div>&nbsp;- 在特定位置搭建月球基地来测试你的程序&nbsp;</div><div>&nbsp;- 与别人分享你的程序和创意是如何成功完成这项任务的&nbsp;</div></div>"
+      },
+      {
+        "refId": "e4effe28-5fa1-42ad-ae93-1fa15fb20754",
+        "string": "<font size=\"3\">打开智能集线器，将其连接到你的设备。如果需要帮助，请观看视频。</font><div><font size=\"3\"><br></font><div><font size=\"3\">更多指南请参见“帮助”面板。</font></div></div>"
+      }
+    ]
+  }
+}

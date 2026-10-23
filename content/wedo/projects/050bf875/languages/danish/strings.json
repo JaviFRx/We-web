@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<font size=\"3\">Max og Mia tænker over forskellige typer nedbør i deres område.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De vil gerne vide, hvad de kan gøre for, at nedbøren ikke påvirker landskabet i deres område.</font></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<font size=\"5\">Undersøg Max' og Mias spørgsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Kan du beskrive nedbørsmængderne i dit område for hver årstid ved hjælp af et stolpediagram?</font></div><div><font size=\"3\">2. Hvordan påvirker nedbør vandstanden i åer og floder?</font></div><div><font size=\"3\">3. På hvilke måder kan man forebygge en oversvømmelse?</font></div><div><font size=\"3\">4. Kan du forestille dig en indretning, der kan forebygge en oversvømmelse?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del dine idéer i dokumentationsværktøjet.</font></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<font size=\"5\">Brug klodserne:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Byg en sluseport, der kan styre vandstanden i en flod.</font></div>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<font size=\"3\">Programmer din sluseport, så den kan åbne og lukke på det rigtige tidspunkt ifølge dit stolpediagram.</font>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<font size=\"4\">Design en løsning:</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">Tilføj sensorer til sluseporten for at automatisere den.</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">Overvej én af de følgende opgaver:</font></div><div><font size=\"3\">1. Tilføj et hældningssensor-håndtag til at betjene porten.</font></div><div><font size=\"3\">2. Tilføj en bevægelsessensor, der kan opdage, når vandet stiger.</font></div><div><font size=\"3\">3. Tilføj et lydsensor-input for at aktivere en nødprocedure.</div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Beskriv, hvordan du har automatiseret sluseporten.</font></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<font size=\"5\">Gør dit dokument færdigt:</font><br><br><div><font size=\"3\">1. Beskriv dine forskellige prototyper.</font></div><div><font size=\"3\">2. Forklar, hvorfor du har valgt din endelige løsning.</font></div><div><font size=\"3\">3. Organisér dine oplysninger.</font></div><div><font size=\"3\">4. Indsæt vigtig tekst, billeder, skærmbilleder eller videoer.</font></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<font size=\"5\">Del dine resultater:<br></font><br><div><font size=\"3\">Fremlæg med dine egne ord, hvordan en sluseport kan forhindre vand i at ændre et landskab.</font></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<font size=\"5\">Del dit projekt</font>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<font size=\"5\">Design nye løsninger&#160;</font><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<font size=\"4\">Hvordan kan man mindske påvirkningen fra vand-erosion?</font><br><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">I dette projekt skal du:</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">undersøge, hvordan nedbør kan ændre sig med årstiderne, og hvordan vand kan skade jorden, hvis man ikke styrer det</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">bygge og programmere en sluseport for at styre vandstanden i en flod</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">sammenligne og dokumentere flere løsninger, der er designet til at forhindre vand i at ændre landskabet.</div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed. Se videoen, hvis du har brug for hjælp.</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">Se panelet Hjælp, hvis du har brug for mere hjælp.</font></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6. Forebyg oversvømmelse"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<font size=\"5\">Design nye løsninger:</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg andre funktioner for en port.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Overvej følgende opgaver:&#160;</font></div><div><font size=\"3\">1. Tegn et kort over flodportens placering sammen med land- og vandområder.&#160;</font></div><div><font size=\"3\">2. Design<span style=\"line-height: 1.42857143;\"> en anden type kort.</span></font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. Programmér to porte for at hjælpe en båd med at styre igennem et udsnit af en flod.&#160;</font></span></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Dokumentér din nye løsning.</font></span><br></div>"
+      }
+    ]
+  }
+}

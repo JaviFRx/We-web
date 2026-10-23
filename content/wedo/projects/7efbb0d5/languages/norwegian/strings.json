@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "163a6e08-7d8d-49ed-46a4-5e2c9257c54a",
+        "string": "<font size=\"3\">Bli inspirert av grunnmodellene i designbiblioteket, og bygg din egen løsning på dette prosjektet."
+      },
+      {
+        "refId": "6f9a40b8-3dc4-4340-0f92-ab0ccb70392e",
+        "string": "<div><div><font size=\"4\">Hvordan kan dyr overleve i sine omgivelser?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette prosjektet skal du:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Utforske de ulike strategiene dyrene bruker til å fange byttene sine, eller for å unngå rovdyr.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Lage og programmere et rovdyr eller bytte for å utforske forholdet mellom dem.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentere og dokumentere dyremodellen, forklare forhol</font>det mellom to arter og hvordan de tilpasser seg for å overleve.</font></div><br></div></div>"
+      },
+      {
+        "refId": "1e81cb50-cb3a-408c-a4cd-055ec83740d8",
+        "string": "9. Rovdyr og bytte"
+      }
+    ]
+  }
+}

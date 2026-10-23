@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8c532bed-856d-4304-b8a5-1a24a79ab7d3",
+        "string": "11. Bewegung erkennen"
+      },
+      {
+        "refId": "c2c50a9e-a292-4508-9436-2d6ec6da173b",
+        "string": "1. Programm starten&nbsp;<div>2. Warten, bis der Bewegungssensor eine Bewegung erkennt&nbsp;</div><div>3. Klang 6 abspielen</div>"
+      },
+      {
+        "refId": "8bdc22f9-b828-48c1-8082-ca6a439dd4c9",
+        "string": "1. Programm starten&nbsp;<div>2. Warten, bis der Bewegungssensor erkennt, dass sich ein Objekt nähert&nbsp;</div><div>3. Klang 10 abspielen</div>"
+      }
+    ]
+  }
+}

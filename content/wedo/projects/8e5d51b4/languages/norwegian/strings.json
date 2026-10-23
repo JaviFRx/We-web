@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8ba87780-571f-4aa6-b409-ff895199687b",
+        "string": "7a. Multipliser hastighet"
+      },
+      {
+        "refId": "ecf860f4-b4d1-4e66-9c5b-2a234dc6277e",
+        "string": "1. Start program&nbsp;<div>2. Vis teksten 2 på skjermen&nbsp;</div><div>3. Start motoren ved styrkenivået som er lik tallet på skjermen&nbsp;</div><div>4. Gjenta trinn 3 for alltid&nbsp;</div><br><div>5. Start program&nbsp;</div><div>6. Multipliser tallet på skjermen med 2</div>"
+      }
+    ]
+  }
+}

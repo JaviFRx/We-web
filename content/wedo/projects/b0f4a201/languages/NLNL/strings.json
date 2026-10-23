@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fa06d35d-b20e-4d2f-87e4-745bcaa452b5",
+        "string": "10b. Teller"
+      },
+      {
+        "refId": "fc5448ee-3ab4-4720-3bd4-b4fa2b033a35",
+        "string": "1. Start het programma&nbsp;<div>2. Toon de tekst \"0\" op het beeldscherm&nbsp;</div><div>3. Tel 1 op bij het aantal dat op het beeldscherm wordt getoond&nbsp;</div><div>4. Wacht gedurende 1 seconde&nbsp;</div><div>5. Herhaal stap 3 en 4 eindeloos</div>"
+      },
+      {
+        "refId": "e2efaf40-5853-4861-1af1-6c98ae46fcca",
+        "string": "Er is geen LEGO model vereist om dit programma te testen."
+      }
+    ]
+  }
+}

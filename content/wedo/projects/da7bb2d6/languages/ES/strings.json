@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "23b33ab0-3fed-486c-891d-698441478f5d",
+        "string": "13a. Moverse con el sonido"
+      },
+      {
+        "refId": "984da34b-6be5-45d1-716f-67502dc0e714",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Iniciar motor con entrada de alimentación del sensor de sonido&nbsp;</div><div>3. Repetir el paso 2 para siempre</div>"
+      }
+    ]
+  }
+}

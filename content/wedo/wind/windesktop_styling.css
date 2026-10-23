@@ -1,0 +1,561 @@
+p { font-size: 10.5pt }
+body { font-size: 10.5pt }
+.btn { font-size: 10.5pt; border-radius: 3pt }
+
+.documentation-tool .template-selector .modal-header .close {
+  width: calc(41.4375pt);
+  height: calc(24.9375pt);
+  top: calc(7.875pt);
+  right: calc(7.875pt);
+}
+.documentation-tool .template-selector .modal-header {
+  height: 40.5pt;
+}
+.documentation-tool .template-selector .modal-body .template-thumb {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 150.0pt;
+          flex: 1 0 150.0pt;
+  width: 150.0pt;
+  height: 112.5pt;
+}
+.documentation-tool .template-selector[dir='rtl'] .modal-header .close {
+  left: 7.875pt;
+}
+.documentation-tool .export-options-modal .modal-content {
+  border-radius: 7.5pt;
+}
+.documentation-tool .export-options-modal .modal-header {
+  border-top-left-radius: 7.5pt;
+  border-top-right-radius: 7.5pt;
+  padding-bottom: 7.5pt;
+  height: 33.0pt;
+}
+.documentation-tool .export-options-modal .modal-body {
+  padding: 7.5pt;
+  border-bottom-left-radius: 7.5pt;
+  border-bottom-right-radius: 7.5pt;
+}
+.documentation-tool .export-options-modal .modal-body .row {
+  padding: 30.0pt;
+  border-radius: 3.75pt;
+  border: 0.75pt solid #BCBCBC;
+}
+.documentation-tool .export-options-modal .modal-dialog {
+  width: calc(232.5pt);
+}
+.documentation-tool .export-options-modal .export-btn:first-child {
+  margin-right: calc(28.875pt);
+}
+.documentation-tool .export-options-modal .export-btn {
+  width: calc(59.625pt);
+  height: calc(59.625pt);
+}
+.documentation-tool .edit-mode .block-container {
+  border: 0.75pt solid gainsboro;
+}
+.documentation-tool .block-container .close {
+  margin: 7.5pt;
+  border: 0.75pt solid #8D1522;
+  border-radius: 3.75pt;
+  padding: 4.5pt;
+  top: 0.0pt;
+  right: 0.0pt;
+  z-index: 11;
+  height: 22.5pt;
+  width: 22.5pt;
+}
+.documentation-tool .lego-wysiwyg-editor {
+  -webkit-transform: translateZ(0pt);
+}
+.documentation-tool .lego-wysiwyg-editor .lego-wysiwyg-editor-close {
+  top: -4.5pt;
+}
+.documentation-tool .lego-wysiwyg-editor .wysiwyg-container .wysiwyg-toolbar-list {
+  padding: 7.5pt;
+}
+.documentation-tool .page-elements > div {
+  margin: 3.75pt;
+  height: 46.5pt;
+  width: 46.5pt;
+}
+.documentation-tool .template-modal-row {
+  padding-bottom: 7.5pt;
+  height: 51.0pt;
+}
+.documentation-tool .template-modal-row .template-thumb-include {
+  margin: 3.75pt;
+}
+.documentation-tool .template-thumb {
+  padding: 7.5pt;
+}
+.documentation-tool .template-thumb.active {
+  border: 0.75pt #377FC6 solid;
+}
+.documentation-tool .text-large {
+  font-size: 14pt;
+}
+.wysiwyg-format-pane {
+  font-size: 15.0pt;
+}
+.wysiwyg-format-pane a,
+.wysiwyg-format-pane div {
+  width: 60pt;
+  height: 60pt;
+  padding: 7.5pt 15.0pt;
+  margin: 0 2.25pt;
+}
+.wysiwyg-format-pane a.undo-redo,
+.wysiwyg-format-pane div.undo-redo {
+  font-size: 22.5pt;
+}
+.wysiwyg-format-pane a.undo-redo.disabled:hover,
+.wysiwyg-format-pane div.undo-redo.disabled:hover {
+  font-size: 22.5pt;
+}
+.export-options-modal .modal-header .close {
+  width: calc(41.4375pt);
+  height: calc(24.9375pt);
+  top: calc(7.875pt);
+  right: calc(7.875pt);
+}
+.export-options-modal .modal-content {
+  border-radius: 7.5pt;
+}
+.export-options-modal .modal-header {
+  border-top-left-radius: 7.5pt;
+  border-top-right-radius: 7.5pt;
+  padding-bottom: 7.5pt;
+  height: 33.0pt;
+}
+.export-options-modal .modal-body {
+  padding: 7.5pt;
+  border-bottom-left-radius: 7.5pt;
+  border-bottom-right-radius: 7.5pt;
+}
+.export-options-modal .modal-body .row {
+  padding: 30.0pt;
+  border-radius: 3.75pt;
+  border: 0.75pt solid #BCBCBC;
+}
+.export-options-modal .modal-dialog {
+  width: calc(232.5pt);
+}
+.export-options-modal .export-btn:first-child {
+  margin-right: calc(28.875pt);
+}
+.export-options-modal .export-btn {
+  width: calc(59.625pt);
+  height: calc(59.625pt);
+}
+.modal-header .close {
+  width: calc(41.4375pt);
+  height: calc(24.9375pt);
+  top: calc(7.875pt);
+  right: calc(7.875pt);
+}
+.template-selector .modal-header .close {
+  width: calc(41.4375pt);
+  height: calc(24.9375pt);
+  top: calc(7.875pt);
+  right: calc(7.875pt);
+}
+.template-selector .modal-header {
+  height: 40.5pt;
+}
+.template-selector .modal-body .template-thumb {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 150.0pt;
+          flex: 1 0 150.0pt;
+  width: 150.0pt;
+  height: 112.5pt;
+}
+.template-selector[dir='rtl'] .modal-header .close {
+  left: 7.875pt;
+}
+.documentation-tool .project-view .template-container {
+  padding-top: calc(11.2890625pt);
+  padding-left: calc(9.17578125pt);
+  padding-right: calc(9.17578125pt);
+  padding-bottom: calc(42.16796875pt);
+}
+.documentation-tool .project-view .template-container .pad-top-14 {
+  padding-top: 10.5pt;
+}
+.documentation-tool .project-view .template-container .pad-bottom-14 {
+  padding-bottom: 10.5pt;
+}
+.documentation-tool .project-view .template-container .pad-left-14 {
+  padding-left: 10.5pt;
+}
+.documentation-tool .project-view .template-container .pad-right-14 {
+  padding-right: 10.5pt;
+}
+.documentation-tool .project-view .templates {
+  height: calc(100vh - 67.5pt);
+}
+
+
+.block-slideshow .slides .zoom-button {
+  width: 30.0pt;
+  height: 30.0pt;
+  border: 0.75pt solid gainsboro;
+}
+.carousel-controls {
+  bottom: -3.75pt;
+  height: 37.5pt;
+}
+.rotation-buttons {
+  bottom: 7.5pt;
+}
+.rotation-buttons .rotation-button {
+  border: 0.75pt solid gainsboro;
+}
+.rotation-buttons .rotation-button:first-child {
+  margin-left: 15.0pt;
+}
+.rotation-buttons .rotation-button:last-child {
+  margin-right: 15.0pt;
+}
+.project-type-open .s1 .cover-img,
+.project-type-thinking-open .s1 .cover-img {
+  border: 0.75pt solid rgba(93, 196, 241, 0.7);
+  border-radius: 3.75pt;
+}
+.scroll-indicator {
+  height: 15pt;
+}
+.scroll-margin {
+  margin-bottom: 15pt;
+}
+
+:not(.has-ta) .has-scroll {
+  height: calc(100% - 15pt);
+}
+.has-ta .is-not-full-page .template-container .block:first-child .block-content {
+  height: calc(100% - 45.0pt);
+}
+.has-ta .template-container .block:first-child .block-content {
+  height: calc(100% - 17.83203125pt);
+}
+.help[dir='ltr'] .menu .sublist {
+  margin-left: 7.5pt;
+}
+.help[dir='ltr'] .content .media .media-left {
+  padding-right: 15pt;
+}
+.help[dir='rtl'] .menu .sublist {
+  margin-right: 7.5pt;
+}
+.help[dir='rtl'] .content .media .media-left {
+  padding-left: 15pt;
+}
+.help .menu {
+  width: 210pt;
+  padding-bottom: 15.0pt;
+  padding-top: 15.0pt;
+}
+.help .menu ul {
+  margin-left: 23.25pt;
+}
+.help .menu ul li {
+  padding: 3.75pt;
+  border-bottom: 0.75pt solid black;
+}
+.help .menu ul li a {
+  padding: 3.75pt;
+}
+.help .shadow-top {
+  left: 210pt;
+  width: calc(100% - 230pt);
+  height: 11.25pt;
+}
+.help .shadow-bottom {
+  left: 210pt;
+  width: calc(100% - 230pt);
+  height: 11.25pt;
+}
+.help .content-container {
+  width: calc(100% - 210pt);
+  left: 210pt;
+}
+.help .content {
+  padding-right: 15.0pt;
+  padding-left: 15.0pt;
+}
+.help .content h1 {
+  padding-top: 15.0pt;
+}
+.help .content h2 {
+  border-bottom: 2.25pt solid #31afe1;
+  font-size: 12pt;
+  padding-top: 52.5pt;
+  padding-bottom: 3.75pt;
+  margin-bottom: 17.25pt;
+}
+.help .content .ct-item .ct-title {
+  font-size: 11pt;
+  margin-bottom: 11.25pt;
+}
+.help .content .ct-item .ct-media {
+  margin-bottom: 11.25pt;
+}
+.help .content .ct-item .ct-media img {
+  width: 75.0pt;
+}
+.help .content .ct-item .ct-description {
+  margin-bottom: 18.75pt;
+}
+.help .content .connection-text {
+  margin: 15.0pt 0;
+}
+.help .content .media {
+  margin-bottom: 39.75pt;
+}
+.help .content .media img {
+  width: 75.0pt;
+}
+.help .content .softwareguide-image {
+  margin-bottom: 15.0pt;
+}
+.help .content .connection .help-video {
+  margin-top: 52.5pt;
+  height: 750.0pt;
+}
+.library .category-header {
+  border-bottom: 2.25pt solid #3A9BFF;
+}
+.library .category-header p {
+  font-size: calc(18pt);
+}
+.library .block-container {
+  border-radius: 3.75pt;
+  border: 0.75pt #E0E0E0 solid;
+  box-shadow: #E0E0E0 0.75pt 0.75pt 0.75pt;
+}
+.library .block .header {
+  border-top-left-radius: 3.0pt;
+  border-top-right-radius: 3.0pt;
+  border-bottom: 0.75pt #E0E0E0 solid;
+  font-size: calc(11pt);
+  text-shadow: 0.75pt 0.75pt 0.75pt white;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 1 41.25pt;
+          flex: 0 1 41.25pt;
+  padding: 3.75pt;
+}
+.library .block .header p {
+  line-height: calc(19.875pt);
+}
+.library .block-container:active {
+  border: 0.75pt solid #3A9BFF;
+  box-shadow: #3A9BFF 1.5pt 1.5pt 0pt;
+}
+.library .modal-dialog {
+  margin: calc(16.5pt) auto;
+  height: calc(100% - 16.5pt);
+}
+.library .modal-content .modal-header {
+  padding: 0.0pt;
+  border-bottom: 2.25pt solid #449CFF;
+  margin-left: 7.875pt;
+  margin-right: 7.875pt;
+  font-size: calc(18pt);
+}
+.library .modal-content .modal-header .close {
+  width: calc(41.4375pt);
+  height: calc(24.9375pt);
+  top: calc(7.875pt);
+  right: calc(7.875pt);
+}
+.library .modal-content .modal-header .modal-title {
+  font-size: calc(18pt);
+  padding-top: calc(11.25pt);
+  padding-bottom: calc(17.625pt);
+}
+.library .modal-content .modal-header h3 {
+  font-size: calc(13.5pt);
+}
+
+.library .modal-content .modal-body .popupImage {
+  margin-bottom: 11.25pt;
+}
+.library .modal-content .modal-footer .btn {
+  padding: 7.5pt;
+  padding-left: 22.5pt;
+  padding-right: 22.5pt;
+  border: 0.75pt solid #9D9D9D;
+  box-shadow: 0.0pt 0.0pt 0.75pt #9D9D9D;
+  right: 7.875pt;
+  bottom: 7.875pt;
+}
+.library.rtl .modal-content .modal-footer .btn {
+  left: 7.875pt;
+}
+.library.rtl .modal-content .modal-header .close {
+  left: calc(7.875pt);
+}
+.library.rtl .modal-content .modal-footer .btn {
+  left: 7.875pt;
+}
+.library.rtl .modal-content .modal-header .close {
+  left: calc(7.875pt);
+}
+.models .category-header {
+  border-bottom: 2.25pt solid #3A9BFF;
+}
+.models .category-header p {
+  font-size: calc(18pt);
+}
+.models .project-row .project-block {
+  border: 0.75pt solid rgba(93, 196, 241, 0.7);
+  border-radius: 3.75pt;
+}
+.models .project-row .project-block footer {
+  padding: 3.75pt 7.5pt;
+  font-size: 12.0pt;
+  border-bottom-left-radius: 3.75pt;
+  border-bottom-right-radius: 3.75pt;
+}
+.models .project-row .subproject-block {
+  border: 0.75pt solid darkgray;
+  border-radius: 3.75pt;
+}
+.models .project-row .subproject-block header {
+  padding: 0.75pt 7.5pt;
+  font-size: 12.0pt;
+  border-top-left-radius: 3.75pt;
+  border-top-right-radius: 3.75pt;
+}
+.models .project-row:after {
+  height: 0.75pt;
+}
+.models .blue-dot:after {
+  width: 2.25pt;
+  top: 0.75pt;
+}
+
+.project-view .teaching-assistant-trigger {
+  bottom: 11.25pt;
+  left: 11.25pt;
+  width: 37.5pt;
+  height: 37.5pt;
+}
+.modal-footer .ta-popup-toggle {
+  max-height: 31.5pt;
+}
+.project-view .block-slideshow .slides .zoom-button {
+  width: 30.0pt;
+  height: 30.0pt;
+  border: 0.75pt solid gainsboro;
+}
+.project-view .carousel-controls {
+  bottom: -3.75pt;
+  height: 37.5pt;
+}
+.project-view .rotation-buttons {
+  bottom: 7.5pt;
+}
+.project-view .rotation-buttons .rotation-button {
+  border: 0.75pt solid gainsboro;
+}
+.project-view .rotation-buttons .rotation-button:first-child {
+  margin-left: 15.0pt;
+}
+.project-view .rotation-buttons .rotation-button:last-child {
+  margin-right: 15.0pt;
+}
+.project-view .project-type-open .s1 .cover-img,
+.project-view .project-type-thinking-open .s1 .cover-img {
+  border: 0.75pt solid rgba(93, 196, 241, 0.7);
+  border-radius: 3.75pt;
+}
+.project-view .scroll-indicator {
+  height: 15pt;
+}
+.project-view .scroll-margin {
+  margin-bottom: 15pt;
+}
+.project-view:not(.has-ta) .has-scroll {
+  height: calc(100% - 15pt);
+}
+.project-view .has-ta .is-not-full-page .template-container .block:first-child .block-content {
+  height: calc(100% - 45.0pt);
+}
+.project-view .has-ta .template-container .block:first-child .block-content {
+  height: calc(100% - 17.83203125pt);
+}
+.project-view .page-navigation-bar {
+  height: calc(45pt);
+  padding-top: calc(12.28515625pt) !important;
+  padding-left: calc(9.17578125pt) !important;
+  padding-right: calc(9.17578125pt) !important;
+  margin-bottom: calc(21.58203125pt) !important;
+}
+.project-view .page-navigation-bar div.page-section {
+  padding-top: 5.25pt;
+  margin-left: 37.5pt !important;
+}
+.project-view .page-navigation-bar div.page-section {
+  margin-left: 7.5pt;
+}
+.project-view .page-navigation-bar div.page-ball {
+  margin-top: 7.5pt;
+  margin-bottom: 7.5pt;
+  margin-left: 3.75pt;
+  margin-right: 3.75pt;
+  border: darkgrey solid 0.75pt;
+  border-radius: 22.5pt;
+  height: 7.5pt;
+  width: 7.5pt;
+}
+.project-view .page-left-arrow,
+.project-view .page-right-arrow {
+  background-repeat: no-repeat;
+  height: 33.75pt;
+  width: 33.75pt;
+}
+.project-view .page-left-arrow.branch-arrow,
+.project-view .page-right-arrow.branch-arrow {
+  height: 33.75pt;
+  width: 33.75pt;
+}
+.project-view .template-container {
+  height: 100%;
+  width: 100%;
+  padding-top: calc(11.2890625pt);
+  padding-left: calc(9.17578125pt);
+  padding-right: calc(9.17578125pt);
+  padding-bottom: calc(42.16796875pt);
+}
+.project-view .template-container .pad-top-14 {
+  padding-top: 10.5pt;
+}
+.project-view .template-container .pad-bottom-14 {
+  padding-bottom: 10.5pt;
+}
+.project-view .template-container .pad-left-14 {
+  padding-left: 10.5pt;
+}
+.project-view .template-container .pad-right-14 {
+  padding-right: 10.5pt;
+}
+.project-view .is-not-full-page .template-container {
+  padding-bottom: calc(8.96484375pt) !important;
+}
+.project-view .templates {
+  height: calc(100% - 67.5pt);
+}
+.connection-error-container {
+  padding: 37.5pt;
+  font-size: 15.0pt;
+}
+.connection-error-container .error-message {
+  width: 450.0pt;
+}
+.connection-error-container .error-message .retry {
+  padding-top: 30.0pt;
+}
+.connection-error-container .error-message .retry a {
+  padding: 15.0pt 37.5pt;
+  border: 0.75pt solid #373737;
+}

@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1b30cf7d-5870-47e2-a7e8-3f32b797f498",
+        "string": "18.物をつかむ"
+      },
+      {
+        "refId": "991c048e-798d-463e-5fc7-811967895c84",
+        "string": "<div><div><div><font size=\"5\">手に障がいがある人はどうやって小さな物をつかみますか？&nbsp;</font></div><div><br><div>このプロジェクトの内容：&nbsp;</div><div>- 障がい者を支援するための義肢の構造を調べる&nbsp;</div><div>- 物体をあちこちに移動するように義肢を作成してプログラミングする&nbsp;</div><div>- 手ができるだけ機能的になるようにプログラムをテストする&nbsp;</div><div>- このプロジェクトを成功させるためのプログラムとアイデアを共有する<br></div></div></div></div>"
+      },
+      {
+        "refId": "48fe8e6f-e967-4699-1e20-ba08a9686e38",
+        "string": "マックスとミアは障がいを持つ人の役に立ちたいと考えています。&nbsp;&nbsp;<div>&nbsp;\n<br><div>2人が様々な物体をつかめる手をプログラミングするのを手伝いましょう。</div></div>"
+      },
+      {
+        "refId": "bdc4db6f-6c46-4663-a54c-9675fc2a4af3",
+        "string": "<font size=\"5\">マックスとミアの質問について、考えましょう：</font><div><br><div>1.手を使ってどんな動きができますか？&nbsp;</div><div>2.手の筋肉はどのような役割を果たしますか？&nbsp;</div><div><font color=\"#ffffff\">3.人工的な腕（義肢）をどのように作成できますか？</font><br></div></div>"
+      },
+      {
+        "refId": "a9e86e5d-0c2f-492f-2d1a-422dd7e90d79",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><span style=\"font-size: 20px;\"><br></span><div>色々な物体をつかめる人工アームをプログラミングしましょう。&nbsp;\n</div><br><div>アームが開閉するようにプログラミングします。</div></div>"
+      },
+      {
+        "refId": "ea8276cd-b3fe-4061-54af-f29a472f1a16",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.モーションセンサーが動きを検出するまで待機する&nbsp;</div><div>3.モーターを左回転させる&nbsp;</div><div>4.モーターを2秒間回転させる&nbsp;</div><div>5.2 秒間待つ&nbsp;</div><div>6.モーターを右回転させる&nbsp;</div><div>7.モーターを2秒間回転させる</div>"
+      },
+      {
+        "refId": "bdc58061-18ca-479d-614c-759506f45670",
+        "string": "<font size=\"5\">解決策のプランとテスト：</font><div><span style=\"font-size: 20px;\"><br></span><div>以下の機能を果たすように人工アームをプログラミングします。&nbsp;</div><div>- 花をつかんで、スタンドに置く&nbsp;</div><div>- 電気プラグをつかんで、コンセントに差し込む</div></div>"
+      },
+      {
+        "refId": "7bde3747-6cdb-4ecd-c313-343fb0c243b0",
+        "string": "<font size=\"5\">解決策を試し、修正する</font><div><br><div>このプログラムでは人工アームはうまく作動しません。&nbsp;</div><br><div>クランプが閉じている状態では緑のライトがオンになり、クランプが開いている状態では赤のライトがオンになる必要があります。&nbsp;</div><br><div><font color=\"#ffffff\">問題が解消されるようにプログラムを変更してください。</font></div></div>"
+      },
+      {
+        "refId": "50279510-14bc-463c-5078-6f17d5474810",
+        "string": "<font size=\"5\">新しい解決策をデザインしましょう</font><div><font size=\"5\">マックスとミアもいっしょです</font></div>"
+      },
+      {
+        "refId": "44fe0336-824e-4242-7e5a-ef4dcf96ca4e",
+        "string": "<font size=\"5\">プロジェクトの共有</font>"
+      },
+      {
+        "refId": "abc1d817-50d5-4add-dce5-353c6c7a8e29",
+        "string": "<font size=\"5\">情報の整理：</font><div><br><div>例示：&nbsp;</div><div><font color=\"#ffffff\">- プログラムの最終版のスクリーンキャプチャを撮ります。</font></div><div><font color=\"#ffffff\">- 解決策の説明ビデオを録画します。</font></div></div>"
+      },
+      {
+        "refId": "3e03ada0-54f8-40a1-fc75-9a2d092bfa85",
+        "string": "<font size=\"5\">結果の共有：</font><div><span style=\"font-size: 20px;\"><br></span><div>解決策を発表し、説明します。</div></div>"
+      },
+      {
+        "refId": "6835b1da-0a51-4494-052e-7ed1dfeca056",
+        "string": "<font size=\"5\">新解決策のデザイン：</font><div>&nbsp;</div><div>ペアを組みましょう！&nbsp;</div><br><div>物体をA地点とB地点の間で動かします。&nbsp;</div><br><div>人工アームを使ってできるだけ早く物体を動かします。</div>"
+      },
+      {
+        "refId": "39d55ae5-a248-4014-b9fa-bee563f5bb85",
+        "string": "スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合は、ビデオを見てください。&nbsp;<br><br><div>ヒントが必要な場合はヘルプパネルを見てください。&nbsp;</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d8d0a44f-fe6f-460d-b65c-f544560e927e",
+        "string": "3a. Piscar"
+      },
+      {
+        "refId": "7033c8ec-8f24-4405-7a2b-ba3e4b33ee4d",
+        "string": "1. Iniciar programa&#160;<div>2. Ligar LED na cor 9 (vermelho)&#160;</div><div>3. Desligar LED na cor 0 (sem cor)&#160;</div><div>4. Repetir as etapas 2 e 3 indefinidamente&#160;</div>"
+      }
+    ]
+  }
+}

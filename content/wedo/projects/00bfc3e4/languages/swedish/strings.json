@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Joystick"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Starta program när ”A” är intryckt&#160;<div>2. Vänta på att lutningssensorn upptäcker luta nedåt&#160;</div><div>3. Starta motor åt det här hållet&#160;</div><div>4. Upprepa steg 2 och 3 oändligt.&#160;</div><br><div>5. Starta program när ”A” är intryckt&#160;</div><div>6. Vänta på att lutningssensorn upptäcker ingen lutning&#160;</div><div>7. Stanna motor&#160;</div><div>8. Upprepa steg 6 och 7 oändligt</div>"
+      }
+    ]
+  }
+}

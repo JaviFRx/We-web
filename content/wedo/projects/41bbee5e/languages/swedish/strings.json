@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Fläkt"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">Det är en varm dag. På Max och Mias laboratorium är det jättevarmt.<br><br></font><div><font size=\"3\">De vill bygga en fläkt för att kunna svalka sig.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max och Mia behöver din hjälp!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Ge Max och Mia mer hjälp (valfritt):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Få fläkten att snurra olika snabbt. Sedan ska du få den att stanna.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmera fläkten, så att den beter sig på andra sätt.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Få fläkten att snurra.<br><br>1. Skapa det här programmet.</font><div><font size=\"3\"><br>2. Förklara för varandra hur fläkten fungerar.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><div><font size=\"3\">I den här lektionen lär du dig att:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Bygga en LEGO® modell.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Ansluta modellen till din enhet.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programmera</span><span style=\"line-height: 1.42857;\">&nbsp;motorn, så att den snurrar olika snabbt.</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet.</font>"
+      }
+    ]
+  }
+}

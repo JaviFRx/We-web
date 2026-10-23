@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "Satélite móvel"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><font size=\"3\">Nesta aula, você aprenderá a:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Construir um modelo LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Conectar o modelo ao seu dispositivo</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programar</span><span style=\"line-height: 1.42857;\">&nbsp;o motor para virar por um período de tempo definido</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Programar o motor para virar para o outro lado</font></span></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">Max e Mia ouvem a notícia. Eles ouvem sobre satélites controlados por cientistas.</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Às vezes, os satélites precisam se mover para evitar os meteoros.&#160;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Eles querem construir seu próprio satélite.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max e Mia precisam da sua ajuda! </span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">Faça o satélite virar por 3 segundos.<br><br>1. Crie o programa conforme mostrado.</font><div><font size=\"3\"><br>2. Expliquem uns aos outros como o satélite funciona.</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">Ajude o Max e a Mia ainda mais (opcional):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Faça o satélite virar para o outro lado por mais tempo.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programe o satélite para fazer outras coisas.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">Ligar o Smarthub e o conectar ao dispositivo.</font><br>"
+      }
+    ]
+  }
+}

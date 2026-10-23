@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5f56efa-35f4-4614-a9ce-6b558bedaca7",
+        "string": "4b. Ritmo"
+      },
+      {
+        "refId": "2788f2f5-c835-466a-4f11-d73b39f02515",
+        "string": "1. Iniciar el programa cuando se pulse \"A\"&nbsp;<div>2. Reproducir número de sonido 24&nbsp;</div><div>3. Esperar 0,5 segundos&nbsp;</div><div>4. Repetir pasos 2 y 3 para siempre&nbsp;</div><br><div>5. Iniciar el programa cuando se pulse \"A\"&nbsp;</div><div>6. Reproducir número de sonido 23&nbsp;</div><div>7. Esperar 1 segundo&nbsp;</div><div>8. Repetir los pasos 6 y 7 para siempre&nbsp;</div><br><div>9. Iniciar el programa&nbsp;</div><div>10. Reproducir sonido 25</div>"
+      },
+      {
+        "refId": "ec5f9c9e-6d2d-41c9-8043-4bf4f5993e57",
+        "string": "No se requieren modelos LEGO para probar este programa."
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "163a6e08-7d8d-49ed-46a4-5e2c9257c54a",
+        "string": "<font size=\"3\">استلهم من النماذج الأساسية في مكتبة التصميم كيفية بناء حلول خاصة بهذا المشروع.</font>"
+      },
+      {
+        "refId": "6f9a40b8-3dc4-4340-0f92-ab0ccb70392e",
+        "string": "<div><div><font size=\"4\">كيف يمكن أن تبقى الحيوانات على قيد الحياة في بيئتها؟</font><font size=\"3\"><br></font></div><div><font size=\"3\">في هذا المشروع، سوف تتمكن من:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">استكشاف الإستراتيجيات المختلفة التي تستخدمها الحيوانات في اصطياد فريستها أو الفرار من مفترساتها.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">إنشاء وبرمجة مفترس وفريسة لاستكشاف العلاقة بينهما.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">تقديم وتوثيق نموذج الحيوان الذي وضعته موّضحاً العلاقة</font> بين النوعين وكيف تكيفا من أجل البقاء.</font></div><br></div></div>"
+      },
+      {
+        "refId": "1e81cb50-cb3a-408c-a4cd-055ec83740d8",
+        "string": "٩. المفترس والفريسة"
+      }
+    ]
+  }
+}

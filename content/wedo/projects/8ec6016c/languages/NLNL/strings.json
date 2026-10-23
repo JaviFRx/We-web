@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6ffdb84-08b2-421e-a04e-32235c3b69ea",
+        "string": "23. Veiligheid in de stad"
+      },
+      {
+        "refId": "09f70808-a0fd-42ef-650f-0d92447e30bb",
+        "string": "<div><div><font size=\"5\">Hoe kunnen we stadsvervoer veiliger maken?&nbsp;</font></div><br><div>In dit project:&nbsp;</div><div>- Verschillende veiligheidsregels onderzoeken die verband houden met stadsvervoer en beschrijven hoe sommige regels kunnen worden verbeterd&nbsp;</div><div>- Een apparaat ontwerpen en programmeren om de veiligheid in de stad te verbeteren&nbsp;</div><div>- Je programma testen en aantonen hoe de veiligheid met behulp van jouw apparaat is verbeterd&nbsp;</div><div>- Je programma en ideeën delen</div></div>"
+      },
+      {
+        "refId": "96cc0dba-24fd-43fb-ba69-704c3d262b89",
+        "string": "<div style=\"text-align: center;\">Laat je inspireren door de basismodellen in de ontwerpbibliotheek om je eigen oplossing voor dit project te bouwen.</div>"
+      },
+      {
+        "refId": "e1f4f02f-0f59-4fbc-0f3c-f6a9c2d57b4d",
+        "string": "<div style=\"text-align: center;\">Laat je inspireren door de basisprogramma‘s in de ontwerpbibliotheek om je eigen oplossing voor dit project te bouwen.</div>"
+      }
+    ]
+  }
+}

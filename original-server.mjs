@@ -4,7 +4,8 @@ import {createReadStream} from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 const base=path.dirname(fileURLToPath(import.meta.url));
-const original=process.env.WEDO_CONTENT_ROOT||'C:/Program Files (x86)/WeDo 2.0/WeDo 2.0_Data/StreamingAssets/C';
+const original=process.env.WEDO_CONTENT_ROOT||path.join(base,'content/wedo');
+const port=Number(process.env.PORT||8080);
 const files={'/lab/':'index.html','/app.js':'app.js','/core.js':'core.js','/bluetooth.js':'bluetooth.js','/style.css':'style.css','/library.css':'library.css','/library.js':'library.js','/activities.js':'activities.js'};
 const mime={html:'text/html',js:'text/javascript',json:'application/json',css:'text/css',png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',gif:'image/gif',svg:'image/svg+xml',woff:'font/woff',woff2:'font/woff2',ttf:'font/ttf',mp4:'video/mp4',mp3:'audio/mpeg',ogg:'audio/ogg',pdf:'application/pdf'};
 const server=http.createServer(async(req,res)=>{
@@ -32,5 +33,5 @@ const server=http.createServer(async(req,res)=>{
   if(req.method==='HEAD'||!info.size)res.end();else createReadStream(file,{start,end}).on('error',()=>res.destroy()).pipe(res);
  }catch(e){res.writeHead(e.code==='ENOENT'?404:500);res.end('No se pudo cargar el recurso local.');}
 });
-server.listen(8080,'127.0.0.1',()=>console.log('WeDo local: http://localhost:8080'));
+server.listen(port,'127.0.0.1',()=>console.log(`WeDo local: http://localhost:${server.address().port}`));
 server.on('error',e=>{console.error(e.message);process.exitCode=1;});

@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8b964291-66b5-4b21-a5b5-e2c435ceb0e7",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">マイロが、植物サンプルのある場所で停止できるよう、物体を検出できるアームを組み立てましょう。</font></div>"
+      },
+      {
+        "refId": "e7bd83ea-ea4d-4df6-7bb5-e33aa0f41f5b",
+        "string": "<font size=\"3\">スマートハブの電源を入れ、デバイスに接続します。</font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">やり方がわからない場合は、ビデオを見てください。</span></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">ヒントが必要な場合は、ヘルプパネルを見てください。</font></span></div></div>"
+      },
+      {
+        "refId": "770464a6-c412-4476-6e59-d3e48253ebf5",
+        "string": "<font size=\"3\">植物サンプルを検出したら、その目の前で止まるようマイロをプログラミングします。</font>"
+      },
+      {
+        "refId": "2672ca79-2091-4dc0-1dd1-3255e6ba0dc4",
+        "string": "<font size=\"3\">マイロが、植物サンプルに近づく様子をビデオに撮りましょう。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">マイロの任務を記録します。</font></div>"
+      },
+      {
+        "refId": "71ce5714-01e7-4133-4c28-ae7922f1198e",
+        "string": "<font size=\"3\">マックスとミアは、物体を検出することのできるセンサーを、マイロに取り付けたいと思っています。</font>"
+      },
+      {
+        "refId": "8b17409e-1e28-4f6f-b06d-e0c7300be491",
+        "string": "<div><div><div><font size=\"3\">このプロジェクトの内容：</font></div><div><font size=\"3\"><br>• モーションセンサーを使って、マイロの物体検出アームを組み立てて、プログラミングする。 <br>• マイロが、どのように植物サンプルを見つけたか記録する。</font><br><div></div></div></div></div>"
+      },
+      {
+        "refId": "cddad4d0-e43c-446f-97d0-92cb887a08b8",
+        "string": "B.マイロのモーションセンサー"
+      }
+    ]
+  }
+}

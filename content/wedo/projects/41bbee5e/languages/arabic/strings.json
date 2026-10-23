@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "مروحة التبريد"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">إنه يوم حار. ودرجة الحرارة في مختبر علوم مالك ومايا مرتفعة.<br><br></font><div><font size=\"3\">يريد مالك ومايا بناء مروحة لتبريد مختبر العلوم.</font></div><font size=\"3\"><br></font><div><font size=\"3\">مالك ومايا بحاجة إلى مساعدتك!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">ساعد مالك ومايا أكثر (اختياري):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. اجعل المروحة تدور بسرعات مختلفة. ثم اجعلها تتوقف.</font></div><div><font size=\"3\"><br></font></div><div>2. برمج المروحة على إنجاز مهامَ أخرى.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">اجعل المروحة تدور.<br><br>1. أنشئ البرنامج كما هو موضح.</font><div><font size=\"3\"><br>2. تناقشوا بشأن كيفية عمل المروحة.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><font size=\"3\">في هذا الدرس، ستتعلم:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">بناء نموذج LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">توصيل النموذج مع جهازك</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• برمجة </span><span style=\"line-height: 1.42857;\">&nbsp;المحرك للدوران بسرعات مختلفة</span></font></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">شغّل الموزع الذكي ووصله بجهازك.</font>"
+      }
+    ]
+  }
+}

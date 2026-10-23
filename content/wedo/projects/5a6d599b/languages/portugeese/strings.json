@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">Max e Mia estão impressionados com as máquinas que conseguem puxar objetos pesados.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Eles querem investigar o que faz os objetos se moverem.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">Usando as peças:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construam um robô puxador que consegue puxar um objeto por uma distância curta.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">Programem seu robô puxador para puxar um objeto por uma distância curta como ele fez no vídeo.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">Liguem o Smarthub e o conectem ao seu dispositivo. Assistam ao vídeo se precisarem de ajuda.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultem o painel de ajuda para obter outras orientações.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">Investiguem com Max e Mia:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1. Adicionem objetos à cesta até que o robô puxador pare de se movimentar.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Prevejam o que aconteceria caso vocês colocassem pneus no seu robô puxador. Registrem a sua previsão.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Coloquem os pneus grandes no robô e testem.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Registrem as suas descobertas.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Encontrem o objeto mais pesado que o robô puxador consegue arrastar estando com os pneus.</font></div><div><font color=\"#ffffff\" size=\"3\">Registrem o equilíbrio ou desequilíbrio de forças , identificando as diferenças em cada caso.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Finalizem o seu registro.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Revejam as suas previsões e expliquem o que aconteceu nesta investigação.</font></div><div><font size=\"3\">2. Organizem suas informações para compartilhar com os colegas.</font></div><div><font size=\"3\">3. Adicionem textos, imagens, capturas de tela ou vídeos importantes no seu projeto.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">Compartilhem as suas descobertas:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Com base nas suas investigações, apresentem, com suas próprias palavras, a diferença entre equilíbrio e desequilíbrio de forças.</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Compartilhem seu projeto</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">Investigar mais</font><div><font size=\"5\">com Max e Mia</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">Explorem as dúvidas de Max e Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Como vocês podem fazer um objeto se mover? </font></div><div><font size=\"3\">2. Vocês sabem explicar o que é atrito? </font></div><div><font size=\"3\">3. Prevejam o que irá acontecer se a força de tração for maior em uma direção do que na outra. </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Compartilhem as suas ideias na ferramenta Registro.</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">O que faz os objetos se moverem? </font><br><div><font size=\"3\">Neste projeto, vocês irão:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• Explorar os tipos de força e como elas atuam sobre os objetos.</font></div><div><font size=\"3\">• Criar e programar um robô para investigar os efeitos de forças em equilíbrio ou desequilíbrio no movimento de um objeto.</font></div><div><font size=\"3\">• Registrar e apresentar suas descobertas sobre forças.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">Investigar mais:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Construam um robô puxador diferente, que deve arrastar o objeto mais pesado possível. </font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Juntem-se a outra equipe e criem um novo desafio de puxar, com os dois robôs puxadores juntos.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Registrem como as forças estavam agindo neste desafio.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Equilíbrio de Forças"
+      }
+    ]
+  }
+}

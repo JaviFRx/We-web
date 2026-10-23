@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9b799c0f-ffdf-4694-ae70-9173041428e5",
+        "string": "14a. Detener bucle con sensor"
+      },
+      {
+        "refId": "330631af-42d0-427f-e123-6a94d1e390a1",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Iniciar el motor en este sentido&nbsp;</div><div>3. Repetir el paso 2 hasta que el sensor de movimiento detecte movimiento&nbsp;</div><div>4. Parar el motor</div>"
+      }
+    ]
+  }
+}

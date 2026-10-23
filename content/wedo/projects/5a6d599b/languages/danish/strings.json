@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">Max og Mia er imponerede over maskiner, der kan trække tunge genstande.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De vil gerne undersøge, hvad der får genstande til at bevæge sig.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">Brug klodserne:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg en trækkerobot, der kan trække en genstand over en kort afstand.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">Programmér din trækkerobot, så den kan trække en genstand over en kort afstand, ligesom i videoen.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed. Se videoen, hvis du har brug for hjælp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se panelet Hjælp, hvis du har brug for mere hjælp.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">Undersøg sammen med Max og Mia:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1. Tilføj genstande til kurven, indtil trækkerobotten stopper.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Forudsig, hvad der sker, hvis du sætter dæk på din trækkerobot. Dokumentér din forudsigelse.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Sæt de store dæk på din robot, og test det.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Dokumentér dine resultater.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Find den tungeste genstand, som din trækkerobot kan trække med dækkene på.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentér, hvordan kræfter er i balance eller ubalance i hvert tilfælde.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Gør dit dokument færdigt:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Se på din forudsigelse, og forklar, hvad der skete i undersøgelsen.</font></div><div><font size=\"3\">2. Organisér dine oplysninger, så du kan dele dem med andre.</font></div><div><font size=\"3\">3. Indsæt vigtig tekst, billeder, skærmbilleder eller videoer i projektet.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">Del dine resultater:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">På baggrund af dine undersøgelser skal du med dine egne ord beskrive forskellen mellem kræfter i balance og kræfter i ubalance.</div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Del dit projekt</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">Undersøg mere</font><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">Undersøg Max' og Mias spørgsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hvordan kan man få en genstand til at bevæge sig?</font></div><div><font size=\"3\">2. Kan du forklare, hvad friktion er?&#160;</font></div><div><font size=\"3\">3. Forudsig, hvad der sker, hvis trækkraften er større i én retning end i en anden.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Del dine idéer ved hjælp af dokumentationsværktøjet.</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">Hvad får genstande til at bevæge sig?&#160;</font><br><div><font size=\"3\">I dette projekt skal du:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• undersøge, hvad kræfter er, og hvordan de kan få genstande til at bevæge sig</font></div><div><font size=\"3\">• bygge og programmere en robot for at undersøge, hvad kræfter i balance og kræfter i ubalance betyder for en genstands bevægelse</font></div><div><font size=\"3\">• dokumentere og fremlægge dine resultater om kræfter.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">Undersøg mere:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Byg en anden trækkerobot, der kan trække så tung en genstand som muligt.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Gå sammen med en anden gruppe, og lav en trække-udfordring med de to trækkerobotter.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumentér, hvordan kræfterne arbejder.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Træk"
+      }
+    ]
+  }
+}

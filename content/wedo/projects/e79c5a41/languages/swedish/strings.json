@@ -1,0 +1,42 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<font size=\"3\">Max och Mia är redo att utforska världen och göra viktiga upptäckter.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De behöver hjälp, särskilt när avlägsna platser ska utforskas, med att hitta en viss växt.</font></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<font size=\"5\">Undersök Max och Mias fråga:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.Vad gör tekniker och forskare när de inte kan resa till platser som de vill undersöka?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Använd dokumentationsverktyget för att dela med dig av dina svar.</font></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg Milo, som är en forskningsterrängbil.</font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<font size=\"3\">Programmera Milo att åka framåt.</font>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<font size=\"3\">Ta en bild av dig själv och Milo.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Anteckna i dokumentationsverktyget vad du tycker om resultatet.</font></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beskriv hur Milo kan hjälpa dig i dina forskningsprojekt.</font></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<font size=\"3\">I det här projektet kommer du att:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Undersöka olika sätt som forskare och tekniker använder för att nå avlägsna platser.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Bygga och programmera terrängbilen Milo.&#160; </font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Dokumentera hur Milo kan hjälpa dig att hitta en viss växt.</font></div></div>"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. Forskningsterrängbilen Milo"
+      }
+    ]
+  }
+}

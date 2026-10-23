@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8ba87780-571f-4aa6-b409-ff895199687b",
+        "string": "7a. 乘以速度"
+      },
+      {
+        "refId": "ecf860f4-b4d1-4e66-9c5b-2a234dc6277e",
+        "string": "1. 启动程序&nbsp;<div>2. 在显示屏上显示文本“2”&nbsp;</div><div>3. 以显示屏上的数字所指示的功率启动电机&nbsp;</div><div>4. 无限重复第 3 步&nbsp;</div><div>5. 启动程序&nbsp;</div><div>6. 将显示屏上的数字乘以 2</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8889bb08-cc03-4540-8448-ee67d3ab4e50",
+        "string": "17. Base lunar"
+      },
+      {
+        "refId": "42b013c8-6baa-4fff-0317-26f266cc064b",
+        "string": "<font size=\"3\">Max y Mia están creando un robot para construir una base en la Luna.&nbsp;<br><br></font><div><font size=\"3\">Ayúdales a programar un robot que recoja objetos. </font></div>"
+      },
+      {
+        "refId": "e69e786b-066d-45cf-8ef1-a2411c598995",
+        "string": "<font size=\"5\">Explora las preguntas de Max y Mia:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. ¿Cómo podemos enviar cosas a la Luna? </font></div><div><font size=\"3\">2. ¿Cómo pueden aterrizar las cosas en la Luna? </font></div><div><font color=\"#ffffff\" size=\"3\">3. ¿Cuál es una buena manera de crear y construir una base en la Luna? </font></div></div>"
+      },
+      {
+        "refId": "cfee27b3-529f-4b74-47af-baf64b172566",
+        "string": "<font size=\"5\">Usa los ladrillos:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Construye un robot que pueda desplazarse y girar en diferentes direcciones. </font></div><font size=\"3\"><br></font><div><font size=\"3\">Prográmalo para que se mueva. </font></div></div>"
+      },
+      {
+        "refId": "b532c30d-f275-477d-8070-209a6fbd1650",
+        "string": "<div><span style=\"color: inherit; font-size: 16px;\">1. Iniciar programa </span><br></div><div><font size=\"3\">2. Iniciar el motor en este sentido </font></div><div><font size=\"3\">3. Iniciar el motor con potencia 4 </font></div><div><font size=\"3\">4. Iniciar el motor durante 2 segundos </font></div><div><font size=\"3\">5. Iniciar el motor en otro sentido </font></div><div><font size=\"3\">6. Iniciar el motor durante 2 segundos</font></div>"
+      },
+      {
+        "refId": "7f368ff6-a865-4f73-ff7e-22283eaaa470",
+        "string": "<font size=\"5\">Planifica y prueba una solución:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\" size=\"3\">- Define el camino que debe seguir tu robot para llegar al primer módulo de la base lunar. </font></div><font size=\"3\"><br></font><div><font size=\"3\">- Programa tu robot para que se mueva hasta el primer módulo. </font></div></div>"
+      },
+      {
+        "refId": "cecfc75b-ac62-487b-12c5-367028a970ba",
+        "string": "<font size=\"5\">Prueba y modifica tu solución:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">- Planifica el camino que debe seguir tu robot para llegar al primer y al segundo módulo de la base lunar. </font></div><font color=\"#ffffff\"><br></font><div><font color=\"#ffffff\">- Planifica el camino que debe seguir tu robot para llegar a la ubicación final. </font></div><br><div>- Programa tu robot para que se mueva siguiendo estos caminos. &nbsp;</div></div>"
+      },
+      {
+        "refId": "f929372d-e146-40cd-a16c-b25737005614",
+        "string": "<font size=\"5\">Diseña nuevas soluciones </font><div><font size=\"5\">con Max y Mia</font></div>"
+      },
+      {
+        "refId": "91fbc3ae-c4f2-4e12-af7c-040827afa6bb",
+        "string": "<font size=\"5\">Comparte tu proyecto</font>"
+      },
+      {
+        "refId": "57541f06-6c38-4970-5c61-8e318eb1830a",
+        "string": "<font size=\"5\">Diseña nuevas soluciones: </font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">¡Han aterrizado nuevos módulos en la Luna! Han aterrizado en forma de cuadrado. </font></div><font size=\"3\"><br></font><div><font size=\"3\">Programa tu robot para que recoja los cuatro módulos. </font><br></div></div>"
+      },
+      {
+        "refId": "c50d5eeb-496e-4a96-5e43-db7edd6718cf",
+        "string": "<font size=\"5\">Organiza tu información:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Por ejemplo: </font></div><div><font color=\"#ffffff\" size=\"3\">-Tomar una captura de pantalla de tu programa final. </font></div><div><font color=\"#ffffff\" size=\"3\">- Graba un vídeo explicando tu solución. </font></div></div>"
+      },
+      {
+        "refId": "11e6d357-ed21-4621-8de1-257a567749b3",
+        "string": "<font size=\"5\">Comparte tus hallazgos: </font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Presenta y explica tus soluciones.</font></div></div>"
+      },
+      {
+        "refId": "0b9e4a01-e5c9-4ad8-a3f7-4f310b12d736",
+        "string": "<div><div><font size=\"5\">¿Cómo se instalaría una base lunar?</font></div><br><div>En este proyecto, harás lo siguiente:&nbsp;</div><div>&nbsp;- Explora por qué instalaríamos una base en la luna y cómo podríamos hacerlo&nbsp;</div><div>&nbsp;- Crea y programa un robot que pueda moverse por la superficie lunar&nbsp;&nbsp;</div><div>&nbsp;- Prueba tu programa para construir la base lunar en una ubicación específica&nbsp;</div><div>&nbsp;- Comparte tu programa y tus ideas sobre cómo completar esta misión con éxito&nbsp;</div></div>"
+      },
+      {
+        "refId": "e4effe28-5fa1-42ad-ae93-1fa15fb20754",
+        "string": "<font size=\"3\">Enciende el hub inteligente y conéctalo al dispositivo. Si necesitas ayuda, mira el vídeo. </font><div><font size=\"3\"><br></font><div><font size=\"3\">Consulta el panel de ayuda para obtener asistencia. </font></div></div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<div><font size=\"3\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;</font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">如需更多详细指导，请看帮助。 &#160;</font></span><br></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<div><font size=\"3\">给你的探测器编写程序，使其可以将植物标本送到最终目的地。<br></font></div>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<div><font size=\"4\">完成你的乐高文档：&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span>插入 Milo（麦乐）图片&#160; </font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span>插入一个程序截屏图&#160; </font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span>插入其他重要信息&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">分享你的乐高文档 。</font><font size=\"3\" color=\"#ffffff\"><br></font></div>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<div><font size=\"3\">用乐高积木搭建一个合作设备，可以邀请其他小组的 Milo（麦乐）一起移动植物样本。<br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<div><font size=\"3\">Max（麦克斯）和Mia（米娅）发现植物样本太重，Milo（麦乐）无法独自拖动。</font><br></div>"
+      },
+      {
+        "refId": "08f9f339-1af5-4d63-300a-9b3955b57c7a",
+        "string": "通过这个实验，你会：&#160;<div><br><div>创造一个可移动植物样本的设备。 展示Milo（麦乐）是如何完成整个探索使命的，并做记录。&#160;<div></div></div></div>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<div><font size=\"3\">通过这个实验，你会：&#160;</font><div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span><span style=\"line-height: 1.42857143;\">创造一个可移动植物样本的设备。&#160; </span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span><span style=\"line-height: 1.42857143;\">展示Milo（麦乐）是如何完成整个探索使命的，并做记录。&#160;</span></font><br></div><div><div></div></div></div></div>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. 合作"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<div><font size=\"4\">分享你的发现：</font></div><br><div><font size=\"3\">解释你是如何成功地将植物标本搬运回来的。</font></div>"
+      }
+    ]
+  }
+}

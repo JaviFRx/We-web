@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "77bd553a-9bdd-47e6-eb91-01142f67888e",
+        "string": "<font size=\"3\">Max et Mia s’inquiètent car des personnes et des animaux pourraient être en danger après un phénomène météorologique extrême.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Ils veulent savoir quels phénomènes pourraient se produire dans leur région.</font></span><br></div>"
+      },
+      {
+        "refId": "a188c5c6-4b84-4c12-16f4-c9fa2bbc6a59",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Quels phénomènes météorologiques extrêmes peuvent survenir dans votre région ou dans d’autres régions&#160;?</font></div><div><font size=\"3\">2. Comment les phénomènes météorologiques extrêmes affectent-ils les animaux ou les personnes&#160;?</font></div><div><font size=\"3\">3. Comment un hélicoptère peut-il être utilisé en cas de phénomène météorologique extrême&#160;?</font><br></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Partagez vos idées dans l’outil de documentation.</font></span><br></div>"
+      },
+      {
+        "refId": "63b3d7b8-1c7d-4a70-ea48-88e5b0dabf55",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construisez un hélicoptère pouvant être utilisé dans une région affectée par un phénomène météorologique extrême.</font></div>"
+      },
+      {
+        "refId": "96d53a28-16af-4a93-65b9-7a0a4848e083",
+        "string": "<font size=\"3\">Programmez votre hélicoptère pour qu’il fasse monter et descendre sa ficelle.</font>"
+      },
+      {
+        "refId": "f52dac05-8b99-4011-41b6-007f02a68777",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "f6f4eb7a-ce5c-4145-d326-23eaa4a359eb",
+        "string": "<font size=\"5\">Concevez deux solutions&#160;:</font><br><br><div><font size=\"3\">Modifiez l’hélicoptère afin qu’il puisse être utilisé dans une région affectée par un phénomène météorologique extrême. L’hélicoptère doit rester sûr, facile à utiliser et adapté à la situation.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Choisissez l’un des trois cas suivants et concevez deux solutions pour la situation choisie :</font></div><div><font size=\"3\">1. Évacuez un animal en danger.</font></div><div><font size=\"3\">2. Larguez du matériel d’aide aux personnes.</font></div><div><font size=\"3\">3. Larguez de l’eau afin d’éteindre un incendie.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Documentez les deux solutions que vous avez conçues et expliquez pourquoi l’une est meilleure que l’autre.</font></div>"
+      },
+      {
+        "refId": "c893963f-0040-4c4d-1805-e64d09b1cf6a",
+        "string": "<font size=\"5\">Terminez votre document&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Décrivez vos différents prototypes.</font></div><div><font size=\"3\">2. Expliquez pourquoi les solutions que vous avez finalement choisies vous semblent les meilleures.</font></div><div><font size=\"3\">3. Organisez vos informations.</font></div><div><font size=\"3\">4. Insérez des textes, images, captures d’écran ou vidéos importants.</font></div>"
+      },
+      {
+        "refId": "ba7bee72-d449-46ef-7289-cb6522e8a7a5",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Présentez le phénomène météorologique extrême survenu et décrivez votre mission de largage et sauvetage.</font></div>"
+      },
+      {
+        "refId": "121f6b6c-b564-4668-9d0d-25caa401c8d3",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "ec17dd2e-deb7-4f97-121f-87f56e4291c3",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions</font><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "0bf96ac4-7b83-401a-0e99-1c3313eeac06",
+        "string": "<font size=\"4\">Comment organisez-vous une mission de sauvetage après un phénomène météorologique extrême&#160;?</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">Dans ce projet, vous allez&#160;:</font></div><div><font size=\"3\">•&#160;<span style=\"color: inherit; line-height: 1.42857143;\">Explorer différents phénomènes météorologiques extrêmes pouvant influencer la survie d’une population dans votre région.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Créer et programmer un dispositif pour évacuer des personnes et des animaux de façon sûre, respectueuse et facile à utiliser, ou pour larguer efficacement du matériel dans une zone.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Présenter et documenter votre solution, et expliquer pourquoi votre solution respecte les critères.</font></div>"
+      },
+      {
+        "refId": "739f6f68-bbe3-4b39-8bcd-a3894536bf80",
+        "string": "7. Largage et sauvetage"
+      },
+      {
+        "refId": "451eebe3-808d-40b7-b438-c33863a4de2d",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions&#160;:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Dans certains cas, un hélicoptère n’est pas la meilleure solution pour un largage ou un sauvetage.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Choisissez l’un des aspects suivants&#160;:</font></div><div><font size=\"3\">1. Concevez une autre solution que vous trouvez meilleure.</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Documentez pourquoi votre nouvelle solution est meilleure que l’hélicoptère.</font></div><br>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fa06d35d-b20e-4d2f-87e4-745bcaa452b5",
+        "string": "10b. Tæller"
+      },
+      {
+        "refId": "fc5448ee-3ab4-4720-3bd4-b4fa2b033a35",
+        "string": "1. Start program&#160;<div>2. Vis teksten \"0\" på displayet&#160;</div><div>3. Læg 1 til tallet på displayet&#160;</div><div>4. Vent 1 sekund&#160;</div><div>5. Gentag trin 3 og 4 for evigt</div>"
+      },
+      {
+        "refId": "e2efaf40-5853-4861-1af1-6c98ae46fcca",
+        "string": "Der kræves ikke en LEGO model for at teste dette program."
+      }
+    ]
+  }
+}

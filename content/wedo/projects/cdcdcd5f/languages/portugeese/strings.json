@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c944736a-e1bc-41e0-91e6-e2b91761f4f4",
+        "string": "12a. Cor aleatória até a inclinação"
+      },
+      {
+        "refId": "5f630d14-f3d7-4282-ebde-bb191253d44b",
+        "string": "1. Iniciar programa&#160;<div>2. Ligar LED em cor aleatória&#160;</div><div>3. Repetir a etapa 2 até que o Sensor de Inclinação esteja inclinado para a esquerda&#160;</div><div>4. Desligar LED na cor 0 (sem cor)&#160;</div><div>5. Aguardar por 2 segundos</div>"
+      }
+    ]
+  }
+}

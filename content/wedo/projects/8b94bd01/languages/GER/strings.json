@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c2ab101b-c84b-4ada-bbca-e2286a72bf5f",
+        "string": "12. Neigung erkennen"
+      },
+      {
+        "refId": "f13814da-ba91-427f-ff8e-861530768890",
+        "string": "1. Programm starten&nbsp;<div>2. Warten, bis sich der Neigungssensor aufwärts neigt&nbsp;</div><div>3. Klang 6 abspielen</div>"
+      },
+      {
+        "refId": "c188ee22-0ad4-4cf9-8d31-35c81ee31a7a",
+        "string": "1. Programm starten&nbsp;<div>2. Warten, bis der Neigungssensor wackelt&nbsp;</div><div>3. Klang 10 abspielen</div>"
+      }
+    ]
+  }
+}

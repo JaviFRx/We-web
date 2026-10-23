@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "63c0d963-d7f9-4686-a549-ecb47d5f72e3",
+        "string": "2b. 스크린 조이스틱"
+      },
+      {
+        "refId": "64b721cf-a61b-408e-3645-17acdb5b769c",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 이 방향으로 모터 작동&nbsp;</div><br><div>3. 프로그램 시작&nbsp;</div><div>4. 저 방향으로 모터 작동&nbsp;</div><br><div>5. 프로그램 시작&nbsp;</div><div>6. 모터 멈춤</div>"
+      }
+    ]
+  }
+}

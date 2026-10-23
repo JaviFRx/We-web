@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<font size=\"3\">Kig på grundmodellerne i designbiblioteket, og få idéer til, hvordan du kan bygge din egen løsning til dette projekt.</font>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><font size=\"4\">Hvordan kan varslingssystemer være med til at reducere kraftige stormes skadevirkning?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette projekt skal du:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">undersøge forskellige vejrkatastrofer, som vi alle skal være opmærksomme på, f.eks. tsunamier, tornadoer og orkaner, og de varslingssystemer, der findes til at beskytte dig</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">bygge og programmere en indretning, der kan advare mennesker om, at der er farligt vejr på vej</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">fremlægge og dokumentere din løsning og forklare, hvordan den hjælper med at mindske indvirkningen på befolkningen.</font></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. Katastrofevarsel"
+      }
+    ]
+  }
+}

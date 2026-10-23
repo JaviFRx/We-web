@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6a876355-8c81-4029-b648-ec1d9cf6d9cb",
+        "string": "13b. Het licht verandert met het geluid"
+      },
+      {
+        "refId": "87911d68-e2ab-44e6-8f0f-b39432022b84",
+        "string": "1. Start het programma&nbsp;<div>2. Stel het ledlampje in op de kleur die gelijk is aan de input van de geluidssensor&nbsp;</div><div>3. Herhaal stap 2 eindeloos</div>"
+      }
+    ]
+  }
+}

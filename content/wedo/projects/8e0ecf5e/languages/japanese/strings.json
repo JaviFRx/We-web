@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "44e95eb8-1605-4ee3-ded4-f8a0d20d13fc",
+        "string": "<font size=\"3\">デザインライブラリにある基本モデルを参考にして、このプロジェクトの課題に対するオリジナルの解決策を作ってみましょう。</font>"
+      },
+      {
+        "refId": "f1d824ef-7b3b-41f8-7e31-a7b9ca358eea",
+        "string": "<div><font size=\"4\">生息地の環境は動物の形質にどのような影響を与えるでしょうか？</font><font size=\"3\"><br></font></div><div><font size=\"3\">このプロジェクトの内容：<br></font><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">世界中の様々な場所や時代の環境について考え、特定の生物の生活様式や、その種の存続について環境から何がわかるかを説明する。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">特定の生息地に生きていた動物または、は虫類のモデルを組み立ててプログラミングする。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">選んだ動物または、は虫類がその生息地で生き残るために、どのように進化したかを説明する資料を作成し、発表する。</font></font></div></div>"
+      },
+      {
+        "refId": "b7a41f61-71f3-4cc7-8f3e-cf872b81c93c",
+        "string": "11.生き物のくらしと環境"
+      }
+    ]
+  }
+}

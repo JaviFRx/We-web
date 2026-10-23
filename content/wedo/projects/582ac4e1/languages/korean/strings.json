@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "움직이는 인공위성"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><font size=\"3\">이번 수업에서 배울 내용:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">레고® 모델 조립</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">모델을 장치에 연결</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• 지정된 길이의 시간 동안 모터가 회전하도록</span><span style=\"line-height: 1.42857;\">&nbsp;프로그래밍</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• 모터가 다른 방향으로 회전하도록 프로그래밍</font></span></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">맥스와 미아가 뉴스를 듣고 있어요. 그런데 과학자가 인공위성을 조종한다는 말이 들리네요.</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">유성을 피하려면 인공위성이 움직일 수 있어야겠죠.&#160;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">우리도 인공위성을 조립하고 싶어요.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">맥스와 미아를 좀 도와주세요!</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">3초간 회전하는 인공위성을 만드세요.<br><br>1. 그림과 같이 프로그램을 만드세요.</font><div><font size=\"3\"><br>2. 인공위성의 작동 원리를 서로에게 설명해주세요.</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">맥스와 미아 조금 더 도와주기(선택 사항):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. 인공위성이 다른 방향으로 더 오래 돌게 만드세요.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. 인공위성이 다른 동작을 할 수 있게 프로그래밍하세요.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치에 연결하세요.</font><br>"
+      }
+    ]
+  }
+}

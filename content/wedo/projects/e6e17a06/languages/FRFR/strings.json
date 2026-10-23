@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3d4b1dfc-05e1-45db-963c-d37d56c1fdb5",
+        "string": "21. Inspection"
+      },
+      {
+        "refId": "38ea98b8-f26a-4697-ef22-7a811566b198",
+        "string": "<div><div><font size=\"5\">Comment pouvons-nous explorer des espaces étroits tels que les tunnels, les grottes, les tuyaux, etc.?&nbsp;</font></div><br><div>Dans ce projet, vous allez&nbsp;:&nbsp;</div><div>- Explorer comment des robots peuvent être utilisés pour inspecter des espaces étroits&nbsp;</div><div>- Créer et programmer un robot pour qu'il se déplace sur une surface et évite les obstacles</div><div>- Tester votre programme pour vous assurer qu'il peut détecter des murs, des trous, une grotte et des objets.&nbsp;</div><div>- Partager votre programme et vos idées</div></div>"
+      },
+      {
+        "refId": "daee8177-ac30-4b6d-49d6-c60cba9f450d",
+        "string": "<div style=\"text-align: center;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</div>"
+      },
+      {
+        "refId": "6d51c5a4-a698-4766-8716-a6ba7efd1533",
+        "string": "<div style=\"text-align: center;\">Inspirez-vous des programmes de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</div>"
+      }
+    ]
+  }
+}

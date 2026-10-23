@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Ventilator"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">Het is een mooie dag vandaag. Het is veel te warm in het laboratorium van Max en Mia.<br><br></font><div><font size=\"3\">Ze willen een ventilator bouwen om het laboratorium koeler te maken.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max en Mia hebben je hulp nodig!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Help Max en Mia verder (optioneel):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Laat de ventilator met verschillende snelheden draaien. Laat hem dan stoppen.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmeer de ventilator zodat hij andere dingen doet.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Laat de ventilator draaien.<br><br>1. Maak het programma zoals aangegeven.</font><div><font size=\"3\"><br>2. Leg aan elkaar uit hoe de ventilator werkt.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><font size=\"3\">Tijdens deze les leer je de volgende dingen:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Een LEGO® model bouwen</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Je model verbinden met je apparaat</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• De motor programmeren</span><span style=\"line-height: 1.42857;\">&nbsp;zodat deze met verschillende snelheden draait</span></font></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">Zet de Smarthub aan en koppel deze aan je apparaat.</font>"
+      }
+    ]
+  }
+}

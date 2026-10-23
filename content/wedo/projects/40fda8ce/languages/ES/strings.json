@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "11513aca-bcc0-4fd3-be56-fc3cd35797f5",
+        "string": "20. Alerta de volcán"
+      },
+      {
+        "refId": "ff1526d0-52e9-440a-fa57-2b312ebd11b2",
+        "string": "<div><div><div><div><font size=\"5\">¿Cómo usan los científicos las diferentes fases de actividad volcánica para guiar sus exploraciones científicas? </font></div><br><div>En este proyecto, harás lo siguiente:&nbsp;</div><div>- Explora las diferentes formas en que los científicos realizan un seguimiento de la actividad volcánica</div><div>- Crea y programa una alarma para indicar diferentes fases de actividad volcánica&nbsp;</div><div>- Prueba tu programa y lo bien que indica estas fases&nbsp;</div><div>- Comparte tu programa y tus ideas sobre cómo completar este proyecto con éxito</div></div></div></div>"
+      },
+      {
+        "refId": "165a3271-75a6-4b2c-5bd6-65e937ad4fa6",
+        "string": "Max y Mia se están preparando para explorar un volcán.&nbsp;<div><br><div>Ayúdales a programar una alarma de volcán para coordinar diferentes acciones con su dron, su vehículo teledirigido y una animal en la zona.</div></div>"
+      },
+      {
+        "refId": "fab27f42-230a-49eb-bec2-721408a23bea",
+        "string": "<font size=\"5\">Usa los ladrillos: </font><div><br><div>Construye una alarma que pueda indicar los niveles de actividad volcánica.&nbsp;</div><br><div>Prográmala para que se active cuando detecte agitaciones.</div></div>"
+      },
+      {
+        "refId": "7be8704a-5aca-48e0-1af6-7ab65e48274c",
+        "string": "1. Iniciar programa&nbsp;<div>2. Iniciar el motor en otro sentido&nbsp;</div><div>3. Iniciar el motor con potencia 3&nbsp;</div><div>4. Esperar a que el sensor de inclinación se incline hacia arriba&nbsp;</div><div>5. Iniciar el motor durante 2 segundos&nbsp;</div><div>6. Esperar a que el sensor de inclinación detecte agitación&nbsp;</div><div>7. Iniciar el motor en este sentido&nbsp;</div><div>8. Iniciar el motor durante un número aleatorio de segundos</div>"
+      },
+      {
+        "refId": "91f4101a-154c-4a78-cd27-4e517698b552",
+        "string": "<font size=\"5\">Planifica y prueba una solución: </font><div><br><div>Programa la alarma para que avise cuando la aguja se detenga en la posición roja.&nbsp;</div><br><div><font color=\"#ffffff\">Por cada alerta roja, mueve el dron al interior del volcán para que pueda estudiar la erupción.</font></div></div>"
+      },
+      {
+        "refId": "f9eb0f00-54c8-459f-c0b6-496371f2f78e",
+        "string": "<font size=\"5\">Prueba y modifica tu solución: </font><div><span style=\"font-size: 20px;\"><br></span><div>- Programa la alarma para que emita diferentes señales para cada una de las tres fases del volcán.&nbsp;</div><br><div><font color=\"#ffffff\">- Para cada alerta, mueve el dron, el animal y el vehículo teledirigido según la señal. </font></div></div>"
+      },
+      {
+        "refId": "d7740519-33e7-48d1-a8e3-5398eff40ca4",
+        "string": "<font size=\"5\">Comparte tu proyecto</font>"
+      },
+      {
+        "refId": "46a03b2d-27fe-4459-b355-6e7aa76c3a65",
+        "string": "<font size=\"5\">Diseña nuevas soluciones </font><div><font size=\"5\">con Max y Mia</font></div>"
+      },
+      {
+        "refId": "b916f289-1501-4d1c-2cf7-211d3142a0f5",
+        "string": "<font size=\"5\">Diseña nuevas soluciones:</font><div><span style=\"font-size: 20px;\"><br></span><div>La mayoría de las alarmas de volcán tienen cuatro fases: verde, amarilla, naranja y roja.&nbsp;</div><br><div>Busca la manera de indicar una cuarta fase con el programa de alarma.&nbsp;<br></div><br></div>"
+      },
+      {
+        "refId": "7821b679-8dea-442d-6043-9df9f0c0f632",
+        "string": "<font size=\"5\">Organiza tu información:</font><div><span style=\"font-size: 20px;\"><br></span><div>Por ejemplo:&nbsp;</div><div>-Toma una captura de pantalla de tu programa final.&nbsp;</div><div>- Graba un vídeo explicando tu solución.&nbsp;</div></div>"
+      },
+      {
+        "refId": "c4d962d6-dead-4bba-6766-3751205a1e90",
+        "string": "<font size=\"5\">Comparte tus hallazgos: </font><div><span style=\"font-size: 20px;\"><br></span><div>Presenta y explica tus soluciones.</div></div>"
+      },
+      {
+        "refId": "e0b7499c-e7e8-42d1-665e-4c037437bfe1",
+        "string": "Max y Mia se están preparando para explorar un volcán.&nbsp;<div><br><div>Ayúdales a programar una alarma de volcán para coordinar diferentes acciones con su dron, su vehículo teledirigido y una animal en la zona.</div></div>"
+      },
+      {
+        "refId": "a10705c3-dd78-4352-cecf-34ad379eeee5",
+        "string": "<font size=\"5\">Explora las preguntas de Max y Mia:</font><div><span style=\"font-size: 20px;\"><br></span><div>1. ¿Cuáles son las diferentes fases de un volcán?&nbsp;</div><div>2. ¿Cómo pueden los científicos explorar los volcanes?&nbsp;</div><div><font color=\"#ffffff\">3. ¿Cuál sería una buena manera de alertar sobre la erupción de un volcán?</font></div></div>"
+      },
+      {
+        "refId": "08e6bd33-975a-40e5-8215-4ca31daf218e",
+        "string": "Enciende el hub inteligente y conéctalo al dispositivo. Si necesitas ayuda, mira el vídeo.&nbsp;<div><br><div>Consulta el panel de ayuda para obtener asistencia.&nbsp;</div></div>"
+      }
+    ]
+  }
+}

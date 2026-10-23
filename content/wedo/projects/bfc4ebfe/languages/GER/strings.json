@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5d05ce93-c706-45c1-8a87-ebd2b16a8ac0",
+        "string": "7b. Geschwindigkeit verringern"
+      },
+      {
+        "refId": "7cf59f5b-297c-4d14-e3fb-09e8f0ed8a46",
+        "string": "1. Programm starten&nbsp;<div>2. Text „10“ anzeigen&nbsp;</div><div>3. Motor mit der Leistungsstufe einschalten, die der angezeigten Zahl entspricht&nbsp;</div><div>4. Von der angezeigten Zahl 1 subtrahieren&nbsp;</div><div>5. Schritte 3 und 4 zehnmal wiederholen&nbsp;</div><div>6. Motor stoppen</div>"
+      }
+    ]
+  }
+}

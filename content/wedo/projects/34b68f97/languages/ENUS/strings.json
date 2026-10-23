@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1b30cf7d-5870-47e2-a7e8-3f32b797f498",
+        "string": "18. Grabbing Objects"
+      },
+      {
+        "refId": "991c048e-798d-463e-5fc7-811967895c84",
+        "string": "<div><div><div><div><div><font size=\"4\">How do people with hand-related disabilities grab small objects?&nbsp;</font></div><div><div><font size=\"3\">In this project you will:&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">• Explore how prosthetic designs help people with disabilities</font></div><div><font size=\"3\">• Create and program a prosthetic hand to move objects around</font></div><div><font size=\"3\">• Test your program to make the hand as functional as possible</font></div><div><font size=\"3\">• Share your program and ideas for how to succeed in this project</font><br></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "48fe8e6f-e967-4699-1e20-ba08a9686e38",
+        "string": "<font size=\"3\">Max and Mia would like to help people with disabilities.&nbsp;&nbsp;</font><div><font size=\"3\">&nbsp;\n<br></font><div><font size=\"3\">Help them program a hand that can grab different objects.</font></div></div>"
+      },
+      {
+        "refId": "bdc4db6f-6c46-4663-a54c-9675fc2a4af3",
+        "string": "<font size=\"5\">Explore Max's and Mia's questions:</font><div><br><div><font size=\"3\">1. What are the movements you can do with your hand?&nbsp;</font></div><div><font size=\"3\">2. What is the role of muscles in your hand?&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">3. How can you create an artificial hand?</font><br></div></div>"
+      },
+      {
+        "refId": "a9e86e5d-0c2f-492f-2d1a-422dd7e90d79",
+        "string": "<font size=\"5\">Use the bricks:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Build a robotic hand that can grab different objects.&nbsp;\n</font></div><font size=\"3\"><br></font><div><font size=\"3\">Program it to open and close.</font></div></div>"
+      },
+      {
+        "refId": "ea8276cd-b3fe-4061-54af-f29a472f1a16",
+        "string": "1. Start program&nbsp;<div>2. Wait for Motion Sensor to detect motion&nbsp;</div><div>3. Start motor that way&nbsp;</div><div>4. Start motor for 2 seconds&nbsp;</div><div>5. Wait for 2 seconds&nbsp;</div><div>6. Start motor this way&nbsp;</div><div>7. Start motor for 2 seconds</div>"
+      },
+      {
+        "refId": "bdc58061-18ca-479d-614c-759506f45670",
+        "string": "<font size=\"5\">Plan and try a solution:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Program your robotic hand to:&nbsp;</font></div><div><font size=\"3\">- Grab the flower and put it on the stand&nbsp;</font></div><div><font size=\"3\">- Grab the electric plug and plug it into the socket</font></div></div>"
+      },
+      {
+        "refId": "7bde3747-6cdb-4ecd-c313-343fb0c243b0",
+        "string": "<font size=\"5\">Test and modify your solution:&nbsp;</font><div><br><div><font size=\"3\">The robotic hand is not working correctly with this program.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">It should turn on the green light on the Smarthub when the clamp is closed, and turn on the red light when the clamp is opened.&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Make changes to the program to fix the problem.</font></div></div>"
+      },
+      {
+        "refId": "50279510-14bc-463c-5078-6f17d5474810",
+        "string": "<font size=\"5\">Design new solutions&nbsp;</font><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "44fe0336-824e-4242-7e5a-ef4dcf96ca4e",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "abc1d817-50d5-4add-dce5-353c6c7a8e29",
+        "string": "<font size=\"5\">Organize your information:&nbsp;&nbsp;</font><div><br><div><font size=\"3\">For example:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Take a screen capture of your final program.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Record a video explaining your solution.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "3e03ada0-54f8-40a1-fc75-9a2d092bfa85",
+        "string": "<font size=\"5\">Share your findings:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Present and explain your solutions.</font></div></div>"
+      },
+      {
+        "refId": "6835b1da-0a51-4494-052e-7ed1dfeca056",
+        "string": "<font size=\"5\">Design new solutions:&nbsp;</font><div>&nbsp;</div><div><font size=\"3\">Teams, pair up!&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Move objects between point A and point B.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Move objects as fast as possible from one robotic hand to the other.</font></div>"
+      },
+      {
+        "refId": "39d55ae5-a248-4014-b9fa-bee563f5bb85",
+        "string": "Turn on the Smarthub and connect it to your device. Watch the video if you need help.&nbsp;<br><br><div>See the Help panel for more guidance.&nbsp;</div>"
+      }
+    ]
+  }
+}

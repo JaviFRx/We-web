@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<font size=\"3\">Макс и Маша заметили, что гоночные автомобили с момента своего изобретения сильно изменились.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Они хотят выяснить, как можно увеличить скорость автомобиля.</font></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<font size=\"5\">Изучите вопросы Макса и Маши:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Благодаря каким усовершенствованиям автомобили стали двигаться быстрее?</font></div><div><font size=\"3\">2. Какие факторы влияют на время, затраченное автомобилем на преодоление расстояния?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">С помощью инструмента документирования представьте свои идеи.</font></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<font size=\"5\">Используйте кирпичики:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Постройте гоночный автомобиль, который может двигаться вперед и остановиться на финишной линии.</font></div>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "<font size=\"3\">Запрограммируйте гоночный автомобиль для движения вперед на заданное расстояние, как это показано на видео.</font>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<font size=\"3\">Включите СмартХаб и подключите его к своему устройству. Посмотрите видео, если вам нужна помощь.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Дополнительные инструкции размещены на панели «Справка».</font></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<font size=\"5\">Проводите исследования вместе с Максом и Машей:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Установите уровень мощности мотора на отметку «10».</font></div><div><font size=\"3\">1. Запустите программу, установив маленькие колеса, и повторите эксперимент три раза.&#160;</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Задокументируйте ход и результаты испытания</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">2. Поставьте большие колеса и повторите шаг 1.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Выскажите свои предположения, сколько времени на прохождение вдвое большего расстояния затратят автомобиль с маленькими и автомобиль с большими колесами.</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Запишите свои предположения</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">4. Проверьте свои предположения, используя маленькие и большие колеса.</font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Запишите свои выводы.</font></span></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<font size=\"5\">Подготовьте отчёт по проекту:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Проанализируйте свои предположения и объясните, что происходило в рамках данного исследования.</font></div><div><font size=\"3\">2. Подготовьте информацию, чтобы обсудить её с другими.</font></div><div><font size=\"3\">3. Вставьте в свой проект необходимый текст, фотографии, снимки экрана или видео.</font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<font size=\"5\">Поделитесь своими выводами:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Основываясь на исследованиях, объясните своими словами, какие факторы помогают автомобилям двигаться быстрее.</font></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<font size=\"5\">Дополнительное исследование&#160;</font><div><font size=\"5\">с Максом и Машей</font></div>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<font size=\"5\">Представьте свой проект</font>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">Как заставить машину двигаться быстрее?</font></span><br></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">В этом проекте вы:</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>изучите особенности гоночного автомобиля;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>создадите и запрограммируете гоночный автомобиль для изучения факторов, влияющих на его скорость;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>задокументируете и представите способы увеличения скорости автомобиля.</font></div>"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<font size=\"5\">Дополнительное исследование</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Запустите программу, используя автомобиль с большими колесами при мощности двигателя, равной 5, и конфигурации шкива А. Повторите опыт три раза.&#160;</font></div><div><font color=\"#ffffff\" size=\"3\">Запишите свои выводы.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Измените конфигурацию на B и повторите шаг 1.&#160;</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Определите другие факторы, влияющие на скорость автомобиля.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Сравните полученные данные с результатами предыдущего исследования и запишите выводы.</font></span></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2. Скорость"
+      }
+    ]
+  }
+}

@@ -1,0 +1,700 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "ソフトウェアガイド",
+      "subcategories": [
+        {
+          "title": "WeDo 2.0ツールバー",
+          "elements": [
+            {
+              "title": "<p>プロジェクトを開くと、画面上部に、ツールバーが表示されます。ツールバーから以下のことができます。</p><ul><li>ホームアイコンを押すと、ロビーに戻ります。</li><li>プロジェクトライブラリアイコンを押すと、自分のWeDo 2.0プロジェクトにアクセスできます。</li><li>デザインライブラリを押すと、モデルやプログラムの例を見ることができます。</li><li>キャプチャツールアイコンを押すと、WeDo 2.0ソフトウェアに搭載されたカメラ、ビデオ、スクリーンキャプチャツールにアクセスできます。</li><li>ノートツールのアイコンを押すと、プロジェクト記録にアクセスできます。</li><li>ヘルプアイコンを押すと、追加情報を見ることができます。</li><li>停止アイコンを押すと、プログラムのすべての動作が停止します。</li></ul><p>ブロックを、プログラミング画面にドラッグ・アンド・ドロップして、プログラムストリングを制作します。プログラムストリングは、スタートブロックを押すと開始します。ツールバーアイコンをもう一度押すと、プログラミング画面に戻ります。</p>",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "プロジェクトライブラリ",
+          "elements": [
+            {
+              "title": "<p>プロジェクトライブラリには、以下のものが収録されています。</p><ul><li>プロジェクトの入門</li><li>基礎プロジェクト</li><li>発展プロジェクト プロジェクトを開くと、まず概要が表示され、そこからプロジェクト内容にアクセスできます。</li></ul>",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "デザインライブラリ",
+          "elements": [
+            {
+              "title": "<p>デザインライブラリは、以下の2つのセクションに分かれています。</p><ul><li>モデルライブラリ</li><li>プログラムライブラリ</li></ul><p>モデルライブラリには、以下のものが収録されています。</p><ul><li>組み立て説明書、おすすめのプログラムがついたベースモデル</li><li>各基本モデルに基づいた、子どもたちに、ひらめきを与えるインスピレーションモデル2点の写真とおすすめのプログラム</li></ul>",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "<p>プログラムライブラリには、以下のものが収録されています。</p><ul start=\"3\"><li>基本的なプログラミング機能。プログラミングブロックで構成され、簡単なプログラムストリングに挑戦するのに役立ちます。</li><li>基本的な各プログラミング機能をヒントにした 2 つの機能。</li></ul>",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "サウンド録音ツール",
+          "elements": [
+            {
+              "title": "<p>プロジェクト内から、いつでも好きな時にサウンド録音ツールを使うことができます。自分で作成したサウンドを録音できる機能です。最後に録音したサウンドがWeDo 2.0に保存され、プログラムストリングにサウンドブロックを追加して0を入力すると再生されます。</p><ul><li>「マイク」アイコンを押して、ウィンドウにアクセスする。</li></ul>",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "<ul start=\"2\"><li>「録音」アイコンを押して、録音を開始する。</li><li>「再生」アイコンを押して、録音を再生する。</li><li>「停止」アイコンを押して、録音を停止する。</li></ul>",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "キャプチャツール",
+          "elements": [
+            {
+              "title": "<p>キャプチャツールからは、以下のことが行えます。</p><ul><li>「キャプチャ」ボタンを押して…</li><ul><li>写真を撮る。<li>ビデオの録画の開始とストップ。<li>スクリーンキャプチャをとる。</ul><li>「画像キャプチャ」ボタンを押して、写真モードを選択する。</li><li>「ビデオキャプチャ」ボタンを押して、ビデオモードを選択する。</li><li>「画面キャプチャ」ボタンを押して、画面モードを選択する。</li></ul>",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "教員アシスタントの利用",
+          "elements": [
+            {
+              "title": "<p>一部のプロジェクトには教員アシスタント機能が付いており、レッスンのプラニングや授業中に役立つ教材が得られます。教員アシスタントでは以下の教材を入手できます。</p><ul><li>プロジェクトの概要</li><li>カリキュラムとリンクするプロジェクトのタイプ</li><li>計画を立てる</li><li>話し合いのための質問と答え</li><li>シーンを設定する</li><li>組み立て用ヘルプ</li><li>プログラミングヘルプ</li><li>プログラミング的思考スキルを身につけるサポート</li><li>調査スキルを身につけるサポート</li><li>モデルの構築スキルを身につけるサポート</li><li>デザインの構築スキル向上サポート</li><li>コミュニケーションスキルを身につけるサポート</li><li>評価基準</li></ul>",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "ヘルプパネル",
+          "elements": [
+            {
+              "title": "<p>ヘルプパネル内には、以下のガイダンスが収められています。</p><ul><li>プログラミングブロックの名前と簡単な説明</li><li>接続プロセス</li><li>その他関連情報</li></ul>",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "ノートツール",
+          "elements": [
+            {
+              "title": "<p>ノートツール内では、文章、画像、ビデオなどを使って完成したプロジェクトの記録を作成することができます。</p><ul><li>「ページ追加」ボタンを押して、記録ファイルに、新しいページを追加する。</li><li>「テンプレート選択」アイコンを押して、ページのテンプレートを選ぶ。</li><li>「ページ削除」アイコンを押して、現在のページを削除する。</li><li>「出力」アイコンを押して、作成した記録を、PDFまたは画像として保存する。</li><li>「画像の挿入」アイコンを押して、デバイスに保存されている画像を挿入する。</li><li>「ビデオの挿入」アイコンを押して、デバイスに保存されているビデオを挿入する。</li><li>「テキストの挿入」アイコンを押して、デバイス上で文章を入力する。</li></ul>",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        },
+        {
+          "title": "エクスポートとインポート機能",
+          "elements": [
+            {
+              "title": "<p> エクスポートとインポート機能により、学生は自分のプロジェクトをエクスポートし、Windows 10モバイルデバイスとデスクトップデバイス上のローカルフォルダーに保存することができます。  また、Windows 10モバイルデバイスとデスクトップデバイス上のローカルフォルダーから、プロジェクトをインポートすることも可能です。   </p>\n      <p>ローカル フォルダーにプロジェクトをエクスポート  </p>\n      <ul>\n      <li>ロビーでは、エクスポートが必要なプロジェクトで編集ペンを押してください。</li>\n      <li>エクスポートアイコンをクリックします </li>\n      <li>プロジェクトの保存場所となるローカルフォルダーを選択します。 </li>\n      </ul>\n      <p>WeDo 2.0アプリケーションにプロジェクトをインポートする </p>\n      <ul>\n      <li>ロビーでインポートのアイコンを押します </li>\n      <li>ネイティブ Windows 10 ファイルエクスプローラーのローカルフォルダーから、インポートが必要なプロジェクトを選択します (注: 一度にインポートできるプロジェクトは1つのみです) </li>\n      <li>選択したプロジェクトは、ロビーに表示されます</li>\n      </ul>\n      <p>プロジェクトに変更を加えた場合は、変更を保存するためにプロジェクトを再度エクスポートする必要があります。</p>",
+              "image": "ProjectExport",
+              "key": "category_softwareguide_subcategory_export_ProjectExport"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_export"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "プログラミングブロック",
+      "subcategories": [
+        {
+          "title": "フロー ブロック",
+          "elements": [
+            {
+              "title": "スタートブロック",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": "使用する場合、常にプログラムストリングの最初に配置します。このブロックを押して作成したプログラムストリングをスタートさせます。<br><i>擬似コード： プログラムをスタートさせる</i>"
+            },
+            {
+              "title": "キー操作スタートブロック",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": "使用する場合、常にプログラムストリングの最初に配置します。このブロックかキーボードの該当する文字を押して、作成したプログラムストリングをスタートさせます。同じ文字を含むプログラムストリングはすべて同時にスタートします。<br>スタートさせる文字を変更するには、このブロックを長押しするとキーボードが使えるようになります。<br><i>擬似コード： 「A」をタップしてプログラムをスタートさせる</i>"
+            },
+            {
+              "title": "メッセージ受信スタートブロック",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": "使用する場合、常にプログラムストリングの最初に配置します。適切なメッセージを待ってから作成したプログラムストリングをスタートさせます。<br><i>擬似コード： 「…」というメッセージを受信したらプログラムをスタートさせる</i>"
+            },
+            {
+              "title": "メッセージの送信",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": "プログラミング画面にメッセージを送信します。同じメッセージを持つメッセージ受信スタートブロックはすべて有効になります。メッセージにはテキストか数字を使うことができます。<br><i>擬似コード： メッセージ「…」を送信する</i>"
+            },
+            {
+              "title": "待機ブロック",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": "このブロックを使ってプログラムに何か起こるのを待つように伝えます。一定時間またはセンサーから入力を得るまで待つことができます。適切に機能するには入力が必要です。<br><i>擬似コード： …を待機</i>"
+            },
+            {
+              "title": "反復ブロック",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": "このブロックを使って動作を反復します。反復ブロック内に配置されるブロックはループされ、「ループブロック」と呼ばれることもあります。<br>ループは永久、一定時間、または何か起きるまで反復する可能性があります。<br><i>擬似コード： ステップ ... をずっと繰り返す</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "出力： モーターブロック",
+          "elements": [
+            {
+              "title": "モーター右回転ブロック",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": "表示方向に軸を回転させるとスタートするようにモーターを設定します。\n。<br>ブロックをタップすると回転方向がすぐに変わります。<br><i>擬似コード： モーターを右回転させる</i>"
+            },
+            {
+              "title": "モーター左回転ブロック",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": "表示方向に軸を回転させるとスタートするようにモーターを設定します。\n。<br>ブロックをタップすると回転方向がすぐに変わります。<br><i>擬似コード： モーターを左回転させる</i>"
+            },
+            {
+              "title": "モーター出力ブロック",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": "モーターが所定のレベルで動くように設定します。レベルは0～10の数値を入力して設定できます。<br><i>擬似コード： モーターを 動力 … で動かす</i>"
+            },
+            {
+              "title": "モーター On 時間ブロック",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": "モーターを一定時間（秒単位）動かします。時間は整数または少数の値を入力して設定できます。<br><i>擬似コード： モーターを…秒間回転させる</i>"
+            },
+            {
+              "title": "モーター Off ブロック",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": "モーターの動きを停止させます。<br><i>擬似コード： モーターを停止させる</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "出力： LEDブロック",
+          "elements": [
+            {
+              "title": "ライトブロック",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": "スマートハブのLEDライトを特定の色で点灯させます。色は0～10の数値を入力して変更できます。<br><br><i>擬似コード： LED ライトをカラー9（赤）で点灯する</i><br><i>擬似コード： LED ライトをカラー0（無色）にして消灯する</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "出力： サウンドブロック",
+          "elements": [
+            {
+              "title": "サウンドを再生",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": "サウンドを再生します。サウンドは付属のリストから選びます。数値を入力してサウンドを選ぶことができます。自分で録音したサウンドを再生するには、数値0のサウンドを選びます。<br><i>擬似コード： サウンド…を再生する</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "出力： 表示ブロック",
+          "elements": [
+            {
+              "title": "ディスプレイ背景ブロック",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": "このブロックを使って、付属のリストから選んだ画像を表示します。数値を入力して画像を設定できます。<br><i>擬似コード： ディスプレイに画像… を表示する</i>"
+            },
+            {
+              "title": "表示ブロック",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": "このブロックを使って、ソフトウェアの画面のディスプレイエリアを開きます。数値かテキストがディスプレイエリアに表示されます。<br><i>擬似コード： ... をディスプレイに表示</i>"
+            },
+            {
+              "title": "足し算ブロック",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": "ディスプレイに表示中の数値に数を足します。足す数を入力します。このブロックをタップして数式を変えます。<br><i>擬似コード： ディスプレイの数字に ... を足す</i>"
+            },
+            {
+              "title": "引き算ブロック",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": "ディスプレイに表示中の数値から数を引きます。引く数を入力します。このブロックをタップして数式を変えます。<br><i>擬似コード： ディスプレイの数字から ... を引く</i>"
+            },
+            {
+              "title": "掛け算ブロック",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": "ディスプレイに表示中の数値に数を掛けます。掛ける数を入力します。このブロックをタップして数式を変えます。<br><i>擬似コード： ディスプレイの数字に ... を掛ける</i>"
+            },
+            {
+              "title": "割り算ブロック",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": "ディスプレイに表示中の数値を任意の数で割ります。割る数を入力します。このブロックをタップして数式を変えます。<br><i>擬似コード： ディスプレイの数字を ... で割る</i>"
+            },
+            {
+              "title": "ディスプレイ オフ ブロック",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": "このブロックを使って、ソフトウェアの画面のディスプレイエリアを閉じます。ブロックをタップするとディスプレイのサイズが変わります。<br><i>擬似コード： ディスプレイを閉じる</i>"
+            },
+            {
+              "title": "全画面表示",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": "このブロックを使ってディスプレイエリアをフルサイズにします。ブロックをタップするとディスプレイのサイズが変わります。<br><i>擬似コード： ディスプレイのサイズを最大に変える</i>"
+            },
+            {
+              "title": "中サイズディスプレイブロック",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": "このブロックを使ってディスプレイエリアを中型サイズにします。ブロックをタップするとディスプレイのサイズが変わります。<br><i>擬似コード： ディスプレイのサイズを中型に変える</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "入力： センサー変更入力",
+          "elements": [
+            {
+              "title": "距離の変更",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": "モーションセンサーのモードを「距離変更」とブロックに入力します。"
+            },
+            {
+              "title": "距離の変化－近づく",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": "モーションセンサーのモードを「センサーとオブジェクトの間隔を短縮」とブロックに入力します。"
+            },
+            {
+              "title": "距離の変化－遠くなる",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": "モーションセンサーのモードを「センサーとオブジェクトの間隔を延長」とブロックに入力します。"
+            },
+            {
+              "title": "あちら方向のかたむき",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": "チルトセンサーモードを「あちら方向のかたむき」とブロックに入力します。"
+            },
+            {
+              "title": "こちら方向のかたむき",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": "チルトセンサーモードを「こちら方向のかたむき」とブロックに入力します。"
+            },
+            {
+              "title": "下方向のかたむき",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": "チルトセンサーモードを「下方向のかたむき」とブロックに入力します。"
+            },
+            {
+              "title": "上方向のかたむき",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": "チルトセンサーモードを「上方向のかたむき」とブロックに入力します。"
+            },
+            {
+              "title": "水平ブロック",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": "チルトセンサーモードを「かたむきなし（水平）」とブロックに入力します。"
+            },
+            {
+              "title": "その他のかたむき",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": "チルトセンサーモードを「その他のかたむき」とブロックに入力します。"
+            },
+            {
+              "title": "サウンドレベル変更",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": "サウンド センサー（デバイス用）モードを「サウンドレベルの変更」とブロックに入力します。"
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "入力： 数値とテキスト入力",
+          "elements": [
+            {
+              "title": "チルトセンサー入力",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": "チルトセンサーが生成した数値（0、3、5、7、9）をブロックに入力します。"
+            },
+            {
+              "title": "モーションセンサー入力",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": "モーションセンサーが検知した値（0～10）をブロックに入力します。"
+            },
+            {
+              "title": "サウンドセンサー入力",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": "サウンドセンサーが検知した値（0～10）をブロックに入力します。"
+            },
+            {
+              "title": "数字入力",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": "数値をブロックに入力します。"
+            },
+            {
+              "title": "テキスト入力",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": "テキストをブロックに入力します。"
+            },
+            {
+              "title": "ディスプレイ入力",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": "ディスプレイエリアに表示する数値をブロックに入力します。"
+            },
+            {
+              "title": "ランダム入力",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": "ランダムな数値をブロックに入力します。数値の範囲は付属するブロックによって決まります。"
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "ドキュメンテーション",
+          "elements": [
+            {
+              "title": "ふき出しブロック",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": "このブロックを使ってプログラムにコメントを挿入します。プログラミングブロックではありません。"
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "プログラミングブロック",
+      "subcategories": [
+        {
+          "title": "フロー ブロック",
+          "elements": [
+            {
+              "title": "スタートブロック",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "キー操作スタートブロック",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "メッセージ受信スタートブロック",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "サウンド再生ブロック",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "メッセージ送信ブロック",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "待機ブロック",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "ループ",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "モーターブロック",
+          "elements": [
+            {
+              "title": "モーター左回転ブロック",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "モーター右回転ブロック",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "モーター出力ブロック",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "モーター On 時間ブロック",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "モーター Off ブロック",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "ライトブロック",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "センサー入力ブロック",
+          "elements": [
+            {
+              "title": "距離センサー入力",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "距離の変化－近づく",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "距離の変化－遠くなる",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "その他の距離変化",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "チルトセンサー入力",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "上方向のかたむき",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "下方向のかたむき",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "右方向のかたむき",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "左方向のかたむき",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "その他のかたむき",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "デバイス入力ブロック",
+          "elements": [
+            {
+              "title": "テキスト入力",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "数字入力",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "ランダム入力",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "サウンドセンサー入力",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "表示入力",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "表示ブロック",
+          "elements": [
+            {
+              "title": "表示ブロック",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "足し算ブロック",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "引き算ブロック",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "かけ算ブロック",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "わり算ブロック",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "背景表示ブロック",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "表示終了ブロック",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "中サイズ表示ブロック",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "フルサイズ表示ブロック",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "その他のブロック",
+          "elements": [
+            {
+              "title": "ふきだし",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "接続プロセス",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS & Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "<p>ウィ・ドゥー 2.0 スマートハブ 2 i/oポートでは、Bluetooth 4.0の省電力接続を採用しています。</p> <p>初めてウィ・ドゥー 2.0 スマートハブを使用する際には、安全な接続を設定するためにお使いのデバイスとのペアリングが必要です。2回目以降は自動的に接続されます。</p> <p>注意： 複数のユーザーで1つのタブレットを共有している場合は、それぞれのユーザーがグローバル Bluetooth 設定を変えることができます。</p> <p>Windows 7: ウィ・ドゥー 2.0 スマートハブをWindows 7 搭載のパソコンと接続する方法：</p> <ol> <li>スタート」メニューから「デバイスとプリンター」を開きます。</li> <li>デバイスとプリンター」のウィンドウで「デバイスの追加」をクリックします。</li> <li>ウィ・ドゥー 2.0スマートハブの青いライトつきボタンを押して電源を入れます。</li> <li>しばらく待つと、利用できるデバイスのリストにウィ・ドゥー 2.0スマートハブが表示されます。<br> スマートハブが検出されない場合： <ol> <li>お使いのコンピューターの製造元のインターネットサイトか付属文書を点検して、Bluetooth 4.0との互換性を確認します。</li> <li>今までにペアリングしたウィ・ドゥー2.0スマートハブ（接続中でないもの）をデバイスリストから残らず削除して、上記2のステップからやり直します。</li> </ol> </li> <li>ウィ・ドゥー 2.0スマートハブを選んで「次へ」をクリックします。</li> <li>コードを入力するよう求められた場合は 0000 と入力してください。</li> <li>これでウィ・ドゥー 2.0スマートハブが コンピューターに接続しました。アプリケーションで使用するには、接続に関するビデオガイドに従ってください。</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>ウィ・ドゥー 2.0 スマートハブ 2 i/oポートでは、Bluetooth 4.0の省電力接続を採用しています。</p> <p>初めてウィ・ドゥー 2.0 スマートハブを使用する際には、安全な接続を設定するためにお使いのデバイスとのペアリングが必要です。2回目以降は自動的に接続されます。</p> <p>注意： 複数のユーザーで1つのタブレットを共有している場合は、それぞれのユーザーがグローバル Bluetooth 設定を変えることができます。</p> <p>Windows 8.1: ウィ・ドゥー 2.0 スマートハブをWindows 8.1 搭載のパソコンと接続する方法：</p> <ol> <li>スタート」メニューから「デバイスとプリンター」を開きます。</li> <li>デバイスとプリンター」のウィンドウで「デバイスの追加」をクリックします。</li> <li>ウィ・ドゥー 2.0スマートハブの青いライトつきボタンを押して電源を入れます。</li> <li>しばらく待つと、利用できるデバイスのリストにウィ・ドゥー 2.0スマートハブが表示されます。<br> スマートハブが検出されない場合： <ol> <li>お使いのコンピューターの製造元のインターネットサイトか付属文書を点検して、Bluetooth 4.0との互換性を確認します。</li> <li>今までにペアリングしたウィ・ドゥー2.0スマートハブ（接続中でないもの）をデバイスリストから残らず削除して、上記2のステップからやり直します。</li> </ol> </li> <li>ウィ・ドゥー 2.0スマートハブを選んで「次へ」をクリックします。</li> <li>コードを入力するよう求められた場合は 0000 と入力してください。</li> <li>これでウィ・ドゥー 2.0スマートハブが コンピューターに接続しました。アプリケーションで使用するには、接続に関するビデオガイドに従ってください。</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>WeDo 2.0  を起動して接続ウィンドウを開きます。</li> <li>WeDo2.0 スマートハブの緑のボタンを押してください。</li> <li>接続したいスマートハブの名前をクリックまたはタッチします。スマートハブが検出されない場合：</li> <ol> <li>お使いのコンピューターが Bluetooth 4.0 (Bluetooth Low Energy または Bluetooth Smart) 対応製品であるか、メーカーのウェブサイトや同梱書類で確認してください。</li> <li>「スタート」メニューで「設定」 (ギヤのアイコン) を選択し、「デバイス」から「Bluetooth」を開きます。デバイスリストの中から、以前ペアリングしたことのある WeDo 2.0 スマートハブを、現在接続されているもの以外すべて選択し、「デバイスを削除する」をクリックして削除します。</li> <li>WeDo 2.0 アプリケーションに戻り、接続手順をステップ2からやり直してください。</li> </ol> <li>利用できるデバイスのリストから、お使いの WeDo 2.0 スマートハブを選択します。</li> <li>スマートハブのペアリングをするよう通知が表示されたら、「許可」を選択して「閉じる」をクリックしてください。</li> </ol> <p><b>Windows 10 でペアリングに失敗した場合は、画面に表示される指示に従ってください</b></p> <ol> <li>緑のボタンを押すよう指示が表示されたら、これに従ってください。</li> <li>再度ペアリングに失敗した場合は「再試行」をクリックします。ペアリングの通知ダイアログを許可するか (表示された場合)、ペアリングの手順をステップ2からやり直して、再度ペアリングを試みてください。</li> <li>スマートハブのペアリングが成功すると、接続センターに接続済みとして表示されます。</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Open the Connection Center.</li> <li>Press the green button on the WeDo 2.0 Smarthub until its name appears in the connection window.</li> <li>Click on the specific Smarthub name to connect.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

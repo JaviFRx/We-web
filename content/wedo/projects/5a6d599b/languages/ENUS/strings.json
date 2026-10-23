@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">Max and Mia are impressed by machines that can pull heavy objects.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">They wish to investigate what makes objects move.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Build a Pull-robot that can pull an object over a short distance.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">Program your Pull-robot to pull an object over a short distance like it did in the video.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you need help.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">See the Help panel for more guidance.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">Investigate with Max and Mia:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1. Add objects to the basket until the Pull-robot stops.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Predict what would happen if you put tires on your Pull-robot. Document your prediction.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Put the big tires on your robot and test.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Document your findings.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Find the heaviest object your Pull-robot can pull with the tires on.</font></div><div><font color=\"#ffffff\" size=\"3\">Document how forces are balanced or unbalanced for each case.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Finalize your document:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Review your prediction and explain what happened in this investigation.</font></div><div><font size=\"3\">2. Organize your information to share with others.</font></div><div><font size=\"3\">3. Insert important text, pictures, screen capture or videos into your project.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">Share your findings:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Based on your investigations, present in your own words the difference between balanced and unbalanced forces.</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">Investigate more&#160;</font><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">Explore Max’s and Mia's questions:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. How can you make an object move?&nbsp;</font></div><div><font size=\"3\">2. Can you explain friction?&nbsp;</font></div><div><font size=\"3\">3. Predict what will happen if the pull force is greater in one direction than the other.&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><font color=\"#ffffff\">Share your ideas with the Documentation tool.</font><br></font></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">What makes objects move?&nbsp;</font><br><div><font size=\"3\">In this project, you will:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• Explore what forces are and how they can make objects move.</font></div><div><font size=\"3\">• &nbsp;Create and program a robot to investigate the effects of balanced and unbalanced forces on the motion of an object.</font></div><div><font size=\"3\">• Document and present your findings about forces.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">Investigate more:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Build a different Pull-robot to pull the heaviest object possible.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Pair up with another team and create a pulling challenge with the two new Pull-robots.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Document how the forces were acting.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Pulling"
+      }
+    ]
+  }
+}

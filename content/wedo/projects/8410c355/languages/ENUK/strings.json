@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "cde82c40-bc26-4488-5ac3-65bc37c0907d",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Create a messaging arm to help Milo the Science Rover communicate his discovery.</font></div>"
+      },
+      {
+        "refId": "d28221aa-2cf6-49ef-e480-5abb5d373098",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you need help.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Refer to the Help panel for more guidance.</font></div>"
+      },
+      {
+        "refId": "744b8b8b-17b8-4a77-b25e-8675f558a0cd",
+        "string": "<font size=\"3\">Program Milo to deliver a message stating that it has found the plant specimen.</font>"
+      },
+      {
+        "refId": "ba8a27d9-a890-4d8d-de53-7551cbf894d6",
+        "string": "<font size=\"3\">Take a Screenshot of Milo's program.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Document what it does.</font></div>"
+      },
+      {
+        "refId": "063962aa-e2c2-4968-e962-3d83807f017e",
+        "string": "<font size=\"3\">Max and Mia are waiting for Milo to send them a message about his discoveries.</font>"
+      },
+      {
+        "refId": "fe0a1e5d-bfda-4140-735c-bf0af20863fe",
+        "string": "<div><font size=\"3\">In this project, you will:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Create and program Milo's messaging arm using the Tilt Sensor.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Document Milo's communication with the base.</font></div></div>"
+      },
+      {
+        "refId": "7c934476-fbc2-42c8-b1f3-9b37879f2aa6",
+        "string": "C. Milo's Tilt Sensor"
+      }
+    ]
+  }
+}

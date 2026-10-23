@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "98b4d326-2233-4773-8dae-54c99fc8d218",
+        "string": "11a. Hin- und Herbewegen"
+      },
+      {
+        "refId": "0bdd3730-9df7-47c9-a810-74e7f80a46f3",
+        "string": "1. Programm starten&nbsp;<div>2. Warten, bis Bewegungssensor eine Bewegung erkennt&nbsp;</div><div>3. Motor in diese Richtung starten&nbsp;</div><div>4. Warten, bis Bewegungssensor eine Bewegung erkennt&nbsp;</div><div>5. Motor gegen den Uhrzeigersinn starten&nbsp;</div><div>6. Schritte 2 bis 5 unendlich wiederholen</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "890df1fa-1e05-4000-b753-06bc94e9f51c",
+        "string": "8b. Første sensor som skal registrere"
+      },
+      {
+        "refId": "040c8b7d-25ae-417c-e713-13e45aa0a5f5",
+        "string": "1. Start program ved bokstaven A&#160;<div>2. Vent på at bevegelsessensoren registrerer bevegelse&#160;</div><div>3. Kjør motoren i 2 sekunder&#160;\n</div><br><div>4. Start program ved bokstaven A&#160;</div><div>5. Vent på at lydsensoren registrerer lyd&#160;</div><div>6. Spill av lyd 1</div>"
+      }
+    ]
+  }
+}

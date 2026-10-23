@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8ba87780-571f-4aa6-b409-ff895199687b",
+        "string": "7a. Multiplicar velocidade"
+      },
+      {
+        "refId": "ecf860f4-b4d1-4e66-9c5b-2a234dc6277e",
+        "string": "1. Iniciar programa&nbsp;<div>2. Mostrar texto “2” no monitor&nbsp;</div><div>3. Iniciar motor com o nível de força igual ao número no monitor&nbsp;</div><div>4. Repetir a etapa 3 indefinidamente&nbsp;</div><br><div>5. Iniciar programa&nbsp;</div><div>6. Multiplicar por 2 o número no monitor</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max（麦科斯）和 Mia（米娅）发现世界各地的建筑并不相同。&#160;</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">他们想知道怎样才能设计出一个既坚固又安全的建筑。&#160;<br></font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">Max（麦克斯）和Mia（米娅）在探究中的疑问：</font></span><br></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 什么原因会造成地震，它又会带来什么危害？&#160;</font></div><div><font size=\"3\">2. 科学家如何评价地震的强度？&#160;</font></div><div><font size=\"3\">3. 在地震过程中，什么因素会影响建筑的抗震力？&#160;<font color=\"#ffffff\"><br></font></font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">用乐高文档来分享你的想法。</font><br></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<div><font size=\"3\">给地震模拟器编写程序，使其可以模拟不同等级的地震。<br></font></div>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<div><font size=\"3\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">如需更多详细指导，请看帮助。 &#160;<br></font></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<div><font size=\"4\">与Max（麦克斯）和Mia（米娅）一起探究:&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\">1. 测量出可以震倒建筑 B 的最小震级，再用同样的震级测试建筑 A。&#160;</font></div><div><font size=\"3\" color=\"#ffffff\">比较两个测试的结果，并做记录。</font></div><div><font size=\"3\" color=\"#ffffff\"><br></font></div><div><font size=\"3\">2. 用同样的方式来测试建筑B和C。&#160;</font></div><div><font size=\"3\"><font color=\"#ffffff\">比较两个测试的结果，并做记录。</font><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">（思考：建筑 C 的结构在抵御地震上有什么优势？））</font><font size=\"3\" color=\"#ffffff\"><br></font></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">完成乐高文档：</font></span><br></div><font size=\"3\"><br></font><div><font size=\"3\">1. 查看你之前所做的推测，并解释在探究过程中发生了什么。</font></div><div><font size=\"3\">2. 请将重要的照片、截屏、录像或文字插入到乐高文档中。&#160;</font></div><div><font size=\"3\">3.整理并分享实验总结。</font>&#160;<font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<div><font size=\"4\">分享你的发现：</font></div><font size=\"3\"><br></font><div><font size=\"3\">通过探究实验中的证据来展示能够使建筑更好地抵御地震的方法。&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><font color=\"#ffffff\">＊注意语言的组织与专有名词的运用。&#160;</font><br></font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<div><font size=\"3\">用乐高积木搭建一个地震模拟器，使其可以震动建筑。<br></font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"4\">与Max（麦克斯）和Mia（米娅）深层探究。</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<div><font size=\"4\">分享你的乐高成果。</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "557fac1b-6d1f-48ca-517f-e54578117c61",
+        "string": "建筑结构中的哪些因素可以抗震？&#160;\n<br><div>通过这个实验，你会：&#160;\n</div><div>探究地震的来源和性质。&#160;</div><div>创造一个地震模拟器，使其可以测试你的建筑设计。&#160;</div><div>展示最有效的抗震建筑设计，并对实验结果做记录。&#160;<div></div></div>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<div><font size=\"4\">建筑结构中的哪些因素可以抗震？&#160; </font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">通过这个实验，你会：&#160; </font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span>探究地震的来源和性质。&#160;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span>创造一个可以测试建筑设计的地震模拟器。&#160;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span>展示最有效的抗震建筑设计，并对实验结果做记<span style=\"color: inherit; line-height: 1.42857;\">录。&#160;</span></font></div><div><div></div></div></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. 坚固的建筑结构"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<div><font size=\"4\">深层探究：</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 如果在将震级调高后重复之前的实验，预测会发生什么？&#160;</font></div><div><font size=\"3\" color=\"#ffffff\">记录你的预测，将预测与实验结果做比较，并将比较结果记录下来。</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. 搭建一个可以抵御 8 级地震的最高建筑。&#160;</font><br></div>"
+      }
+    ]
+  }
+}

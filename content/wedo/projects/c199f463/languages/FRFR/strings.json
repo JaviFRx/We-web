@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0199e382-b14e-4aba-a0cd-b3ad605d1bc1",
+        "string": "3b. Feu de signalisation"
+      },
+      {
+        "refId": "9b6ee4fa-569a-4f4b-366f-6c3440d5636d",
+        "string": "1. Lancer le programme&nbsp;<div>2. Allumer la LED en la définissant sur la couleur&nbsp;9 (rouge)&nbsp;</div><div>3. Attendre 2&nbsp;secondes&nbsp;</div><div>4. Allumer la LED en la définissant sur la couleur&nbsp;5 (vert)&nbsp;</div><div>5. Attendre 2&nbsp;secondes&nbsp;</div><div>6. Allumer la LED en la définissant sur la couleur&nbsp;7 (jaune)&nbsp;</div><div>7. Attendre 2&nbsp;secondes&nbsp;</div><div>8. Recommencer les étapes&nbsp;2 à 7 indéfiniment</div>"
+      }
+    ]
+  }
+}

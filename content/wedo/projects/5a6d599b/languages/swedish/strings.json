@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">Max och Mia är imponerade av maskiner som kan dra stora föremål.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De vill undersöka vad som får föremål att förflyttas.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en dragrobot som kan dra ett föremål en kort sträcka.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">Programmera dragroboten att dra ett föremål en kort sträcka, som i videofilmen.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">Undersöka med Max och Mia:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1. Lägg ner föremål i korgen tills dragroboten stannar.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Förutspå vad som skulle hända om du monterar däck på dragroboten. Dokumentera din förutsägelse.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Montera stora däcka på roboten och testa sedan.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Dokumentera dina upptäckter.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Identifiera det tyngsta föremål som din dragrobot kan dra när däcken är monterade.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentera om krafterna är balanserade eller obalanserade i varje fall.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Slutför dokumentationen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Granska din förutsägelse och förklara vad som hände i undersökningen.</font></div><div><font size=\"3\">2. Organisera din information så att du kan dela den med andra.</font></div><div><font size=\"3\">3. Lägg till viktig text, bilder, skärmdumpar eller videoklipp i ditt projekt.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Utgå från dina undersökningar och använd egna ord för att beskriva skillnaden mellan balanserade och obalanserade krafter.</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Dela ditt projekt</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">Undersök mer</font><div><font size=\"5\">med Max och Mia</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">Undersök Max och Mias frågor:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hur kan du få ett föremål att förflyttas?&#160;</font></div><div><font size=\"3\">2. Kan du förklara vad friktion är?&#160;</font></div><div><font size=\"3\">3. Förutsäg vad som händer om dragkraften i en riktning är högre än dragkraften i motsatt riktning.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Använd dokumentationsverktyget för att dela med dig av dina resonemang.</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">Vad får föremål att förflyttas?</font><br><div><font size=\"3\">I det här projektet kommer du att:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• Utforska vad krafter är och hur de kan få föremål att förflyttas.</font></div><div><font size=\"3\">• &#160;Bygga och programmera en robot, för att undersöka hur balanserade och obalanserade krafter påverkar ett föremåls förflyttning.</font></div><div><font size=\"3\">• Dokumentera och presentera dina upptäckter om krafter.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">Undersök mer:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Bygg en ny dragrobot som kan dra ett så tungt föremål som möjligt.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Samarbeta med en annan grupp för att anordna en dragtävling mellan de två nya robotarna.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumentera krafternas verkan.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Dragkraft"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "a37c33da-10a6-4999-93e4-0e39db2ec5ad",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</span></div>"
+      },
+      {
+        "refId": "1d8a916d-52f6-411b-7707-13e1316d104e",
+        "string": "<div><font size=\"4\">Comment les impacts sur les changements environnementaux et la faune peuvent-ils être réduits ?</font><font size=\"3\"><br></font></div><div><font size=\"3\">Dans ce projet, vous allez&nbsp;:<br></font><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorer les effets de la construction d’une route sur des animaux et des plantes, et imaginer des possibilités pour en réduire l’impact.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Créer et programmer un dispositif permettant aux animaux de traverser des zones dangereuses.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Présenter et documenter votre solution, et expliquer comment le passage a été conçu</font> pour un animal particulier.</font></div></div>"
+      },
+      {
+        "refId": "add4eed8-e8c9-41e1-921b-03edd27203b7",
+        "string": "15. Passage à faune"
+      }
+    ]
+  }
+}

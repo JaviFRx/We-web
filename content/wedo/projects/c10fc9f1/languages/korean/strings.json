@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "77bd553a-9bdd-47e6-eb91-01142f67888e",
+        "string": "<font size=\"3\">맥스와 미아에게 걱정거리가 생겼어요. 기후 관련 재해로 인해 사람과 동물이 위험해질 수 있겠다는 생각이 들었거든요.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">맥스와 미아는 인근 지역에서 어떠한 기후 관련 재해가 발생할 수 있을지를 알고 싶어 해요.</font></span><br></div>"
+      },
+      {
+        "refId": "a188c5c6-4b84-4c12-16f4-c9fa2bbc6a59",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 인근 지역이나 다른 지역에서 어떠한 기후 관련 재해가 일어날 수 있을까요?&#160;</font></div><div><font size=\"3\">2. 기후 관련 재해는 동물과 사람에게 어떤 영향을 미칠까요?&#160;</font></div><div><font size=\"3\">3. 기후 관련 재해가 발생한 상황에서 헬리콥터를 어떠한 식으로 사용할 수 있을까요?</font><br></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">문서화 도구를 이용해 아이디어를 공유하세요.</font></span><br></div>"
+      },
+      {
+        "refId": "63b3d7b8-1c7d-4a70-ea48-88e5b0dabf55",
+        "string": "<font size=\"5\">블록 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">기후의 영향으로 피해를 입은 지역에서 사용할 헬리콥터를 조립하세요.</font></div>"
+      },
+      {
+        "refId": "96d53a28-16af-4a93-65b9-7a0a4848e083",
+        "string": "<font size=\"3\">줄을 올리고 내릴 수 있게 헬리콥터를 프로그래밍하세요.</font>"
+      },
+      {
+        "refId": "f52dac05-8b99-4011-41b6-007f02a68777",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치를 연결하세요.&nbsp;</font><div><font size=\"3\">도움이 필요하면 비디오를 보아 주세요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">자세한 지침은 도움말 창을 보아 주세요.</font></div></div>"
+      },
+      {
+        "refId": "f6f4eb7a-ce5c-4145-d326-23eaa4a359eb",
+        "string": "<font size=\"5\">두 가지 해결 방법 구상:</font><br><br><div><font size=\"3\">악천후로 인해 피해를 입은 지역에서 사용할 수 있도록 헬리콥터를 개조하되, 안전하고 사용하기 쉬우며 상황에 맞게 디자인하세요.</font></div><font size=\"3\"><br></font><div><font size=\"3\">다음 임무 중 하나를 선택하고, 두 가지 해결 방법을 고안하세요.</font></div><div><font size=\"3\">1. 위험에 처한 동물을 다른 곳으로 이송.</font></div><div><font size=\"3\">2. 사람들에게 필요한 물자를 투하.</font></div><div><font size=\"3\">3. 물을 뿌려 화재를 진압.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">자신이 구상한 두 가지 해결 방법을 문서에 기록하고, 둘 중 어느 쪽이 더 나으며 그 이유가 무엇인지 설명하세요.&#160;</font></div>"
+      },
+      {
+        "refId": "c893963f-0040-4c4d-1805-e64d09b1cf6a",
+        "string": "<font size=\"5\">문서 최종 완성:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 자신이 만든 프로토타입의 원리를 설명하세요.</font></div><div><font size=\"3\">2. 최종 해결 방법을 그렇게 선택한 이유를 설명하세요.</font></div><div><font size=\"3\">3. 정보를 정리하세요.</font></div><div><font size=\"3\">4. 중요한 텍스트, 사진, 화면 캡처 또는 비디오를 문서에 넣으세요.</font></div>"
+      },
+      {
+        "refId": "ba7bee72-d449-46ef-7289-cb6522e8a7a5",
+        "string": "<font size=\"5\">탐구 결과 공유:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">어떠한 재해가 발생했는지, 그리고 자신의 헬리콥터 구조 임무가 어떻게 진행될지 설명하세요.</font></div>"
+      },
+      {
+        "refId": "121f6b6c-b564-4668-9d0d-25caa401c8d3",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "ec17dd2e-deb7-4f97-121f-87f56e4291c3",
+        "string": "<font size=\"5\">새로운 해결 방법 디자인&#160;</font><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "0bf96ac4-7b83-401a-0e99-1c3313eeac06",
+        "string": "<font size=\"4\">기후 관련 재해가 발생한 상황에서 안전 구조 임무를 어떤 식으로 계획해야 할까요?</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">이번 프로젝트의 과제:</font></div><div><font size=\"3\">•&#160;<span style=\"color: inherit; line-height: 1.42857143;\">인근 사람들의 생존에 영향을 미칠 수 있는 여러 가지 기후 관련 재해를 조사하세요.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>사람과 동물을 안전하고 편리하고 편안하게 옮기거나 재해 지역에 구호 물자를 투하할 수 있는 장치를 조립하고 프로그래밍하세요.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>자신이 찾아낸 해결 방법을 문서에 기록하고 발표하되, 기준을 어떻게 충족하는지 설명하세요. </font></div>"
+      },
+      {
+        "refId": "739f6f68-bbe3-4b39-8bcd-a3894536bf80",
+        "string": "7. 헬기 구조 임무"
+      },
+      {
+        "refId": "451eebe3-808d-40b7-b438-c33863a4de2d",
+        "string": "<font size=\"5\">새로운 해결 방법 디자인:</font><br><font size=\"3\"><br></font><div><font size=\"3\">상황에 따라서는 헬리콥터가 최선의 방법이 되지 못할 수도 있어요.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">고려해야 할 사항:&#160;</font></div><div><font size=\"3\">1. 더 낫다고 생각되는 다른 해결 방법을 디자인하세요.</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">새로운 해결 방법이 헬리콥터보다 나은 이유를 문서에 기록하세요.&#160;</font></div><br>"
+      }
+    ]
+  }
+}

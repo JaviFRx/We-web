@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1b30cf7d-5870-47e2-a7e8-3f32b797f498",
+        "string": "18. Objecten vastpakken"
+      },
+      {
+        "refId": "991c048e-798d-463e-5fc7-811967895c84",
+        "string": "<div><div><div><font size=\"5\">Hoe pakken mensen met beperkingen aan hun hand kleine objecten vast?&nbsp;</font></div><div><br><div>In dit project ga je:&nbsp;</div><div>- Onderzoeken hoe mensen met beperkingen kunnen worden geholpen met prothesen&nbsp;</div><div>- Een handprothese ontwerpen en programmeren om objecten te verplaatsen&nbsp;</div><div>- Je programma testen om de hand zo functioneel mogelijk te maken&nbsp;</div><div>- Je programma en ideeën delen die van dit project een succes maken<br></div></div></div></div>"
+      },
+      {
+        "refId": "48fe8e6f-e967-4699-1e20-ba08a9686e38",
+        "string": "Max en Mia zouden graag mensen met beperkingen willen helpen.&nbsp;&nbsp;<div>&nbsp;\n<br><div>Help hen met het programmeren van een hand die verschillende objecten kan vastpakken.</div></div>"
+      },
+      {
+        "refId": "bdc4db6f-6c46-4663-a54c-9675fc2a4af3",
+        "string": "<font size=\"5\">Denk na over de vragen van Max en Mia:</font><div><br><div>1. Welke verschillende bewegingen kun je maken met je hand?&nbsp;</div><div>2. Welke rol spelen de spieren in je hand?&nbsp;</div><div><font color=\"#ffffff\">3. Hoe kun je een kunstmatige hand maken?</font><br></div></div>"
+      },
+      {
+        "refId": "a9e86e5d-0c2f-492f-2d1a-422dd7e90d79",
+        "string": "<font size=\"5\">Gebruik de stenen:</font><div><span style=\"font-size: 20px;\"><br></span><div>Bouw een robothand die verschillende objecten kan vastpakken.&nbsp;\n</div><br><div>Programmeer deze zodat de hand kan openen en sluiten.</div></div>"
+      },
+      {
+        "refId": "ea8276cd-b3fe-4061-54af-f29a472f1a16",
+        "string": "1. Start het programma&nbsp;<div>2. Wacht tot de bewegingssensor een beweging detecteert&nbsp;</div><div>3. Start de motor in de andere richting&nbsp;</div><div>4. Start de motor gedurende 2 seconden&nbsp;</div><div>5. Wacht gedurende 2 seconden&nbsp;</div><div>6. Start de motor in deze richting&nbsp;</div><div>7. Start de motor gedurende 2 seconden</div>"
+      },
+      {
+        "refId": "bdc58061-18ca-479d-614c-759506f45670",
+        "string": "<font size=\"5\">Werk de oplossing uit en test deze:</font><div><span style=\"font-size: 20px;\"><br></span><div>Programmeer je robothand om:&nbsp;</div><div>- De bloem vast te pakken en op de standaard neer te leggen&nbsp;</div><div>- De stekker vast te pakken en deze in het stopcontact te steken</div></div>"
+      },
+      {
+        "refId": "7bde3747-6cdb-4ecd-c313-343fb0c243b0",
+        "string": "<font size=\"5\">Test je oplossing uit en pas deze aan </font><div><br><div>De robothand werkt niet correct met dit programma.&nbsp;</div><br><div>Het groene lichtje op de Smarthub moet oplichten wanneer de grijphand gesloten is en het rode lichtje moet oplichten wanneer de grijphand open is.&nbsp;</div><br><div><font color=\"#ffffff\">Breng wijzigingen aan het programma aan om het probleem op te lossen.</font></div></div>"
+      },
+      {
+        "refId": "50279510-14bc-463c-5078-6f17d5474810",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen&nbsp;</font><div><font size=\"5\">met Max en Mia</font></div>"
+      },
+      {
+        "refId": "44fe0336-824e-4242-7e5a-ef4dcf96ca4e",
+        "string": "<font size=\"5\">Deel je project</font>"
+      },
+      {
+        "refId": "abc1d817-50d5-4add-dce5-353c6c7a8e29",
+        "string": "<font size=\"5\">Orden de informatie:</font><div><br><div>Voorbeeld:&nbsp;</div><div><font color=\"#ffffff\">- Maak een schermafbeelding van het uiteindelijke programma.&nbsp;</font></div><div><font color=\"#ffffff\">- Maak een filmpje waarin je jouw oplossing uitlegt. </font></div></div>"
+      },
+      {
+        "refId": "3e03ada0-54f8-40a1-fc75-9a2d092bfa85",
+        "string": "<font size=\"5\">Deel je bevindingen:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>Presenteer je oplossingen en geef er uitleg over.</div></div>"
+      },
+      {
+        "refId": "6835b1da-0a51-4494-052e-7ed1dfeca056",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen: </font><div>&nbsp;</div><div>Werk samen, teams!&nbsp;</div><br><div>Verplaats objecten tussen punt A en punt B.&nbsp;</div><br><div>Geef zo snel mogelijk objecten van de ene aan de andere robothand door.</div>"
+      },
+      {
+        "refId": "39d55ae5-a248-4014-b9fa-bee563f5bb85",
+        "string": "Zet de Smarthub aan en koppel deze aan jouw apparaat. Bekijk het filmpje als je hulp nodig hebt.&nbsp;<br><br><div>Raadpleeg het hulpvenster als je extra hulp nodig hebt.&nbsp;</div>"
+      }
+    ]
+  }
+}

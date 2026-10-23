@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max（麦克斯）和Mia（米娅）正在非常积极地保护自然环境。&#160;</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">他们想知道如何通过改进废品回收的方式来减少浪费。&#160;</font><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<div><font size=\"4\">Max（麦克斯）和Mia（米娅）在探究中的疑问：</font></div><font size=\"3\"><br></font><div><font size=\"3\">1. 回收是什么意思？&#160;</font></div><div><font size=\"3\">2. 在你生活的地区，废品是如何被分类回收的。&#160;</font></div><div><font size=\"3\">3. 在你的生活中，哪些废品可以重新使用？&#160;</font></div><div><font size=\"3\">4. 根据可回收废品的形状，设想一个回收废品的设备。&#160;<font color=\"#ffffff\"><br></font></font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">用乐高文档来分享你的想法。</font><br></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<div><font size=\"3\">用乐高积木搭建一个废品回收车，回收车可以分类两种不同形状的物品。<br></font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<div><font size=\"3\">给车床编写程序，使其可以在回收站卸下小型回收物品。<br></font></div>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<div><font size=\"3\"><span style=\"line-height: 1.42857;\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">如需更多详细指导，请看帮助。&#160;<br></font></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">设计一套方案：</font></span><br></div><font size=\"3\"><br></font><div><font size=\"3\">改装废品回收车，使其可以通过物品的形状，分类两组不同的回收物。&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\">思考以下问题：&#160;</font></div><div><font size=\"3\">1. 更改废品回收车的车床。&#160;</font></div><div><font size=\"3\">2. 利用运动传感器来检测回收物的形状。&#160;</font></div><div><font size=\"3\">3. 运用废品回收车分类物品。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">解释你是如何根据回收物的形状来设计方案的，并做记录。&#160;</font><font color=\"#ffffff\" size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">完成你的乐高文档：</font></span><br></div><font size=\"3\"><br></font><div><font size=\"3\">1. 描述你不同的原始模型样本。</font></div><div><font size=\"3\">2. 解释你最后选择的方案。&#160;</font></div><div><font size=\"3\">3. 请将重要的照片、截屏、录像或文字插入到乐高文档中。&#160;</font></div><div><font size=\"3\">4. 整理并分享实验总结 。&#160;<br></font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<div><font size=\"4\">分享你的发现：</font></div><font size=\"3\"><br></font><div><font size=\"3\">展示你是如何分类不同的废品盒，并将他们卸在不同地点的。&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><font color=\"#ffffff\">＊注意语言的组织与专有名词的运用。 &#160;</font><br></font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<div><font size=\"4\">与Max（麦克斯）和Mia（米娅）设计新方案。</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<div><span style=\"line-height: 22.8571px;\"><font size=\"5\">分享你的乐高成果。</font></span></div>"
+      },
+      {
+        "refId": "40d54931-eae4-45a1-13cb-1c04272a57c1",
+        "string": "<div><br><div><div><br><br><br><div><font size=\"3\">How can you improve recycling methods to reduce waste?</font><br><br><br><br><div><font size=\"3\">In this project, you will:</font></div><br><br><div><font size=\"3\">Explore how better sorting methods for recycling can aid in cutting back the amount of waste that is discarded.</font></div><br><br><br><br><br><br><div><span style=\"font-size: medium; line-height: 1.42857143;\">Create and program a device that will sort recyclables according to their size and shape.</span><br></div><br><br><br><br><br><br><div><font size=\"3\">Present and document the solution you have developed.</font></div></div></div></div></div>"
+      },
+      {
+        "refId": "3c7372fc-60e9-479c-eb29-631c7eba6b30",
+        "string": "<div><div><div><div><div><div><font size=\"5\">How can you improve recycling methods to reduce waste?<br></font><div><font size=\"3\">In this project, you will:</font></div><br><div><font size=\"3\">Explore how better sorting methods for recycling can aid in cutting back the amount of waste that is discarded.</font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Create and program a device that will sort recyclables according to their size and shape.</font></span></div><div><font size=\"3\">Present and document the solution you have developed.</font></div></div></div></div></div></div></div><div><font size=\"3\"><br></font></div><div>如何通过改进垃圾回收的方式来减少浪费？&#160;\n</div><br><div>通过这个实验，你会：&#160;\n</div><br><div>探究如何更好地分类垃圾，做到更好的垃圾回收，避免浪费。&#160;</div><div>根据回收垃圾的形状和大小，创建一个垃圾回收设备。&#160;</div><div>展示你对方案做出的改进，并做记录。&#160;<font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<div><div><div><div><div><div><div><div><span style=\"line-height: 1.42857;\"><font size=\"4\">如何通过改进垃圾回收的方式来减少浪费？&#160;</font></span><br></div></div></div></div></div></div></div><font size=\"3\"><br></font><div><font size=\"3\">通过这个实验，你会：&#160;</font></div><div><font size=\"3\">• 探究如何更好地分类垃圾，做到更好的垃圾回收，避免浪费。&#160;</font></div><div><font size=\"3\">• 根据回收垃圾的形状和大小，创建一个垃圾回收设备。&#160;</font></div><div><font size=\"3\">• 展示你对方案做出的改进，并做记录。&#160;<br></font></div></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. 废品分类回收"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"4\">设计新的方案：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">设计一套可以分类三种不同物品的新方案。&#160;</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">思考以下问题：&#160;</font></div><div><font size=\"3\">1. 利用传送带分类物品。&#160;</font></div><div><font size=\"3\">2. 利用机器人的手臂分类物品。&#160;</font></div><div><font size=\"3\">3. 利用两个不同的废品回收车分类物品。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">＊ 生活废品中的哪些废品具有危害性，需要做特殊分离？&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">记录下你的新方案。</font></div></div>"
+      }
+    ]
+  }
+}

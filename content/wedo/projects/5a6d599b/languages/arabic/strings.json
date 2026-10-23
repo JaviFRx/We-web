@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">ينبهر مالك ومايا بالآلات التي يمكنها سحب أجسام ثقيلة.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">يرغبان في بحث ما يجعل الأجسام تتحرك.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">استخدم المكعبات:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">ابنِ روبوت سحب يمكنه سحب جسم عبر مسافة قصيرة.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">برمج روبوت السحب لسحب جسم عبر مسافة قصيرة مثلما فعل في الفيديو.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">شغّل الموزع الذكي ووصله بجهازك. شاهد الفيديو إذا كنت بحاجة إلى مساعدة.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">انظر لوحة المساعدة  لمزيدٍ من التوجيهات.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">ابحث مع مالك ومايا:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">١. أضف أجسام إلى السلة حتى يتوقف روبوت السحب.</font></div><div><font size=\"3\"><font color=\"#ffffff\"> توّقع ما سيحدث لو وضعت إطارات في روبوت السحب. وّثق توقعك.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">٢. ضع الإطارات الكبيرة في روبوتك واختبر ما سيحدث.</font></div><div><font size=\"3\"><font color=\"#ffffff\">وّثق نتائجك.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">٣. اكتشف أثقل جسم يمكن أن يسحبه روبوت السحب خلال تركيب الإطارات.</font></div><div><font color=\"#ffffff\" size=\"3\">وثّق كيف تتوازن أو تختل القوى في كل حالة.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">ضع الصيغة النهائية لمستندك:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">١. راجع توّقعك واشرح ما حدث في هذا البحث.</font></div><div><font size=\"3\">٢. نظّم معلوماتك لمشاركتها مع آخرين.</font></div><div><font size=\"3\">٣. أدخل النص أو الصور أو لقطة للشاشة أو الفيديوهات المهمة في مشروعك.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">مشاركة نتائجك:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">استناداً إلى عمليات البحث التي أجريتها، بيّن بعباراتك الخاصة الفرق بين القوى المتوازنة وغير المتوازنة.</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">شارك مشروعك</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">ابحث أكثر&#160;</font><div><font size=\"5\">مع مالك ومايا</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">استكشف أسئلة مالك ومايا:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">١. كيف يمكنك جعل جسم يتحرك؟&#160;</font></div><div><font size=\"3\">٢. هل يمكنك شرح الاحتكاك؟&#160;</font></div><div><font size=\"3\">٣. توقع ما سيحدث إذا ما كانت قوة السحب أكبر في أحد الاتجاهين مقارنة بالآخر.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">شارك أفكارك باستخدام أداة التوثيق.</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">ما الذي يجعل الأجسام تتحرك؟&#160;</font><br><div><font size=\"3\">في هذا المشروع، سوف تتمكن من:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• استكشاف ماهية القوى وكيف يمكنها جعل الأجسام تتحرك.</font></div><div><font size=\"3\">• &#160;إنشاء وبرمجة جسم للبحث في تأثيرات القوى المتوازنة وغير المتوازنة على حركة جسم ما.</font></div><div><font size=\"3\">• توثيق وعرض نتائجك عن القوى.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">ابحث أكثر:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">١. ابنِ روبوت سحب آخر لسحب أثقل جسم ممكن.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">٢. انضم لفريق آخر وأنشئ تحدي سحب باستخدام روبوتي السحب الجديدين.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">وّثق كيف أثرت القوى.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "١. السحب"
+      }
+    ]
+  }
+}

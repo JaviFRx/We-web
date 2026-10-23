@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "77bd553a-9bdd-47e6-eb91-01142f67888e",
+        "string": "<div><font size=\"3\">Max und Mia haben festgestellt, dass in Gefahrensituationen oft Hubschrauber eingesetzt werden.&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Jetzt wollen sie herausfinden, wie Menschen und Gegenstände mit einem Hubschrauber einfach aber sicher transportiert werden können.</font><br></div>"
+      },
+      {
+        "refId": "a188c5c6-4b84-4c12-16f4-c9fa2bbc6a59",
+        "string": "<div><font size=\"5\">Max und Mia fragen sich:&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Mit welchen Tragevorrichtungen können Menschen und Tiere einfach und sicher hochgehoben, transportiert und wieder abgesetzt werden?</font></div><div><font size=\"3\">2. Wie muss die Tragevorrichtung befestigt werden, damit Menschen und Tiere einfach und sicher transportiert werden können?</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Überlegt gemeinsam. Was vermutet ihr?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">• Schreibt eure Ideen und ersten Lösungsvorschläge auf.</font><br></div>"
+      },
+      {
+        "refId": "63b3d7b8-1c7d-4a70-ea48-88e5b0dabf55",
+        "string": "<div><font size=\"5\">Verwendet die Bausteine:</font></div><font size=\"3\"><div><font size=\"3\"><br></font></div><font size=\"3\">Baut einen Hubschrauber, der Gegenstände anheben und absetzen kann.</font></font>"
+      },
+      {
+        "refId": "96d53a28-16af-4a93-65b9-7a0a4848e083",
+        "string": "<div><font size=\"5\">Programmieren:</font></div><div><font size=\"3\"><br></font></div><font size=\"3\">Schreibt ein Programm, mit dem euer Hubschrauber etwas hochheben kann.</font>"
+      },
+      {
+        "refId": "f52dac05-8b99-4011-41b6-007f02a68777",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font><br></div></div>"
+      },
+      {
+        "refId": "f6f4eb7a-ce5c-4145-d326-23eaa4a359eb",
+        "string": "<font size=\"5\">Entwickelt eine sichere Tragevorrichtung.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Mit welcher Tragevorrichtung können Menschen und Tiere einfach und sicher transportiert werden?&nbsp; </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wie verändert sich die Sicherheit der Tragevorrichtung, wenn ihr</font></div><div><font size=\"3\">• die Befestigung verändert?</font></div><div><font size=\"3\">• die Form der Tragevorrichtung verändert?</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Nutzt euer Wissen über die Sicherheit der Tragevorrichtung und entwickelt verschiedene Lösungen.&nbsp; </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Nutzt die App zum Dokumentieren:</font></div><div><font size=\"3\" color=\"#ffffff\">• Beschreibt euren Entwicklungsprozess.</font></div><div><font size=\"3\" color=\"#ffffff\">• Dokumentiert eure fertigen Lösungen.</font></div>"
+      },
+      {
+        "refId": "c893963f-0040-4c4d-1805-e64d09b1cf6a",
+        "string": "<div><span style=\"line-height: 22.8571px;\"><font size=\"5\">Bereitet eure Präsentation vor:</font></span></div><div><font size=\"3\"><br></font></div><font size=\"3\">1. Beantwortet Max' und Mias Fragen.</font><div><font size=\"3\">2. Vergleicht eure verschiedenen Tragevorrichtungen.</font></div><div><font size=\"3\">• Beschreibt die Art der Befestigung.</font></div><div><font size=\"3\">• Beschreibt die Form der Tragevorrichtung.</font></div><div><span style=\"line-height: 1.42857;\">•&nbsp;</span><font size=\"3\">Wie habt ihr die Tragevorrichtung verbessert?</font></div><div><font size=\"3\">3. Überarbeitet eure Dokumentation.</font></div><div><font size=\"3\">4. Ihr könnt noch wichtige Informationen, passende Bilder, Videos oder Screenshots einfügen.</font><br></div>"
+      },
+      {
+        "refId": "ba7bee72-d449-46ef-7289-cb6522e8a7a5",
+        "string": "<font size=\"5\">Präsentiert eure Ergebnisse:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beschreibt mit euren eigenen Worten, mit welchen Tragevorrichtungen und Maschinen Menschen und Tiere einfach und sicher transportiert werden können.</font><br></div>"
+      },
+      {
+        "refId": "121f6b6c-b564-4668-9d0d-25caa401c8d3",
+        "string": "<font size=\"5\">Dokumentation</font>"
+      },
+      {
+        "refId": "ec17dd2e-deb7-4f97-121f-87f56e4291c3",
+        "string": "<span style=\"line-height: 28px;\"><font size=\"5\">Expertenauftrag</font></span>"
+      },
+      {
+        "refId": "0bf96ac4-7b83-401a-0e99-1c3313eeac06",
+        "string": "<div><div><div><font size=\"4\">Wie können Menschen und Gegenstände sicher transportiert werden?</font><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">In diesem Projekt werdet ihr:</span><br></font></div><div><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•</span>&nbsp;lernen, warum in bestimmten Situationen Hubschrauber für den Transport von Menschen und Gegenständen eingesetzt werden&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•</span>&nbsp;einen Hubschrauber bauen, mit dem man Menschen und Gegenstände hochheben und wieder absetzen kann&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>ein Programm schreiben, mit dem man Menschen und Gegenstände anheben und wieder absetzen kann&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>eure Ergebnisse dokumentieren und präsentieren</font><br></div></div></div></div>"
+      },
+      {
+        "refId": "451eebe3-808d-40b7-b438-c33863a4de2d",
+        "string": "<font size=\"3\"><font size=\"5\">Expertenauftrag:</font><br><br><font size=\"3\">1. Welche Maschinen können noch Gegenstände anheben und absetzen?&#160;<br></font></font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857;\">Überlegt gemeinsam.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857;\">Baut ein neues Modell.&#160;</span></font><br></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">• Beschreibt euer Vorgehen.</font></div><div><font color=\"#ffffff\" size=\"3\">• Dokumentiert den Entwicklungsprozess und eure fertige Lösung.</font><br></div>"
+      },
+      {
+        "refId": "739f6f68-bbe3-4b39-8bcd-a3894536bf80",
+        "string": "7. Transport"
+      }
+    ]
+  }
+}

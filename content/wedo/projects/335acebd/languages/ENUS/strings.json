@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "482c5392-d024-4315-a8db-f4acecc3f44d",
+        "string": "22. Emotional Design"
+      },
+      {
+        "refId": "9ba064a0-ce30-463e-0826-cb0cfff554e2",
+        "string": "<div><div><div><div><div><font size=\"4\">How do robots interact with humans to create positive emotions?&nbsp;</font></div><div><font size=\"3\">In this project you will:&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">•  Explore how robots can create positive emotions in everyday situations&nbsp;</font></div><div><font size=\"3\">•  Build and program a robot that interacts with people to create positive emotions&nbsp;</font></div><div><font size=\"3\">•  Test your program in different situations and record data about your prototype&nbsp;</font></div><div><font size=\"3\">•  Share your program and ideas</font></div></div></div></div></div>"
+      },
+      {
+        "refId": "6c7fdc7c-74c6-434c-2738-081b21424fd9",
+        "string": "<div style=\"text-align: center;\"><font size=\"3\">Get inspired by the Design Library base models to build your own solution to this project.</font></div>"
+      },
+      {
+        "refId": "252b07a9-50b9-44d3-89b3-8e38912b2b8d",
+        "string": "<div style=\"text-align: center;\"><font size=\"3\">Get inspired by the Design Library base programs to build your own solution to this project.</font></div>"
+      }
+    ]
+  }
+}

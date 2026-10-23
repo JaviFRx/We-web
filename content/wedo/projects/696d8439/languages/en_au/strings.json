@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b2c7868b-18d4-4293-9ee3-61727ee611cc",
+        "string": "24. Animal Senses"
+      },
+      {
+        "refId": "9431f876-e3ce-45ae-43c5-524860c4f0bb",
+        "string": "<div><div><font size=\"5\">How do animals interact with their environment?&#160;</font></div><br><div>In this project you will:&#160;</div><div>- Explore how animals use their senses in order to receive different types of information&#160;</div><div>- Create and program an animal robot with a focus on its senses&#160;</div><div>- Test your program and show how animals interact with different stimuli&#160;</div><div>- Share your program and ideas</div></div>"
+      },
+      {
+        "refId": "4e4564f4-7246-473a-273d-88e0e8dd2a13",
+        "string": "<div style=\"text-align: center;\">Find inspiration in the Design Library by looking at the different base models that you can use to build your own solution to this project.</div>"
+      },
+      {
+        "refId": "0852da6c-6822-462c-426b-8b127c7b15b1",
+        "string": "<div style=\"text-align: center;\">Find inspiration in the Design Library by looking at the different base programs that you can use to program your own solution to this project.</div>"
+      }
+    ]
+  }
+}

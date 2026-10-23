@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8889bb08-cc03-4540-8448-ee67d3ab4e50",
+        "string": "17. Maanbasis"
+      },
+      {
+        "refId": "42b013c8-6baa-4fff-0317-26f266cc064b",
+        "string": "<font size=\"3\">Max en Mia maken een robot om een maanbasis te bouwen.&nbsp;<br><br></font><div><font size=\"3\">Help hen een robot te programmeren die objecten kan verzamelen.&nbsp;</font></div>"
+      },
+      {
+        "refId": "e69e786b-066d-45cf-8ef1-a2411c598995",
+        "string": "<font size=\"5\">Denk na over de vragen van Max en Mia:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. Hoe kunnen we dingen naar de maan sturen? </font></div><div><font size=\"3\">2. Hoe kunnen we dingen laten landen op de maan? </font></div><div><font color=\"#ffffff\" size=\"3\">3. Wat zou een goede manier zijn om een basis te ontwerpen en te bouwen op de maan? </font></div></div>"
+      },
+      {
+        "refId": "cfee27b3-529f-4b74-47af-baf64b172566",
+        "string": "<font size=\"5\">Gebruik de stenen:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Bouw een robot die in verschillende richtingen kan rijden en draaien.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Programmeer de robot zodat deze kan bewegen.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "b532c30d-f275-477d-8070-209a6fbd1650",
+        "string": "<div><span style=\"color: inherit; font-size: 16px;\">1. Start het programma </span><br></div><div><font size=\"3\">2. Start de motor in deze richting </font></div><div><font size=\"3\">3. Start de motor op vermogen 4&nbsp;</font></div><div><font size=\"3\">4. Laat de motor 2 seconden draaien </font></div><div><font size=\"3\">5. Start de motor in de andere richting </font></div><div><font size=\"3\">6. Laat de motor 2 seconden draaien</font></div>"
+      },
+      {
+        "refId": "7f368ff6-a865-4f73-ff7e-22283eaaa470",
+        "string": "<font size=\"5\">Werk de oplossing uit en test deze:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\" size=\"3\">- Leg vast welke weg je robot moet volgen om de eerste maanbasismodule te bereiken. </font></div><font size=\"3\"><br></font><div><font size=\"3\">- Programmeer je robot zodat deze naar de eerste module beweegt. </font></div></div>"
+      },
+      {
+        "refId": "cecfc75b-ac62-487b-12c5-367028a970ba",
+        "string": "<font size=\"5\">Test het geheel en pas je oplossing indien nodig aan:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">- Plan de weg die je robot moet volgen om de eerste en de tweede maanbasismodule te bereiken. </font></div><font color=\"#ffffff\"><br></font><div><font color=\"#ffffff\">- Plan de weg die je robot moet volgen om zijn eindbestemming te bereiken.&nbsp;</font></div><br><div>- Programmeer je robot om deze wegen te volgen. &nbsp;</div></div>"
+      },
+      {
+        "refId": "f929372d-e146-40cd-a16c-b25737005614",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen </font><div><font size=\"5\">met Max en Mia</font></div>"
+      },
+      {
+        "refId": "91fbc3ae-c4f2-4e12-af7c-040827afa6bb",
+        "string": "<font size=\"5\">Deel je project</font>"
+      },
+      {
+        "refId": "57541f06-6c38-4970-5c61-8e318eb1830a",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen: </font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Er zijn nieuwe modules geland op de maan! Ze zijn geland in de vorm van een vierkant. </font></div><font size=\"3\"><br></font><div><font size=\"3\">Programmeer je robot om de vier modules op te halen. &nbsp;</font><br></div></div>"
+      },
+      {
+        "refId": "c50d5eeb-496e-4a96-5e43-db7edd6718cf",
+        "string": "<font size=\"5\">Orden de informatie:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Voorbeeld:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- maak een schermafbeelding van het uiteindelijke programma.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- maak een filmpje waarin je uitleg geeft over jouw oplossing. &nbsp;</font></div></div>"
+      },
+      {
+        "refId": "11e6d357-ed21-4621-8de1-257a567749b3",
+        "string": "<font size=\"5\">Deel je bevindingen:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Presenteer je oplossingen en geef er uitleg over.</font></div></div>"
+      },
+      {
+        "refId": "0b9e4a01-e5c9-4ad8-a3f7-4f310b12d736",
+        "string": "<div><div><font size=\"5\">Hoe moet een maanbasis worden geplaatst?</font></div><br><div>In dit project:&nbsp;</div><div>&nbsp;- onderzoek je waarom we een maanbasis zouden moeten bouwen en hoe we dit zouden kunnen doen.&nbsp;</div><div>&nbsp;- maak en programmeer je een robot die over het maanoppervlak kan bewegen.&nbsp;&nbsp;</div><div>&nbsp;- test je jouw programma om een maanbasis te bouwen op een specifieke locatie.&nbsp;</div><div>&nbsp;- deel je jouw programma en ideeën om van deze missie een succes te maken.&nbsp;</div></div>"
+      },
+      {
+        "refId": "e4effe28-5fa1-42ad-ae93-1fa15fb20754",
+        "string": "<font size=\"3\">Zet de Smarthub aan en koppel deze aan jouw apparaat. Bekijk het filmpje als je hulp nodig hebt. </font><div><font size=\"3\"><br></font><div><font size=\"3\">Raadpleeg het hulpvenster als je extra hulp nodig hebt. </font></div></div>"
+      }
+    ]
+  }
+}

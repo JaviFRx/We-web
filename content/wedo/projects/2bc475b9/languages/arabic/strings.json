@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "الروبوت الجاسوس"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><font size=\"3\">في هذا الدرس، ستتعلم:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">بناء نموذج LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">توصيل النموذج مع جهازك</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• برمجة </span><span style=\"line-height: 1.42857;\">&nbsp;مستشعر الحركة على كشف الحركة</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">يريد مالك ومايا إقامة حفلة مفاجئة لصديق لهما. ولا يعرفان متى سيأتي صديقهما إلى منزلهما.</font><div><font size=\"3\">يريدان جهازًا كي ينبههما.</font></div><font size=\"3\"><br></font><div><font size=\"3\">فقررا بناء روبوت جاسوس.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">مالك ومايا بحاجة إلى مساعدتك!</font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">اجعل الروبوت يُشغِّل صوتًا عندما يكتشف حركة.<br><br>1. أنشئ البرنامج كما هو موضح.</font><div><font size=\"3\"><br>2. تناقشوا بشأن كيفية عمل الروبوت الجاسوس.</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">ساعد مالك ومايا أكثر (اختياري):</font>&#160;<br><br></font><div><font size=\"3\">1. سجِّل مقطعًا صوتيًا خاصًا بك واجعل الروبوت يُشغِّله.</font></div><font size=\"3\"><br></font><div>2. برمج الروبوت على إنجاز مهام أخرى.</span></div></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">شغّل الموزع الذكي ووصله بجهازك.</font>"
+      }
+    ]
+  }
+}

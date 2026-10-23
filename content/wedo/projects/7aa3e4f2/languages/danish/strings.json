@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ea01e383-d4aa-41ba-ac8c-73c2f8d402f0",
+        "string": "<font size=\"3\">Kig på grundmodellerne i designbiblioteket, og få idéer til, hvordan du kan bygge din egen løsning til dette projekt.</font>"
+      },
+      {
+        "refId": "9c2d90a7-fcb9-4554-e0e5-57dc2667c26e",
+        "string": "<div><font size=\"4\">Hvordan kan man udforske andre planeters overflader?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette projekt skal du:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">undersøge faktiske missioner med rumkøretøjer og forestille dig de muligheder, der kunne komme i fremtiden</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">bygge og programmere et rumkøretøj, så det kan udføre en bestemt opgave, som f.eks. at: bevæge sig ind og ud af et krater, indsamle en klippeprøve, bore et hul i jorden osv.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">præsentere og dokumentere din </font>prototype, og hvad man kan opdage ved at gennemføre disse missioner.</font></div></div>"
+      },
+      {
+        "refId": "d995953a-dece-494f-954d-9d6bcf56c598",
+        "string": "12. Udforskning af rummet"
+      }
+    ]
+  }
+}

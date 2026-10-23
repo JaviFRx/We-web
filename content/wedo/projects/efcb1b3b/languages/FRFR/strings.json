@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "890df1fa-1e05-4000-b753-06bc94e9f51c",
+        "string": "8b. Premier capteur pour la détection"
+      },
+      {
+        "refId": "040c8b7d-25ae-417c-e713-13e45aa0a5f5",
+        "string": "1. Lancer le programme avec la touche «&nbsp;A&nbsp;»&nbsp;<div>2. Attendre que le détecteur de mouvement détecte un mouvement&nbsp;</div><div>3. Démarrer le moteur pendant 2&nbsp;secondes&nbsp;\n</div><br><div>4. Lancer le programme avec la touche «&nbsp;A&nbsp;»&nbsp;</div><div>5. Attendre que le détecteur sonore détecte du son&nbsp;</div><div>6. Jouer le son&nbsp;1</div>"
+      }
+    ]
+  }
+}

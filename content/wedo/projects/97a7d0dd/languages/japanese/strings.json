@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<font size=\"3\">デザインライブラリにある基本モデルを参考にして、このプロジェクトの課題に対するオリジナルの解決策を作ってみましょう。</font>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><font size=\"4\">暴風雨の予告警報は被害をどのように抑えることができるでしょうか？</font><font size=\"3\"><br></font></div><div><font size=\"3\">このプロジェクトの内容：</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">津波や竜巻、ハリケーンなど、知っておくべき様々な気象災害について、また人々を守る警報システムについて考える。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">気象災害が発生することを、人々に知らせることができる装置を組み立ててプログラミングする。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">制作した解決策が、災害による被害をどのように迎えることができるかを説明する資料を作成し、発表する。</font></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13.災害警報"
+      }
+    ]
+  }
+}

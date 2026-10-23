@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "スパイロボット"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><font size=\"3\">このレッスンで学ぶこと：<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">レゴ<sub>®</sub>モデルを組み立てる</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">できたモデルをデバイスにせつぞくする</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span><span style=\"line-height: 1.42857;\">モーションセンサーが動くものを見つけられるようプログラムする</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">マックスとミアはお友だちにサプライズパーティーを開きたいと思っています。でも、お友だちがいつ家にあそびにくるかがわかりません。</font><div><font size=\"3\">お友だちが来る前に教えてくれるマシンがひつようです。</font></div><font size=\"3\"><br></font><div><font size=\"3\">2人はスパイロボットを作りたいと思っています。</font></div><font size=\"3\"><br></font><div><font size=\"3\">マックスとミアをてつだってあげましょう！</font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">ロボットが何か動くものを見つけたら音を出すようにしましょう。<br><br>1.右のお手本を見てプログラムしてね。</font><div><font size=\"3\"><br>2.ロボットのしくみをお友だちにせつめいできるかな？</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">マックスとミアをもう少してつだってあげよう（追加課題）：&nbsp;<br><br></font><div><font size=\"3\">1.<span style=\"line-height: 1.42857;\">音をろくおんして、ロボットにその音を出させよう。</span></font></div><font size=\"3\"><br></font><div><font size=\"3\">2.ロボットにほかのことをさせてみよう。</font></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">スマートハブのスイッチを入れ、デバイスにせつぞくします。</font>"
+      }
+    ]
+  }
+}

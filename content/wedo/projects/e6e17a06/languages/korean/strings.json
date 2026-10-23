@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3d4b1dfc-05e1-45db-963c-d37d56c1fdb5",
+        "string": "21. 조사"
+      },
+      {
+        "refId": "38ea98b8-f26a-4697-ef22-7a811566b198",
+        "string": "<div><div><font size=\"5\">터널, 동굴, 파이프 등의 좁은 공간을 탐사하려면 어떻게 해야 할까요?&nbsp;</font></div><br><div>이 프로젝트의 과제:&nbsp;</div><div>- 좁은 공간을 검사하기 위해 로봇을 활용하는 방법을 조사하세요.&nbsp;</div><div>- 스스로 장애물을 피해 이동할 수 있는 로봇을 만들고 프로그래밍하세요.</div><div>- 테스트를 통해 로봇이 벽, 구멍, 동굴 및 기타 여러 가지 물체를 탐지할 수 있는지 확인하세요.&nbsp;</div><div>- 프로그램과 아이디어를 공유하세요.</div></div>"
+      },
+      {
+        "refId": "daee8177-ac30-4b6d-49d6-c60cba9f450d",
+        "string": "<div style=\"text-align: center;\">디자인 라이브러리의 기본 모델을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</div>"
+      },
+      {
+        "refId": "6d51c5a4-a698-4766-8716-a6ba7efd1533",
+        "string": "<div style=\"text-align: center;\">디자인 라이브러리의 기본 프로그램을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</div>"
+      }
+    ]
+  }
+}

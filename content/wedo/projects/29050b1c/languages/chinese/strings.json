@@ -1,0 +1,70 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "",
+        "string": ""
+      },
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<div><font size=\"3\">Max（麦克斯）和 Mia（米娅）发现，从第一辆赛车发明至今，赛车的各个方面都已经有了很大的改进。&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\"><font size=\"3\">他们希望探究出怎样可以加快车的速度。&#160;</font><br></font></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">Max（麦克斯）和Mia（米娅）在探究中的疑问：</font></span><br></div><font size=\"3\"><br></font><div><font size=\"3\">1. 车的哪些方面被改进后，可以使其速度加快？&#160;</font></div><div><font size=\"3\">2. 哪些因素会影响车的行驶速度？&#160;<font color=\"#ffffff\"><br></font></font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">用乐高文档来分享你的想法。</font><br></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<div><font size=\"3\">用乐高积木搭建一部赛车，使其可以向前行驶，并可停在终点线上。<br></font></div>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"3\">根据视频内容，给你的赛车编写程序，使其能够</font></span><span style=\"line-height: 1.42857;\"><font size=\"3\">至少</font></span><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\">行驶两米</font></span><span style=\"color: inherit; font-size: 16px; line-height: 1.42857;\">的距离。</span></div>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<div><font size=\"3\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">如需更多详细指导，请看帮助。&#160;<br></font></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<div><font size=\"4\">与 Max（麦克斯）和Mia（米娅）一起探究:</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">将马达功率调至10档。&#160;</font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\">1.开动装有四个小轮胎的赛车，重复三次。&#160;</font></span><br></font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">记录下你的测试结果。</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\" color=\"#ffffff\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">2.将大轮胎换上，重复行驶三次。&#160;</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3.推测一下，当赛车需要行驶双倍距离时，小轮胎和大轮胎各需要多长的时间？&#160;</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\" color=\"#ffffff\">记录下你的推测。&#160;</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\" color=\"#ffffff\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">4. 分别用小轮胎和大轮胎做第三题的测试。&#160;</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\" color=\"#ffffff\">记录下你的发现。&#160; </font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">（思考：在赛车的外观设计上，哪些因素会影响其速度。）</font></span></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<div><font size=\"4\">完成你的乐高文档：&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">1.查看你之前所做的推测，并解释在探究过程中都发生了什么。&#160;</font></div><div><font size=\"3\">2. 请将重要的照片、截屏、录像或文字插入到乐高文档中。&#160;</font></div><div><font size=\"3\">3.整理并分享实验总结。&#160;<br></font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<div><font size=\"4\">分享你的发现：</font></div><font size=\"3\"><br></font><div><font size=\"3\">根据探究结果，展示哪些因素会影响汽车的速度。<br></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">＊注意语言的组织与专有名词的运用。</font><br></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<div><font size=\"4\">与Max（麦克斯）和Mia（米娅）深层探究。</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<div><font size=\"4\">分享你的乐高成果。&#160;</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "04ea35ae-a61e-4a3a-6fe3-5290f8a8dee6",
+        "string": "<div><font size=\"3\"><span style=\"line-height: 1.42857143;\">How can a car go faster?</span><br></font></div><br><div><font size=\"3\"><span style=\"line-height: 1.42857143;\"><br></span></font></div><br><div><font size=\"3\">In this project, you will:</font></div><br><div><font size=\"3\">Explore race car features.</font></div><br><div><font size=\"3\">Create and program a race car to investigate what factors would make it go faster.</font></div><br><div><font size=\"3\">Document and present ways to make your car go the fastest.</font></div>"
+      },
+      {
+        "refId": "423eacab-05b3-4946-098b-448f9212c298",
+        "string": "<div><div><span style=\"line-height: 1.42857143;\"><font size=\"5\">How can a car go faster?</font></span><br></div><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\">In this project, you will:</span><br></div><br><div><font size=\"3\">Explore race car features.</font></div><div><font size=\"3\">Create and program a race car to investigate what factors would make it go faster.</font></div><div><font size=\"3\">Document and present ways to make your car go the fastest.</font></div></div><br><div>如何加快车的速度？&#160;</div><div>&#160;</div><div>通过这个实验，你会：&#160;\n</div><br><div>探究赛车的性能。&#160;</div><div>创造一款赛车，并找出可以使赛车速度加快的因素。&#160;</div><div>展示你将赛车速度加快到极致的方法，并做记录。&#160;<font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><div><div><div><span style=\"line-height: 1.42857;\"><font size=\"4\">汽车如何能跑得更快?&#160;</font></span><br></div><div><font size=\"3\">&#160;</font></div><div><font size=\"3\">通过这个实验，你会：&#160;</font></div><div><font size=\"3\">• 探究赛车的性能。&#160;</font></div><div><font size=\"3\">• 创造一款赛车，并找出可以使赛车速度加快的因素。&#160;</font></div><div><font size=\"3\">• 展示你将赛车速度加快到极致的方法，并做记录。&#160;<br></font></div></div></div></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2. 速度"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">深层探究：</font></span><br></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\">以下每个实验需重复测试三次。&#160;</font></div><div><font size=\"3\">1.将赛车马达功率调至5档，换上大轮胎，将滑轮调至如图A。&#160;</font></div><div><font size=\"3\" color=\"#ffffff\">记录下你的发现。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. 将赛车马达功率调至5档，换上大轮胎，将滑轮调至如图B。&#160; </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3.思考是否有其他因素影响车速。</font></div><div><span style=\"font-size: 16px; line-height: 1.42857;\"><font color=\"#ffffff\">将你的发现与之前的探究做比较，并把结果记录下来。&#160;</font></span><br></div>"
+      }
+    ]
+  }
+}

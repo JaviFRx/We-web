@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<font size=\"3\">Bli inspirert av grunnmodellene i designbiblioteket, og bygg din egen løsning på dette prosjektet."
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><font size=\"4\">Hvordan kan forvarsler bidra til å redusere innvirkningen av sterke stormer?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette prosjektet skal du:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Utforske ulike værrelaterte farer som alle må være oppmerksomme på, som for eksempel tsunamier, tornadoer og orkaner, og de ulike varslingssystemene som finnes for å beskytte deg.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Lage og programmere en enhet som kan advare mennesker, slik at de kan evakuere før uværet kommer.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Presentere og dokumentere løsningen, og forklare hvordan den bidrar til å redusere innvirkningen på befolkningen.</font></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. Risikoalarmer"
+      }
+    ]
+  }
+}

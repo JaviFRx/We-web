@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<font size=\"3\">Max y Mia están evaluando los diferentes tipos de precipitaciones de su zona.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Quieren aprender cómo evitar que las precipitaciones impacten en el suelo de su zona.</font></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<font size=\"5\">Explora las preguntas de Max y Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. ¿Puedes describir los niveles de precipitación de cada estación de su zona por medio de un gráfico de barras?</font></div><div><font size=\"3\">2. ¿De qué manera influyen las precipitaciones en los niveles de agua de un río?</font></div><div><font size=\"3\">3. ¿De qué diferentes maneras se puede evitar una inundación?</font></div><div><font size=\"3\">4. ¿Puedes imaginar un dispositivo que pueda evitar que se produzcan inundaciones?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Comparte tus ideas y conceptos mediante la herramienta de documentación.</font></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<font size=\"5\">Usa los ladrillos:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Construye una compuerta de esclusa que controle el nivel del agua de un río.</font></div>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<font size=\"3\">Programa tu compuerta de esclusa para que se abra y cierre en el momento apropiado en función del gráfico de barras.</font>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<font size=\"4\">Diseña una solución:</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">Añade sensores a la compuerta de esclusa para automatizarla.</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">Considera uno de los siguientes puntos:</font></div><div><font size=\"3\">1. Añade una palanca al sensor de inclinación para operar la compuerta.</font></div><div><font size=\"3\">2. Añade un sensor de movimiento para detectar la crecida del agua.</font></div><div><font size=\"3\">3. Añade un bloque de Reproducción de sonido para activar el protocolo de emergencia.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Describe cómo has automatizado la compuerta de esclusa.</font></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<font size=\"5\">Finaliza el documento:</font><br><br><div><font size=\"3\">1. Describe tus diferentes prototipos.</font></div><div><font size=\"3\">2. Explica por qué has elegido tu solución final.</font></div><div><font size=\"3\">3. Organiza la información.</font></div><div><font size=\"3\">4. Inserta texto, fotos, capturas de pantalla o vídeos relevantes.</font></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<font size=\"5\">Comparte tus hallazgos:<br></font><br><div><font size=\"3\">Presenta, con tus propias palabras, de qué modo una compuerta de esclusa puede evitar que el agua cambie la forma del terreno.</font></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<font size=\"5\">Comparte tu proyecto</font>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<font size=\"5\">Diseña nuevas soluciones </font><div><font size=\"5\">con Max y Mia</font></div>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<font size=\"4\">¿Cómo reducir el impacto de la erosión del agua?</font><br><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">En este proyecto, harás lo siguiente:</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">Explorar las diferentes maneras en las que las precipitaciones pueden variar a lo largo de las estaciones y cómo el agua puede provocar daños si no se controla.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">Crear y programar una compuerta de esclusa para controlar el nivel de agua de un río.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">Presentar y documentar varias soluciones para impedir que el agua cambie la forma del terreno.</span></font></div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<font size=\"3\">Enciende el hub inteligente y conéctalo al dispositivo. Si necesitas ayuda, mira el vídeo.</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">Consulta el panel de ayuda para obtener asistencia.</font></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6. Prevención contra inundaciones"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<font size=\"5\">Diseña nuevas soluciones:</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construye otras funciones que pueda tener una compuerta.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Considera los siguientes puntos:&#160;</font></div><div><font size=\"3\">1. Dibuja un mapa de la localización de la compuerta de esclusa, incluyendo las áreas terrestres y fluviales.&#160;</font></div><div><font size=\"3\">2. Diseña<span style=\"line-height: 1.42857143;\">&#160;otro tipo de compuerta.</span></font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. Programa dos compuertas que permitan a un barco navegar por una parte de un río.&#160;</font></span></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Documenta tu nueva solución.</font></span><br></div>"
+      }
+    ]
+  }
+}

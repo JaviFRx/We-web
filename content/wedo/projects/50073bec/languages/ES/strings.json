@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "El caracol brillante"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\">Haz que el caracol emita un destello de luz verde.<br><br></font><font size=\"3\">1. Crea el programa tal como se indica.</font><br><br><div><div><font size=\"3\">2. Explicaos unos a otros cómo funciona el caracol.<br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">Sigue ayudando a Max y Mia (opcional):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Haz que haya muchos destellos.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programa el caracol para que haga otras cosas.</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">Max y Mia visitan un <font color=\"#000000\">acuario</font>. Ven un caracol raro.</font><div><font size=\"3\">Emite destellos de luz verde para comunicarse.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Quieren construir un modelo del caracol.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">¡Max y Mia necesitan tu ayuda!</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><div><font size=\"3\">En esta lección aprenderás a:<br><br></font><div><font size=\"3\">•&nbsp;Construir un modelo LEGO®</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Conectar el modelo a tu dispositivo</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programar</span><span style=\"line-height: 1.42857;\">&nbsp;el caracol para que emita un destello de luz</span></font></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">Enciende el hub inteligente y conéctalo al dispositivo.</font><br><br>"
+      }
+    ]
+  }
+}

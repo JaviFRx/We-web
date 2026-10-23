@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ef5e55e7-8c8e-4636-a984-85b2ed014ddf",
+        "string": "9a. 병렬 작업"
+      },
+      {
+        "refId": "c23b3939-a193-43d5-7b1d-80d79f76a0b0",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 메시지 \"abc\" 전송&nbsp;</div><br><div>3. 메시지 \"abc\"가 수신되면 시작&nbsp;</div><div>4. 화면에 이미지 3 표시&nbsp;</div><br><div>5. 메시지 \"abc\"가 수신되면 시작&nbsp;</div><div>6. 사운드 6 재생&nbsp;</div>"
+      },
+      {
+        "refId": "0a894d4e-7a21-494b-710e-cb0c9f22120f",
+        "string": "레고 모델이 없어도 이 프로그램을 테스트할 수 있습니다."
+      }
+    ]
+  }
+}

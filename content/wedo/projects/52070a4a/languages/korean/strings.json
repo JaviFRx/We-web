@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1ed6e30e-6c7f-4970-79b7-802f0fae7408",
+        "string": "<font size=\"3\">맥스와 미아가 공원에 나와 봄의 기운을 느끼며 꽃과 벌을 자세히 들여다보고 있어요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">맥스와 미아는 꽃을 피우는 식물과 꽃에 자주 찾아오는 동물 사이의 관계를 좀 더 자세히 알고 싶어 해요.</font></div>"
+      },
+      {
+        "refId": "e1f3b987-e02b-4478-1064-76a51d683354",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 꽃의 안쪽에는 무엇이 있을까요?</font></div><div><font size=\"3\">2. 생물체가 꽃의 번식에 어떻게 도움을 줄까요?&#160;</font></div><div><font size=\"3\">3. 이 과정을 무엇이라고 부르나요?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">문서화 도구를 이용해 아이디어를 공유하세요.</font></div>"
+      },
+      {
+        "refId": "90b1b939-544c-4339-32a7-7bf54f35a8e0",
+        "string": "<font size=\"5\">블록 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">꽃가루로 채워진 꽃 주위를 날아다니는 벌 모델을 조립하세요.</font></div>"
+      },
+      {
+        "refId": "248a9f42-8469-4c6e-b2b1-64c82f192e78",
+        "string": "<font size=\"3\">꽃가루를 얻으러 꽃에 내려앉도록 벌을 프로그래밍하세요.</font>"
+      },
+      {
+        "refId": "0c165a49-c4b1-402e-cc15-6fd169f3172d",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치를 연결하세요.&nbsp;</font><div><font size=\"3\">도움이 필요하면 비디오를 보아 주세요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">자세한 지침은 도움말 창을 보아 주세요.</font></div></div>"
+      },
+      {
+        "refId": "bd9689bb-8482-4a1c-24f4-c558e5fa63b6",
+        "string": "<font size=\"5\">모델 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">다른 수분매개체 동물을 조립하되,&#160;<span style=\"line-height: 1.42857143;\">다른 꽃</span><span style=\"line-height: 17.142858505249px;\">을 더 좋아하게 프로그래밍하세요.</span></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">다음 요소 중 하나를 고려하세요.</font></div><div><font size=\"3\">1. 튜브 모양의 꽃은 새들이 좋아해요.&#160;</font></div><div><font size=\"3\">2. 나비는 특정한 색의 꽃에 끌려요.&#160;</font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. 꽃가루 수분은 서로 다른 꽃 사이에서 일어나기도 해요.&#160;</font></span></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">자신이 만든 꽃과 수분매개체의 쌍이 서로 얼마나 어울리는지를 문서에 기록하세요.</font></div>"
+      },
+      {
+        "refId": "f2efc131-abe3-422b-36ea-9e1746fdda34",
+        "string": "<font size=\"5\">문서 최종 완성:</font><br><br><div><font size=\"3\">1. 모델의 한계를 설명하세요.</font></div><div><font size=\"3\">2. 정보를 정리하세요.</font></div><div><font size=\"3\">3. 중요한 텍스트, 사진, 화면 캡처 또는 비디오를 문서에 넣고, 식물의 번식에 도움을 주는 생물체가 자신의 모델을 통해 어떻게 표현되는지 설명하세요.</font></div>"
+      },
+      {
+        "refId": "22896aef-5632-4d2e-e0f8-b49593eabc3a",
+        "string": "<font size=\"5\">탐구 결과 공유:</font><br><br><div><font size=\"3\">수분매개체가 어떻게 식물의 번식에 기여하는지를 자신의 생각으로 발표하세요. 자신의 모델이 어떻게 식물의 수분 과정을 보여주는지를 구체적인 예를 들어 설명해 주셔야 해요. 그리고 자신이 만든 모델의 한계를 최소 하나 이상 지적하세요.</font></div>"
+      },
+      {
+        "refId": "e8080f5f-d4a8-4546-7c0d-f2cf11128489",
+        "string": "<div><font size=\"5\">모델의 추가적 활용&#160;</font></div><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "6d909856-1718-4a63-08d8-0a8b8c297284",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "59076eff-8410-43d6-3d73-ea4f58d9c3b4",
+        "string": "<div><font size=\"4\">어떤 생물체가 어떤 방법으로 식물의 생명주기에 도움을 주나요?</font><br><font size=\"3\"><br></font><div><font size=\"3\">이번 프로젝트의 과제:</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">여러 가지 동물이 식물의 번식에 어떻게 기여하는지를 조사하세요.</span><br></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>벌과 꽃 모델을 조립하고, 수분매개체와 식물 사이의 관계를 모방하여 프로그램을 작성하세요.</font></div><font size=\"3\">•&#160;<span style=\"color: inherit; line-height: 1.42857143;\">자신이 만든 여러 가지 식물과 수분매개체 모델을 문서에 기록하고 발표하세요.</span></font></div>"
+      },
+      {
+        "refId": "7f9c9614-0d01-4cd5-b7fa-504fc1294a98",
+        "string": "5. 식물과 수분매개체"
+      },
+      {
+        "refId": "322b8ea4-3045-4c2e-233f-94b00d524e24",
+        "string": "<font size=\"5\">모델의 추가적 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">꽃이 수분된 후의 식물 모델을 조립하고, 식물이 어떻게 씨를 퍼뜨리는지 보여주세요.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">다음 요소 중 하나를 고려하세요.</font></div><div><font size=\"3\">1. 꽃을 피우는 식물과 피우지 않는 식물이 씨앗을 퍼뜨리는 방법&#160;</font></div><div><font size=\"3\">2. 생물체의 힘을 빌어 씨앗을 퍼뜨리는 방법</font></div><div><font size=\"3\">3. 다른 방식으로 씨앗을 퍼뜨리는 방법</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">자신의 모델이 씨앗을 어떻게 퍼뜨리는지 문서에 기록하세요.</font></div>"
+      }
+    ]
+  }
+}

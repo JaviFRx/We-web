@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5f56efa-35f4-4614-a9ce-6b558bedaca7",
+        "string": "4b. 节奏"
+      },
+      {
+        "refId": "2788f2f5-c835-466a-4f11-d73b39f02515",
+        "string": "1. 当按压“A”时启动程序&nbsp;<div>2. 播放声音 24&nbsp;</div><div>3. 等待 0.5 秒&nbsp;</div><div>4. 无限重复第 2 步和第 3 步&nbsp;</div><br><div>5. 当按压“A”时启动程序&nbsp;</div><div>6. 播放声音 23&nbsp;</div><div>7. 等待 1 秒&nbsp;</div><div>8. 无限重复第 6 步和第 7 步&nbsp;</div><br><div>9. 启动程序&nbsp;</div><div>10. 播放声音 25</div>"
+      },
+      {
+        "refId": "ec5f9c9e-6d2d-41c9-8043-4bf4f5993e57",
+        "string": "LEGO 模型无需测试此程序。"
+      }
+    ]
+  }
+}

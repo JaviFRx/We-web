@@ -1,0 +1,689 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "Anleitung zur Software",
+      "subcategories": [
+        {
+          "title": "Die WeDo 2.0 Werkzeugleiste",
+          "elements": [
+            {
+              "title": "<p>Die Werkzeugleiste befindet sich am oberen Bildschirmrand. Hier können Sie:</p><ul><li>Durch Drücken auf das Home-Symbol zurück zur Lobby gehen</li><li>Die Projektbibliothek öffnen und auf Ihre WeDo 2.0 Projekte zugreifen</li><li>Die Konstruktionsbibliothek öffnen und Anregungen zum Bauen und Programmieren finden</li><li>Das Kameratool öffnen und auf die integrierten Foto-, Video- und Screenshot-Funktionen zugreifen</li><li>Das Dokumentationstool öffnen und auf Ihr Projektdokument zugreifen</li><li>Über das Hilfe-Symbol zusätzliche Informationen erhalten</li><li>Durch Drücken auf das Stopp-Symbol die Ausführung aller Befehle des Programms unterbrechen</li></ul><p>Die Schülerinnen und Schüler ziehen Blöcke in die Programmieroberfläche und legen sie dort ab. Auf diese Weise erstellen sie Programme. Sie können die einzelnen Programme starten, indem sie auf den Start-Block drücken. Wichtig Wenn Sie erneut auf das entsprechende Symbol in der Werkzeugleiste drücken, gelangen Sie zurück zur Programmieroberfläche.</p>",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "Die Projektbibliothek",
+          "elements": [
+            {
+              "title": "<p>In der Projektbibliothek können Sie auf Folgendes zugreifen:</p><ul><li>Erste-Schritte-Projekte</li><li>Geführte Projekte</li><li>Offene Projekte Wenn Sie eines dieser Projekte öffnen, wird zunächst ein Überblick über das Projekt angezeigt. Erst danach öffnet sich das Projekt.</li></ul>",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "Die Konstruktionsbibliothek",
+          "elements": [
+            {
+              "title": "<p>Die Konstruktionsbibliothek ist in zwei Bereiche gegliedert:</p><ul><li>Die Modellbibliothek</li><li>Die Programmbibliothek</li></ul><p>In der Modellbibliothek finden Sie:</p><ul><li>Basismodelle mit den dazugehörigen Bauanleitungen sowie Vorschlägen für die Programmierung</li><li>Zwei Modelle als Anregung, die auf den einzelnen Basismodellen aufbauen, sowie Fotos und Vorschläge für die Programmierung</li></ul>",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "<p>In der Programmbibliothek finden Sie:</p><ul start=\"3\"><li>Grundlegende Programmierfunktionen, die aus einer Reihe von Programmierblöcken bestehen; damit können die Schülerinnen und Schüler erste Erfahrungen mit einfachen Programmen sammeln</li><li>Zwei Funktionen als Anregung, die auf den grundlegenden Programmierfunktionen aufbauen</li></ul>",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "Das Tonaufnahmetool",
+          "elements": [
+            {
+              "title": "<p>Sie können in einem Projekt jederzeit auf das Tonaufnahmetool zugreifen. Mit dieser Funktion können Sie eigene Klänge aufnehmen. In der WeDo 2.0 Software wird jeweils der zuletzt aufgenommene Klang gespeichert. Sie können diesen Klang verwenden, indem Sie den Klang-Block mit der Eingabe 0 zu einem Programm hinzufügen:</p><ul><li>Drücken Sie auf das Mikrofon-Symbol, um das Fenster zu öffnen.</li></ul>",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "<ul start=\"2\"><li>Drücken Sie auf das Aufnahme-Symbol, um die Aufnahme zu starten.</li><li>Drücken Sie auf Play, um die Aufnahme abzuspielen.</li><li>Drücken Sie auf Stopp, um das Abspielen der Aufnahme zu beenden.</li></ul>",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "Das Kameratool",
+          "elements": [
+            {
+              "title": "<p>Im Kameratool:</p><ul><li>Drücken Sie auf die Aufnahme-Taste, um:</li><ul><li>Ein Foto aufzunehmen <li>Die Aufnahme eines Videos zu starten oder anzuhalten <li>Einen Screenshot aufzunehmen</ul><li>Drücken Sie auf das Fotoapparat-Symbol, um den Fotomodus auszuwählen.</li><li>Drücken Sie auf das Videokamera-Symbol, um den Videomodus auszuwählen.</li><li>Drücken Sie auf das Screenshot-Symbol, um den Screenshotmodus auszuwählen.</li></ul>",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "Einsatz des Lehrer-Assistenten",
+          "elements": [
+            {
+              "title": "<p>Einige Projekte enthalten den Lehrer-Assistenten. Darin finden Sie Materialien, die Sie bei der Unterrichtsvorbereitung und -umsetzung unterstützen sollen. Der Lehrer-Assistent enthält folgende Materialien:</p><ul><li>Überblick über das Projekt</li><li>Art des Projekts Verweise auf den Lehrplan</li><li>Vorbereitung</li><li>Fragen und Antworten für Diskussionen</li><li>Szenische Einführung</li><li>Bauhilfe</li><li>Programmierhilfe</li><li>Hilfethema: Kompetenzen des informatischen Denkens fördern</li><li>Hilfethema: Kompetenzen im Bereich „forschendes Lernen“ fördern</li><li>Hilfethema: Kompetenzen im Bereich „Modellbildung“ fördern</li><li>Unterstützung bei der Entwicklung von Kompetenzen im Bereich „Konstruieren“</li><li>Hilfethema: Kompetenzen im Bereich „Kommunikation“ fördern</li><li>Bewertungsraster</li></ul>",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "Hilfefunktion",
+          "elements": [
+            {
+              "title": "<p>Die Hilfefunktion enthält folgende Informationen:</p><ul><li>Die Bezeichnungen der einzelnen Programmierblöcke und kurze Beschreibungen dazu</li><li>Hinweise zum Verbindungsverfahren</li><li>Weitere relevante Informationen</li></ul>",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "Dokumentationstool",
+          "elements": [
+            {
+              "title": "<p>Im Dokumentationstool können die Schülerinnen und Schüler Texte, Bilder und Videos hinzufügen, um ihr Projekt zu dokumentieren:</p><ul><li>Drücken Sie auf das Symbol „Seite hinzufügen“, um eine neue Seite zum Dokument hinzuzufügen.</li><li>Drücken Sie auf das Symbol „Vorlage auswählen“, um ein Layout für die Seite auszuwählen.</li><li>Drücken Sie auf das Symbol „Seite löschen“, um die aktuell angezeigte Seite zu löschen.</li><li>Drücken Sie auf das Symbol „Exportieren“, um das Dokument als PDF oder als Bild-Datei zu speichern.</li><li>Drücken Sie auf das Symbol „Bild einfügen“, um ein auf dem Gerät gespeichertes Bild hinzuzufügen.</li><li>Drücken Sie auf das Symbol „Video einfügen“, um ein auf dem Gerät gespeichertes Video hinzuzufügen.</li><li>Drücken Sie auf das Symbol „Text einfügen“, um einen Text über das Gerät einzugeben.</li></ul>",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "Programmierblöcke",
+      "subcategories": [
+        {
+          "title": "Ablaufblöcke",
+          "elements": [
+            {
+              "title": "Start-Block",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": "Dieser Block wird ausschließlich am Anfang eines Programms platziert. Drücken Sie darauf, um das erstellte Programm zu starten.<br><i>Pseudocode: Programm starten</i>"
+            },
+            {
+              "title": "Start beim Drücken einer Taste",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": "Dieser Block wird ausschließlich am Anfang eines Programms platziert. Drücken Sie darauf oder auf den entsprechenden Buchstaben auf der Tastatur, um das erstellte Programm zu starten. Alle Programme mit dem gleichen Buchstaben werden gleichzeitig aktiviert.<br>Um den Buchstaben für die Aktivierung zu ändern, halten Sie den Block gedrückt, um die Tastatur zu öffnen.<br><i>Pseudocode: Programm bei Buchstabe „A“ starten</i>"
+            },
+            {
+              "title": "Start bei Nachricht",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": "Dieser Block wird ausschließlich am Anfang eines Programms platziert. Der Block wartet auf die richtige Nachricht. Sobald diese empfangen wird, startet er das erstellte Programm.<br><i>Pseudocode: Programm starten, wenn die Nachricht „…“ empfangen wird</i>"
+            },
+            {
+              "title": "Nachricht senden",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": "Dieser Block sendet eine Nachricht an die Programmieroberfläche. Alle Start-bei-Nachricht-Blöcke mit der gleichen Nachricht werden gleichzeitig aktiviert. Die Nachricht kann aus Buchstaben oder Zahlen bestehen.<br><i>Pseudocode: Nachricht „…“ senden</i>"
+            },
+            {
+              "title": "Warten auf",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": "Bei Verwendung dieses Blocks wartet das Programm darauf, dass etwas geschieht. Es kann eine vorgegebene Zeit lang oder auf eine Eingabe von einem Sensor warten. Damit dieser Block funktioniert, ist immer eine Eingabe erforderlich.<br><i>Pseudocode: Warten auf</i>"
+            },
+            {
+              "title": "Wiederholen",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": "Mit diesem Block können Befehle wiederholt werden. Die im Wiederholungsblock platzierten Blöcke werden in einer Schleife wiederholt. Daher nennt sich dieser Block auch „Schleifen-Block“.<br>Die Schleife kann unendlich oft, eine vorgegebene Zeit lang oder bis etwas geschieht wiederholt werden.<br><i>Pseudocode: Schritt ... unendlich oft wiederholen</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "Ausgabe: Motorblöcke",
+          "elements": [
+            {
+              "title": "Motor in diese Richtung starten",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": "Mit diesem Block wird der Motor so eingestellt, dass sich die Achse in die dargestellte Richtung dreht. Anschließend wird der Motor gestartet.<br>Drücken Sie auf den Block, um die Drehrichtung zu ändern.<br><i>Pseudocode: Startet den Motor in diese Richtung</i>"
+            },
+            {
+              "title": "Motor in jene Richtung starten",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": "Mit diesem Block wird der Motor so eingestellt, dass sich die Achse in die dargestellte Richtung dreht. Anschließend wird der Motor gestartet.<br>Drücken Sie auf den Block, um die Drehrichtung zu ändern.<br><i>Pseudocode: Startet den Motor in jene Richtung</i>"
+            },
+            {
+              "title": "Motorleistung",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": "Mit diesem Block wird der Motor auf eine vorgegebene Leistungsstufe eingestellt und gestartet. Diese Stufe kann auf einen Zahlenwert zwischen 0 und 10 eingestellt werden.<br><i>Pseudocode: Motor mit Leistungsstufe … starten</i>"
+            },
+            {
+              "title": "Motorlaufzeit",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": "Mit diesem Block wird der Motor für eine vorgegebene Zeit in Sekunden eingeschaltet. Die Laufzeit kann mit einem Eingangswert aus ganzen oder Dezimalzahlen eingestellt werden.<br><i>Pseudocode: Motor für … Sekunden starten</i>"
+            },
+            {
+              "title": "Motor aus",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": "Mit diesem Block wird die Bewegung des Motors unterbrochen.<br><i>Pseudocode: Motor stoppen</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "Ausgabe: LED-Blöcke",
+          "elements": [
+            {
+              "title": "Licht-Block",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": "Dieser Block lässt die LED am Smarthub in einer vorgegebenen Farbe aufleuchten. Die Farbe kann mit einem Zahlenwert zwischen 0 und 10 verändert werden.<br><br><i>Pseudocode: LED in Farbe&nbsp;9 (Rot) einschalten</i><br><i>Pseudocode: LED in Farbe 0 (keine Farbe) ausschalten</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "Ausgabe: Klang-Blöcke",
+          "elements": [
+            {
+              "title": "Klang abspielen",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": "Dieser Block spielt einen Klang ab. Der Klang kann aus einer in der Software verfügbaren Liste ausgewählt werden. Der Klang kann über einen Zahlenwert eingestellt werden. Wählen Sie den Klang mit der Nummer 0 aus, um einen selbst aufgenommenen Klang abzuspielen.<br><i>Pseudocode: Klang … abspielen</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "Ausgabe: Anzeige-Blöcke",
+          "elements": [
+            {
+              "title": "Hintergrundbild anzeigen",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": "Mit diesem Block können Sie einen Hintergrund anzeigen lassen. Eine Liste der verfügbaren Hintergrundbilder finden Sie in der Software. Das Hintergrundbild kann über einen Zahlenwert eingestellt werden.<br><i>Pseudocode: Bild … anzeigen</i>"
+            },
+            {
+              "title": "Anzeige-Block",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": "Mit diesem Block können Sie den Anzeigebereich in der Software aufrufen. Im Anzeigebereich werden Zahlen oder Buchstaben angezeigt.<br><i>Pseudocode: ... anzeigen</i>"
+            },
+            {
+              "title": "Zum angezeigten Wert hinzufügen",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": "Addiert die eingegebene Zahl mit der angezeigten Zahl. Geben Sie eine Zahl ein, die Sie addieren möchten. Drücken Sie auf den Block, um die Rechenoperation zu ändern.<br><i>Pseudocode: ... zum angezeigten Wert addieren</i>"
+            },
+            {
+              "title": "Vom angezeigten Wert abziehen",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": "Subtrahiert die eingegebene Zahl von der angezeigten Zahl. Geben Sie eine Zahl ein, die Sie subtrahieren möchten. Drücken Sie auf den Block, um die Rechenoperation zu ändern.<br><i>Pseudocode: ... vom angezeigten Wert subtrahieren</i>"
+            },
+            {
+              "title": "Mit dem angezeigten Wert multiplizieren",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": "Multipliziert die angezeigte Zahl mit einer eingegebenen Zahl. Geben Sie eine Zahl ein, mit der Sie die Anzeige multiplizieren möchten. Drücken Sie auf den Block, um die Rechenoperation zu ändern.<br><i>Pseudocode: Angezeigte Zahl mit ... multiplizieren</i>"
+            },
+            {
+              "title": "Angezeigten Wert dividieren durch",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": "Dividiert die angezeigte Zahl durch eine eingegebene Zahl. Geben Sie eine Zahl ein, durch die Sie die Anzeige dividieren möchten. Drücken Sie auf den Block, um die Rechenoperation zu ändern.<br><i>Pseudocode: Angezeigte Zahl durch ... dividieren</i>"
+            },
+            {
+              "title": "Anzeige schließen",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": "Mit diesem Block können Sie den Anzeigebereich in der Software schließen. Drücken Sie auf den Block, um die Größe zu verändern.<br><i>Pseudocode: Die Anzeige schließen</i>"
+            },
+            {
+              "title": "Volle Anzeige",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": "Mit diesem Block können Sie den Anzeigebereich als Vollbild anzeigen lassen. Drücken Sie auf den Block, um die Größe zu verändern.<br><i>Pseudocode: Den Anzeigebereich maximieren</i>"
+            },
+            {
+              "title": "Mittelgroße Anzeige",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": "Mit diesem Block können Sie den Anzeigebereich in Normalgröße anzeigen lassen. Drücken Sie auf den Block, um die Größe zu verändern.<br><i>Pseudocode: Den Anzeigebereich auf mittlere Größe einstellen</i>"
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "Eingaben: Eingaben für Sensoränderungen",
+          "elements": [
+            {
+              "title": "Abstand verändert sich",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": "Stellt den Bewegungssensormodus „Beliebige Abstandsänderung“ als Eingabe für einen Block ein."
+            },
+            {
+              "title": "Abstand wird kleiner",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": "Stellt den Bewegungssensormodus „Abstand zwischen Sensor und Objekt verkleinert sich“ als Eingabe für einen Block ein."
+            },
+            {
+              "title": "Abstand wird größer",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": "Stellt den Bewegungssensormodus „Abstand zwischen Sensor und Objekt vergrößert sich“ als Eingabe für einen Block ein."
+            },
+            {
+              "title": "In jene Richtung geneigt",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": "Stellt den Neigungssensormodus „In jene Richtung geneigt“ als Eingabe für einen Block ein."
+            },
+            {
+              "title": "In diese Richtung geneigt",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": "Stellt den Neigungssensormodus „In diese Richtung geneigt“ als Eingabe für einen Block ein."
+            },
+            {
+              "title": "Abwärts geneigt",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": "Stellt den Neigungssensormodus „Abwärts geneigt“ als Eingabe für einen Block ein."
+            },
+            {
+              "title": "Aufwärts geneigt",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": "Stellt den Neigungssensormodus „Aufwärts geneigt“ als Eingabe für einen Block ein."
+            },
+            {
+              "title": "Neigungssensor – Keine Neigung",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": "Stellt den Neigungssensormodus „Keine Neigung“ (oder waagerechte Position) als Eingabe für einen Block ein."
+            },
+            {
+              "title": "Beliebige Neigung (wackeln)",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": "Stellt den Neigungssensormodus „Beliebige Neigung“ als Eingabe für einen Block ein."
+            },
+            {
+              "title": "Lautstärke-Änderung",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": "Stellt den Geräuschsensormodus (vom Gerät) „Lautstärke-Änderung“ als Eingabe für einen Block ein."
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "Eingaben: Zahlen- und Texteingaben",
+          "elements": [
+            {
+              "title": "Neigungssensor-Eingabe",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": "Verwendet einen Zahlenwert vom Neigungssensor (0, 3, 5, 7, oder 9) als Eingabe für einen Block."
+            },
+            {
+              "title": "Bewegungssensor-Eingabe",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": "Verwendet den vom Bewegungssensor erkannten Wert (zwischen 0 und 10) als Eingabe für einen Block."
+            },
+            {
+              "title": "Geräuschsensor-Eingabe",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": "Verwendet den vom Geräuschsensor erkannten Wert (zwischen 0 und 10) als Eingabe für einen Block."
+            },
+            {
+              "title": "Zahleneingabe",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": "Verwendet einen Zahlenwert als Eingabe für einen Block."
+            },
+            {
+              "title": "Texteingabe",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": "Verwendet einen Textwert als Eingabe für einen Block."
+            },
+            {
+              "title": "Anzeige-Eingabe",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": "Verwendet den angezeigten Zahlenwert als Eingabe für einen Block."
+            },
+            {
+              "title": "Zufallseingabe",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": "Verwendet einen zufälligen Wert als Eingabe für einen Block. Der mögliche Zahlenbereich wird von dem Block bestimmt, für den die Eingabe verwendet wird."
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "Kommentare",
+          "elements": [
+            {
+              "title": "Sprechblase",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": "Mit der Sprechblase können Sie Kommentare zu einem Programm hinzufügen. Die Sprechblase ist kein Programmierblock."
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "Programmierblöcke",
+      "subcategories": [
+        {
+          "title": "Ablaufblöcke",
+          "elements": [
+            {
+              "title": "Block „Start“",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "Block „Start beim Drücken einer Taste“",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "Block „Start bei Nachricht“",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "Block „Klang abspielen“",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "Block „Nachricht senden“",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "Block „Warten auf“",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "Block „Wiederholen“",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "Aktionsblöcke",
+          "elements": [
+            {
+              "title": "Block „Motor im Uhrzeigersinn“",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "Block „Motor gegen den Uhrzeigersinn“",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "Block „Motorleistung“",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "Block „Motorlaufzeit“",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "Block „Motor aus“",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "Block „Licht“",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "Sensoreingabeblöcke",
+          "elements": [
+            {
+              "title": "Bewegungssensor-Eingabe",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "Abstand wird kleiner",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "Abstand wird größer",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "Abstand verändert sich",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "Neigungssensor-Eingabe",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "Aufwärts geneigt",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "Abwärts geneigt",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "Nach rechts geneigt",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "Nach links geneigt",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "Beliebige Neigung",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "Eingabeblöcke",
+          "elements": [
+            {
+              "title": "Texteingabe",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "Zahleneingabe",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "Zufallseingabe",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "Geräuschsensor-Eingabe",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "Anzeige-Eingabe",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "Anzeigeblöcke",
+          "elements": [
+            {
+              "title": "Block „Anzeige“",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "Block „Zum angezeigten Wert hinzufügen“",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "Block „Vom angezeigten Wert abziehen“",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "Block „Mit dem angezeigten Wert malnehmen“",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "Block „Angezeigten Wert teilen durch“",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "Block „Hintergrundbild anzeigen“",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "Block „Anzeige schließen“",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "Block „Mittelgroße Anzeige“",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "Block „Volle Anzeige“",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "Andere Blöcke",
+          "elements": [
+            {
+              "title": "Sprechblase",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "Verbindungsprozess",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS & Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "<p>Der WeDo 2.0 Smarthub 2 i/o nutzt die Energiesparfunktion von Bluetooth 4.0.</p> <p>Wenn Sie den WeDo 2.0 Smarthub zum ersten Mal verwenden, müssen Sie ihn mit Ihrem Gerät „koppeln“, damit beide Geräte wissen, wie sie sich sicher miteinander verbinden. Danach werden sich die beiden Geräte immer automatisch miteinander verbinden.</p> <p>Hinweis: Wenn Sie ein Tablet mit mehreren Benutzern verwenden, kann jeder Benutzer die globalen Bluetooth-Einstellungen ändern.</p> <p>Windows 7: Koppeln des WeDo 2.0 Smarthubs mit einem PC (Windows 7):</p> <ol> <li>Öffnen Sie „Start“ und wählen Sie „Geräte und Drucker“ aus.</li> <li>Klicken Sie im Fenster „Geräte und Drucker“ auf „Gerät hinzufügen“.</li> <li>Schalten Sie Ihren WeDo 2.0 Smarthub ein, indem Sie die blau leuchtende Taste drücken.</li> <li>Jetzt wird gleich der WeDo 2.0 Smarthub in der Liste verfügbarer Geräte angezeigt.<br> Wenn der Smarthub nicht erkannt wird: <ol> <li>Vergewissern Sie sich, dass Ihr Computer mit Bluetooth 4.0 kompatibel ist. Sie können dafür die Website Ihres Computerherstellers oder die dem Computer beiliegenden Dokumente zurate ziehen.</li> <li>Löschen Sie alle WeDo 2.0 Smarthubs aus der Geräteliste, die schon einmal mit dem Computer gekoppelt wurden, aber im Moment nicht mit ihm verbunden sind. Beginnen Sie dann erneut mit Schritt 2.</li> </ol> </li> <li>Wählen Sie Ihren WeDo 2.0 Smarthub aus und fahren Sie fort mit „Weiter“.</li> <li>Sie werden möglicherweise aufgefordert, einen Code einzugeben. Dieser lautet: 0000.</li> <li>Der WeDo 2.0 Smarthub ist jetzt mit ihrem Computer verbunden. In den Videoanleitungen zur Verbindung erfahren Sie, wie Sie den Smarthub in der Anwendung verwenden.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>Der WeDo 2.0 Smarthub 2 i/o nutzt die Energiesparfunktion von Bluetooth 4.0.</p> <p>Wenn Sie den WeDo 2.0 Smarthub zum ersten Mal verwenden, müssen Sie ihn mit Ihrem Gerät „koppeln“, damit beide Geräte wissen, wie sie sich sicher miteinander verbinden. Danach werden sich die beiden Geräte immer automatisch miteinander verbinden.</p> <p>Hinweis: Wenn Sie ein Tablet mit mehreren Benutzern verwenden, kann jeder Benutzer die globalen Bluetooth-Einstellungen ändern.</p> <p>Windows 8.1: Koppeln des WeDo 2.0 Smarthubs mit einem PC (Windows 8.1):</p> <ol> <li>Öffnen Sie „Start“ und wählen Sie „Geräte und Drucker“ aus.</li> <li>Klicken Sie im Fenster „Geräte und Drucker“ auf „Gerät hinzufügen“.</li> <li>Schalten Sie Ihren WeDo 2.0 Smarthub ein, indem Sie die blau leuchtende Taste drücken.</li> <li>Jetzt wird gleich der WeDo 2.0 Smarthub in der Liste verfügbarer Geräte angezeigt.<br> Wenn der Smarthub nicht erkannt wird: <ol> <li>Vergewissern Sie sich, dass Ihr Computer mit Bluetooth 4.0 kompatibel ist. Sie können dafür die Website Ihres Computerherstellers oder die dem Computer beiliegenden Dokumente zurate ziehen.</li> <li>Löschen Sie alle WeDo 2.0 Smarthubs aus der Geräteliste, die schon einmal mit dem Computer gekoppelt wurden, aber im Moment nicht mit ihm verbunden sind. Beginnen Sie dann erneut mit Schritt 2.</li> </ol> </li> <li>Wählen Sie Ihren WeDo 2.0 Smarthub aus und fahren Sie fort mit „Weiter“.</li> <li>Sie werden möglicherweise aufgefordert, einen Code einzugeben. Dieser lautet: 0000.</li> <li>Der WeDo 2.0 Smarthub ist jetzt mit ihrem Computer verbunden. In den Videoanleitungen zur Verbindung erfahren Sie, wie Sie den Smarthub in der Anwendung verwenden.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>Starten Sie WeDo 2.0 und öffnen Sie das Verbindungsfenster.</li> <li>Drücken Sie die grüne Taste auf dem WeDo 2.0 Smarthub.</li> <li>Klicken/drücken Sie auf den gewünschten Smarthub, um eine Verbindung herzustellen. Wenn Ihr Smarthub nicht erkannt wird:</li> <ol> <li>Vergewissern Sie sich, dass Ihr Computer mit Bluetooth 4.0 (auch bekannt als Bluetooth Low Energy oder Bluetooth Smart) kompatibel ist. Informationen dazu finden Sie auf der Hersteller-Website oder in der mit Ihrem Computer gelieferten Dokumentation.</li> <li>Öffnen Sie im „Start“-Menü „Einstellungen“ (Zahnrad-Symbol). Wählen Sie dort „Geräte“ und anschließend „Bluetooth“ aus. Löschen Sie als nächstes alle WeDo 2.0 Smarthubs, zu denen früher schon einmal eine Verbindung hergestellt wurde, aber die derzeit nicht verbunden sind. Wählen Sie die entsprechenden Smarthubs in der Geräteliste aus und klicken Sie auf „Gerät entfernen“.</li> <li>Gehen Sie zurück zur Anwendung WeDo 2.0 und wiederholen Sie den Verbindungsprozess ab Schritt 2 (siehe oben).</li> </ol> <li>Wählen Sie Ihren WeDo 2.0 Smarthub aus der Liste verfügbarer Geräte aus.</li> <li>Wenn Sie aufgefordert werden, den Smarthub zu koppeln, klicken Sie auf die Schaltfläche „Erlauben“ und anschließend auf „Schließen“.</li> </ol> <p><b>Sollte der Verbindungsversuch unter Windows 10 fehlschlagen, befolgen Sie die auf dem Bildschirm angezeigten Anweisungen.</b></p> <ol> <li>Drücken Sie die grüne Taste, wenn Sie dazu aufgefordert werden.</li> <li>Wenn der Verbindungsversuch erneut fehlschlägt, klicken Sie auf „Erneut versuchen“. Versuchen Sie noch einmal die Verbindung mit dem Smarthub herzustellen. Nutzen Sie dafür entweder das Dialogfenster (falls es sich öffnet) oder wiederholen Sie den Verbindungsprozess ab Schritt zwei (siehe oben).</li> <li>Wenn Sie die Verbindung zum Smarthub hergestellt haben, wird er im Verbindungstool als „verbunden“ angezeigt.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Öffnen Sie das Verbindungstool.</li> <li>Halten Sie die grüne Taste auf dem WeDo 2.0 Smarthub gedrückt, bis dessen Name im Verbindungsfenster erscheint.</li> <li>Klicken Sie auf den entsprechenden Smarthub-Name, um eine Verbindung herzustellen.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

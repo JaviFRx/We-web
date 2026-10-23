@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<font size=\"3\">Max et Mia ont remarqué que les voitures de course ont beaucoup changé depuis que la première a été inventée.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Ils souhaitent étudier comment une voiture peut aller plus vite.</font></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Quels moyens ont été utilisés pour améliorer la vitesse des voitures&#160;?</font></div><div><font size=\"3\">2. Quels facteurs influencent le temps nécessaire pour qu’une voiture parcoure une certaine distance&#160;?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Partagez vos idées au moyen de l’outil de documentation.</font></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construisez une voiture de course pouvant avancer, puis s’arrêter à la ligne d’arrivée.</font></div>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "<font size=\"3\">Programmez votre voiture de course pour qu’elle avance sur une distance de 2 mètres ou plus.</font>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<font size=\"5\">Recherchez avec Max et Mia&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Réglez la puissance du moteur sur 10.</font></div><div><font size=\"3\">1. Exécutez le programme avec les petites roues. Effectuez ce test trois fois.</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Documentez votre test</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">2. Remplacez les petites roues par les grandes roues et recommencez l’étape&#160;1.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Prévoyez le temps nécessaire pour que la voiture parcoure une distance deux fois plus longue, avec les petites roues et avec les grandes roues.</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Documentez vos prévisions</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">4. Testez vos prévisions avec les petites roues et avec les grandes roues.</font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Documentez vos découvertes.</font></span></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<font size=\"5\">Terminez votre document&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Examinez vos prévisions et expliquez ce qui s’est produit pendant cette recherche.</font></div><div><font size=\"3\">2. Organisez vos informations pour les partager avec d’autres.</font></div><div><font size=\"3\">3. Insérez dans votre projet des textes, images, captures d’écran ou vidéos importants.</font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">En vous basant sur vos recherches et en utilisant vos propres mots, présentez les facteurs qui font aller une voiture plus vite.</font></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<font size=\"5\">Allez plus loin&#160;</font><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">Comment une voiture peut-elle aller plus vite&#160;?</font></span><br></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">Dans ce projet, vous allez&#160;:</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Explorer les caractéristiques d’une voiture de course.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Créer et programmer une voiture de course pour étudier les facteurs qui peuvent la faire aller plus vite.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Documenter et présenter des moyens pour que votre voiture soit la plus rapide.</font></div>"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<font size=\"5\">Recherche supplémentaire&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Exécutez le programme avec les grandes roues, la puissance du moteur réglée sur 5 et la configuration de poulies A. Effectuez ce test trois fois.</font></div><div><font color=\"#ffffff\" size=\"3\">Documentez vos découvertes.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Remplacez la configuration de poulies par la configuration B et recommencez l’étape&#160;1.</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Recherchez d’autres facteurs qui influencent la vitesse d’une voiture.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Comparez ces découvertes à celles de votre recherche précédente et documentez les résultats de cette comparaison.</font></span></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2. Vitesse"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fbadd076-3c96-4231-a39a-80b81d55e499",
+        "string": "10a. 무작위 시간 대기"
+      },
+      {
+        "refId": "21742926-c43b-437f-41f8-b25fb615f850",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 이 방향으로 모터 작동&nbsp;</div><div>3. 무작위 숫자(초) 대기&nbsp;</div><div>4. 모터 멈춤</div>"
+      }
+    ]
+  }
+}

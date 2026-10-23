@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "482c5392-d024-4315-a8db-f4acecc3f44d",
+        "string": "22. Emotionale Gestaltung"
+      },
+      {
+        "refId": "9ba064a0-ce30-463e-0826-cb0cfff554e2",
+        "string": "<div><font size=\"5\">Wie kann ein Roboter bei Menschen positive Gefühle hervorrufen?&nbsp;</font></div><br><div>In diesem Projekt werdet ihr:&nbsp;</div><div>- lernen, wie ein Roboter positive Gefühle bei Menschen hervorrufen kann&nbsp;</div><div>- einen Roboter bauen und programmieren, der mit Menschen interagieren und Gefühle hervorrufen kann&nbsp;</div><div>- eure Programme in verschiedenen Situationen testen und Daten über euren Prototyp aufzeichnen&nbsp;</div><div>- eure Programme vorstellen und Ideen untereinander austauschen&nbsp;</div><div>- eure Ergebnisse dokumentieren und präsentieren</div>"
+      },
+      {
+        "refId": "6c7fdc7c-74c6-434c-2738-081b21424fd9",
+        "string": "<div style=\"text-align: center;\">Schaut euch die Basismodelle in der Modellbibliothek an und lasst euch beim Bau eures Modells davon inspirieren.</div>"
+      },
+      {
+        "refId": "252b07a9-50b9-44d3-89b3-8e38912b2b8d",
+        "string": "<div style=\"text-align: center;\">Schaut euch die Basisprogramme in der Programmbibliothek an und lasst euch beim Programmieren eures Modells davon inspirieren.</div>"
+      }
+    ]
+  }
+}

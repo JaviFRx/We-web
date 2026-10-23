@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">이 세상의 건물이 모두 똑같지 않다는 것을 맥스와 미아가 알게 되었어요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">맥스와 미아는 건물을 더 강하고 안전하게 디자인하는 방법을 알고 싶어 해요.</font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\"><br></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">1. 무엇이 지진을 일으키며, 지진이 어떠한 위험을 불러 일으킬까요?</span><br></font></div><div><font size=\"3\">2. 과학자들은 어떻게 지진의 세기를 평가할까요?</font></div><div><font size=\"3\">3. 어떠한 요인이 지진에 대한 건물의 내성에 영향을 미칠 수 있을까요?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">문서화 도구를 이용해 아이디어를 공유하세요.</font></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<font size=\"3\">여러 가지 강도로 지진을 모의 실험할 수 있는 지진 시뮬레이터를 프로그래밍하세요.</font>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치를 연결하세요.&nbsp;</font><div><font size=\"3\">도움이 필요하면 비디오를 보아 주세요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">자세한 지침은 도움말 창을 보아 주세요.</font></div></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<font size=\"5\">맥스와 미아가 함께 하는 조사 활동:</font><br><br><div><font size=\"3\">1. 건물 B를 넘어뜨릴 수 있는 가장 약한 강도의 지진이 어느 정도인지 알아내세요. 같은 힘으로 건물 A를 테스트하세요.</font></div><div><font color=\"#ffffff\" size=\"3\">두 차례의 테스트 결과를 비교 평가하고 문서에 기록하세요.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. 동일한 프로그램을 실행하여 건물 B와 C를 흔들어 보세요.</font></div><div><font color=\"#ffffff\" size=\"3\">두 차례의 테스트 결과를 비교 평가하고 문서에 기록하세요.</font></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"5\">문서 최종 완성:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 자신이 예측한 값을 점검하고, 이번 조사에서 어떠한 일이 일어났는지 설명하세요.</font></div><div><font size=\"3\">2. 정보를 정리하고 다른 학생들과 공유하세요.</font></div><div><font size=\"3\">3. 중요한 글, 그림, 화면 캡처 또는 비디오를 프로젝트에 추가하세요.</font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">탐구 결과 공유:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">이번 실험을 통해 알아낸 결과에 기초하여 어떠한 요인이 건물을 지진에 더 잘 견디게 해 주는지를 탐구하고, 자신의 생각으로 그에 대한 증거를 제시하세요.</font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<font size=\"5\">블록 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">건물을 흔들 수 있는 지진 시뮬레이터를 조립하세요.</font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"5\">맥스와 미아가 함께 하는</font></div><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<font size=\"5\">지진에 견디는 힘을 높여 주는 다른 요인은 무엇인가요?</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">이번 프로젝트의 과제:</font></span></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">지진의 근원지와 특성을 조사하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">건물의 디자인을 테스트할 수 있는 장치를 만들고 프로그래밍하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">어느 구조 디자인이 지진에 가장 잘 견디는지에 관하여 자신이 찾아낸 해결 방법을 문서에 기록하고 발표하세요.</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. 견고한 구조물"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"5\">추가 조사:</font><div><span style=\"line-height: 17.142858505249px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1. 더 강한 지진을 이용해 조사를 다시 한다면 무슨 일이 일어날지 예측해 보세요.</font></div><div><font color=\"#ffffff\" size=\"3\">자신의 예측 값을 문서화하고, 두 번의 테스트 결과를 비교하여 문서에 기록하세요.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. 강도가 8인 지진에 견딜 수 있는 가장 높은 구조물을 조립하세요.</font></div></div>"
+      }
+    ]
+  }
+}

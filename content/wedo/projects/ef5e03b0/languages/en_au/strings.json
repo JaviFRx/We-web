@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "386f1b09-5068-4e7d-8049-aca38d9cce0b",
+        "string": "19. Send Messages"
+      },
+      {
+        "refId": "4e13b309-d018-4f5a-fffb-5f799f2bfb5e",
+        "string": "<div><font size=\"5\">How can we use patterns in order to transfer information?&#160;</font></div><br><div>In this project you will:&#160;</div><div>- Explore how messages can be transferred from one place to another&#160;</div><div>- Create and program a joystick that will allow you to send messages by using codes&#160;</div><div>- Test your program and invent new ways to exchange information&#160;</div><div>- Share your program and ideas for how to succeed in this project</div>"
+      },
+      {
+        "refId": "bda862d1-cad7-46e7-04ff-b1d748ed9b9a",
+        "string": "Max and Mia would like to transfer information using codes.&#160;<div><br><div>Help them to create a joystick to send messages.</div></div>"
+      },
+      {
+        "refId": "7dac5021-82f4-4666-b7ce-a044fc340fbb",
+        "string": "<font size=\"5\">Explore Max’s and Mia’s question:&#160;</font><div><span style=\"font-size: 20px;\"><br></span><div>1. What are some ways to send messages from one place to another?&#160;</div><div><font color=\"#ffffff\">2. What is one way to convert or change a message into a signal?</font></div></div>"
+      },
+      {
+        "refId": "c0bb2ea3-15ea-449a-4fda-9c01c1a77414",
+        "string": "<font size=\"5\">Use the bricks:</font><div><br><div>Build a joystick to send signals.&#160;</div><br><div>Program it to make a short sound in one position and a long sound in another position.</div></div>"
+      },
+      {
+        "refId": "030b70ca-ad0c-40de-a349-2e3154cf4b70",
+        "string": "1. Start program when ‘A’ is tapped&nbsp;<div>2. Wait for Tilt Sensor to detect Tilt Up&nbsp;</div><div>3. Play sound 21&nbsp;</div><div>4. Wait for Tilt Sensor to detect No Tilt&nbsp;</div><div>5. Repeat steps 2 to 4 forever&nbsp;</div><br><div>6. Start program when ‘A’ is tapped&nbsp;</div><div>7. Wait for Tilt Sensor to detect Tilt Down&nbsp;</div><div>8. Play sound 22&nbsp;</div><div>9. Wait for Tilt Sensor to detect No Tilt&nbsp;</div><div>10. Repeat steps 7 to 9 forever</div>"
+      },
+      {
+        "refId": "d5e2f867-55d7-4bcf-10b4-889c9c64dcab",
+        "string": "<font size=\"5\">Plan and try a solution:&#160;</font><div><span style=\"font-size: 20px;\"><br></span><div>Using short and long sounds as codes, program your joystick to send a message.&#160;</div><br><div>For example:&#160;</div><div>- Try to send the word ‘Max’ or ‘Mia’ using Morse code.</div></div>"
+      },
+      {
+        "refId": "425cc7a0-69a6-499f-c11f-3f17a17c6ff8",
+        "string": "<font size=\"5\">Test and modify your solution:&#160;</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">Program a message using your own signal system.</font></div></div>"
+      },
+      {
+        "refId": "36fcc814-8236-4957-0fa2-bd3e42dfe46e",
+        "string": "<font size=\"5\">Design new solutions</font><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "138add23-39e9-4e1f-5532-f74ae72932cc",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "86f0993b-c1a9-4f8e-1346-c395c349c0ef",
+        "string": "<font size=\"5\">Design new solutions:&#160;</font><div><br><div>Wireless communication needs antennas or satellites in order to send and receive messages.&#160;\n\n</div><br><div>Build and program a model of an antenna that can be used to send or receive messages. &#160;</div></div>"
+      },
+      {
+        "refId": "0684c9fc-c315-4c18-0a3d-c501973e1dbb",
+        "string": "<font size=\"5\">Organise&#160;your information:</font><div><br><div>For example:&#160;</div><div><font color=\"#ffffff\">- Take a screen capture of your final program.&#160;</font></div><div><font color=\"#ffffff\">- Record a video explaining your solution.</font></div></div>"
+      },
+      {
+        "refId": "149276a8-05bb-4b5d-4c50-be9bd35f5c50",
+        "string": "<font size=\"5\">Share your findings:&#160;</font><div><br><div>Present and explain your solutions.</div></div>"
+      },
+      {
+        "refId": "af3b93ec-567c-4029-1cc0-eb2e876cbaef",
+        "string": "Turn on the Smarthub and connect it to your device. Watch the video if you need help.&#160;<div><br><div>See the Help panel for more guidance.</div></div>"
+      }
+    ]
+  }
+}

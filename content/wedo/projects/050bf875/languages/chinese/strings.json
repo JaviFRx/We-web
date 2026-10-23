@@ -1,0 +1,74 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<div><font size=\"3\">Max（麦克斯）和 Mia（米娅）正在思考他们生活所在地的不同降水情况。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">他们想知道如何预防降水对土地的影响。&#160;<br></font></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<span style=\"line-height: 1.42857;\"><font size=\"4\">Max（麦克斯）和Mia（米娅）在探究中的疑问：</font></span><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 雨水是从哪里来的？&#160;</font></div><div><font size=\"3\">2. 积云和卷云都会发展成积雨云吗？&#160;</font></div><div><font size=\"3\">3. 可否通过柱状图表达你生活所在地每个季节的降水量？&#160;</font></div><div><font size=\"3\">4. 降水量如何影响河流的水位？</font></div><div><font size=\"3\">5. 有哪些方法可以预防洪水？&#160;</font></div><div><font size=\"3\">6. 你能设计一个可以预防发生洪水的装置吗？&#160;<font color=\"#ffffff\"><br></font></font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">用乐高文档来分享你的想法。</font><br></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<div><font size=\"3\">用乐高积木搭建一个水闸来控制河流水位。<br></font></div>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<span style=\"line-height: 1.42857;\"><font size=\"3\">根据降水柱状图，给你的水闸编写程序， 使其在适当的时候进行开关。</font></span>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"4\">设计一套方案：</font></span><br></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">给水闸安装上传感器，使其可以自动运行。&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\">思考下面的问题:</font></div><div><font size=\"3\">1. 通过安装倾斜传感器来控制阀门。&#160;</font></div><div><font size=\"3\">2. 通过运动传感器来检测水位的上升。&#160;</font></div><div><font size=\"3\">3. 通过插入声音来激活应急预案。&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\">思考：河流水位上升，会对两岸的土地造成更大的侵蚀吗？&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">描述你的水闸是如何实现自动运行的。&#160;</font><font color=\"#ffffff\" size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<div><font size=\"4\">完成你的乐高文档：</font></div><font size=\"3\"><br></font><div><font size=\"3\">1. 描述你不同的原始模型样本。</font></div><div><font size=\"3\">2. 解释你最后选择的方案。&#160;</font></div><div><font size=\"3\">3. 请将重要的照片、截屏、录像或文字插入到乐高文档中。&#160;</font></div><div><font size=\"3\">4. 整理并分享实验总结。&#160;<br></font></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<div><font size=\"3\">展示如何通过水闸来预防水对土地形态变化的影响。&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><font color=\"#ffffff\">＊注意语言的组织与专有名词的运用。&#160;</font><br></font></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<div><font size=\"4\">分享你的乐高成果。</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<div><font size=\"4\">与Max（麦克斯）和Mia（米娅）设计新方案。</font><font size=\"5\"><br></font></div>"
+      },
+      {
+        "refId": "0e2ec20c-ad0e-4656-a570-d205c9a91665",
+        "string": "<font size=\"3\">How can you reduce the impact of water erosion?</font><br><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><br><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">In this project, you will:</font></span></div><br><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><br><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Explore various ways that precipitation can change over seasons and how water can cause damage if it is not controlled.</font></span></div><br><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Create and program a floodgate to control the water level of a river.</font></span></div><br><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Present and document multiple solutions designed to prevent water from changing the shape of the land.</font></span></div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<div><font size=\"3\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">如需更多详细指导，请看帮助。 &#160;<br></font></div>"
+      },
+      {
+        "refId": "c003a33e-ec0a-4c4b-c835-9de2818b60d1",
+        "string": "<div><font size=\"5\">How can you reduce the impact of water erosion?</font><br><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\">In this project, you will:</span><br></div><br><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\">Explore various ways that precipitation can change over seasons and how water can cause damage if it is not controlled.</span><br></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Create and program a floodgate to control the water level of a river.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Present and document multiple solutions designed to prevent water from changing the shape of the land.</font></span></div></div>"
+      },
+      {
+        "refId": "8b13a4a3-b13d-421b-b4e7-b0a711bdece3",
+        "string": "<font size=\"5\">How can you reduce the impact of water erosion?</font><br><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\">In this project, you will:</span><br></div><br><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\">Explore various ways that precipitation can change over seasons and how water can cause damage if it is not controlled.</span><br></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Create and program a floodgate to control the water level of a river.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Present and document multiple solutions designed to prevent&#160;</font></span><span style=\"color: inherit; font-size: 16px; line-height: 1.42857143;\">water from changing the shape of the land.</span></div><div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857143;\"><br></span></div><div>怎样可以减少雨水对土地的侵蚀？&#160;\n</div><br><div>通过这个实验，你会：</div><div>通过多种方式探究降水量会随着季节而变化。</div><div>如果对水不加以控制，它会带来什么灾难。&#160;</div><div>创造一个水闸来控制河流的水位。&#160;</div><div>展示多种可以预防水给土地形态带来改变的方案，并做记录。&#160;<span style=\"color: inherit; font-size: 16px; line-height: 1.42857143;\"><br></span></div>"
+      },
+      {
+        "refId": "d1ef0e3f-fb24-40ad-ef69-b50feb6dba8f",
+        "string": "<div><font size=\"5\">How can you reduce the impact of water erosion?</font><br><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\">In this project, you will:</span><br></div><br><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\">Explore various ways that precipitation can change over seasons and how water can cause damage if it is not controlled.</span><br></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Create and program a floodgate to control the water level of a river.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Present and document multiple solutions designed to prevent&#160;</font></span><span style=\"color: inherit; font-size: 16px; line-height: 1.42857143;\">water from changing the shape of the land.</span></div><div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857143;\"><br></span></div><div>怎样可以减少雨水对土地的侵蚀？&#160;\n</div><br><div>通过这个实验，你会：</div><div>通过多种方式探究降水量会随着季节而变化。</div><div>如果对水不加以控制，它会带来什么灾难。&#160;</div><div>创造一个水闸来控制河流的水位。&#160;</div><div>展示多种可以预防水给土地形态带来改变的方案，并做记录。&#160;<span style=\"color: inherit; font-size: 16px; line-height: 1.42857143;\"><br></span></div></div>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<div><div><span style=\"line-height: 1.42857;\"><font size=\"4\">怎样可以减少雨水对土地的侵蚀？&#160;</font></span><br></div><font size=\"3\"><br></font><div><font size=\"3\">通过这个实验，你会：</font></div><div><font size=\"3\">• 通过多种方式探究降水量会随着季节而变化。</font></div><div><font size=\"3\">• 如果对水不加以控制，它会带来什么灾难。&#160;</font></div><div><font size=\"3\">• 创造一个水闸来控制河流的水位。&#160;</font></div><div><font size=\"3\">• 展示多种可以预防水给土地形态带来改变的方案，并做记录。&#160;</font><span style=\"color: inherit; font-size: 16px; line-height: 1.42857143;\"><br></span></div></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6. 预防洪水"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<font size=\"4\">设计新方案：</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">给水闸设置其他功能。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">思考以下内容，</font></div><div><font size=\"3\">1. 为了减少对土地的侵蚀，设计并建造一个理想的家园。 画一个有山地、有平原的地形，并将房屋、水闸和河水安置在其中。</font></div><div><font size=\"3\">2. 设计另一种类型的闸门。</font></div><div><font size=\"3\">3. 给两个闸门编写一套程序，使其可以减少河水对土地的侵蚀，并可为小船在河水中导航。&#160; </font></div><div><font size=\"3\" color=\"#ffffff\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">记录下你的新方案。&#160;</font></div>"
+      }
+    ]
+  }
+}

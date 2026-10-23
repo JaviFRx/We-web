@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "75afb6d6-6e0a-4df5-99ee-9b1d28f0b3f1",
+        "string": "5b.連続画像"
+      },
+      {
+        "refId": "8cfd5415-341b-4b7d-2e6e-2191d9d867cd",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.ディスプレイに画像25を表示する&nbsp;</div><div>3.1秒間待機する&nbsp;</div><div>4.ディスプレイに画像23を表示する&nbsp;</div><div>5.1秒間待機する&nbsp;</div><div>6.ディスプレイに画像26を表示する</div>"
+      },
+      {
+        "refId": "d18cf7ec-96ca-428b-ec5c-8c4291ad06ea",
+        "string": "このプログラムの試験にレゴモデルは不要です。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5d05ce93-c706-45c1-8a87-ebd2b16a8ac0",
+        "string": "7b. 降低速度"
+      },
+      {
+        "refId": "7cf59f5b-297c-4d14-e3fb-09e8f0ed8a46",
+        "string": "1. 启动程序&nbsp;<div>2. 在显示屏上显示文本“10”&nbsp;</div><div>3. 以显示屏上的数字所指示的功率启动电机&nbsp;</div><div>4. 将显示屏上的数字减 1&nbsp;</div><div>5. 重复第 3 步和第 4 步 10 次&nbsp;</div><div>6. 停止电机</div>"
+      }
+    ]
+  }
+}

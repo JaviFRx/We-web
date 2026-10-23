@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "bde3a4c8-8343-4606-a67a-7c78ebbec2f0",
+        "string": "2. Motordrehrichtung und Motorlaufzeit"
+      },
+      {
+        "refId": "c8a76834-03c1-4f5e-5cf4-ef882095f3f7",
+        "string": "1. Programm starten&nbsp;<div>2. Motor in diese Richtung starten&nbsp;</div><div>3. Motor 2 Sekunden lang starten</div>"
+      },
+      {
+        "refId": "71cb1533-f731-4515-92b3-fcf6ebbf1947",
+        "string": "1. Programm starten&nbsp;<div>2. Motor gegen den Uhrzeigersinn starten&nbsp;</div><div>3. Motor 0.5 Sekunden lang starten</div>"
+      }
+    ]
+  }
+}

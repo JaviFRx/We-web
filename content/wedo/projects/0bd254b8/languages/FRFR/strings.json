@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7bcba65e-a276-4894-8427-70e3313761f9",
+        "string": "6b. Histoire à l’écran"
+      },
+      {
+        "refId": "fa5342a9-8cb8-41e7-f127-1ac82ba4a6a1",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher le texte «&nbsp;Milo&nbsp;» à l’écran&nbsp;</div><div>3. Attendre 0,5&nbsp;seconde&nbsp;</div><div>4. Afficher le texte «&nbsp;Luna&nbsp;» à l’écran&nbsp;</div><div>5. Attendre 0,5&nbsp;seconde&nbsp;</div><div>6. Afficher l’image&nbsp;27 à l’écran</div>"
+      },
+      {
+        "refId": "f9ee9b05-829f-467b-509e-15b604fc3839",
+        "string": "Aucun modèle LEGO n’est nécessaire pour tester ce programme."
+      }
+    ]
+  }
+}

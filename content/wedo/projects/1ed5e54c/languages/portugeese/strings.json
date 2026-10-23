@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5348bb44-c747-4bcc-ab3b-8a1368e8d9cd",
+        "string": "9b. Enviar mensagens aleatórias"
+      },
+      {
+        "refId": "e0f98a27-bf25-4f43-c5f6-b330055efd81",
+        "string": "1. Iniciar programa&#160;<div>2. Mostrar um número aleatório no monitor&#160;</div><div>3. Enviar uma mensagem que corresponda ao número no monitor&#160;</div><br><div>4. Iniciar ao receber mensagem “1”&#160;</div><div>5. Reproduzir o som cujo número é mostrado no monitor&#160;</div><br><div>6. Iniciar ao receber mensagem “2”&#160;</div><div>7. Reproduzir o som cujo número é mostrado no monitor&#160;</div>"
+      },
+      {
+        "refId": "64381edb-26cf-4c95-0b16-f084e716f017",
+        "string": "Não é necessário nenhum modelo LEGO para testar este programa."
+      }
+    ]
+  }
+}

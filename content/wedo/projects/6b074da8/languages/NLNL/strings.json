@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c0163cd5-2132-4dc3-bed1-0dd1a46fbb6c",
+        "string": "14. Herhaling"
+      },
+      {
+        "refId": "ebd3a045-0318-491b-ce0c-2ee51f5580d8",
+        "string": "1. Start het programma&nbsp;<div>2. Speel geluid 1 af&nbsp;</div><div>3. Herhaal stap 2 eindeloos</div>"
+      },
+      {
+        "refId": "6aa083e3-07c5-47db-8116-ecc93be288cd",
+        "string": "1. Start het programma&nbsp;<div>2. Speel geluid 3 af&nbsp;</div><div>3. Herhaal stap 2 driemaal</div>"
+      },
+      {
+        "refId": "7714ede6-7b16-4a4b-777e-4e8e62d9a844",
+        "string": "Er is geen LEGO model vereist om dit programma te testen."
+      }
+    ]
+  }
+}

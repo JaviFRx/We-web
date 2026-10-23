@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c944736a-e1bc-41e0-91e6-e2b91761f4f4",
+        "string": "12a. Vilkårlig farve indtil hældning"
+      },
+      {
+        "refId": "5f630d14-f3d7-4282-ebde-bb191253d44b",
+        "string": "1. Start program&#160;<div>2. Tænd lys ved vilkårlig farve&#160;</div><div>3. Gentag trin 2, indtil hældningssensoren er vippet til venstre&#160;</div><div>4. Sluk lys ved farve 0 (ingen farve)&#160;</div><div>5. Vent 2 sekunder</div>"
+      }
+    ]
+  }
+}

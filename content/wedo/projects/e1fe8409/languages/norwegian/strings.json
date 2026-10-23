@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8c532bed-856d-4304-b8a5-1a24a79ab7d3",
+        "string": "11. Registrer bevegelse"
+      },
+      {
+        "refId": "c2c50a9e-a292-4508-9436-2d6ec6da173b",
+        "string": "1. Start program&#160;<div>2. Vent på at bevegelsessensoren registrerer bevegelse&#160;</div><div>3. Spill av lyd 6</div>"
+      },
+      {
+        "refId": "8bdc22f9-b828-48c1-8082-ca6a439dd4c9",
+        "string": "1. Start program&#160;<div>2. Vent på at bevegelsessensoren registrerer et objekt som beveger seg nærmere&#160;</div><div>3. Spill av lyd 10</div>"
+      }
+    ]
+  }
+}

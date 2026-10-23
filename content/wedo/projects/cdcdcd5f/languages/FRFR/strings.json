@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c944736a-e1bc-41e0-91e6-e2b91761f4f4",
+        "string": "12a. Couleur aléatoire jusqu’à l’inclinaison"
+      },
+      {
+        "refId": "5f630d14-f3d7-4282-ebde-bb191253d44b",
+        "string": "1. Lancer le programme&nbsp;<div>2. Allumer la LED en la définissant sur une couleur aléatoire&nbsp;</div><div>3. Recommencer l’étape&nbsp;2 jusqu’à ce que le détecteur d’inclinaison soit incliné à gauche&nbsp;</div><div>4. Éteindre la LED en la définissant sur la couleur&nbsp;0 (aucune couleur)&nbsp;</div><div>5. Attendre 2&nbsp;secondes</div>"
+      }
+    ]
+  }
+}

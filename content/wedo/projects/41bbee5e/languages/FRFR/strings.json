@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Le ventilateur"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">Quelle chaleur ! Il fait trop chaud dans le laboratoire de Max et Mia.<br><br></font><div><font size=\"3\">Ils veulent construire un ventilateur pour refroidir le labo.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max and Mia ont besoin de ton aide !</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Apporte ton aide à Max et Mia (facultatif) :</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Fais tourner le ventilateur à différentes vitesses. Puis arrête-le.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programme le ventilateur pour qu’il fasse d’autres actions.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Fais tourner le ventilateur.<br><br>1. Crée le programme comme présenté.</font><div><font size=\"3\"><br><font size=\"3\">2.&nbsp;</font></font><span style=\"line-height: 1.42857;\"><font size=\"3\">Explique comment fonctionne le ventilateur.</font></span><br></div><br>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><font size=\"3\">Au cours de cette leçon, tu apprendras à :</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Construire un modèle LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Connecter ton modèle à ton appareil</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programmer</span><span style=\"line-height: 1.42857;\">&nbsp;le moteur pour qu’il tourne à des vitesses différentes</span></font></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">Active le Smarthub et connecte-le à ton appareil.</font>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "Blinkende snegl"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\">Få sneglen til at give et grønt blink.<br><br></font><font size=\"3\">1. Sæt programmet sammen som vist.</font><br><br><div><div><font size=\"3\">2. Forklar hinanden, hvordan sneglen virker.</font><br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">Max og Mia har brug for mere hjælp&nbsp;(valgfrit):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Få lyset til at blinke mange gange.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmér sneglen til at gøre andre ting.</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">Max og Mia besøger et <font color=\"#000000\">akvarium</font>. De ser en sjælden snegl.</font><div><font size=\"3\">Sneglen bruger grønne blink til at kommunikere med.</font></div><font size=\"3\"><br></font><div><font size=\"3\">De vil bygge en model af sneglen.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max og Mia har brug for din hjælp!</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">I denne lektion lærer du at:<br><br></font><div><font size=\"3\">• bygge en LEGO® model</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• f</span><span style=\"line-height: 1.42857;\">orbinde din model med din enhed</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• programmere</span><span style=\"line-height: 1.42857;\"> sneglen, så den giver et blink.</span></font></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed.</font><br><br>"
+      }
+    ]
+  }
+}

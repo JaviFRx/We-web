@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8889bb08-cc03-4540-8448-ee67d3ab4e50",
+        "string": "17. Mondstation"
+      },
+      {
+        "refId": "42b013c8-6baa-4fff-0317-26f266cc064b",
+        "string": "<font size=\"3\"> Max und Mia sind fasziniert von Robotern, die Menschen bei der Arbeit helfen.&nbsp;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Jetzt wollen sie herausfinden, wie man mit einem Roboter eine Mondstation errichten kann. \n\nMax und Mia bauen einen Roboter, um eine Mondstation zu errichten.&nbsp;<br><br></font><div><font size=\"3\">Helft ihnen dabei, den Roboter so zu programmieren, dass er verschiedene Gegenstände einsammeln kann.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "e69e786b-066d-45cf-8ef1-a2411c598995",
+        "string": "<font size=\"5\">Max und Mia fragen sich:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. Wie kann man Dinge zum Mond bringen?&nbsp;</font></div><div><font size=\"3\">2. Wie können Dinge auf dem Mond landen?&nbsp;</font></div><div><font size=\"3\">3. Wie kann man eine Station auf dem Mond bauen?&nbsp;</font></div><div><font size=\"3\">4. Wie kann ein Roboter verschiedene Gegenstände einsammeln und zur Mondstation transportieren?&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Überlegt gemeinsam. Was vermutet ihr?&nbsp;</font></div><div><font size=\"3\">&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">Schreibt eure Ideen und ersten Lösungsvorschläge auf.\n&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "cfee27b3-529f-4b74-47af-baf64b172566",
+        "string": "<font size=\"5\">Verwendet die Bausteine:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Baut einen Roboter, der fahren und sich in verschiedene Richtungen drehen kann.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Programmiert ihn so, dass er verschiedene Gegenstände einsammeln und zur Mondstation transportieren kann.</font></div></div>"
+      },
+      {
+        "refId": "b532c30d-f275-477d-8070-209a6fbd1650",
+        "string": "<div><span style=\"color: inherit; font-size: 16px;\">1. Programm starten&nbsp;</span><br></div><div><font size=\"3\">2. Motor in diese Richtung starten&nbsp;</font></div><div><font size=\"3\">3. Motor mit Leistungsstufe 4 starten&nbsp;</font></div><div><font size=\"3\">4. Motor für 2 Sekunden starten&nbsp;</font></div><div><font size=\"3\">5. Motor in jene Richtung starten&nbsp;</font></div><div><font size=\"3\">6. Motor für 2 Sekunden starten</font></div>"
+      },
+      {
+        "refId": "7f368ff6-a865-4f73-ff7e-22283eaaa470",
+        "string": "<font size=\"5\">Entwerft eine Lösung und probiert sie aus:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\" color=\"#000000\">- Legt die Strecke, die zum ersten Gegenstand führen soll, für euren Roboter fest.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">- Programmiert euren Roboter so, dass er zum ersten Gegenstand fährt.&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font size=\"3\" color=\"#ffffff\">- Beschreibt eure erste Lösung.</font></div><div><font size=\"3\" color=\"#ffffff\">- Dokumentiert eure Verbesserungsvorschläge.</font></div></div>"
+      },
+      {
+        "refId": "cecfc75b-ac62-487b-12c5-367028a970ba",
+        "string": "<font size=\"5\">Testet eure Lösung und verbessert sie:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#000000\">- Legt die Strecke zum ersten und zweiten Gegenstand für euren Roboter fest.&nbsp;</font></div><font color=\"#000000\"><br></font><div><font color=\"#000000\">- Legt die Strecke zum Ziel für euren Roboter fest.&nbsp;</font></div><br><div>- Programmiert euren Roboter so, dass er diesen Strecken folgt.&nbsp;</div><br><div><font color=\"#ffffff\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\">- Beschreibt euren Entwicklungsprozess.</font></div><div><font color=\"#ffffff\">- Dokumentiert eure fertigen Lösungen.</font></div></div>"
+      },
+      {
+        "refId": "f929372d-e146-40cd-a16c-b25737005614",
+        "string": "<font size=\"5\"> Expertenauftrag </font><div><font size=\"5\"> </font></div>"
+      },
+      {
+        "refId": "91fbc3ae-c4f2-4e12-af7c-040827afa6bb",
+        "string": "<font size=\"5\">Ergebnisse vorstellen</font>"
+      },
+      {
+        "refId": "57541f06-6c38-4970-5c61-8e318eb1830a",
+        "string": "<font size=\"5\"> Expertenauftrag:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Vier neue Gegenstände sind auf dem Mond gelandet! Sie liegen in einem Rechteck.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Programmiert euren Roboter so, dass er die vier Gegenstände einsammelt.&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wie kann eurer Roboter Gegenstände auf dem Mond selber finden und einsammeln?&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Baut euren Roboter um und programmiert ihn entsprechend.&nbsp;\n</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font size=\"3\" color=\"#ffffff\">- Beschreibt euer Vorgehen.</font></div><div><font size=\"3\" color=\"#ffffff\">- Dokumentiert den Entwicklungsprozess und eure fertigen Lösungen.</font><br></div></div>"
+      },
+      {
+        "refId": "c50d5eeb-496e-4a96-5e43-db7edd6718cf",
+        "string": "<font size=\"5\"> Bereitet eure Präsentation vor:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. Beantwortet Max’ und Mias Fragen.&nbsp;</font></div><div><font size=\"3\" color=\"#000000\">2. Vergleicht eure verschiedenen Programme.</font></div><div><font size=\"3\" color=\"#000000\">3. Vergleicht eure ersten Lösungen mit der fertigen Lösung.</font></div><div><font size=\"3\" color=\"#000000\">4. Überarbeitet eure Dokumentation.</font></div><div><font color=\"#000000\"><font size=\"3\">5. Nehmt ein Video auf und erklärt darin eure Lösung</font><font size=\"3\">.</font></font></div></div>"
+      },
+      {
+        "refId": "11e6d357-ed21-4621-8de1-257a567749b3",
+        "string": "<font size=\"5\"> Präsentiert eure Ergebnisse:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Präsentiert eure Lösung und erklärt mit euren eigenen Worten die Funktion des Programms.</font></div></div>"
+      },
+      {
+        "refId": "0b9e4a01-e5c9-4ad8-a3f7-4f310b12d736",
+        "string": "<div><div><div><font size=\"5\">Wie könnte man auf dem Mond eine Mondstation errichten?</font></div><br><div>In diesem Projekt werdet ihr:&nbsp;</div><div>&nbsp;- lernen, warum Menschen eine Mondstation auf dem Mond bauen wollen und wie sie das machen könnten&nbsp;</div><div>&nbsp;- einen Roboter bauen, der auf dem Mond fahren kann&nbsp;&nbsp;</div><div>&nbsp;- ein Programm schreiben, mit dem euer Roboter verschiedene Gegenstände einsammeln kann&nbsp;</div><div>&nbsp;- eure Programme vorstellen und Ideen untereinander austauschen&nbsp;</div><div>&nbsp;- eure Ergebnisse dokumentieren und präsentieren</div></div></div>"
+      },
+      {
+        "refId": "e4effe28-5fa1-42ad-ae93-1fa15fb20754",
+        "string": "<font size=\"3\"> Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&nbsp;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\"> Im Hilfebereich findet ihr noch mehr nützliche Informationen.&nbsp;</font></div></div></div>"
+      }
+    ]
+  }
+}

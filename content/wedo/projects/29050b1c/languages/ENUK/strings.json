@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<font size=\"3\">Max and Mia have noticed that race cars have changed in many ways since they were first invented.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">They wish to investigate how a car can go faster.</font></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<font size=\"5\">Explore Max’s and Mia's questions:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. In what ways have cars been improved to enable them to travel at higher speeds?</font></div><div><font size=\"3\">2. What factors influence the time it takes a car takes to travel a set distance?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Share your ideas using the Documentation tool.</font></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Build a race car that can move forward and stop at the finish line.</font></div>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "Program your race car to move forward over a distance of 2 meters or more.<br>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you need help.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Refer to the Help panel for more guidance.</font></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<font size=\"5\">Investigate with Max and Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Set the motor power level to 10.</font></div><div><font size=\"3\">1. Run the program with the small wheels, and repeat three times.&nbsp;</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Document your test</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">2. Change to the big wheels, repeat step 1.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Predict how much time it will take for the car to travel twice the distance with the small and big wheels.</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Document your predictions</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">4. Test your prediction with the small and big wheels.</font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Document your findings.</font></span></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<font size=\"5\">Finalise your document:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Review your prediction, and explain what happened in this investigation.</font></div><div><font size=\"3\">2. Organise your information to share with others.</font></div><div><font size=\"3\">3. Insert important text, pictures, screenshots or videos into your project.</font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<font size=\"5\">Share your findings:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Based on your investigations, present in your own words what factors make a car go faster.</font></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<font size=\"5\">Investigate more&#160;</font><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">How can a car go faster?</font></span><br></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">In this project, you will:</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Explore the features of a race car.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Create and program a race car to investigate what factors would increase its speed.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Document and present ways to make your car go the fastest.</font></div>"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<font size=\"5\">Investigate more:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Run the program on motor power 5 using the big wheels and pulley configuration A. Repeat three times.&#160;</font></div><div><font color=\"#ffffff\" size=\"3\">Document your findings.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Change to pulley configuration B, and repeat step 1.&#160;</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Find other factors that influence the speed of the car.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Document how these findings compare to those of your previous investigation.</font></span></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2. Speed"
+      }
+    ]
+  }
+}

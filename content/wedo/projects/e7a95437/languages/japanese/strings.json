@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "abe58040-caca-4821-9462-b1e537383b01",
+        "string": "デザインライブラリにある基本モデルを参考にして、このプロジェクトの課題に対するオリジナルの解決策を作ってみましょう。"
+      },
+      {
+        "refId": "5dbcbe83-c813-45e9-0c35-d6cbd095991d",
+        "string": "<div><div><font size=\"4\">コミュニケーションは動物たちが生き延びるのにどのように役立っているのでしょうか？</font><font size=\"3\"><span style=\"line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">このプロジェクトの内容：</span><br></font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">暗闇で光る特別な力など、動物や昆虫が仲間とコミュニケーションをとる方法について考える。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">動物や昆虫のモデルを、組み立ててプログラミングし、その生き物が仲間と交流する方法を再現する。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">選んだ生き物が、仲間とどのようにコミュニケーションをとり、それがその生き物にどのように役立つのかを説明する資料を作成し、発表する。</font></font></div></div>"
+      },
+      {
+        "refId": "2e31136e-0888-421a-a08b-1a26dc5c41ad",
+        "string": "10.動物のからだのはたらき"
+      }
+    ]
+  }
+}

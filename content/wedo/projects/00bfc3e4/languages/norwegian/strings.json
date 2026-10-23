@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9c38d06d-7a47-449e-9aaa-4de343fd7721",
+        "string": "12b. Joystick"
+      },
+      {
+        "refId": "99f1792a-9056-4984-1d98-d43ba2c54810",
+        "string": "1. Start program når A trykkes ned&#160;<div>2. Vent på at vippesensoren registrerer Vipp ned&#160;</div><div>3. Start Kjør fremover&#160;</div><div>4. Gjenta trinn 2 og 3 for alltid.&#160;</div><br><div>5. Start program når A trykkes ned&#160;</div><div>6. Vent på at vippesensoren registrerer Ingen vipp.&#160;</div><div>7. Stans motor&#160;</div><div>8. Gjenta trinn 6 og 7 for alltid</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "a37c33da-10a6-4999-93e4-0e39db2ec5ad",
+        "string": "<font size=\"3\">Kig på grundmodellerne i designbiblioteket, og få idéer til, hvordan du kan bygge din egen løsning til dette projekt.</font>"
+      },
+      {
+        "refId": "1d8a916d-52f6-411b-7707-13e1316d104e",
+        "string": "<div><font size=\"4\">Hvordan kan indvirkningen på miljøet og dyrelivet reduceres?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette projekt skal du:<br></font><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">undersøge, hvad anlæggelse af veje betyder for dyr og planter, og finde på muligheder, hvor man kan mindske påvirkningen</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">bygge og programmere en indretning, så dyr kan krydse farlige områder</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">fremlægge og dokumentere din løsning og forklare, hvordan vildtpassagen er designet med fokus på et bestemt dyr</font>.</font></div></div>"
+      },
+      {
+        "refId": "add4eed8-e8c9-41e1-921b-03edd27203b7",
+        "string": "15. Vildtpassager"
+      }
+    ]
+  }
+}

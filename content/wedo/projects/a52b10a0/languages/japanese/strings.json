@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<font size=\"3\">デザインライブラリにある基本モデルを参考にして、このプロジェクトの課題に対するオリジナルの解決策を作ってみましょう。</font>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">物を積み重ねることで、運搬がどのように楽になりますか？</font><font size=\"3\"><br></font></div><div><font size=\"3\">このプロジェクトの内容：</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">資材を運搬したり、梱包したりする様々な方法について考える。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">大きさの異なる物体を運搬や梱包することができる装置を、安全性、効率、保管しやすさを考慮しながら組み立て、プログラミングする。</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">安全性と効率を実現するために、どのようにデザインしたかを説明する資料を作成し、発表する。</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16.ものの運搬"
+      }
+    ]
+  }
+}

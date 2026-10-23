@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5f56efa-35f4-4614-a9ce-6b558bedaca7",
+        "string": "4b.リズム"
+      },
+      {
+        "refId": "2788f2f5-c835-466a-4f11-d73b39f02515",
+        "string": "1.「A」キーの操作でプログラムをスタートさせる&nbsp;<div>2.サウンド24を再生する&nbsp;</div><div>3.0.5秒間待機する&nbsp;</div><div>4.ステップ2と3を永久に繰り返す&nbsp;</div><br><div>5.「A」キーの操作でプログラムをスタートさせる&nbsp;</div><div>6.サウンド23を再生する&nbsp;</div><div>7.1秒間待機する&nbsp;</div><div>8.ステップ6と7を永久に繰り返す&nbsp;</div><br><div>9.プログラムをスタートさせる&nbsp;</div><div>10.サウンド25を再生する</div>"
+      },
+      {
+        "refId": "ec5f9c9e-6d2d-41c9-8043-4bf4f5993e57",
+        "string": "このプログラムの試験にレゴモデルは不要です。"
+      }
+    ]
+  }
+}

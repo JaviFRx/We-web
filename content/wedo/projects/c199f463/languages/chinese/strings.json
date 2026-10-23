@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0199e382-b14e-4aba-a0cd-b3ad605d1bc1",
+        "string": "3b. 交通灯"
+      },
+      {
+        "refId": "9b6ee4fa-569a-4f4b-366f-6c3440d5636d",
+        "string": "1. 启动程序&nbsp;<div>2. 开启 LED 并显示颜色 9（红色）&nbsp;</div><div>3. 等待 2 秒&nbsp;</div><div>4. 开启 LED 并显示颜色 5（绿色）&nbsp;</div><div>5. 等待 2 秒&nbsp;</div><div>6. 开启 LED 并显示颜色 7（黄色）&nbsp;</div><div>7. 等待 2 秒&nbsp;</div><div>8. 无限重复第 2 步至第 7 步</div>"
+      }
+    ]
+  }
+}

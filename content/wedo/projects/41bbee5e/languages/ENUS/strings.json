@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Cooling Fan"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">It is  a hot day. Max and Mia’s science lab is too warm.<br><br></font><div><font size=\"3\">They want to build a fan to cool down the science lab.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max and Mia need your help!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Help Max and Mia further (optional):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Make the fan turn at different speeds. Then make it stop.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Program the fan to do other things.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Make the fan turn.<br><br>1. Create the program as shown.</font><div><font size=\"3\"><br>2. Explain to each other how the fan works.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">In this lesson, you will learn to:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Build a LEGO® model</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Connect your model to your device</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Program</span><span style=\"line-height: 1.42857;\">&nbsp;the motor to turn at different speeds</span></font></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device.</font>"
+      }
+    ]
+  }
+}

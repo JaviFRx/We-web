@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d8d0a44f-fe6f-460d-b65c-f544560e927e",
+        "string": "3a. Blink"
+      },
+      {
+        "refId": "7033c8ec-8f24-4405-7a2b-ba3e4b33ee4d",
+        "string": "1. Start program&#160;<div>2. Slå på LED ved farge 9 (rød)&#160;</div><div>3. Slå av LED ved farge 0 (ingen farge)&#160;</div><div>4. Gjenta trinn 2 og 3 for alltid&#160;</div>"
+      }
+    ]
+  }
+}

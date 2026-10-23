@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "e8882934-0b72-4b9a-9a00-0dfc746cffe8",
+        "string": "7. Operações"
+      },
+      {
+        "refId": "9e469857-bfeb-4310-ab6a-069a816616a9",
+        "string": "Não é necessário nenhum modelo LEGO para testar este programa."
+      },
+      {
+        "refId": "6a9e869b-db2a-48c4-e999-93768245f6bd",
+        "string": "1. Iniciar programa&#160;<div>2. Adicionar “1” ao número no monitor</div>"
+      },
+      {
+        "refId": "11e043a7-27ba-4daf-4e1f-0f4d11478e2d",
+        "string": "1. Iniciar programa&#160;<div>2. Subtrair “1” do número no monitor</div>"
+      }
+    ]
+  }
+}

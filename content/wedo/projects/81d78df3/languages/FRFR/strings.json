@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "bde3a4c8-8343-4606-a67a-7c78ebbec2f0",
+        "string": "2. Direction du moteur et temps du moteur"
+      },
+      {
+        "refId": "c8a76834-03c1-4f5e-5cf4-ef882095f3f7",
+        "string": "1. Lancer le programme&nbsp;<div>2. Démarrer le moteur dans le sens&nbsp;1&nbsp;</div><div>3. Démarrer le moteur pendant 2&nbsp;secondes</div>"
+      },
+      {
+        "refId": "71cb1533-f731-4515-92b3-fcf6ebbf1947",
+        "string": "1. Lancer le programme&nbsp;<div>2. Démarrer le moteur dans le sens&nbsp;2&nbsp;</div><div>3. Arrêter le moteur pendant 0,5&nbsp;seconde</div>"
+      }
+    ]
+  }
+}

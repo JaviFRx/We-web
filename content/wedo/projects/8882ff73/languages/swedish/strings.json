@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "98b4d326-2233-4773-8dae-54c99fc8d218",
+        "string": "11a. Flytta mot och bort"
+      },
+      {
+        "refId": "0bdd3730-9df7-47c9-a810-74e7f80a46f3",
+        "string": "1. Starta program&#160;<div>2. Vänta på att rörelsesensorn ska upptäcka rörelse&#160;</div><div>3. Starta motor åt det här hållet&#160;</div><div>4. Vänta på att rörelsesensorn ska upptäcka rörelse&#160;</div><div>5. Starta motor åt det hållet&#160;</div><div>6. Upprepa steg 2 till 5 oändligt</div>"
+      }
+    ]
+  }
+}

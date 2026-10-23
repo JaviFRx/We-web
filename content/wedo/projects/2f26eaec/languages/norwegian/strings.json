@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5c00a544-2a14-48b1-bfeb-cb02d08f36ff",
+        "string": "1b. Stans motor"
+      },
+      {
+        "refId": "c44b814b-fee7-4150-8e35-d671282234d1",
+        "string": "1. Start program&#160;<div>2. Start motoren ved styrke 1&#160;</div><div>3. Vent i 1 sekund&#160;</div><div>4. Stans motor</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9b799c0f-ffdf-4694-ae70-9173041428e5",
+        "string": "14a. Stop Loop with Sensor"
+      },
+      {
+        "refId": "330631af-42d0-427f-e123-6a94d1e390a1",
+        "string": "1. Start program&#160;<div>2. Start motor this way&#160;</div><div>3. Repeat step 2 until the Motion Sensor detects movement&#160;</div><div>4. Stop motor</div>"
+      }
+    ]
+  }
+}

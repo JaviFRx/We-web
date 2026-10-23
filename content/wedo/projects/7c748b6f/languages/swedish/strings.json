@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9cac809c-24e2-4f68-88d4-1ddb99993014",
+        "string": "1a. Öka hastigheten"
+      },
+      {
+        "refId": "54d37f58-f4fc-4a11-3501-8abb225c5590",
+        "string": "1. Starta program&#160;<div>2. Starta motor på styrka 1&#160;</div><div>3. Vänta i en sekund&#160;</div><div>4. Starta motor på styrka 5&#160;</div><div>5. Vänta i en sekund&#160;</div><div>6. Starta motor på styrka 10</div>"
+      }
+    ]
+  }
+}

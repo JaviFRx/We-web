@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0edf5ff0-95fb-4e55-b58d-d76f1dc9eff5",
+        "string": "6a. Décompter"
+      },
+      {
+        "refId": "e770e1e9-7976-46f7-0752-ef7bb2181814",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher le texte «&nbsp;3&nbsp;» à l’écran&nbsp;</div><div>3. Afficher le texte «&nbsp;2&nbsp;» à l’écran&nbsp;</div><div>4. Afficher le texte «&nbsp;1&nbsp;» à l’écran&nbsp;</div><div>5. Afficher le texte «&nbsp;0&nbsp;» à l’écran</div>"
+      },
+      {
+        "refId": "bfa4849d-f371-4d54-b08b-353592b49367",
+        "string": "Aucun modèle LEGO n’est nécessaire pour tester ce programme."
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "63c0d963-d7f9-4686-a549-ecb47d5f72e3",
+        "string": "2b. Mando en pantalla"
+      },
+      {
+        "refId": "64b721cf-a61b-408e-3645-17acdb5b769c",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Iniciar el motor en este sentido&nbsp;</div><br><div>3. Iniciar el programa&nbsp;</div><div>4. Iniciar el motor en otro sentido&nbsp;</div><br><div>5. Iniciar el programa&nbsp;</div><div>6. Parar el motor</div>"
+      }
+    ]
+  }
+}

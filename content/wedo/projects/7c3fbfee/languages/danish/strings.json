@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">Max og Mia brænder for at beskytte miljøet.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">De vil gerne finde ud af, hvordan man kan forbedre genbrugsmetoder, så der bliver mindre affald.</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">Undersøg Max' og Mias spørgsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hvad betyder genbrug?</font></div><div><font size=\"3\">2. Hvordan kan man sortere det affald, der skal genbruges, i dit område?</font></div><div><font size=\"3\">3. Kan du forestille dig en indretning, der kan sortere det affald, som kan genbruges, efter deres form?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del dine idéer i dokumentationsværktøjet.</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">Brug klodserne:</font><br><br><div><font size=\"3\">Byg en lastbil, der kan sortere de to genstande efter deres form.</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">Programmér lastbilens lad til at smide små genstande, der kan genbruges, på genbrugsstationen.</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed. Se videoen, hvis du har brug for hjælp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se panelet Hjælp, hvis du har brug for mere hjælp.</font></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">Design en løsning:</font><br><br><div><font size=\"3\">Ændr på lastbilen, så den kan sortere genstande i to forskellige grupper efter deres form.</font></div><br><div><font size=\"3\">Overvej én af de følgende opgaver:</font></div><div><font size=\"3\">1. Ændr designet af lastbilens lad.</font></div><div><font size=\"3\">2. Brug afstandssensor-inputtet til at finde formen på en genstand.</font></div><div><font size=\"3\">3. Sortér genstandene i lastbilen.</font></div><br><div><font color=\"#ffffff\" size=\"3\">Dokumentér din løsning ved at forklare, hvordan du har brugt genstandens form.</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">Gør dit dokument færdigt:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Beskriv dine forskellige prototyper.</font></div><div><font size=\"3\">2. Forklar, hvorfor du har valgt din endelige løsning.</font></div><div><font size=\"3\">3. Organisér dine oplysninger.</font></div><div><font size=\"3\">4. Indsæt vigtig tekst, billeder, skærmbilleder eller videoer.</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">Del dine resultater:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Fremlæg med dine egne ord, hvordan du kunne sortere forskellige æsker i forskellige placeringer.</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">Design nye løsninger&#160;</font><br><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">Del dit projekt</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<font size=\"4\">Hvordan kan du forbedre genbrugsmetoder, så der bliver mindre affald?</font><br><br><div><font size=\"3\">I dette projekt skal du:</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">undersøge, hvordan bedre sorteringsmetoder til genbrug kan hjælpe med at skære ned på den mængde affald, der smides væk</font></div>•&#160;<span style=\"font-size: medium; line-height: 1.42857143;\">bygge og programmere en indretning, der kan sortere genbrugsmateriale efter størrelse og form</span><br><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">fremlægge og dokumentere den løsning, du har udviklet.</font></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">Design nye løsninger:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Design en løsning til at sortere tre genstande efter eget valg.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Overvej én af de følgende opgaver:</font></div><div><font size=\"3\">1. Sortér genstandene ved hjælp af et transportbånd.&#160;</font></div><div><font size=\"3\">2. Sortér genstandene ved hjælp af en robotarm.&#160;</font></div><div><font size=\"3\">3. Sortér genstandene ved hjælp af to forskellige indretninger.&#160;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumentér din nye løsning.</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. Sortér til genbrug"
+      }
+    ]
+  }
+}

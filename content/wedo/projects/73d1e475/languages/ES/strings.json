@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">Max y Mia han observado que no todos los edificios del mundo tienen el mismo aspecto.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Quieren investigar de qué manera se pueden diseñar los edificios para que sean más resistentes y seguros.</font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">Explora las preguntas de Max y Mia:</font><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\"><br></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">1. ¿Qué provoca los terremotos y qué riesgos comportan?</span><br></font></div><div><font size=\"3\">2. ¿Cómo evalúan los científicos la intensidad de un terremoto?</font></div><div><font size=\"3\">3. ¿Qué factores pueden influir en la resistencia de un edificio durante un terremoto?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Comparte tus ideas y conceptos mediante la herramienta de documentación.</font></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<font size=\"3\">Programa el simulador de terremotos para que simule un terremoto de diversas magnitudes.</font>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">Enciende el hub inteligente y conéctalo al dispositivo. Si necesitas ayuda, mira el vídeo.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consulta el panel de ayuda para obtener asistencia.</font></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<font size=\"5\">Investiga con Max y Mia:</font><br><br><div><font size=\"3\">1. Busca el terremoto de menor intensidad que hará que caiga el edificio B. Prueba el edificio A con la misma magnitud.</font></div><div><font color=\"#ffffff\" size=\"3\">Documenta y compara los resultados de ambas pruebas.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Ejecuta el mismo programa para sacudir los edificios B y C.</font></div><div><font color=\"#ffffff\" size=\"3\">Documenta y compara los resultados de ambas pruebas.</font></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"5\">Finaliza el documento:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Revisa tus predicciones y explica qué ha ocurrido en esta investigación.</font></div><div><font size=\"3\">2. Organiza tu información para compartirla con otros.</font></div><div><font size=\"3\">3. Inserta texto, fotos, capturas de pantalla o vídeos relevantes en el proyecto.</font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">Comparte tus hallazgos:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">A partir de los hallazgos obtenidos durante estas investigaciones, argumenta con tus propias palabras qué factores hacen que un edificio esté mejor preparado para resistir un terremoto.</font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<font size=\"5\">Usa los ladrillos:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construye un simulador de terremotos que sea capaz de sacudir los edificios.</font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"5\">Sigue investigando </font></div><div><font size=\"5\">con Max y Mia</font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">Comparte tu proyecto</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<font size=\"5\">¿Qué factores contribuyen a que una estructura pueda resistir un terremoto?</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">En este proyecto, harás lo siguiente:</font></span></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Explorar el origen y la naturaleza de los terremotos.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Crear y programar un dispositivo que te permita probar tus diseños de edificios.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Presentar tus hallazgos y argumentar qué diseños de estructuras son más apropiados para resistir un terremoto.</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. Estructuras robustas"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"5\">Sigue investigando:</font><div><span style=\"line-height: 17.142858505249px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1. Predice lo que ocurriría si repitieses la investigación con un terremoto de gran magnitud.</font></div><div><font color=\"#ffffff\" size=\"3\">Documenta tus predicciones, y documenta y compara los resultados de ambas pruebas.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Construye la estructura más alta que pueda resistir un terremoto de magnitud 8.</font></div></div>"
+      }
+    ]
+  }
+}

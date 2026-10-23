@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9cac809c-24e2-4f68-88d4-1ddb99993014",
+        "string": "1a. 增加速度"
+      },
+      {
+        "refId": "54d37f58-f4fc-4a11-3501-8abb225c5590",
+        "string": "1. 启动程序&nbsp;<div>2. 以功率 1 启动电机&nbsp;</div><div>3. 等待 1 秒&nbsp;</div><div>4. 以功率 5 启动电机&nbsp;</div><div>5. 等待 1 秒&nbsp;</div><div>6. 以功率 10 启动电机</div>"
+      }
+    ]
+  }
+}

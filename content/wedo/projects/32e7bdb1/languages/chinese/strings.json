@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "765a1a50-52a3-42d1-bf5a-adb579d3db32",
+        "string": "3. 光线"
+      },
+      {
+        "refId": "e13efddc-e9e0-4a99-92ec-a7a349ec6ecb",
+        "string": "1. 启动程序<div>2. 开启 LED 并显示颜色 9（红色）</div>"
+      },
+      {
+        "refId": "9f50f589-5887-482f-2c6b-f3aea3632543",
+        "string": "1. 启动程序&nbsp;<div>2. 关闭 LED 显示颜色 0（无颜色）</div>"
+      }
+    ]
+  }
+}

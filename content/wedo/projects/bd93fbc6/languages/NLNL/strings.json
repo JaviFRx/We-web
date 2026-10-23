@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "35d30095-da52-4527-99ef-2f253c0cee29",
+        "string": "5a. Grootte weergeven"
+      },
+      {
+        "refId": "80154b18-9014-4b4a-671e-b2d8985f64c8",
+        "string": "1. Start het programma&nbsp;<div>2. Toon het beeldscherm in middelgrote weergave&nbsp;</div><div>3. Toon de tekst \"123\" op het beeldscherm&nbsp;</div><div>4. Wacht gedurende 1 seconde&nbsp;</div><div>5. Toon het beeldscherm in volledige weergave&nbsp;</div><div>6. Wacht gedurende 1 seconde&nbsp;</div><div>7. Sluit het beeldscherm</div>"
+      },
+      {
+        "refId": "681e019c-50fd-42a1-b5ee-e1a4b2482047",
+        "string": "Er is geen LEGO model vereist om dit programma te testen."
+      }
+    ]
+  }
+}

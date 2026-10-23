@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "163a6e08-7d8d-49ed-46a4-5e2c9257c54a",
+        "string": "<font size=\"3\">Inspírate en los modelos básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</font>"
+      },
+      {
+        "refId": "6f9a40b8-3dc4-4340-0f92-ab0ccb70392e",
+        "string": "<div><div><font size=\"4\">¿Cómo sobreviven los animales en su entorno?</font><font size=\"3\"><br></font></div><div><font size=\"3\">En este proyecto, harás lo siguiente:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorar las diferentes estrategias que emplean los animales para atrapar a su presa o escapar de sus depredadores.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Crear y programar un depredador o una presa con el fin de explorar la relación existente entre ellos.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentar y documentar tu modelo de animal, explicando la relaci</font>ón que existe entre dos especies y cómo estas se adaptan para sobrevivir.</font></div><br></div></div>"
+      },
+      {
+        "refId": "1e81cb50-cb3a-408c-a4cd-055ec83740d8",
+        "string": "9. Depredador y presa"
+      }
+    ]
+  }
+}

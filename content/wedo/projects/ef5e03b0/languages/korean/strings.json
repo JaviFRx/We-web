@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "386f1b09-5068-4e7d-8049-aca38d9cce0b",
+        "string": "19. 메시지 전송"
+      },
+      {
+        "refId": "4e13b309-d018-4f5a-fffb-5f799f2bfb5e",
+        "string": "<div><font size=\"5\">패턴을 이용해 정보를 전달하려면 어떻게 해야 하나요?&nbsp;</font></div><br><div>이 프로젝트의 과제:&nbsp;</div><div>- 메시지를 한 곳에서 다른 곳으로 전송하는 방법을 조사하세요.&nbsp;</div><div>- 코드를 이용해 메시지를 보낼 수 있는 조이스틱 장치를 만들고 프로그래밍하세요.&nbsp;</div><div>- 프로그램을 테스트하고 정보의 교환을 위한 새로운 방법을 발명하세요.&nbsp;</div><div>- 프로젝트를 성공으로 이끌기 위한 프로그램과 아이디어를 공유하세요.</div>"
+      },
+      {
+        "refId": "bda862d1-cad7-46e7-04ff-b1d748ed9b9a",
+        "string": "맥스와 미아가 코드를 이용해 정보를 전송하고 싶어해요.&nbsp;<div><br><div>메시지를 보낼 수 있는 조이스틱을 만들 수 있게 도와주세요.</div></div>"
+      },
+      {
+        "refId": "7dac5021-82f4-4666-b7ce-a044fc340fbb",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>1. 한 곳에서 다른 곳으로 메시지를 보내기 위한 방법으로는 어떠한 것들이 있나요?&nbsp;</div><div><font color=\"#ffffff\">2. 메시지를 신호로 변환하거나 바꾸기 위한 방법이 무엇인가요?</font></div></div>"
+      },
+      {
+        "refId": "c0bb2ea3-15ea-449a-4fda-9c01c1a77414",
+        "string": "<font size=\"5\">블록 활용:</font><div><br><div>신호를 전송할 조이스틱을 조립하세요.&nbsp;</div><br><div>한 위치에서는 짧은 신호를 생성하고 다른 위치에서는 긴 신호를 생성하도록 조이스틱을 프로그래밍하세요.</div></div>"
+      },
+      {
+        "refId": "030b70ca-ad0c-40de-a349-2e3154cf4b70",
+        "string": "1. “A”를 터치하면 프로그램 시작&nbsp;<div>2. 기울기 센서가 위로 기울기를 감지할 때까지 대기&nbsp;</div><div>3. 사운드 21 재생&nbsp;</div><div>4. 기울기 센서가 기울기 없음을 감지할 때까지 대기&nbsp;</div><div>5. 2부터 4까지의 단계를 무한 반복&nbsp;</div><br><div>6. “A”를 터치하면 프로그램 시작&nbsp;</div><div>7. 기울기 센서가 아래로 기울기를 감지할 때까지 대기&nbsp;</div><div>8. 사운드 22 재생&nbsp;</div><div>9. 기울기 센서가 기울기 없음을 감지할 때까지 대기&nbsp;</div><div>10. 7부터 9까지의 단계를 무한 반복</div>"
+      },
+      {
+        "refId": "d5e2f867-55d7-4bcf-10b4-889c9c64dcab",
+        "string": "<font size=\"5\">해법의 계획 및 시도:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>짧은 소리와 긴 소리를 코드로 이용해 메시지를 보내도록 조이스틱을 프로그래밍하세요.&nbsp;</div><br><div>예:&nbsp;</div><div>- 모르스 코드를 이용해 “Max” 또는 “Mia”라는 단어를 전송해보세요.</div></div>"
+      },
+      {
+        "refId": "425cc7a0-69a6-499f-c11f-3f17a17c6ff8",
+        "string": "<font size=\"5\">해법의 테스트 및 수정:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">자체 신호 시스템을 이용해 메시지를 프로그래밍하세요.</font></div></div>"
+      },
+      {
+        "refId": "36fcc814-8236-4957-0fa2-bd3e42dfe46e",
+        "string": "<font size=\"5\">새로운 해법 구상</font><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "138add23-39e9-4e1f-5532-f74ae72932cc",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "86f0993b-c1a9-4f8e-1346-c395c349c0ef",
+        "string": "<font size=\"5\">새로운 해법 구상:&nbsp;</font><div><br><div>무선 통신을 하려면 메시지의 송수신을 위한 안테나 또는 인공위성이 필요해요.&nbsp;\n\n</div><br><div>메시지를 송신하거나 수신하기 위한 안테나의 모델을 조립하고 프로그래밍하세요. &nbsp;</div></div>"
+      },
+      {
+        "refId": "0684c9fc-c315-4c18-0a3d-c501973e1dbb",
+        "string": "<font size=\"5\">정보의 정리:</font><div><br><div>예:&nbsp;</div><div><font color=\"#ffffff\">- 최종 프로그램의 화면을 캡처하세요.&nbsp;</font></div><div><font color=\"#ffffff\">- 해법에 대한 설명을 비디오로 기록하세요.</font></div></div>"
+      },
+      {
+        "refId": "149276a8-05bb-4b5d-4c50-be9bd35f5c50",
+        "string": "<font size=\"5\">조사 결과 공유:&nbsp;</font><div><br><div>해법을 발표하고 설명하세요.</div></div>"
+      },
+      {
+        "refId": "af3b93ec-567c-4029-1cc0-eb2e876cbaef",
+        "string": "Smarthub를 켜고 장치에 연결하세요.&nbsp;<div>도움이 필요하면 비디오를 보아주세요.&nbsp;<div><br><div>자세한 지침은 도움말 창을 보아주세요.</div></div></div>"
+      }
+    ]
+  }
+}

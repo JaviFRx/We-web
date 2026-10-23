@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "abe58040-caca-4821-9462-b1e537383b01",
+        "string": "Kig på grundmodellerne i designbiblioteket, og få idéer til, hvordan du kan bygge din egen løsning til dette projekt."
+      },
+      {
+        "refId": "5dbcbe83-c813-45e9-0c35-d6cbd095991d",
+        "string": "<div><div><font size=\"4\">Hvordan hjælper kommunikation dyrene med at overleve?</font><font size=\"3\"><span style=\"line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">I dette projekt skal du:</span><br></font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">undersøge de forskellige måder, som dyr kommunikerer på, bl.a. de specielle metoder hos de dyr og insekter, der lyser i mørket</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">bygge og programmere et dyr eller insekt for at vise, hvordan det indgår i en social sammenhæng med andre af samme art</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">fremlægge og dokumentere </font>din model og forklare, hvordan dyret kommunikerer, og hvordan det hjælper dyret.</font></div></div>"
+      },
+      {
+        "refId": "2e31136e-0888-421a-a08b-1a26dc5c41ad",
+        "string": "10. Dyreudtryk"
+      }
+    ]
+  }
+}

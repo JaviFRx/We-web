@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ef5e55e7-8c8e-4636-a984-85b2ed014ddf",
+        "string": "9a. Parallel Tasks"
+      },
+      {
+        "refId": "c23b3939-a193-43d5-7b1d-80d79f76a0b0",
+        "string": "1. Start program&nbsp;<div>2. Send message \"abc\"&nbsp;</div><br><div>3. Start when receiving message \"abc\"&nbsp;</div><div>4. Show image 3 on the display&nbsp;</div><br><div>5. Start when receiving message \"abc\"&nbsp;</div><div>6. Play sound 6&nbsp;</div>"
+      },
+      {
+        "refId": "0a894d4e-7a21-494b-710e-cb0c9f22120f",
+        "string": "No LEGO model is required to test this program."
+      }
+    ]
+  }
+}

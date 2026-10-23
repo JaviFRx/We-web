@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9b799c0f-ffdf-4694-ae70-9173041428e5",
+        "string": "14a. Stop herhaling met sensor"
+      },
+      {
+        "refId": "330631af-42d0-427f-e123-6a94d1e390a1",
+        "string": "1. Start het programma&nbsp;<div>2. Start de motor in deze richting&nbsp;</div><div>3. Herhaal stap 2 tot de bewegingssensor een beweging detecteert&nbsp;</div><div>4. Stop de motor</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fa06d35d-b20e-4d2f-87e4-745bcaa452b5",
+        "string": "10b. Zähler"
+      },
+      {
+        "refId": "fc5448ee-3ab4-4720-3bd4-b4fa2b033a35",
+        "string": "1. Programm starten&nbsp;<div>2. Text „0“ anzeigen&nbsp;</div><div>3. Zu der angezeigten Zahl 1 addieren&nbsp;</div><div>4. 1 Sekunde warten&nbsp;</div><div>5. Schritte 3 und 4 unendlich wiederholen</div>"
+      },
+      {
+        "refId": "e2efaf40-5853-4861-1af1-6c98ae46fcca",
+        "string": "Zum Testen des Programms ist kein LEGO® Modell erforderlich."
+      }
+    ]
+  }
+}

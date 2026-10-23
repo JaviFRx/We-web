@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "51383afe-870f-4845-8f5c-1560a43dce77",
+        "string": "10.指定時間待機"
+      },
+      {
+        "refId": "008ad605-0eb9-46a4-da9c-4a73e62ef265",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.LED を色9 (赤) でオンにする&nbsp;</div><div>3.2秒間待機する&nbsp;</div>"
+      },
+      {
+        "refId": "06063442-baa9-4c2e-4b9e-e61ca4ae17f2",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.2秒間待機する&nbsp;</div><div>3.LED を色9 (赤) でオンにする&nbsp;</div>"
+      }
+    ]
+  }
+}

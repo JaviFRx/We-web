@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "侦查机器人"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><font size=\"3\">在本课程中，你将学习：<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">搭建乐高® 模型</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">连接模型和你的设备</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span><span style=\"line-height: 1.42857;\">对运动传感器编成，检测运动</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">麦克斯和米娅想为朋友举行宴会，给他一个惊喜。但是他们不知道朋友几点到。</font><div><font size=\"3\">所以他们需要东西提醒。</font></div><font size=\"3\"><br></font><div><font size=\"3\">他们想搭建一个侦查机器人。</font></div><font size=\"3\"><br></font><div><font size=\"3\">快来帮助麦克斯和米娅！</font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">让机器人在检测到运动时发出声音。<br><br>1.按照图里的样子编程。</font><div><font size=\"3\"><br>2.互相说明机器人是怎样工作的。</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">继续帮助麦克斯和米娅（可选）：&#160;<br><br></font><div><font size=\"3\">1.给自己录音，让机器人发出你的声音。</font></div><font size=\"3\"><br></font><div><font size=\"3\">2.对机器人编程，看看它还能做些什么。</span></div></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">打开智能集线器，连接你的设备。</font>"
+      }
+    ]
+  }
+}

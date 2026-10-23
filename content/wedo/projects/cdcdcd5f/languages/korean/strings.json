@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c944736a-e1bc-41e0-91e6-e2b91761f4f4",
+        "string": "12a. 기울어질 때까지 무작위 색상"
+      },
+      {
+        "refId": "5f630d14-f3d7-4282-ebde-bb191253d44b",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 무작위 색상으로 LED 켜기&nbsp;</div><div>3. 기울기 센서가 왼쪽으로 기울 때까지 2단계 반복&nbsp;</div><div>4. LED를 꺼서 색상 0(색상 없음)으로 바꾸기&nbsp;</div><div>5. 2초간 대기</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6a876355-8c81-4029-b648-ec1d9cf6d9cb",
+        "string": "13b. Change Light with Sound"
+      },
+      {
+        "refId": "87911d68-e2ab-44e6-8f0f-b39432022b84",
+        "string": "1. Start program&nbsp;<div>2. Turn LED on at the colour equal to the input from the Sound Sensor&nbsp;</div><div>3. Repeat step 2 forever</div>"
+      }
+    ]
+  }
+}

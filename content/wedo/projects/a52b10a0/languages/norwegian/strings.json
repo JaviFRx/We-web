@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<font size=\"3\">Bli inspirert av grunnmodellene i designbiblioteket, og bygg din egen løsning på dette prosjektet."
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">Hvordan kan det bli enklere å flytte objekter ved å stable dem?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I dette prosjektet skal du:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Utforske ulike måter en kan transportere og montere materiale.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Lage og programmere en enhet som kan bære og/eller montere objekter med forskjellige størrelser, hvor du må ta i betraktning sikkerhet, effektivitet og oppbevaring.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Presentere og dokumentere enheten og forklare hvordan den er designet for å være trygg og effektiv.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Flytte materialer"
+      }
+    ]
+  }
+}

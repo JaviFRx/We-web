@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "89f2d386-1be5-434d-b520-0c32c9d97d5c",
+        "string": "9. Start bij bericht en verzend bericht"
+      },
+      {
+        "refId": "58f3d022-211b-47fa-a536-8502ab37a774",
+        "string": "1. Start het programma&nbsp;<div>2. Verzend het bericht “abc”&nbsp;</div><br><div>3. Start bij ontvangst van het bericht “abc”&nbsp;</div><div>4. Toon afbeelding 3 op het beeldscherm</div>"
+      },
+      {
+        "refId": "c5c768f3-c584-4629-e335-16341214eabd",
+        "string": "1. Start het programma&nbsp;<div>2. Verzend het bericht “abc”&nbsp;</div><br><div>3. Start bij ontvangst van het bericht “abc”&nbsp;</div><div>4. Toon afbeelding 3 op het beeldscherm&nbsp;</div><br><div>5. Start bij ontvangst van het bericht “xyz”&nbsp;</div><div>6. Speel geluid 6 af&nbsp;</div>"
+      },
+      {
+        "refId": "b5bcf16d-c5cc-4746-f11a-0b8ba81ed458",
+        "string": "Er is geen LEGO model vereist om dit programma te testen."
+      }
+    ]
+  }
+}

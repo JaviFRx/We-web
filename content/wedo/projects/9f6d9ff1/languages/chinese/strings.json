@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d8d0a44f-fe6f-460d-b65c-f544560e927e",
+        "string": "3a. 闪烁"
+      },
+      {
+        "refId": "7033c8ec-8f24-4405-7a2b-ba3e4b33ee4d",
+        "string": "1. 启动程序&nbsp;<div>2. 开启 LED 并显示颜色 9（红色）&nbsp;</div><div>3. 关闭 LED 显示颜色 0（无颜色）&nbsp;</div><div>4. 无限重复第 2 步和第 3 步&nbsp;</div>"
+      }
+    ]
+  }
+}

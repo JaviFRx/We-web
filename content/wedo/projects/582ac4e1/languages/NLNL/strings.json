@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "Bewegende satelliet"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><font size=\"3\">Tijdens deze les leer je de volgende dingen:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Een LEGO® model bouwen</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Je model verbinden met je apparaat</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• De motor programmeren</span><span style=\"line-height: 1.42857;\">&nbsp;om gedurende een bepaalde tijd te draaien</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• De motor programmeren om omgekeerd te draaien</font></span></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">Max en Mia luisteren naar het nieuws. Ze horen een bericht over satellieten die door wetenschappers worden bestuurd.</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Soms moeten satellieten bewegen om meteoren te ontwijken.&#160;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Ze willen een eigen satelliet bouwen.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max en Mia hebben je hulp nodig!</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">Laat de satelliet gedurende drie seconden draaien.<br><br>1. Maak het programma zoals aangegeven.</font><div><font size=\"3\"><br>2. Leg aan elkaar uit hoe de satelliet werkt.</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">Help Max en Mia verder (optioneel):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Laat de satelliet langer naar de andere kant draaien.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmeer de satelliet zodat hij andere dingen doet.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">Zet de Smarthub aan en koppel deze aan je apparaat.</font><br>"
+      }
+    ]
+  }
+}

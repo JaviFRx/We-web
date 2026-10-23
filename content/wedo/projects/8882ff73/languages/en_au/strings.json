@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "98b4d326-2233-4773-8dae-54c99fc8d218",
+        "string": "11a. Moving Toward and Away"
+      },
+      {
+        "refId": "0bdd3730-9df7-47c9-a810-74e7f80a46f3",
+        "string": "1. Start program&#160;<div>2. Wait for the Motion Sensor to detect movement&#160;</div><div>3. Start motor this way&#160;</div><div>4. Wait for the Motion Sensor to detect movement&#160;</div><div>5. Start motor that way&#160;</div><div>6. Repeat steps 2 to 5 forever</div>"
+      }
+    ]
+  }
+}

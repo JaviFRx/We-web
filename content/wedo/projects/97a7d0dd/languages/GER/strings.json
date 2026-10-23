@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<font size=\"3\">Schaut euch die Basismodelle in der Konstruktionsbibliothek an, und lasst euch beim Bau eures Modells davon inspirieren.&#160;</font><br>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><div><font size=\"3\">In diesem Projekt werdet ihr:</font><div><font size=\"3\"><br></font><div><font size=\"3\">• lernen, welche Gefahren durch Unwetter entstehen können,&nbsp;</font><span style=\"color: inherit; font-size: 16px; line-height: 1.42857;\">und wie durch rechtzeitige Warnung der Bevölkerung zum Beispiel die Auswirkungen heftiger Stürme verringert werden können</span></div><div><font size=\"3\">• eine Alarmanlage bauen</font></div><div><font size=\"3\">• ein Programm schreiben, mit dem die Alarmanlage die Bevölkerung bei Sturmgefahr warnen kann</font></div><div><font size=\"3\">• eure Ergebnisse dokumentieren und präsentieren</font><br></div></div></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. Sturmwarnanlage"
+      }
+    ]
+  }
+}

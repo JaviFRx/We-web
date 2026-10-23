@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<font size=\"3\">Inspírate en los modelos básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</font>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">¿Cómo el apilado de objetos puede ayudar a transportarlos?</font><font size=\"3\"><br></font></div><div><font size=\"3\">En este proyecto, harás lo siguiente:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorar las diferentes maneras en que se transportan y montan los materiales.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Crear y programar un dispositivo que permita transportar o montar objetos de diferentes tamaños, teniendo en cuenta la seguridad, la eficiencia y el almacenamiento.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Presentar y documentar el dispositivo y explicar cómo este fue diseñado para garantizar la máxima seguridad y eficiencia.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Transporte de materiales"
+      }
+    ]
+  }
+}

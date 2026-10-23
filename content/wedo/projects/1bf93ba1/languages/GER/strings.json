@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8b964291-66b5-4b21-a5b5-e2c435ceb0e7",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Baut eine Vorrichtung, mit der eure Forschungssonde Milo Objekte wie zum Beispiel neue Lebensformen erkennen kann.</font></span><br></div>"
+      },
+      {
+        "refId": "e7bd83ea-ea4d-4df6-7bb5-e33aa0f41f5b",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.</font><div><font size=\"3\" color=\"#000000\"><br></font></div><div><font size=\"3\" color=\"#000000\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font><br></div></div>"
+      },
+      {
+        "refId": "770464a6-c412-4476-6e59-d3e48253ebf5",
+        "string": "<div><font size=\"3\">Schreibt ein Programm, mit dem eure Forschungssonde Objekte wie zum Beispiel neue Lebensformen erkennen kann.</font><br></div>"
+      },
+      {
+        "refId": "2672ca79-2091-4dc0-1dd1-3255e6ba0dc4",
+        "string": "<font size=\"3\"><font size=\"5\">Dokumentation:</font><br><br>1. Dreht ein Video darüber, wie eure Forschungssonde ein neues Objekt findet.<br><br>2. Beschreibt, was passiert.<br></font><div><font size=\"3\"><br></font></div><div><font size=\"3\"><font color=\"#ffffff\">Nutzt dafür die Dokumentationsfunktion der App.</font></font></div>"
+      },
+      {
+        "refId": "71ce5714-01e7-4133-4c28-ae7922f1198e",
+        "string": "<div><font size=\"3\">Max und Mia möchten, dass Milo mit einem Sensor Objekte finden kann.&#160;</font></div>"
+      },
+      {
+        "refId": "8b17409e-1e28-4f6f-b06d-e0c7300be491",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">In diesem Projekt werdet ihr:</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">• lernen, wie Forschungssonden mithilfe von Sensoren selbstständig Dinge erforschen können</font></div><div><font size=\"3\">• eine Vorrichtung zum Erkennen von Objekten bauen</font></div><div><font size=\"3\">• eure Forschungssonde so programmieren, dass sie ein Objekt finden kann</font></div><div><font size=\"3\">• eure Ergebnisse dokumentieren und präsentieren</font></div><div><div></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "cddad4d0-e43c-446f-97d0-92cb887a08b8",
+        "string": "B. Milos Bewegungssensor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fbadd076-3c96-4231-a39a-80b81d55e499",
+        "string": "10a. 等待随机时间"
+      },
+      {
+        "refId": "21742926-c43b-437f-41f8-b25fb615f850",
+        "string": "1. 启动程序&nbsp;<div>2. 顺时针运转启动电机&nbsp;</div><div>3. 等待随机秒数&nbsp;</div><div>4. 停止电机</div>"
+      }
+    ]
+  }
+}

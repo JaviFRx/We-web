@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<font size=\"3\">マックスとミアは、２人が住んでいる地域で見られる様々な降水パターンについて、考えています。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">2人は、降水による影響を抑えるにはどうすればよいか知りたいと思っています。</font></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<font size=\"5\">マックスとミアの質問について、考えましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.棒グラフを使って、あなたが住む地域のそれぞれの季節の降水量を説明できますか？</font></div><div><font size=\"3\">2.降水量は、川の水位にどのように影響しますか？</font></div><div><font size=\"3\">3.洪水を防止するには、どのような方法がありますか？</font></div><div><font size=\"3\">4.洪水を防ぐことのできる装置を想像できますか？</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">自分の考えをノートツールを使って、保存しましょう。</font></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<font size=\"5\">ブロックを使う：</font><br><font size=\"3\"><br></font><div><font size=\"3\">川の水位を制御できる水門を組み立てましょう。</font></div>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<font size=\"3\">棒グラフに従って、適切な時に開閉できるよう、水門をプログラミングしましょう。</font>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<font size=\"4\">解決策をデザインしましょう：</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">水門にセンサーをつけて、自動化しましょう。</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">次の事柄のうちいずれかを取り入れましょう：</font></div><div><font size=\"3\">1.チルトセンサーによる水門の操作機能。</font></div><div><font size=\"3\">2.モーションセンサーによる水位上昇検出機能。</font></div><div><font size=\"3\">3.サウンドセンサー入力による緊急時シナリオの実行。</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">水門をどのように自動化したか説明しましょう。</font></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<font size=\"5\">記録を完成させる：</font><br><br><div><font size=\"3\">1.それぞれの試作品について説明してください。</font></div><div><font size=\"3\">2.なぜその解決策を選んだか理由を述べましょう。</font></div><div><font size=\"3\">3.情報を整理しましょう。</font></div><div><font size=\"3\">4.重要な文章や画像、スクリーンキャプチャ、ビデオを挿入します。</font></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<font size=\"5\">結果を共有する：<br></font><br><div><font size=\"3\">水門を設けることで、水による土地の変化がどのように防止できるか、自分の言葉で説明してみましょう。</font></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<font size=\"5\">プロジェクトの共有</font>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<font size=\"5\">マックスとミアと一緒に</font><div><font size=\"5\">新しい解決策をデザインしましょう</font></div>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<font size=\"4\">どうすれば、水食被害を抑えることができるでしょうか？</font><br><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">このプロジェクトの内容：</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">季節の変化に伴う降水の変化と、人によって制御できない水量が被害をもたらす可能性について考える。</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">川の水位を制御する水門を組み立てて、プログラミングする。</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">• </span><span style=\"line-height: 1.42857143;\">水による地形の変化を防止する複数の解決策について資料を作成し、発表する \n</span></font></div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<font size=\"3\">スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合はビデオを見てください。</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">ヒントが必要な場合はヘルプパネルを見てください。</font></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6.洪水を防ごう"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<font size=\"5\">新しい解決策をデザインしましょう：</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">水門を使った別のシステムを組み立ててみましょう。</font></div><font size=\"3\"><br></font><div><font size=\"3\">次の事柄を取り入れましょう：</font></div><div><font size=\"3\">1.陸地や川など、水門がある場所の地図を描く。</font></div><div><font size=\"3\">2.<span style=\"line-height: 1.42857143;\">別の種類の水門</span>をデザインしましょう。</font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3.川の一部を区切る2つの水門を作り、ボートが進行できるようプログラミングしましょう。&#160;</font></span></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">新しい解決策について記録します。</font></span><br></div>"
+      }
+    ]
+  }
+}

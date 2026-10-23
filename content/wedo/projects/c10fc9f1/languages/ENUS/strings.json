@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "77bd553a-9bdd-47e6-eb91-01142f67888e",
+        "string": "<font size=\"3\">Max and Mia are worried that people and animals could be in danger after a serious weather-related hazard.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">They want to know which weather-related hazards could happen in their region.</font></span><br></div>"
+      },
+      {
+        "refId": "a188c5c6-4b84-4c12-16f4-c9fa2bbc6a59",
+        "string": "<font size=\"5\">Explore Max’s and Mia's questions:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. What weather-related hazards can happen in your area or other areas?&nbsp;</font></div><div><font size=\"3\">2. How do weather-related hazards affect animals and people?&nbsp;</font></div><div><font size=\"3\">3. In what ways can a helicopter be used in a weather-related hazard?<br></font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Share your ideas in the Documentation tool.</font></span><br></div>"
+      },
+      {
+        "refId": "63b3d7b8-1c7d-4a70-ea48-88e5b0dabf55",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Build a helicopter that could be used in a weather-damaged area.</font></div>"
+      },
+      {
+        "refId": "96d53a28-16af-4a93-65b9-7a0a4848e083",
+        "string": "<font size=\"3\">Program your helicopter to move its string up and down.</font>"
+      },
+      {
+        "refId": "f52dac05-8b99-4011-41b6-007f02a68777",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you need help.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">See the Help panel for more guidance.</font></div>"
+      },
+      {
+        "refId": "f6f4eb7a-ce5c-4145-d326-23eaa4a359eb",
+        "string": "<font size=\"5\">Design two solutions:</font><br><br><div><font size=\"3\">Modify the helicopter to be used in a weather-related hazard area, making sure your designs are safe, easy to use, and adapted to the situation.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Consider two different solutions for one of the following:</font></div><div><font size=\"3\">1. Relocate an endangered animal.</font></div><div><font size=\"3\">2. Drop materials to help people.</font></div><div><font size=\"3\">3. Drop water to put out a fire.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Document the two solutions you have designed and explain why one of them is better than the other.&nbsp;</font></div>"
+      },
+      {
+        "refId": "c893963f-0040-4c4d-1805-e64d09b1cf6a",
+        "string": "<font size=\"5\">Finalize your document:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Describe your different prototypes.</font></div><div><font size=\"3\">2. Explain why you have chosen your final solutions.</font></div><div><font size=\"3\">3. Organize your information.</font></div><div><font size=\"3\">4. Insert important text, pictures, screen capture, or videos.</font></div>"
+      },
+      {
+        "refId": "ba7bee72-d449-46ef-7289-cb6522e8a7a5",
+        "string": "<font size=\"5\">Share your findings:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Present the hazard that has happened and describe your drop and rescue mission.</font></div>"
+      },
+      {
+        "refId": "121f6b6c-b564-4668-9d0d-25caa401c8d3",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "ec17dd2e-deb7-4f97-121f-87f56e4291c3",
+        "string": "<font size=\"5\">Design new solutions&#160;</font><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "0bf96ac4-7b83-401a-0e99-1c3313eeac06",
+        "string": "<font size=\"4\">How can you organize a safety mission after a weather-related hazard?</font><br><div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857;\">In this project, you will:</span><br></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">•&nbsp;<span style=\"color: inherit; line-height: 1.42857143;\">Explore different weather-related hazards that can influence the survival of a population in your region.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>Create and program a device to relocate people and animals in a safe, easy-to-use, and respectful way or efficiently drop materials into an area.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>Present and document your solution and explain why your solution meets the criteria. </font></div>"
+      },
+      {
+        "refId": "739f6f68-bbe3-4b39-8bcd-a3894536bf80",
+        "string": "7. Drop and Rescue"
+      },
+      {
+        "refId": "451eebe3-808d-40b7-b438-c33863a4de2d",
+        "string": "<font size=\"5\">Design new solutions:</font><br><font size=\"3\"><br></font><div><font size=\"3\">A helicopter might not be the best way to drop and rescue in some cases.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Consider the following:&nbsp;</font></div><div><font size=\"3\">1. Design another solution you think is better.</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Document why your new solution is better than the helicopter.&nbsp;</font></div><br>"
+      }
+    ]
+  }
+}

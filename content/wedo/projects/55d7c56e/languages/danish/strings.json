@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5b5725d-22ad-4495-986d-626cbb5f22f7",
+        "string": "1. Motoreffekt"
+      },
+      {
+        "refId": "7d3a163d-65d1-49b4-006f-32ff92bacc02",
+        "string": "1. Start program&#160;<div>2. Start motor på niveau 8</div>"
+      },
+      {
+        "refId": "e7a72c99-2211-4cab-3e7c-bdda94de8f05",
+        "string": "1. Start program&#160;<div>2. Start motor på niveau 2</div>"
+      }
+    ]
+  }
+}

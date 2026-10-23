@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b2c7868b-18d4-4293-9ee3-61727ee611cc",
+        "string": "24. Sentidos de los animales"
+      },
+      {
+        "refId": "9431f876-e3ce-45ae-43c5-524860c4f0bb",
+        "string": "<div><div><font size=\"5\">¿Cómo interactúan los animales con su entorno? </font></div><br><div>En este proyecto, harás lo siguiente:&nbsp;</div><div>- Explorar cómo utilizan los animales sus sentidos para recibir diferentes tipos de información&nbsp;</div><div>- Crear y programar un robot animal centrándote en sus sentidos&nbsp;</div><div>- Probar tu programa y demostrar cómo interactúan los animales con diferentes estímulos&nbsp;</div><div>- Compartir tu programa y tus ideas</div></div>"
+      },
+      {
+        "refId": "4e4564f4-7246-473a-273d-88e0e8dd2a13",
+        "string": "<div style=\"text-align: center;\">Inspírate en los modelos básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</div>"
+      },
+      {
+        "refId": "0852da6c-6822-462c-426b-8b127c7b15b1",
+        "string": "<div style=\"text-align: center;\">Inspírate en los programas básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</div>"
+      }
+    ]
+  }
+}

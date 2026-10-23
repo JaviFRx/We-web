@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3d4b1dfc-05e1-45db-963c-d37d56c1fdb5",
+        "string": "21. Inspección"
+      },
+      {
+        "refId": "38ea98b8-f26a-4697-ef22-7a811566b198",
+        "string": "<div><div><font size=\"5\">¿Cómo podemos explorar espacios estrechos como túneles, cuevas, cañerías, etc.? </font></div><br><div>En este proyecto, harás lo siguiente:&nbsp;</div><div>- Explorar cómo pueden utilizarse los robots para inspeccionar espacios estrechos&nbsp;</div><div>- Crear y programar un robot para que se desplace sobre una superficie y evite obstáculos</div><div>- Probar tu programa para asegurarte de que detecta muros, agujeros, una cueva y objetos&nbsp;</div><div>- Compartir tu programa y tus ideas</div></div>"
+      },
+      {
+        "refId": "daee8177-ac30-4b6d-49d6-c60cba9f450d",
+        "string": "<div style=\"text-align: center;\">Inspírate en los modelos básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</div>"
+      },
+      {
+        "refId": "6d51c5a4-a698-4766-8716-a6ba7efd1533",
+        "string": "<div style=\"text-align: center;\">Inspírate en los programas básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</div>"
+      }
+    ]
+  }
+}

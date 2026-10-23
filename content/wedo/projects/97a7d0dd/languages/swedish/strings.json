@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<font size=\"3\">Låt dig inspireras av grundmodellerna i designbiblioteket när du bygger egna lösningar i det här projektet.</font>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><font size=\"4\">På vilket sätt kan förvarningar bidra till att mildra effekterna av kraftiga stormar?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I det här projektet kommer du att:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Undersöka olika väderrelaterade naturfenomen – till exempel tsunamier, tornador och orkaner – som alla måste känna till riskerna med, och olika varningssystem som kan skydda människor.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Bygga och programmera en enhet som kan varna människor så att de kan förbereda sig inför farligt väder.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Presentera och dokumentera din lösning, och förklara hur den kan bidra till att minska konsekvenserna för befolkningen.</font></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. Väderlarm"
+      }
+    ]
+  }
+}

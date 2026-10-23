@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">Max og Mia er veldig motiverte for å beskytte miljøet.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">De har lyst til å finne ut hvordan gjenvinningsmetoder kan forbedres, slik at vi reduserer avfall.</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">Utforsk Max and Mias spørsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hva betyr gjenvinning?</font></div><div><font size=\"3\">2. Hvordan kan gjenvinnbare materialer i ditt nærområde gjenvinnes?</font></div><div><font size=\"3\">3. Kan du tenke deg enheter som kan sortere gjenvinnbart avfall etter form?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del ideene dine ved bruk av dokumentasjonsverktøyet.</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">Bruk klossene:</font><br><br><div><font size=\"3\">Bygg en lastebil som kan sortere to objekter basert på form.</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">Programmer lasteplanet til å losse av små gjenvinnbare objekter ved gjenvinningsstasjonen.</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<font size=\"3\">Slå på Smarthub og koble den til enheten din. Se videoen hvis du trenger hjelp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se i Hjelp-panelet hvis du trenger mer veiledning.</font></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">Design en løsning:</font><br><br><div><font size=\"3\">Endre lastebilen til å sortere objekter i to ulike grupper, basert på form.</font></div><br><div><font size=\"3\">Vurder følgende:</font></div><div><font size=\"3\">1. Endre designet på lasteplanet.</font></div><div><font size=\"3\">2. Bruk en distansesensorinngang for å registrere formen på objektet.</font></div><div><font size=\"3\">3. Sorter objektene i lastebilen.</font></div><br><div><font color=\"#ffffff\" size=\"3\">Dokumenter løsningen ved å forklare hvordan du har brukt formen på objektet.</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">Fullfør dokumentet:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Beskriv de ulike prototypene dine.</font></div><div><font size=\"3\">2. Forklar hvorfor du har valgt den endelige løsningen.</font></div><div><font size=\"3\">3. Organiser informasjonen.</font></div><div><font size=\"3\">4. Sett inn viktig tekst, bilder, skjermbilder eller videoer.</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">Del resultatene dine:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Presenter med egne ord hvordan du fikk til å sortere ulike bokser i ulike plasseringer.</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">Design nye løsninger&#160;</font><br><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">Del prosjektet</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<font size=\"4\">Hvordan kan du forbedre gjenvinningsmetoder for å redusere avfall?</font><br><br><div><font size=\"3\">I dette prosjektet skal du:</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Utforske hvordan bedre sorteringsmetoder for gjenvinning kan bidra til å redusere mengden avfall som kastes.</font></div>•&#160;<span style=\"font-size: medium; line-height: 1.42857143;\">Lage og programmere en enhet som sorterer gjenvinnbare materialer i henhold til størrelse og form.</span><br><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Presentere og dokumentere løsningen du har utviklet.</font></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">Design nye løsninger:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Design en løsning for å sortere tre utvalgte objekter.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Vurder følgende: </font></div><div><font size=\"3\">1. Sorter objektene ved bruk av et transportbånd. </font></div><div><font size=\"3\">2. Sorter objektene ved bruk av en robotarm. </font></div><div><font size=\"3\">3. Sorter objektene ved bruk av to forskjellige enheter. </font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumenter den nye løsningen.</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. Sortere for gjenvinning"
+      }
+    ]
+  }
+}

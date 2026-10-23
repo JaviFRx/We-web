@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">マックスとミアは、世界中の建物の中には形が違うものがあることに気づきました。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">2人は、どのようにデザインすれば、頑丈で安全な建物が作れるのか、調査したいと思っています。</font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">マックスとミアの質問について、考えましょう：</font><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\"><br></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">1.地震の原因は何ですか？また、地震によって起こる危険には、どのようなものがありますか？</span><br></font></div><div><font size=\"3\">2.科学者たちは、地震をどのように格付けしていますか？</font></div><div><font size=\"3\">3.建物の耐震強度に影響する要素には、どのようなものがありますか？</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">自分の考えを、ノートツールを使って共有しましょう。</font></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<font size=\"3\">様々なマグニチュードを再現できるよう、地震シミュレーターをプログラミングしましょう。</font>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合はビデオを見てください。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">ヒントが必要な場合はヘルプパネルを見てください。</font></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<font size=\"5\">マックスとミアと一緒に調査を行う：</font><br><br><div><font size=\"3\">1.建物Bが倒れる一番低いマグニチュードを見つけましょう。同じマグニチュードで、建物 Aを試験します。</font></div><div><font color=\"#ffffff\" size=\"3\">２つの実験の結果を記録し、比較してみましょう。</font></div><font size=\"3\"><br></font><div><font size=\"3\">2.同じプログラムで、建物Bと建物Cを試験します。</font></div><div><font color=\"#ffffff\" size=\"3\">２つの実験の結果を記録し、比較してみましょう。</font></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"5\">記録を完成させる：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.予測した内容を振り返って、調査で、どのような結果が得られたか説明してみましょう。</font></div><div><font size=\"3\">2.調査に関する情報をまとめて、皆の前で発表する準備をしましょう。</font></div><div><font size=\"3\">3.プロジェクトの記録に、重要な文章や画像、スクリーンキャプチャ、ビデオを挿入します。</font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">結果を共有しましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">調査の結果から、建物の耐震強度を高める条件について、自分の言葉で説明しましょう。 </font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">建物を揺らすことのできる地震シミュレーターを、組み立てましょう。</font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"5\">マックスとミアと一緒に</font></div><div><font size=\"5\">追加の調査を行う</font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">プロジェクトの共有</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<font size=\"5\">建物の耐震強度を高める条件は、この他に何があるでしょうか？</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">このプロジェクトの内容：</font></span></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">地震の原因と性質について考える。</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">建物のデザインを試験する装置を組み立てて、プログラミングする。</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">耐震強度が高い構造デザインについて、得られた情報を記録し、結果を発表する。</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3.頑丈な構造"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"5\">追加の調査：</font><div><span style=\"line-height: 17.142858505249px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1.マグニチュードが高い地震で、同じ調査を行った場合、どのような結果が得られるか予測してみましょう。</font></div><div><font color=\"#ffffff\" size=\"3\">予測内容と、２つの実験の結果を記録し、比較してみましょう。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2.マグニチュード8の地震に耐えられる、最も高い建物を組み立てましょう。</font></div></div>"
+      }
+    ]
+  }
+}

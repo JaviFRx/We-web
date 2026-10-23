@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">A Max y Mia les apasionan las máquinas que pueden arrastrar objetos pesados.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Quieren investigar qué es lo que hace que se muevan los objetos.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">Usa los ladrillos:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construye un robot de tracción capaz de arrastrar un objeto a lo largo de una distancia corta.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">Programa el robot de tracción para que arrastre un objeto a lo largo de una distancia corta tal como lo hizo en el vídeo.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">Enciende el hub inteligente y conéctalo al dispositivo. Si necesitas ayuda, mira el vídeo.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consulta el panel de ayuda para obtener asistencia.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">Investiga con Max y Mia:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1. Añade objetos a la cesta hasta que se detenga el robot de tracción.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Predice qué ocurrirá si le colocas neumáticos al robot de tracción. Documenta tu predicción.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Ponle unos neumáticos grandes al robot y haz la prueba.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Documenta tus hallazgos.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Busca el objeto más pesado que pueda arrastrar el robot de tracción con los neumáticos puestos.</font></div><div><font color=\"#ffffff\" size=\"3\">Documenta cómo las fuerzas quedan equilibradas o no equilibradas en cada caso.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Finaliza el documento:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Revisa tu predicción y explica qué ocurrirá en esta investigación.</font></div><div><font size=\"3\">2. Organiza tu información para compartirla con otros.</font></div><div><font size=\"3\">3. Inserta texto, fotos, capturas de pantalla o vídeos relevantes en el proyecto.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">Comparte tus hallazgos:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">A partir de tus investigaciones, presenta con tus propias palabras la diferencia que existe entre fuerzas equilibradas y no equilibradas.</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Comparte tu proyecto</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">Sigue investigando </font><div><font size=\"5\">con Max y Mia</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">Explora las preguntas de Max y Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. ¿Cómo puedes hacer que un objeto se mueva?&#160;</font></div><div><font size=\"3\">2. ¿Puedes explicar qué es la fricción? </font></div><div><font size=\"3\">3. Predice lo que ocurrirá si la fuerza de tracción es mayor en una dirección que en la otra. </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Comparte tus ideas y conceptos mediante la herramienta de documentación.</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">¿Qué hace que se muevan los objetos? </font><br><div><font size=\"3\">En este proyecto, harás lo siguiente:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• Explorar qué son las fuerzas y cómo estas pueden hacer que los objetos se muevan.</font></div><div><font size=\"3\">• &#160;Crear y programar un robot para investigar los efectos de las fuerzas equilibradas y no equilibradas sobre el movimiento de un objeto.</font></div><div><font size=\"3\">• Documentar y presentar tus hallazgos en relación con las fuerzas.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">Sigue investigando:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Construye un robot de tracción distinto que sea capaz de arrastrar el objeto más pesado posible.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Únete a otro equipo y crea un concurso de arrastre con los dos nuevos robots de tracción.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Documenta cómo actuan las fuerzas.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Fuerzas"
+      }
+    ]
+  }
+}

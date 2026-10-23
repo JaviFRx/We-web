@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9cac809c-24e2-4f68-88d4-1ddb99993014",
+        "string": "1a. Increase Speed"
+      },
+      {
+        "refId": "54d37f58-f4fc-4a11-3501-8abb225c5590",
+        "string": "1. Start program&#160;<div>2. Start motor at power 1&#160;</div><div>3. Wait for 1 second&#160;</div><div>4. Start motor at power 5&#160;</div><div>5. Wait for 1 second&#160;</div><div>6. Start motor at power 10</div>"
+      }
+    ]
+  }
+}

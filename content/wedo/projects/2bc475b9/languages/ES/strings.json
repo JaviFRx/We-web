@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "Robot espía"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><font size=\"3\">En esta lección aprenderás a:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Construir un modelo LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Conectar el modelo a tu dispositivo</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programar el</span><span style=\"line-height: 1.42857;\">&nbsp;sensor de movimiento para que detecte movimiento</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">Max y Mia quieren organizar una fiesta sorpresa para un amigo. No saben cuándo llegará ese amigo a su casa.</font><div><font size=\"3\">Necesitan un dispositivo que les avise.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Quieren construir un robot espía.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">¡Max y Mia necesitan tu ayuda!</font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">Haz que el robot reproduzca un sonido cuando detecte movimiento.<br><br>1. Crea el programa tal como se indica.</font><div><font size=\"3\"><br>2. Explicaos unos a otros cómo funciona el robot.</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">Sigue ayudando a Max y Mia (opcional):</font>&#160;<br><br></font><div><font size=\"3\">1. Graba un sonido propio y haz que el robot lo reproduzca.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Programa el robot para que haga otras cosas.</span></div></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">Enciende el hub inteligente y conéctalo al dispositivo.</font>"
+      }
+    ]
+  }
+}

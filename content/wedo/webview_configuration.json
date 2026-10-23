@@ -1,0 +1,10 @@
+{
+	"FolderName" : "C",
+	"ContentLibraryURL" : "index.html#/library",
+	"ModelLibraryInspirationURL" : "index.html#/models",
+	"ModelLibraryProgrammingURL" : "index.html#/programs",
+	"ContentToolURL" : "index.html#/documentation",
+  "HelpURL" : "index.html#/help",
+  "MediaPreviewUrl" : "index.html#/media-preview",
+  "InitURL" : "index.html"
+}

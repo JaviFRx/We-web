@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "80c77c25-97ff-4fb4-b682-be8483721d2f",
+        "string": "13. Détecter le son"
+      },
+      {
+        "refId": "c04bb26e-9282-4c9a-d577-ec6da2613ea6",
+        "string": "1. Lancer le programme&nbsp;<div>2. Attendre que le détecteur sonore détecte du son&nbsp;</div><div>3. Démarrer le moteur pendant 2&nbsp;secondes</div>"
+      },
+      {
+        "refId": "d9f890b1-d466-4126-47fc-22bec24ba828",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher le niveau sonore à l’écran&nbsp;</div><div>3. Recommencer l’étape&nbsp;2 indéfiniment</div>"
+      }
+    ]
+  }
+}

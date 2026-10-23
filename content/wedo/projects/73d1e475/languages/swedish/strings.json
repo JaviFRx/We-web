@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">Max och Mia har lagt märke till att byggnader runtom i världen kan se ganska olika ut.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Nu vill de undersöka hur byggnader kan utformas för att vara mer stabila och säkrare.</font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">Undersök Max och Mias frågor:</font><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\"><br></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">1. Vad orsakar jordbävningar och vilka faror ger de upphov till?</span><br></font></div><div><font size=\"3\">2. Hur definieras en jordbävnings styrka?</font></div><div><font size=\"3\">3. Vilka faktorer kan påverka en byggnads motståndskraft mot jordbävningar?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Använd dokumentationsverktyget för att dela med dig av dina resonemang.</font></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<font size=\"3\">Programmera jordbävningssimulatorn att simulera jordbävningar av olika magnituder.</font>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<font size=\"5\">Undersöka med Max och Mia:</font><br><br><div><font size=\"3\">1. Ta reda på vid vilken lägsta magnitud som byggnad B rasar. Testa byggnad A med samma magnitud.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentera och jämför resultaten från båda testerna.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Kör samma program för att få byggnad B och C att skaka.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentera och jämför resultaten från båda testerna.</font></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"5\">Slutför dokumentationen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Granska dina förutsägelser och förklara vad som hände i undersökningen.</font></div><div><font size=\"3\">2. Organisera din information så att du kan dela den med andra.</font></div><div><font size=\"3\">3. Lägg till viktig text, bilder, skärmdumpar eller videoklipp i ditt projekt.</font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Utgå från vad du har upptäckt i undersökningarna, för att med egna ord beskriva vilka faktorer som får en byggnad att ha högre motståndskraft mot jordbävningar.</font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en jordbävningssimulator som kan skaka byggnader.</font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"5\">Undersök mer</font></div><div><font size=\"5\">med Max och Mia</font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">Dela ditt projekt</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<font size=\"5\">Vilka andra faktorer gör byggnader mer motståndskraftiga mot jordbävningar?</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">I det här projektet kommer du att:</font></span></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Undersöka orsaken till jordbävningar och lära dig mer om hur de fungerar.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Bygga och programmera en enhet som kan användas för att testa olika byggnadskonstruktioner.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Dokumentera bevis och presentera dina upptäckter kring vilken typ av konstruktioner som klarar jordbävningar bäst.</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. Stabila konstruktioner"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"5\">Undersök mer:</font><div><span style=\"line-height: 17.142858505249px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1. Förutsäg vad som skulle hända om du upprepade undersökningen med en jordbävning av hög magnitud.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentera dina förutsägelser och jämför resultaten från båda testerna.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Bygg den högsta byggnad som klarar en jordbävning av magnitud 8.</font></div></div>"
+      }
+    ]
+  }
+}

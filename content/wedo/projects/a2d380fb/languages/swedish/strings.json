@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Titta på videofilmen om du behöver hjälp. Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<font size=\"3\">Programmera sonderna att transportera växtprovet till slutdestinationen.</font>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"5\">Slutför dokumentationen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">• Lägg till en bild av Milo.</font></div><div><font size=\"3\">• Lägg till en skärmdump av ett program.</font></div><div><font size=\"3\">• Lägg till annan information som du tycker är viktig.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Dela din dokumentation.</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><br>"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Förklara hur du lyckas transportera växtprovet.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Samarbeta med en annan grupp för att bygga ihop två Milo-bilar som kan transportera växtprovet.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">Max och Mia upptäckte att växtprovet var så tungt att Milo inte kunde transportera det.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<font size=\"3\">I det här projektet kommer du att:</font><br><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Bygga och programmera en enhet som kan flytta växtprovet.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\"><font size=\"3\">Dokumentera och visa hur Milos uppdrag gick.</font></span></div>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. Samarbeta"
+      }
+    ]
+  }
+}

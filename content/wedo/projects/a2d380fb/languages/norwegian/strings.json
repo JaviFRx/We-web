@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Slå på Smarthub og koble den til enheten din.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se videoen hvis du trenger hjelp. Se i Hjelp-panelet hvis du trenger mer veiledning.</font></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<font size=\"3\">Programmer sondene til å bære plantearten til sin endelige destinasjon.</font>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"5\">Fullfør dokumentet:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">• Sett inn et bilde av Milo.</font></div><div><font size=\"3\">• Sett inn et skjermbilde av et program.</font></div><div><font size=\"3\">• Sett inn annen viktig informasjon.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Del ditt endelige dokument.</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><br>"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">Del resultatene dine:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Forklar hvordan du klarte å bære plantearten.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<font size=\"5\">Bruk klossene:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Lag en enhet med en Milo-robot fra en annen gruppe, som samarbeider om å bære planteprøven.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">Max og Mia oppdaget at planteprøven var for tung for Milo alene.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<font size=\"3\">I dette prosjektet skal du:</font><br><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Lage og programmere en enhet som bærer planteprøven.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\"><font size=\"3\">Dokumentere og presentere Milos oppdrag.</font></span></div>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. Samarbeide"
+      }
+    ]
+  }
+}

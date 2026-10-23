@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fbadd076-3c96-4231-a39a-80b81d55e499",
+        "string": "10a. Wait Random"
+      },
+      {
+        "refId": "21742926-c43b-437f-41f8-b25fb615f850",
+        "string": "1. Start program&#160;<div>2. Start motor this way&#160;</div><div>3. Wait for a random number of seconds&#160;</div><div>4. Stop motor</div>"
+      }
+    ]
+  }
+}

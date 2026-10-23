@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "98b4d326-2233-4773-8dae-54c99fc8d218",
+        "string": "11a. Flytte mot og vekk fra"
+      },
+      {
+        "refId": "0bdd3730-9df7-47c9-a810-74e7f80a46f3",
+        "string": "1. Start program&#160;<div>2. Vent på at bevegelsessensoren registrerer bevegelse&#160;</div><div>3. Start Kjør fremover&#160;</div><div>4. Vent på at bevegelsessensoren registrerer bevegelse&#160;</div><div>5. Start Kjør bakover&#160;</div><div>6. Gjenta trinn 2 til 5 for alltid</div>"
+      }
+    ]
+  }
+}

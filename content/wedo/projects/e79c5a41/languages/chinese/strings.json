@@ -1,0 +1,50 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<div><font size=\"3\">Max（麦克斯）和Mia（米娅）已经准备就绪，他们要在大千世界里进行一场前所未有的探索，<span style=\"line-height: 1.4285;\">他们希望在这次探索中会有重大发现。</span></font></div><div><span style=\"line-height: 1.4285;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.4285;\"><font size=\"3\">特别是在偏远地区的探索中，为了能找到一种特殊的植物标本，他们需要借助某些外力。</font></span></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<div><font size=\"4\">Max（麦克斯）和Mia（米娅）在探究中的疑问：</font></div><br><div><font size=\"3\">当科学家和工程师无法到达探索地时，他们会做什么？&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">用乐高文档来分享你的回答。&#160;</font><font color=\"#ffffff\" size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<div><font size=\"3\">用乐高积木创造 Milo（麦乐）科学漫游器，使其可以移动。<br></font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<font size=\"3\"></font><div><font size=\"3\">打开智能集线器，并连接上电脑。可以通过观看相应的影音视频来获得帮助。&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">如需更多详细指导，请看帮助。&#160;</font></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<div><font size=\"3\">给Milo（麦乐）编写程序，使其可以向前移动。<br></font></div>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<div><font color=\"#ffffff\" size=\"3\"></font></div><div><font size=\"3\">与 Milo（麦乐）合一张影。</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\"><font size=\"3\"><span style=\"line-height: 1.4285;\">把你<font size=\"3\">对</font></span>Milo（麦乐）<span style=\"line-height: 1.4285;\">的想法写在乐高文档里。&#160;</span></font></font></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<div><font size=\"3\"></font></div><div><font size=\"4\">分享你的发现：</font></div><br><div><font size=\"3\"><font size=\"3\">解释Milo（麦乐）会如何协助你的科学探索。</font>&#160;<br></font></div>"
+      },
+      {
+        "refId": "e3ad5bbf-e4b5-4dd0-0835-4194a7dacdb6",
+        "string": "通过这个实验，你会：&#160;\n<br><div>探究科学家和工程师如何运用不同的方法到达偏远的地方。 创建一个 Milo（麦乐）科学漫游器。&#160;<div></div></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<div><div><div><div><div><div><font size=\"3\">通过这个实验，你会：&#160;&#160;</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">• 探究科学家和工程师如何运用不同的方法在偏远地区进行科学探索。&#160; </font></div><div><font size=\"3\">• 创建一个 Milo（麦乐）科学漫游器。&#160;</font></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "undefined",
+        "string": "A. Milo（麦乐）科学漫游器"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. Milo（麦乐）科学漫游器"
+      }
+    ]
+  }
+}

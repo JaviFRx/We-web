@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">Max og Mia har lagt mærke til, at ikke alle bygninger rundt om i verden ser ens ud.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De vil gerne undersøge, hvordan bygninger kan designes til at være stærkere og sikrere.</font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">Undersøg Max' og Mias spørgsmål:</font><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\"><br></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">1. Hvordan opstår jordskælv, og hvilke farer skaber de?</span><br></font></div><div><font size=\"3\">2. Hvordan anslår videnskabsfolk styrken af et jordskælv?</font></div><div><font size=\"3\">3. Hvilke faktorer kan have betydning for bygningers modstandsevne under et jordskælv?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del dine idéer ved hjælp af dokumentationsværktøjet.</font></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<font size=\"3\">Programmer din jordskælvssimulator til at simulere jordskælv med forskellige størrelser.</font>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed. Se videoen, hvis du har brug for hjælp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se panelet Hjælp, hvis du har brug for mere hjælp.</font></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<font size=\"5\">Undersøg sammen med Max og Mia:</font><br><br><div><font size=\"3\">1. Find det mindste jordskælv, der kan få bygning&#160;B til at styrte sammen. Test bygning&#160;A med samme størrelse jordskælv.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentér og sammenlign dine resultater af begge test.</div><font size=\"3\"><br></font><div><font size=\"3\">2. Kør det samme program for at ryste bygning&#160;B og C.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentér og sammenlign dine resultater af begge test.</div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"5\">Gør dit dokument færdigt:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Se på dine forudsigelser, og forklar, hvad der skete i undersøgelsen.</font></div><div><font size=\"3\">2. Organisér dine oplysninger, så du kan dele dem med andre.</font></div><div><font size=\"3\">3. Indsæt vigtig tekst, billeder, skærmbilleder eller videoer i projektet.</font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">Del dine resultater:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">På baggrund af dine resultater skal du med dine egne ord fremlægge beviser for, hvilke faktorer der gør, at en bygning bedre kan modstå jordskælv.</font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<font size=\"5\">Brug klodserne:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg en jordskælvssimulator, der kan ryste bygninger. </font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"5\">Undersøg mere</font></div><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">Del dit projekt</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<font size=\"5\">Hvilke andre faktorer kan gøre konstruktioner i stand til at modstå jordskælv?</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">I dette projekt skal du:</font></span></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Undersøge, hvordan jordskælv opstår, og hvad der sker under et jordskælv.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Bygge og programmere en indretning, som du kan bruge til at teste bygningskonstruktioner.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Dokumentere dine beviser og fremlægge dine resultater, der viser den eller de konstruktioner der bedst kan modstå jordskælv.</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. Robuste konstruktioner"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"5\">Undersøg mere:</font><div><span style=\"line-height: 17.142858505249px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1. Forudsig, hvad der sker, hvis du gentager din undersøgelse med et stort jordskælv.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentér dine forudsigelser, og dokumentér og sammenlign dine resultater af begge test.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Byg den højeste bygning, der kan modstå et jordskælv med en styrke på 8.</font></div></div>"
+      }
+    ]
+  }
+}

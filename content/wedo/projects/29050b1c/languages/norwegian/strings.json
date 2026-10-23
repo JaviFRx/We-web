@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1cdb52c7-0372-4bdc-964e-1db83e6ad5b9",
+        "string": "<font size=\"3\">Max og Mia har oppdaget at racerbiler har endret seg mye siden de ble oppfunnet.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De ønsker å undersøke hvordan en bil kan kjøre fortere.</font></div>"
+      },
+      {
+        "refId": "506c1eea-5aac-4066-9010-48a3efac17e3",
+        "string": "<font size=\"5\">Utforsk Max and Mias spørsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hvordan har biler blir forbedret slik at de kan kjøre fortere?</div><div><font size=\"3\">2. Hvilke faktorer påvirker hvor lang tid det tar bilen å tilbakelegge en avstand?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del ideene dine ved bruk av dokumentasjonsverktøyet.</font></div>"
+      },
+      {
+        "refId": "a1e53902-3766-4c18-0787-5b3f71248e92",
+        "string": "<font size=\"5\">Bruk klossene:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en racerbil som kan kjøre framover og stoppe ved mållinjen.</font></div>"
+      },
+      {
+        "refId": "84b88d08-edf3-4d73-7eaa-24417cc7117b",
+        "string": "<font size=\"3\">Programmer racerbilen til å kjøre framover over en gitt avstand, som på videoen.</font>"
+      },
+      {
+        "refId": "7cfcc83c-942a-45d2-795f-3a7123f2ae10",
+        "string": "<font size=\"3\">Slå på Smarthub og koble den til enheten din. Se videoen hvis du trenger hjelp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se i Hjelp-panelet hvis du trenger mer veiledning.</font></div>"
+      },
+      {
+        "refId": "319ff33c-f96e-4842-a463-d8e78a7b5e86",
+        "string": "<font size=\"5\">Undersøk med Max og Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Sett motornivået på 10.</font></div><div><font size=\"3\">1. Kjør programmet med de små hjulene, og gjenta programmet tre ganger.&#160;</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Dokumenter testen</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">2. Sett på de store hjulene, og gjenta trinn 1.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Forutsi hvor lang tid bilen bruker på å kjøre dobbelt så langt med de små og store hjulene.</font></div><div><font size=\"3\"><font color=\"#ffffff\" style=\"line-height: 1.42857143;\">Dokumenter hypotesene dine</font><span style=\"color: inherit; line-height: 1.42857143;\">.</span></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\">4. Test hypotesen med de små og store hjulene.</font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Dokumenter resultatene dine.</font></span></div>"
+      },
+      {
+        "refId": "6746a595-006f-4b74-3d9e-e04ec6770ed7",
+        "string": "<font size=\"5\">Fullfør dokumentet:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Gjennomgå hypotesen din og forklar hva som skjedde i forbindelse med undersøkelsen.</font></div><div><font size=\"3\">2. Organiser informasjonen, og del den med andre.</font></div><div><font size=\"3\">3. Sett inn viktig tekst, bilder, skjermbilder eller videoer i prosjektet.</font></div>"
+      },
+      {
+        "refId": "bac812d2-b59f-4897-0089-d6b2eca1ee3e",
+        "string": "<font size=\"5\">Del resultatene dine:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Presenter med egne ord hvilke faktorer som får en bil til å kjøre fortere, basert på undersøkelsene dine.</font></div>"
+      },
+      {
+        "refId": "c44838ba-71ec-48b0-aca1-596c23e6696e",
+        "string": "<font size=\"5\">Undersøke mer</font><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "6b24fe79-8b77-4bd2-43d6-ddfda35f69e4",
+        "string": "<font size=\"5\">Del prosjektet</font>"
+      },
+      {
+        "refId": "adf35799-a999-4cdd-6b0a-f2ed4d4827c5",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">Hvordan kan en bil kjøre fortere?</font></span><br></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">I dette prosjektet skal du:</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Utforske egenskapene til en racerbil.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Lage og programmere en racerbil for å undersøke hvilke faktorer som får den til å kjøre fortere.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Dokumentere og presentere ulike måter for å få den raskeste bilen.</font></div>"
+      },
+      {
+        "refId": "a3f5789d-ee91-4497-bcea-3cc3a1c3e481",
+        "string": "<font size=\"5\">Undersøke mer:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Kjør programmet med de store hjulene med motornivå 5 og trinsekonfigurasjon A. Gjenta programmet tre ganger.&#160;</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumenter resultatene dine. </font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Endre til trinsekonfigurasjon B, og gjenta trinn 1.&#160;</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Finn andre faktorer som påvirker bilens fart.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Dokumenter hvordan resultatene kan sammenlignes med resultatene fra forrige undersøkelse.</font></span></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "12712c46-0e28-49a3-ace9-efec189c6559",
+        "string": "2. Fart"
+      }
+    ]
+  }
+}

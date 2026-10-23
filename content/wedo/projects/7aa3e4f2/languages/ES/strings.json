@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ea01e383-d4aa-41ba-ac8c-73c2f8d402f0",
+        "string": "<font size=\"3\">Inspírate en los modelos básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</font>"
+      },
+      {
+        "refId": "9c2d90a7-fcb9-4554-e0e5-57dc2667c26e",
+        "string": "<div><font size=\"4\">¿Cómo explorar las superficies de otros planetas?</font><font size=\"3\"><br></font></div><div><font size=\"3\">En este proyecto, harás lo siguiente:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorar las misiones actuales de los vehículos espaciales e imaginar futuras posibilidades.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Crear y programar un vehículo espacial para llevar a cabo una tarea específica como, por ejemplo, desplazarse dentro y fuera de un cráter, recoger una muestra de roca, perforar un agujero en el suelo, etc.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentar y documentar t</font>u prototipo y lo que podrás descubrir al llevar a cabo estas misiones.</font></div></div>"
+      },
+      {
+        "refId": "d995953a-dece-494f-954d-9d6bcf56c598",
+        "string": "12. Exploración espacial"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "44e95eb8-1605-4ee3-ded4-f8a0d20d13fc",
+        "string": "<font size=\"3\">디자인 라이브러리의 기본 모델을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</font>"
+      },
+      {
+        "refId": "f1d824ef-7b3b-41f8-7e31-a7b9ca358eea",
+        "string": "<div><div><font size=\"4\">환경이 동물의 특성에 어떠한 영향을 미치는가?</font><font size=\"3\"><br></font></div><div><font size=\"3\">이번 프로젝트의 과제:<br></font><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">지구 상의 여러 가지 환경을 조사하고(현재 뿐 아니라 과거와 미래까지), 환경이 생물종의 생활 방식과 생존에 미치는 영향을 설명하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">특정한 서식지에서 지금까지 생존해 온 동물이나 파충류의 모델을 조립하고 프로그래밍하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">자신이 만든 모델을 </font>문서에 기록하고 발표하되, 동물 또는 파충류가 어떻게 생존할 수 있었는지 설명하세요.</font></div></div></div>"
+      },
+      {
+        "refId": "b7a41f61-71f3-4cc7-8f3e-cf872b81c93c",
+        "string": "11. 극한의 서식지"
+      }
+    ]
+  }
+}

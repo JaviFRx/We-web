@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">マックスとミアは、重い物を引っ張ることのできる機械に感心しています。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">2人は、どうすれば物を動かすことができるのか、調査したいと思っています。</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">物を引っ張って、短い距離を移動させることができるプルロボットを組み立てましょう。</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">プルロボットが、ビデオのように物を引っ張って短い距離を移動させることができるよう、プログラミングしましょう。</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合はビデオを見てください。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">ヒントが必要な場合はヘルプパネルを見てください。</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">マックスとミアと一緒に調査を行う：</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1.プルロボットが動けなくなるまで、バスケットの重りを増やしていきましょう。</font></div><div><font size=\"3\"><font color=\"#ffffff\">プルロボットにタイヤをつけると、何が起こるか予測してみましょう。予測した内容を、記録します。</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2.ロボットに大きなタイヤをつけて、実験してみましょう。 </font></div><div><font size=\"3\"><font color=\"#ffffff\">結果を記録します。</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3.タイヤをつけているプルロボットが、引っ張ることのできる一番重い物を見つけましょう。</font></div><div><font color=\"#ffffff\" size=\"3\">すべての実験において、力の平衡がとれているか、とれていないかを記録します。 </font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">記録を完成させる：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.予測した内容を振り返って、調査でどのような結果が得られたか説明してみましょう。</font></div><div><font size=\"3\">2.調査に関する情報をまとめて、皆の前で発表する準備をしましょう。</font></div><div><font size=\"3\">3.プロジェクトの記録に、重要な文章や画像、スクリーンキャプチャ、ビデオを挿入します。</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">結果を共有しましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">調査の結果から、つりあいのとれた力と、とれていない力の違いを、自分の言葉で説明しましょう。</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">プロジェクトの共有</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">マックスとミアと一緒に</font><div><font size=\"5\">追加の調査を行う</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">マックスとミアの質問について、考えましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.どうすれば、物を動かすことができるでしょうか？</font></div><div><font size=\"3\">2.摩擦とは何か説明できますか？</font></div><div><font size=\"3\">3.ある方向の引く力が、別の方向よりも強いとどうなるか、予測してみましょう。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">自分の考えを、ノートツールを使って共有しましょう。</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">どうすれば物を動かすことができるでしょうか？</font><br><div><font size=\"3\">このプロジェクトの内容：</font></div><font size=\"3\"><br></font><div><font size=\"3\">• 力とは何か、力がどのように物を動かすか考える。</font></div><div><font size=\"3\">•  ロボットを組み立てて、プログラミングし、それを使って、物の運動におけるつりあいのとれた力とつりあいのとれていない力について調査する。</font></div><div><font size=\"3\">• 力についての実験結果を記録し、発表する。</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">追加の調査：</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1.一番重い物を引っ張ることのできる、別の形のプルロボットを組み立てましょう。</font></div><font size=\"3\"><br></font><div><font size=\"3\">2.他のチームとペアになって、2体の新しいプルロボットを使ったチャレンジを作ってみましょう。</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">力がどのように働いていたか記録します。</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1.引く力"
+      }
+    ]
+  }
+}

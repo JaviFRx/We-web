@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Laat je inspireren door de basismodellen in de ontwerpbibliotheek om je eigen oplossing voor dit project te bouwen.</span></div>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><div><font size=\"4\">Hoe kunnen voorafgaande waarschuwingen de effecten van zware stormen verminderen?</font><font size=\"3\"><br></font></div><div><font size=\"3\">In dit project ga je:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Verschillende bedreigingen door het weer onderzoeken die iedereen zou moeten kennen, zoals tsunami‘s, tornado‘s en orkanen, evenals de bestaande waarschuwingssystemen die er zijn om je te beschermen.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Een apparaat ontwerpen en programmeren dat mensen kan waarschuwen om maatregelen te nemen, omdat er gevaarlijk weer op komst is.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Je oplossing presenteren en vastleggen en uitleggen hoe deze de impact op de bevolking helpt te verminderen.</font></div></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. Gevaaralarm"
+      }
+    ]
+  }
+}

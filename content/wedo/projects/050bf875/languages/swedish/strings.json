@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<font size=\"3\">Max och Mia pratar om olika typer av nederbörd där de bor.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De vill veta hur man kan förhindra att nederbörd påverkar och förändrar landskapet.</font></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<font size=\"5\">Undersök Max och Mias frågor:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Kan du använda ett stapeldiagram för att beskriva nederbördsnivåerna per årstid där du bor?</font></div><div><font size=\"3\">2. Hur påverkas en flods vattennivå av nederbörd?</font></div><div><font size=\"3\">3. På vilka sätt kan man förhindra översvämning?</font></div><div><font size=\"3\">4. Kan du föreställa dig en enhet som kan förhindra att en översvämning inträffar?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Använd dokumentationsverktyget för att dela med dig av dina idéer.</font></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<font size=\"5\">Använd klossarna:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Bygg en dammlucka som kan reglera vattennivån i en flod.</font></div>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<font size=\"3\">Programmera dammluckan att öppnas och stängas vid lämpliga tidpunkter enligt ditt stapeldiagram.</font>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<font size=\"4\">Utforma en lösning:</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">Automatisera dammluckan genom att lägga till sensorer.</span><br></font></div><font size=\"3\"><br></font><div><font size=\"3\">Beakta något av följande:</font></div><div><font size=\"3\">1. Lägg till ett lutningssensorhandtag för öppning av luckan.</font></div><div><font size=\"3\">2. Lägg till en rörelsesensor som känner av när vattennivån höjs.</font></div><div><font size=\"3\">3. Lägg till ljudsensorinmatning för att aktivera ett nödprotokoll.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Beskriv hur du har automatiserat dammluckan.</font></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<font size=\"5\">Slutför dokumentationen:</font><br><br><div><font size=\"3\">1. Beskriv de olika prototyperna.</font></div><div><font size=\"3\">2. Förklara varför du har valt en viss lösning.</font></div><div><font size=\"3\">3. Organisera din information.</font></div><div><font size=\"3\">4. Lägg till viktig text, bilder, skärmdumpar eller videoklipp.</font></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<font size=\"5\">Dela med dig av dina upptäckter:<br></font><br><div><font size=\"3\">Beskriv med egna ord hur en dammlucka kan förhindra att vatten ändrar landskapets form.</font></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<font size=\"5\">Dela ditt projekt</font>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<font size=\"5\">Utforma nya lösningar </font><div><font size=\"5\">med Max och Mia</font></div>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<font size=\"4\">Hur kan du begränsa vattenerosion?</font><br><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">I det här projektet kommer du att:</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">Undersöka hur nederbörd kan förändras beroende på årstid, och hur vatten kan orsaka skador om det inte hålls under kontroll.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">Bygga och programmera en dammlucka som kan reglera vattennivån i en flod.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\">Presentera och dokumentera flera lösningar som är avsedda att förhindra att vatten förändrar landskapets form.</span></font></div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><br><div><font size=\"3\"><br></font></div><br><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6. Förhindra översvämning"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<font size=\"5\">Utforma nya lösningar:</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg andra funktioner som en dammlucka eller port kan ha.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Beakta följande:&#160;</font></div><div><font size=\"3\">1. Rita en karta över dammluckans omgivning. Kartan ska innehålla flodområdet och kringliggande marker.<//font></div><div><font size=\"3\">2. Utforma<span style=\"line-height: 1.42857143;\">&#160;en annan typ av port.</span></font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. Programmera två portar som hjälper en båt att navigera längs en avgränsad del av en flod.&#160;</font></span></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Dokumentera den nya lösningen.</font></span><br></div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ef5e55e7-8c8e-4636-a984-85b2ed014ddf",
+        "string": "9a. Parallella uppgifter"
+      },
+      {
+        "refId": "c23b3939-a193-43d5-7b1d-80d79f76a0b0",
+        "string": "1. Starta program&#160;<div>2. Skicka meddelande ”abc”&#160;</div><br><div>3. Starta när meddelande ”abc” är mottaget&#160;</div><div>4. Visa bild 3 på displayen&#160;</div><br><div>5. Starta när meddelande ”abc” är mottaget&#160;</div><div>6. Spela ljud 6&#160;</div>"
+      },
+      {
+        "refId": "0a894d4e-7a21-494b-710e-cb0c9f22120f",
+        "string": "Det krävs ingen LEGO modell för att testa det här programmet."
+      }
+    ]
+  }
+}

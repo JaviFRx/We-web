@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "Spy Robot"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><font size=\"3\">In this lesson, you will learn to:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Build a LEGO® model</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Connect your model to your device</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Program the</span><span style=\"line-height: 1.42857;\">&nbsp;Motion Sensor to detect motion</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">Max and Mia want to throw a surprise party for a friend. They do not know when the friend will come to their house.</font><div><font size=\"3\">They need a device to warn them.</font></div><font size=\"3\"><br></font><div><font size=\"3\">They want to build a spy robot.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max and Mia need your help!&#160;</font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">Make the robot play a sound when it detects motion.<br><br>1. Create this program.</font><div><font size=\"3\"><br>2. Explain to each other how the robot works.</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">Help Max and Mia some more (optional):&#160;<br><br></font><div><font size=\"3\">1. Record your own sound and make the robot play it.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Program the robot to do other things.&#160;</span></div></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device.</font>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "a37c33da-10a6-4999-93e4-0e39db2ec5ad",
+        "string": "<font size=\"3\">Låt dig inspireras av grundmodellerna i designbiblioteket när du bygger egna lösningar i det här projektet.</font>"
+      },
+      {
+        "refId": "1d8a916d-52f6-411b-7707-13e1316d104e",
+        "string": "<div><font size=\"4\">Kan vi minska påverkan på miljön och djurlivet?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I det här projektet kommer du att:<br></font><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Undersöka vilka konsekvenser vägbyggen får för djur och växter, och försöka komma på hur konsekvenserna kan minskas.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Bygga och programmera en enhet som gör det möjligt för djuren att på ett säkert sätt ta sig förbi farliga områden.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Presentera och dokumentera din lösning, och förklara hur passagen</font> har utformats med tanke på ett visst djur.</font></div></div>"
+      },
+      {
+        "refId": "add4eed8-e8c9-41e1-921b-03edd27203b7",
+        "string": "15. Ekodukt – övergångsställe för djur"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fa06d35d-b20e-4d2f-87e4-745bcaa452b5",
+        "string": "10b. 计数"
+      },
+      {
+        "refId": "fc5448ee-3ab4-4720-3bd4-b4fa2b033a35",
+        "string": "1. 启动程序&nbsp;<div>2. 在显示屏上显示文本“0”&nbsp;</div><div>3. 将显示屏上的数字加 1&nbsp;</div><div>4. 等待 1 秒&nbsp;</div><div>5. 始终重复第 3 步和第 4 步</div>"
+      },
+      {
+        "refId": "e2efaf40-5853-4861-1af1-6c98ae46fcca",
+        "string": "LEGO 模型无需测试此程序。"
+      }
+    ]
+  }
+}

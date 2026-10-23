@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9b799c0f-ffdf-4694-ae70-9173041428e5",
+        "string": "14a. Arrêter la boucle avec le capteur"
+      },
+      {
+        "refId": "330631af-42d0-427f-e123-6a94d1e390a1",
+        "string": "1. Lancer le programme&nbsp;<div>2. Démarrer le moteur dans le sens&nbsp;1&nbsp;</div><div>3. Recommencer l’étape&nbsp;2 jusqu’à ce que le détecteur de mouvement détecte un mouvement&nbsp;</div><div>4. Arrêter le moteur</div>"
+      }
+    ]
+  }
+}

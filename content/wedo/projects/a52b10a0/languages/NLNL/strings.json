@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Laat je inspireren door de basismodellen in de ontwerpbibliotheek om je eigen oplossing voor dit project te bouwen.</span></div>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">Hoe kan het stapelen van objecten helpen bij het verplaatsen ervan?</font><font size=\"3\"><br></font></div><div><font size=\"3\">In dit project ga je:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Verschillende manieren onderzoeken waarop materialen worden vervoerd en in elkaar worden gezet.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Een apparaat ontwerpen en programmeren dat je helpt om objecten van verschillende formaten te vervoeren en/of in elkaar te zetten, rekening houdend met veiligheid, efficiëntie en opslag.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Je apparaat presenteren en documenteren en uitleggen hoe het is ontworpen om veilig en efficiënt te zijn.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Verplaatsen van materialen"
+      }
+    ]
+  }
+}

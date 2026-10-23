@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">Max and Mia er imponert over maskiner som kan trekke tunge objekter.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De ønsker å undersøke hva som får objekter til å flytte på seg.</font></div><br>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<font size=\"5\">Bruk klossene:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en Trekk-robot som kan trekke et objekt over en kort avstand.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<font size=\"3\">Programmer Trekk-roboten til å trekke et objekt over en kort avstand, slik som i videoen.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<font size=\"3\">Slå på Smarthub og koble den til enheten din. Se videoen hvis du trenger hjelp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se i Hjelp-panelet hvis du trenger mer veiledning.</font></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<font size=\"5\">Undersøk med Max og Mia:</font><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span><div><font size=\"3\">1. Legg objekter i kurven, helt til Trekk-roboten stanser.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Forutsi hva som ville ha skjedd om du satte dekk på Trekk-roboten. Dokumenter hypotesen din.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Sett de store dekkene på roboten og test.</font></div><div><font size=\"3\"><font color=\"#ffffff\">Dokumenter resultatene dine.</font></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">3. Finn det tyngste objektet som Trekk-roboten kan trekke, med dekkene på.</font></div><div><font color=\"#ffffff\" size=\"3\">Dokumenter hvordan kreftene er enten balanserte eller ubalanserte for hvert tilfelle.</font></div></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><br><br>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Fullfør dokumentet:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Gjennomgå hypotesen din og forklar hva som skjedde i forbindelse med undersøkelsen.</font></div><div><font size=\"3\">2. Organiser informasjonen, og del den med andre.</font></div><div><font size=\"3\">3. Sett inn viktig tekst, bilder, skjermbilder eller videoer i prosjektet.</font></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<font size=\"5\">Del resultatene dine:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Presenter med egne ord forskjellen mellom balanserte og ubalanserte krefter, basert på undersøkelsene dine.</font></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Del prosjektet</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<font size=\"5\">Undersøke mer</font><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<font size=\"5\">Utforsk Max and Mias spørsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hvordan får du et objekt til å flytte på seg?&#160;</font></div><div><font size=\"3\">2. Kan du forklare friksjon?&#160;</font></div><div><font size=\"3\">3. Forutsi hva som kommer til å skje hvis trekkraften er større i én retning, enn den andre retningen.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Del ideene dine ved bruk av dokumentasjonsverktøyet.</font><br></div><br>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">Hva får objekter til å bevege seg?&#160;</font><br><div><font size=\"3\">I dette prosjektet skal du:</font></div><font size=\"3\"><br></font><div><font size=\"3\">• Utforske hva krefter er, og hvordan de får objekter til å bevege seg.</font></div><div><font size=\"3\">• Lage ditt eget program og egen robot for å undersøke innvirkningene av balanserte og ubalanserte krefter på bevegelsen til et objekt.</font></div><div><font size=\"3\">• Dokumentere og presentere resultatene om krefter.</font></div><font size=\"3\"><br></font><br></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<font size=\"5\">Undersøke mer:</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Bygg en annen Trekk-robot for å trekke et tyngst mulig objekt.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Arbeid sammen med en annen gruppe og lag en trekkutfordring med de to nye Trekk-robotene.</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumenter innvirkningen av kreftene.</font></div></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Trekke"
+      }
+    ]
+  }
+}

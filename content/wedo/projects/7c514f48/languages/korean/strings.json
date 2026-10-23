@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "49d79c2a-a229-4cbe-90bc-ca5bc8c552d8",
+        "string": "11b. 가변 속도"
+      },
+      {
+        "refId": "8dc75c06-1293-418a-c3d2-1b8c83097a8d",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 거리 센서의 입력 값과 같은 출력으로 모터 작동&nbsp;</div><div>3. 2단계를 무한 반복</div>"
+      }
+    ]
+  }
+}

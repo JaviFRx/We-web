@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "Leuchtende Schnecke"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\">Das Licht der Schnecke soll kurz grün leuchten.<br><br></font><font size=\"3\">1. Baut das gezeigte Programm nach.</font><br><br><div><div><font size=\"3\">2. Erklärt euch gegenseitig, wie die Schnecke funktioniert.</font><br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">Helft Max und Mia noch mehr (Zusatz-Aufgabe):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Das Licht soll mehrmals blinken.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmiert die Schnecke so, dass sie noch andere Dinge macht.</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">Max und Mia gehen in den <font color=\"#000000\">Zoo</font>. Dort sehen sie eine seltene Schnecke.</font><div><font size=\"3\">Die Schnecke leuchtet grün auf. So kann sie mit anderen kommunizieren.</font><br></div><font size=\"3\"><br></font><div><font size=\"3\">Jetzt möchten Max und Mia ein Modell der Schnecke bauen.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max und Mia brauchen eure Hilfe!</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">In dieser Aufgabe lernt ihr:<br><br></font><div><font size=\"3\">•&nbsp;ein LEGO®&nbsp;Modell zu bauen</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• euer</span><span style=\"line-height: 1.42857;\">&nbsp;Modell mit eurem Gerät zu verbinden</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;die Schnecke</span><span style=\"line-height: 1.42857;\"> so zu programmieren, dass das Licht grün aufleuchtet</span></font></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">den Smarthub einzuschalten und mit deinem Gerät zu verbinden.</font><br><br>"
+      }
+    ]
+  }
+}

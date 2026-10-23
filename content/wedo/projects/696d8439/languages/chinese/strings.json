@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b2c7868b-18d4-4293-9ee3-61727ee611cc",
+        "string": "24. 动物感官"
+      },
+      {
+        "refId": "9431f876-e3ce-45ae-43c5-524860c4f0bb",
+        "string": "<div><div><font size=\"5\">动物如何与周围的环境互动？</font></div><br><div>在本实验中，需要：&nbsp;</div><div>- 探索动物如何通过感官接收不同类型的信息&nbsp;</div><div>- 针对动物的感官创造动物机器人并为其编程&nbsp;</div><div>- 测试程序，展示动物在不同的刺激下如何反应&nbsp;</div><div>- 分享程序和创意</div></div>"
+      },
+      {
+        "refId": "4e4564f4-7246-473a-273d-88e0e8dd2a13",
+        "string": "<div style=\"text-align: center;\">从设计库的基础模型中寻找启发，在本实验中搭建自己的解决方案。</div>"
+      },
+      {
+        "refId": "0852da6c-6822-462c-426b-8b127c7b15b1",
+        "string": "<div style=\"text-align: center;\">从设计库的基础程序中寻找启发，在本实验中搭建自己的解决方案。</div>"
+      }
+    ]
+  }
+}

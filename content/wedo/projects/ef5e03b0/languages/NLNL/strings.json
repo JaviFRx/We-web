@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "386f1b09-5068-4e7d-8049-aca38d9cce0b",
+        "string": "19. Berichten verzenden"
+      },
+      {
+        "refId": "4e13b309-d018-4f5a-fffb-5f799f2bfb5e",
+        "string": "<div><font size=\"5\">Hoe kunnen we patronen gebruiken om informatie over te brengen?&nbsp;</font></div><br><div>In dit project:&nbsp;</div><div>- Onderzoeken hoe berichten kunnen worden overgebracht van de ene naar de andere plaats&nbsp;</div><div>- Een joystick ontwerpen en programmeren waarmee je berichten kunt verzenden met behulp van codes&nbsp;</div><div>- Jouw programma testen en nieuwe manieren uitvinden om informatie uit te wisselen&nbsp;</div><div>- Je programma en ideeën delen die van dit project een succes maken</div>"
+      },
+      {
+        "refId": "bda862d1-cad7-46e7-04ff-b1d748ed9b9a",
+        "string": "Max en Mia zouden graag informatie overbrengen met behulp van codes.&nbsp;<div><br><div>Help hen een joystick te creëren om berichten te verzenden.</div></div>"
+      },
+      {
+        "refId": "7dac5021-82f4-4666-b7ce-a044fc340fbb",
+        "string": "<font size=\"5\">Denk na over de vragen van Max en Mia:</font><div><span style=\"font-size: 20px;\"><br></span><div>1. Welke manieren bestaan er om berichten van de ene naar de andere plaats te verzenden?&nbsp;</div><div><font color=\"#ffffff\">2. Wat is één manier om een bericht in een signaal om te zetten?</font></div></div>"
+      },
+      {
+        "refId": "c0bb2ea3-15ea-449a-4fda-9c01c1a77414",
+        "string": "<font size=\"5\">Gebruik de stenen:</font><div><br><div>Bouw een joystick om signalen te verzenden.&nbsp;</div><br><div>Programmeer de joystick om in de ene positie een kort geluid te maken en in de andere positie een lang geluid.</div></div>"
+      },
+      {
+        "refId": "030b70ca-ad0c-40de-a349-2e3154cf4b70",
+        "string": "1. Start het programma wanneer \"A\" wordt ingedrukt&nbsp;<div>2. Wacht tot de kantelsensor de beweging Omhoog kantelen heeft gedetecteerd&nbsp;</div><div>3. Speel geluid 21 af&nbsp;</div><div>4. Wacht tot de kantelsensor de beweging Niet kantelen heeft gedetecteerd&nbsp;</div><div>5. Herhaal stap 2 tot en met 4 eindeloos&nbsp;</div><br><div>6. Start het programma wanneer \"A\" wordt ingedrukt&nbsp;</div><div>7. Wacht tot de kantelsensor de beweging Naar beneden kantelen heeft gedetecteerd&nbsp;</div><div>8. Speel geluid 22 af&nbsp;</div><div>9. Wacht tot de kantelsensor de beweging Niet kantelen heeft gedetecteerd&nbsp;</div><div>10. Herhaal stap 7 tot en met 9 eindeloos</div>"
+      },
+      {
+        "refId": "d5e2f867-55d7-4bcf-10b4-889c9c64dcab",
+        "string": "<font size=\"5\">Werk de oplossing uit en test deze:</font><div><span style=\"font-size: 20px;\"><br></span><div>Programmeer de joystick om een bericht te verzenden met behulp van korte en lange geluiden (dit is de code).&nbsp;</div><br><div>Voorbeeld:&nbsp;</div><div>- Probeer het woord “Max” of “Mia” te verzenden in morsecode.</div></div>"
+      },
+      {
+        "refId": "425cc7a0-69a6-499f-c11f-3f17a17c6ff8",
+        "string": "<font size=\"5\">Test je oplossing uit en pas deze aan: </font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">Programmeer een bericht en maak hierbij gebruik van je eigen signaalsysteem.</font></div></div>"
+      },
+      {
+        "refId": "36fcc814-8236-4957-0fa2-bd3e42dfe46e",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen</font><div><font size=\"5\">met Max en Mia</font></div>"
+      },
+      {
+        "refId": "138add23-39e9-4e1f-5532-f74ae72932cc",
+        "string": "<font size=\"5\">Deel je project</font>"
+      },
+      {
+        "refId": "86f0993b-c1a9-4f8e-1346-c395c349c0ef",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen: </font><div><br><div>Voor draadloze communicatie zijn antennes of satellieten nodig om berichten te verzenden en te ontvangen.&nbsp;\n\n</div><br><div>Bouw en programmeer een model van een antenne om berichten te verzenden en te ontvangen. &nbsp;</div></div>"
+      },
+      {
+        "refId": "0684c9fc-c315-4c18-0a3d-c501973e1dbb",
+        "string": "<font size=\"5\">Orden de informatie:</font><div><br><div>Voorbeeld:&nbsp;</div><div><font color=\"#ffffff\">- maak een schermafbeelding van het uiteindelijke programma.&nbsp;</font></div><div><font color=\"#ffffff\">- Maak een filmpje waarin je jouw oplossing uitlegt.</font></div></div>"
+      },
+      {
+        "refId": "149276a8-05bb-4b5d-4c50-be9bd35f5c50",
+        "string": "<font size=\"5\">Deel je bevindingen:&nbsp;</font><div><br><div>Presenteer je oplossingen en geef er uitleg over.</div></div>"
+      },
+      {
+        "refId": "af3b93ec-567c-4029-1cc0-eb2e876cbaef",
+        "string": "Zet de Smarthub aan en koppel deze aan jouw apparaat. Bekijk het filmpje als je hulp nodig hebt.&nbsp;<div><br><div>Raadpleeg het hulpvenster als je extra hulp nodig hebt.</div></div>"
+      }
+    ]
+  }
+}

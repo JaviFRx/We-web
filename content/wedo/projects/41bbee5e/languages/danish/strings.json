@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Blæser"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">Det er en varm dag. Der er alt for varmt i Max og Mias laboratorium.<br><br></font><div><font size=\"3\">De vil gerne bygge en blæser, så der kan blive køligere i laboratoriet.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max og Mia har brug for din hjælp!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Max og Mia har brug for mere hjælp (valgfrit):</font><br><div><font size=\"3\"><br></font><div><font size=\"3\">1. Få blæseren til at dreje rundt med forskellige hastigheder. Og stop den så.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmér blæseren til at gøre andre ting.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Få blæseren til at dreje rundt.<br><br>1. Sæt programmet sammen som vist.</font><div><font size=\"3\"><br>2. Forklar hinanden, hvordan blæseren virker.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><div><font size=\"3\">I denne lektion lærer du at:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">• b<span style=\"line-height: 1.42857;\">ygge en LEGO® model</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• f</span><span style=\"line-height: 1.42857;\">orbinde din model med din enhed</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• programmere</span><span style=\"line-height: 1.42857;\"> motoren, så den kan dreje rundt med forskellige hastigheder.</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed.</font>"
+      }
+    ]
+  }
+}

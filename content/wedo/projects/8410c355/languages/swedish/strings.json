@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "cde82c40-bc26-4488-5ac3-65bc37c0907d",
+        "string": "<font size=\"5\">Använd klossarna:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg en kommunikationsarm som hjälper Milo att informera om sitt fynd.</font></div>"
+      },
+      {
+        "refId": "d28221aa-2cf6-49ef-e480-5abb5d373098",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet. Titta på videofilmen om du behöver hjälp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se hjälppanelen för att få mer vägledning.</font></div>"
+      },
+      {
+        "refId": "744b8b8b-17b8-4a77-b25e-8675f558a0cd",
+        "string": "<font size=\"3\">Programmera Milo att leverera ett meddelande om att växten har hittats.</font>"
+      },
+      {
+        "refId": "ba8a27d9-a890-4d8d-de53-7551cbf894d6",
+        "string": "<font size=\"3\">Ta en skärmdump av Milos program.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentera vad det gör.</font></div>"
+      },
+      {
+        "refId": "063962aa-e2c2-4968-e962-3d83807f017e",
+        "string": "<font size=\"3\">Max och Mia väntar på att Milo ska skicka ett meddelande om sina fynd.</font>"
+      },
+      {
+        "refId": "fe0a1e5d-bfda-4140-735c-bf0af20863fe",
+        "string": "<div><font size=\"3\">I det här projektet kommer du att:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Använda lutningssensorn för att bygga och programmera Milos kommunikationsarm.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Dokumentera Milos kommunikation med forskningsbasen.</font></div></div>"
+      },
+      {
+        "refId": "7c934476-fbc2-42c8-b1f3-9b37879f2aa6",
+        "string": "C. Milos lutningssensor"
+      }
+    ]
+  }
+}

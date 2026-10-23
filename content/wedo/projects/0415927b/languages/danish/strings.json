@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "ef94960c-0311-4209-054c-179fa1c7f401",
+        "string": "<font size=\"3\">Max og Mia kigger på frøer i deres have.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De vil gerne vide mere om faserne i en frøs liv.</font></div>"
+      },
+      {
+        "refId": "1d827a2e-1be2-4e8b-9d29-fda4ffb45d1f",
+        "string": "<font size=\"5\">Undersøg Max' og Mias spørgsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. <font size=\"3\">Hvad er de forskellige fysiske </font><span style=\"line-height: 17.142858505249px;\">kendetegn</span> ved en haletudse, en nyforvandlet unge og en voksen frø?</font></div><div><font size=\"3\">2. Hvad er sammenhængen mellem ændringerne i frøens fysiske kendetegn og dens biotop?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Del dine idéer ved hjælp af dokumentationsværktøjet.</font></div>"
+      },
+      {
+        "refId": "c3c5024e-8760-46be-4c5a-885a47ad3fd9",
+        "string": "<font size=\"5\">Brug klodserne:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg en model af en haletudse.</font></div><div><font size=\"3\" color=\"#ffffff\">Dokumentér din model med et billede eller en skitse.</font></div>"
+      },
+      {
+        "refId": "a563561c-d588-4082-787f-82cea9aa8708",
+        "string": "<font size=\"5\">Brug klodserne:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg videre på modellen, så den skifter fra at være en haletudse til en nyforvandlet unge.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Dokumentér din nye model med et billede eller en skitse, og notér de ændringer, der er sket i den nye model.</font></div>"
+      },
+      {
+        "refId": "7fd56cf5-f271-4308-06b5-6d20a598d555",
+        "string": "<font size=\"3\">Programmér din unge til at bevæge sig rundt i sin biotop.</font>"
+      },
+      {
+        "refId": "576000f9-9908-4f1b-3d71-8f0d167dff11",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed. Se videoen, hvis du har brug for hjælp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se panelet Hjælp, hvis du har brug for mere hjælp.</font></div>"
+      },
+      {
+        "refId": "41d5c8b4-8774-4230-4fb6-0dd95f2cf0b7",
+        "string": "<font size=\"5\">Brug din model:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Lav ændringer på din frøunge, så den ligner en voksen frø.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Overvej følgende opgaver:</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">1. Ændr dens udseende.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">2. Ændr den måde, den bevæger sig på.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Ændr dens adfærd, så den efterligner en voksen frø.</font></span></div><br><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Dokumentér de ændringer, du har lavet på modellen, og forklar, hvorfor det sker ude i naturen.</font></span><br></div></div>"
+      },
+      {
+        "refId": "603bbcfa-a9e5-4d26-a747-8463228f17de",
+        "string": "<font size=\"5\">Gør dit dokument færdigt:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Undersøg én af de modeller, du har bygget og dokumenteret. Hvad kan din model ikke?</font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">2. Organisér dine oplysninger.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Indsæt vigtig tekst, billeder, skærmbilleder eller videoer for at vise helt præcist, hvordan din model gengiver frøens livscyklus.</font></span><br></div>"
+      },
+      {
+        "refId": "158a39f2-17e9-40c0-4f06-9be5b0236bed",
+        "string": "<font size=\"5\">Del dine resultater:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Fremlæg med dine egne ord frøens livscyklus ved hjælp af din model.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Sørg for at fremhæve bestemte eksempler på, hvordan din model gengiver frøens livscyklus.&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Del mindst én begrænsning ved din model.&#160;</font></div>"
+      },
+      {
+        "refId": "1f60e4e5-0107-499f-cc22-2cf85ab99ddd",
+        "string": "<font size=\"5\">Brug din model endnu mere</font><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "5bebec68-1df9-4380-4baf-6e9c43dae21a",
+        "string": "<font size=\"5\">Del dit projekt</font>"
+      },
+      {
+        "refId": "ad406388-fcaf-4283-90f1-3554cec0a157",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"4\">Hvordan forvandler frøer sig i løbet af deres liv?</font></span><br></div><div><span style=\"line-height: 1.42857143;\"><font size=\"4\"><br></font></span></div><div><font size=\"3\">I dette projekt skal du:</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">undersøge, hvad du ved om faserne i frøens livscyklus, fra den bliver født, til den er voksen</font></div><div><span style=\"line-height: 1.42857143;\">•</span><font size=\"3\">&#160;bygge og programmere en model af en ung frø og derefter af en voksen frø</font></div><div><span style=\"line-height: 1.42857143;\">•</span><font size=\"3\">&#160;dokumentere de kendetegn, der ændrer sig i din model igennem de forskellige faser af frøens liv.</font></div>"
+      },
+      {
+        "refId": "73a9eeb3-a2bb-4500-eceb-24fd53e46e25",
+        "string": "<font color=\"#000000\" size=\"5\">Brug din model endnu mere:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De forandringer, der sker hos frøen igennem hele dens livscyklus, påvirkes af dens miljø.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Vælg én af de følgende påvirkninger, og brug kloderne til at modellere og beskrive, hvad de betyder for din frø:&#160;</font></div><div><font size=\"3\">1. Ændring i biotopen</font></div><div><font size=\"3\">2. Forurening eller sygdom&#160;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentér, hvad denne eksterne faktor betyder for din frøs liv.</font></div>"
+      },
+      {
+        "refId": "f794366a-9b7e-47ff-9b31-45f0e46b5a37",
+        "string": "4. Frøens forvandling"
+      }
+    ]
+  }
+}

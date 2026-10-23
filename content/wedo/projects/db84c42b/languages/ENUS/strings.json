@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9997a889-7228-456c-aa52-711510c4a900",
+        "string": "8. Start on Key"
+      },
+      {
+        "refId": "d70cc55c-4f0d-4b2e-6562-f5693f988a3a",
+        "string": "1. Start program on letter \"A\"&nbsp;<div>2. Start motor for 2 seconds</div>"
+      },
+      {
+        "refId": "f88783b4-f0eb-41b3-3860-f2f246ab33a0",
+        "string": "1. Start program on letter \"Y\"&nbsp;<div>2. Start motor for 2 seconds<br><br><div>3. Start program on letter \"A\"&nbsp;</div><div>4. Play sound 1</div></div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0199e382-b14e-4aba-a0cd-b3ad605d1bc1",
+        "string": "3b. Verkeerslicht"
+      },
+      {
+        "refId": "9b6ee4fa-569a-4f4b-366f-6c3440d5636d",
+        "string": "1. Start het programma&nbsp;<div>2. Stel het ledlampje in op kleur 9 (rood)&nbsp;</div><div>3. Wacht gedurende 2 seconden&nbsp;</div><div>4. Stel het ledlampje in op kleur 5 (groen)&nbsp;</div><div>5. Wacht gedurende 2 seconden&nbsp;</div><div>6. Stel het ledlampje in op kleur 7 (geel)&nbsp;</div><div>7. Wacht gedurende 2 seconden&nbsp;</div><div>8. Herhaal stap 2 tot en met 7 eindeloos</div>"
+      }
+    ]
+  }
+}

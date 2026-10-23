@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "cde82c40-bc26-4488-5ac3-65bc37c0907d",
+        "string": "<font size=\"5\">Usando as peças:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Criem um braço mensageiro para ajudar o Milo, o robô explorador da Ciência, a comunicar sua descoberta.</font></div>"
+      },
+      {
+        "refId": "d28221aa-2cf6-49ef-e480-5abb5d373098",
+        "string": "<font size=\"3\">Liguem o Smarthub e o conectem ao seu dispositivo. Assistam ao vídeo se precisarem de ajuda.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultem o painel de ajuda para obter outras orientações.</font></div>"
+      },
+      {
+        "refId": "744b8b8b-17b8-4a77-b25e-8675f558a0cd",
+        "string": "<font size=\"3\">Programem o Milo para enviar a mensagem de que ele encontrou a espécie de planta em questão.</font>"
+      },
+      {
+        "refId": "ba8a27d9-a890-4d8d-de53-7551cbf894d6",
+        "string": "<font size=\"3\">Façam uma captura de tela da programação do Milo.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Registrem o que ele faz.</font></div>"
+      },
+      {
+        "refId": "063962aa-e2c2-4968-e962-3d83807f017e",
+        "string": "<font size=\"3\">Max e Mia estão aguardando que o robô Milo os envie uma mensagem sobre suas descobertas.</font>"
+      },
+      {
+        "refId": "fe0a1e5d-bfda-4140-735c-bf0af20863fe",
+        "string": "<div><font size=\"3\">Neste projeto, vocês irão:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Criar e programar o braço mensageiro do Milo usando o sensor de inclinação.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Registrar a comunicação do Milo com a base.</font></div></div>"
+      },
+      {
+        "refId": "7c934476-fbc2-42c8-b1f3-9b37879f2aa6",
+        "string": "C. Sensor de Inclinação do Milo"
+      }
+    ]
+  }
+}

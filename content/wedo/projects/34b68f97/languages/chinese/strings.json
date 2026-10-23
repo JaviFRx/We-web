@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1b30cf7d-5870-47e2-a7e8-3f32b797f498",
+        "string": "18. 抓取物体"
+      },
+      {
+        "refId": "991c048e-798d-463e-5fc7-811967895c84",
+        "string": "<div><div><div><font size=\"5\">手部有残疾的人如何抓取小物体？</font></div><div><br><div>在本实验中，需要：&nbsp;</div><div>- 探索假肢是如何帮助残疾人的&nbsp;</div><div>- 制作假肢并为其编程，使其可以抓取物体&nbsp;</div><div>- 测试你的程序，使假肢尽量可以发挥正常功用&nbsp;</div><div>- 与别人分享你的程序和创意是如何成功实现的<br></div></div></div></div>"
+      },
+      {
+        "refId": "48fe8e6f-e967-4699-1e20-ba08a9686e38",
+        "string": "麦克斯和米娅想要帮助那些身有残疾的人们。&nbsp;&nbsp;<div>&nbsp;\n<br><div>请帮助他们设计一个可以抓取不同物体的人造手。</div></div>"
+      },
+      {
+        "refId": "bdc4db6f-6c46-4663-a54c-9675fc2a4af3",
+        "string": "<font size=\"5\">来看一看麦克斯和米娅遇到的问题：</font><div><br><div>1. 你的手可以做出哪些动作？&nbsp;</div><div>2. 手上肌肉的作用是什么？&nbsp;</div><div><font color=\"#ffffff\">3. 如何制作一只人造手？</font><br></div></div>"
+      },
+      {
+        "refId": "a9e86e5d-0c2f-492f-2d1a-422dd7e90d79",
+        "string": "<font size=\"5\">使用积木：</font><div><span style=\"font-size: 20px;\"><br></span><div>搭建一只可以抓取不同物体的机械手。&nbsp;\n</div><br><div>对机械手编程，使其可以张开和握紧。</div></div>"
+      },
+      {
+        "refId": "ea8276cd-b3fe-4061-54af-f29a472f1a16",
+        "string": "1. 启动程序&nbsp;<div>2. 等待运动传感器检测到移动&nbsp;</div><div>3. 顺时针运转启动马达&nbsp;</div><div>4. 运行马达 2 秒&nbsp;</div><div>5. 等待 2 秒&nbsp;</div><div>6. 逆时针运转启动马达</div><div>7. 运行马达 2 秒</div>"
+      },
+      {
+        "refId": "bdc58061-18ca-479d-614c-759506f45670",
+        "string": "<font size=\"5\">计划和尝试解决方案：</font><div><span style=\"font-size: 20px;\"><br></span><div>为机械手编程，使它可以：&nbsp;</div><div>- 抓取花朵并将花朵放到台子上&nbsp;</div><div>- 抓取电源插头并将插头插入插座中</div></div>"
+      },
+      {
+        "refId": "7bde3747-6cdb-4ecd-c313-343fb0c243b0",
+        "string": "<font size=\"5\">测试并修改你的解决方案</font><div><br><div>机械手使用此程序将无法正常工作。&nbsp;</div><br><div>手握紧时，智能集线器应亮起绿灯，手打开时应亮起红灯。&nbsp;</div><br><div><font color=\"#ffffff\">修改程序来解决这个问题。</font></div></div>"
+      },
+      {
+        "refId": "50279510-14bc-463c-5078-6f17d5474810",
+        "string": "<font size=\"5\">与麦克斯和米娅一起</font><div><font size=\"5\">设计新的解决方案</font></div>"
+      },
+      {
+        "refId": "44fe0336-824e-4242-7e5a-ef4dcf96ca4e",
+        "string": "<font size=\"5\">分享实验</font>"
+      },
+      {
+        "refId": "abc1d817-50d5-4add-dce5-353c6c7a8e29",
+        "string": "<font size=\"5\">整理你的信息：</font><div><br><div>例如：&nbsp;</div><div><font color=\"#ffffff\">- 为最终完成的程序截屏。</font></div><div><font color=\"#ffffff\">- 录制一段视频，解释你的解决方案。</font></div></div>"
+      },
+      {
+        "refId": "3e03ada0-54f8-40a1-fc75-9a2d092bfa85",
+        "string": "<font size=\"5\">分享你的发现：</font><div><span style=\"font-size: 20px;\"><br></span><div>展示并解释你的解决方案。</div></div>"
+      },
+      {
+        "refId": "6835b1da-0a51-4494-052e-7ed1dfeca056",
+        "string": "<font size=\"5\">设计新的解决方案：</font><div>&nbsp;</div><div>让我们两个小组一队，进行合作！&nbsp;</div><br><div>在点A 和点 B 之间移动物体。&nbsp;</div><br><div>尽可能快地将物体从一只机械手移动到另一只机械手上。</div>"
+      },
+      {
+        "refId": "39d55ae5-a248-4014-b9fa-bee563f5bb85",
+        "string": "打开智能集线器，将其连接到你的设备。如果需要帮助，请观看视频。&nbsp;<br><br><div>更多指南请参见“帮助”面板。&nbsp;</div>"
+      }
+    ]
+  }
+}

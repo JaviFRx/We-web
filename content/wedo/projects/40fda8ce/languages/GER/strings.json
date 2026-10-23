@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "11513aca-bcc0-4fd3-be56-fc3cd35797f5",
+        "string": "20. Vulkanische Aktivität"
+      },
+      {
+        "refId": "ff1526d0-52e9-440a-fa57-2b312ebd11b2",
+        "string": "<div><font size=\"5\"> Wie können Wissenschaftler vulkanische Aktivität beobachten?&nbsp;</font></div><br><div>In diesem Projekt werdet ihr:&nbsp;</div><div>- lernen, wie Wissenschaftler vulkanische Aktivität beobachten </div><div>- ein Gerät bauen, das vulkanische Aktivität anzeigen kann&nbsp;</div><div>- ein Programm schreiben, mit dem euer Gerät vor vulkanischer Aktivität warnen kann&nbsp;</div><div>- eure Programme testen und herausfinden, wie gut sie die verschiedenen Stufen anzeigen&nbsp;</div><div>- eure Programme vorstellen und Ideen untereinander austauschen&nbsp;</div><div>- eure Ergebnisse dokumentieren und präsentieren</div>"
+      },
+      {
+        "refId": "165a3271-75a6-4b2c-5bd6-65e937ad4fa6",
+        "string": "Max und Mia sind fasziniert von Geräten, mit denen Menschen Prozesse in der Natur beobachten und messen können.\n\nJetzt wollen sie herausfinden, wie ein Gerät vulkanische Aktivität anzeigen kann. Max und Mia bereiten eine Vulkanexpedition vor.&nbsp;<div><br><div>Helft ihnen dabei, ein Vulkanausbruch-Warnsystem zu programmieren, das sie dabei unterstützt, die Bewegungen ihrer Drohne, ihrer Sonde und eines Tiers in der Umgebung zu koordinieren.</div></div>"
+      },
+      {
+        "refId": "fab27f42-230a-49eb-bec2-721408a23bea",
+        "string": "<font size=\"5\">Verwendet die Bausteine:&nbsp;</font><div><br><div><font size=\"3\">Baut ein Warnsystem, das die verschiedenen Stufen vulkanischer Aktivität anzeigen kann.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Programmiert es so, dass es aktiviert wird, wenn das Gerät wackelt.</font></div></div>"
+      },
+      {
+        "refId": "7be8704a-5aca-48e0-1af6-7ab65e48274c",
+        "string": "1. Programm starten&nbsp;<div>2. Motor in jene Richtung starten&nbsp;</div><div>3. Motor mit Motorenleistung 3 starten&nbsp;</div><div>4. Warten, bis sich der Neigungssensor aufwärts neigt&nbsp;</div><div>5. Motor 2 Sekunden lang starten&nbsp;</div><div>6. Warten, bis der Neigungssensor eine beliebige Neigung (Wackeln) erkennt&nbsp;</div><div>7. Motor in diese Richtung starten&nbsp;</div><div>8. Motor für eine zufällige Anzahl an Sekunden starten</div>"
+      },
+      {
+        "refId": "91f4101a-154c-4a78-cd27-4e517698b552",
+        "string": "<font size=\"5\">Entwerft eine Lösung und probiert sie aus:&nbsp;</font><div><br><div><font size=\"3\">Programmiert euer Warnsystem so, dass es eine Warnmeldung ausgibt, wenn der Zeiger auf Rot wechselt.&nbsp;\n</font></div><font size=\"3\"><br></font><div><font size=\"3\">Jedes Mal, wenn der Zeiger auf Rot zeigt, muss die Drohne in den Vulkan fliegen, damit sie dort den Ausbruch untersuchen kann.&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\"> Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Beschreibt eure erste Lösung.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Dokumentiert eure Verbesserungsvorschläge.</font></div></div>"
+      },
+      {
+        "refId": "f9eb0f00-54c8-459f-c0b6-496371f2f78e",
+        "string": "<font size=\"5\">Testet eure Lösung und verbessert sie:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">- Programmiert euer Warnsystem so, dass es verschiedene Signale für jede der drei Stufen vulkanischer Aktivität ausgibt.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">- Bei jeder Warnmeldung müssen die Drohne, das Tier und die Sonde entsprechend bewegt werden.&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\"> Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Beschreibt euren Entwicklungsprozess.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Dokumentiert eure fertigen Lösungen.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "d7740519-33e7-48d1-a8e3-5398eff40ca4",
+        "string": "<font size=\"5\">Ergebnisse vorstellen</font>"
+      },
+      {
+        "refId": "46a03b2d-27fe-4459-b355-6e7aa76c3a65",
+        "string": "<font size=\"5\"> Expertenauftrag </font><div><font size=\"5\"> </font></div>"
+      },
+      {
+        "refId": "b916f289-1501-4d1c-2cf7-211d3142a0f5",
+        "string": "<font size=\"5\"> Expertenauftrag:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Einige Warnsysteme arbeiten mit vier Stufen: grün, gelb, orange und rot.&nbsp;</font></div><div><font size=\"3\">Findet einen Weg, um die vierte Stufe mit eurem Warnsystem anzuzeigen.</font></div><font size=\"3\"><br></font><div><font size=\"3\">1. Baut euer Gerät um und programmiert es entsprechend.&nbsp;</font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">2. Kennt ihr noch andere Warnsysteme?&nbsp;</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">3. Denkt euch ein anderes Warnsystem aus und programmiert es entsprechend.&nbsp;</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:&nbsp;</font></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">- Beschreibt euer Vorgehen.&nbsp;</font></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">- Dokumentiert den Entwicklungsprozess und eure fertigen Lösungen.</font></span></div></div>"
+      },
+      {
+        "refId": "7821b679-8dea-442d-6043-9df9f0c0f632",
+        "string": "<font size=\"5\"> Bereitet eure Präsentation vor:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. Beantwortet Max’ und Mias Fragen.&nbsp;</font></div><div><font size=\"3\">2. Vergleicht eure verschiedenen Programme.&nbsp;</font></div><div><font size=\"3\">3. Vergleicht eure ersten Lösungen mit der fertigen Lösung. &nbsp;</font></div><div><font size=\"3\">4. Überarbeitet eure Dokumentation.&nbsp;</font></div><div><font size=\"3\">5. Nehmt ein Video auf und erklärt darin eure Lösung.</font></div></div>"
+      },
+      {
+        "refId": "c4d962d6-dead-4bba-6766-3751205a1e90",
+        "string": "<font size=\"5\"> Präsentiert eure Ergebnisse:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Präsentiert eure Lösung und erklärt mit euren eigenen Worten die Funktion des Programms.</font></div></div>"
+      },
+      {
+        "refId": "e0b7499c-e7e8-42d1-665e-4c037437bfe1",
+        "string": "<font size=\"3\">Max und Mia sind fasziniert von Geräten, mit denen Menschen Prozesse in der Natur beobachten und messen können.</font><div><font size=\"3\">&nbsp;</font></div><div><font size=\"3\">Jetzt wollen sie herausfinden, wie ein Gerät vulkanische Aktivität anzeigen kann. Max und Mia bereiten eine Vulkanexpedition vor.&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">Helft ihnen dabei, ein Vulkanausbruch-Warnsystem zu programmieren, das sie dabei unterstützt, die Bewegungen ihrer Drohne, ihrer Sonde und eines Tiers in der Umgebung zu koordinieren.</font></div></div></div>"
+      },
+      {
+        "refId": "a10705c3-dd78-4352-cecf-34ad379eeee5",
+        "string": "<font size=\"5\">Max und Mia fragen sich:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. Welche Stufen vulkanischer Aktivität gibt es?&nbsp;</font></div><div><font size=\"3\">2. Wie können Wissenschaftler Vulkane erforschen?&nbsp;</font></div><div><font size=\"3\">3. Wie kann ein Gerät vulkanische Aktivität anzeigen?&nbsp;</font></div><div><font size=\"3\">4. Mit welchem Signal könnte man vor einem Vulkanausbruch warnen? \n&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Überlegt gemeinsam. Was vermutet ihr?\n&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">Schreibt eure Ideen und ersten Lösungsvorschläge auf.</font></div></div>"
+      },
+      {
+        "refId": "08e6bd33-975a-40e5-8215-4ca31daf218e",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&nbsp;<br><br></font><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.&nbsp;</font></div></div></div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Liguem o Smarthub e o conectemao dispositivo.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Assistam ao vídeo se precisarem de ajuda. Consultem o painel de ajuda para obter outras orientações.</font></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<font size=\"3\">Programem seus robôs para carregarem juntos a espécime de planta até o destino final.</font>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"5\">Finalizem o seu registro.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">• Insiram uma foto do Milo.</font></div><div><font size=\"3\">• Insiram uma captura de tela de uma programação feita.</font></div><div><font size=\"3\">• Insiram outras informações que vocês acharem que são importantes.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Compartilhem seus registros finais.</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><br>"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">Compartilhem as suas descobertas:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Expliquem como vocês conseguiram, com sucesso, carregar a espécie de planta.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<font size=\"5\">Usando as peças:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">criem, juntamente com outra equipe, um dispositivo para mover a amostra de planta. É importante que os dois robôs trabalhem juntos nesta missão de mover a amostra de planta.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">Max e Mia descobriram que a amostra de planta era muito pesada para o Milo mover sozinho.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<font size=\"3\">Neste projeto, vocês irão:</font><br><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Criar e programar um dispositivo para mover a amostra de planta.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\"><font size=\"3\">Apresentar e registrar, de um modo geral, como a missão do Milo foi realizada.</font></span></div>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. Colaboração"
+      }
+    ]
+  }
+}

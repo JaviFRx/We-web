@@ -1,0 +1,34 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "cde82c40-bc26-4488-5ac3-65bc37c0907d",
+        "string": "<font size=\"5\">블록 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">과학 탐사 차량 마일로가 새로운 것을 찾았다는 사실을 알릴 수 있도록 메시지 전송용 팔을 만드세요.</font></div>"
+      },
+      {
+        "refId": "d28221aa-2cf6-49ef-e480-5abb5d373098",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치를 연결하세요.&nbsp;</font><div><font size=\"3\">도움이 필요하면 비디오를 보아 주세요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">자세한 지침은 도움말 창을 보아 주세요.</font></div></div>"
+      },
+      {
+        "refId": "744b8b8b-17b8-4a77-b25e-8675f558a0cd",
+        "string": "<font size=\"3\">식물 표본을 찾았다는 메시지를 전송하도록 마일로를 프로그래밍하세요.</font>"
+      },
+      {
+        "refId": "ba8a27d9-a890-4d8d-de53-7551cbf894d6",
+        "string": "<font size=\"3\">마일로의 프로그램이 표시된 화면을 캡처하세요.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">마일로가 하는 일을 문서화하세요.</font></div>"
+      },
+      {
+        "refId": "063962aa-e2c2-4968-e962-3d83807f017e",
+        "string": "<font size=\"3\">맥스와 미아는 지금 마일로가 식물 표본을 찾았다는 메시지를 보내 오기를 기다리고 있어요.</font>"
+      },
+      {
+        "refId": "fe0a1e5d-bfda-4140-735c-bf0af20863fe",
+        "string": "<div><font size=\"3\">이번 프로젝트의 과제:</font></div><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">기울기 센서를 이용해 마일로의 메시지 전송용 팔을 조립하고 프로그래밍하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">마일로와 기지 사이의 통신 내용을 문서화하세요.</font></div></div>"
+      },
+      {
+        "refId": "7c934476-fbc2-42c8-b1f3-9b37879f2aa6",
+        "string": "C. 마일로의 기울기 센서"
+      }
+    ]
+  }
+}

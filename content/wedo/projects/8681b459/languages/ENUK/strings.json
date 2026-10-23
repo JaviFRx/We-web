@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "a37c33da-10a6-4999-93e4-0e39db2ec5ad",
+        "string": "<font size=\"3\">Get inspiration from the Design Library base models to build your own solution to this project.</font>"
+      },
+      {
+        "refId": "1d8a916d-52f6-411b-7707-13e1316d104e",
+        "string": "<div><font size=\"4\">How can the impacts on environmental changes and wildlife be reduced?</font><font size=\"3\"><br></font></div><div><font size=\"3\">In this project, you will:<br></font><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explore the effect of road construction on animals and plants, and imagine possibilities to reduce its impact.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Create and program a device that will allow animals to cross hazardous areas.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Present and document your solution, and explain how the crossing has been design</font>ed with a particular animal in mind.</font></div></div>"
+      },
+      {
+        "refId": "add4eed8-e8c9-41e1-921b-03edd27203b7",
+        "string": "15. Wildlife Crossing"
+      }
+    ]
+  }
+}

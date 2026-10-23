@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9997a889-7228-456c-aa52-711510c4a900",
+        "string": "8. Iniciar con la tecla"
+      },
+      {
+        "refId": "d70cc55c-4f0d-4b2e-6562-f5693f988a3a",
+        "string": "1. Iniciar programa por la letra \"A\"&nbsp;<div>2. Iniciar el motor durante 2 segundos</div>"
+      },
+      {
+        "refId": "f88783b4-f0eb-41b3-3860-f2f246ab33a0",
+        "string": "1. Iniciar programa por la letra \"Y\"&nbsp;<div>2. Iniciar el motor durante 2 segundos<br><br><div>3. Iniciar programa por la letra \"A\"&nbsp;</div><div>4. Reproducir sonido 1</div></div>"
+      }
+    ]
+  }
+}

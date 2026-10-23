@@ -1,0 +1,42 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<font size=\"3\">Max e Mia estão prontos para explorar o mundo e para fazer grandes descobertas.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Eles irão precisar de ajuda, especialmente para explorar lugares remotos, a fim de encontrar uma espécie diferente de planta.</font></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<font size=\"5\">Explorem a dúvida de Max e Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. O que os cientistas e engenheiros fazem quando eles não conseguem chegar ao local que desejam explorar?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Compartilhem as suas respostas usando a ferramenta Registro.</font></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<font size=\"5\">Usando as peças:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Criem o Milo, o Robô Explorador da Ciência. Importante: O Milo deve se mover.</font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<font size=\"3\">Liguem o Smarthub e o conectem ao seu dispositivo. Assistam ao vídeo se precisarem de ajuda.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultem o painel de ajuda para obter outras orientações.</font></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<font size=\"3\">Programem o Milo para se mover para a frente.</font>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<font size=\"3\">Tirem uma foto sua com o Milo.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Escrevam na ferramenta Registro o que vocês acham dele e um pouco sobre suas características!</font></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<font size=\"5\">Compartilhem as suas descobertas:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Expliquem como o Milo pode ajudar nos projetos de Ciências.</font></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<font size=\"3\">Neste projeto, vocês irão:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Explorar formas diferentes através das quais os cientistas e engenheiros alcançam lugares remotos.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Criar e programar o Milo, o robô explorador da Ciência.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Registrar como o Milo pode ajudá-los a descobrir uma espécie diferente de planta.</font></div></div>"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. Milo, o Robô Explorador da Ciênica"
+      }
+    ]
+  }
+}

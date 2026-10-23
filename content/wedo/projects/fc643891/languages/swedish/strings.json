@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9b799c0f-ffdf-4694-ae70-9173041428e5",
+        "string": "14a. Stanna loop med sensor"
+      },
+      {
+        "refId": "330631af-42d0-427f-e123-6a94d1e390a1",
+        "string": "1. Starta program&#160;<div>2. Starta motor åt det här hållet&#160;</div><div>3. Upprepa steg 2 tills rörelsesensorn upptäcker rörelse&#160;</div><div>4. Stanna motor</div>"
+      }
+    ]
+  }
+}

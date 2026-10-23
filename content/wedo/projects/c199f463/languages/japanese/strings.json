@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0199e382-b14e-4aba-a0cd-b3ad605d1bc1",
+        "string": "3b.信号"
+      },
+      {
+        "refId": "9b6ee4fa-569a-4f4b-366f-6c3440d5636d",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.LED を色9 (赤) でオンにする&nbsp;</div><div>3.2秒間待機する&nbsp;</div><div>4.LED を色5 (緑) でオンにする&nbsp;</div><div>5.2秒間待機する&nbsp;</div><div>6.LED を色7 (黄色) でオンにする&nbsp;</div><div>7.2秒間待機する&nbsp;</div><div>8.ステップ2～7を永久に繰り返す</div>"
+      }
+    ]
+  }
+}

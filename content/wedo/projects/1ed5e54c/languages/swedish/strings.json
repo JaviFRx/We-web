@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5348bb44-c747-4bcc-ab3b-8a1368e8d9cd",
+        "string": "9b. Skicka slumpmässiga meddelanden"
+      },
+      {
+        "refId": "e0f98a27-bf25-4f43-c5f6-b330055efd81",
+        "string": "1. Starta program&#160;<div>2. Lägg till en slumpmässig siffra på displayen&#160;</div><div>3. Skicka ett meddelande som matchar siffran på displayen&#160;</div><br><div>4. Starta när meddelande ”1” är mottaget&#160;</div><div>5. Spela ljudsiffran som visas på displayen&#160;</div><br><div>6. Starta när meddelande ”2” är mottaget&#160;</div><div>7. Spela ljudsiffran som visas på displayen&#160;</div>"
+      },
+      {
+        "refId": "64381edb-26cf-4c95-0b16-f084e716f017",
+        "string": "Det krävs ingen LEGO modell för att testa det här programmet."
+      }
+    ]
+  }
+}

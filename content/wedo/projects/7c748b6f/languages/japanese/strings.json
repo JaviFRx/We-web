@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9cac809c-24e2-4f68-88d4-1ddb99993014",
+        "string": "1a.回転速度増加"
+      },
+      {
+        "refId": "54d37f58-f4fc-4a11-3501-8abb225c5590",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.モーターを出力1で回転させる&nbsp;</div><div>3.1秒間待機する&nbsp;</div><div>4.モーターを出力5で回転させる&nbsp;</div><div>5.1秒間待機する&nbsp;</div><div>6.モーターを出力10で回転させる</div>"
+      }
+    ]
+  }
+}

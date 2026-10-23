@@ -1,0 +1,42 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<font size=\"3\">맥스와 미아가 멋진 발견을 위한 세계 탐험 여행을 떠날 준비를 마쳤어요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">맥스와 미아는 특별한 식물 표본을 찾으러 먼 곳을 탐사할 예정이기 때문에 무언가 도움을 받아야만 할 거예요.</font></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 탐사하고 싶은 지역에 직접 갈 수 없을 경우, 과학자와 엔지니어가 사용하는 방법이 무엇인가요?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">문서화 도구를 이용해 자신이 찾아낸 답을 공유하세요.</font></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<font size=\"5\">블록 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">과학 탐사 차량 마일로를 조립하세요.</font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치를 연결하세요.</font><div><font size=\"3\">도움이 필요하면 비디오를 보아 주세요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">자세한 지침은 도움말 창을 보아 주세요.</font></div></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<font size=\"3\">마일로가 전진할 수 있게 프로그램을 작성하세요.</font>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<font size=\"3\">마일로와 함께 사진을 찍으세요.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">마일로에 대한 자신의 생각을 문서화 도구에 기록하세요!</font></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<font size=\"5\">탐구 결과 공유:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">마일로가 과학 프로젝트에 어떻게 도움이 될지 설명하세요.</font></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<font size=\"3\">이번 프로젝트의 과제:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">과학자와 엔지니어가 먼 지역을 탐사할 때 사용하는 여러 가지 방법을 조사하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">과학 탐사 차량 마일로를 조립하고 프로그래밍하세요.&#160; </font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">특별한 식물 표본을 찾는 데 마일로가 어떻게 도움이 될지를 문서에 기록하세요.</font></div></div>"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. 과학 탐사 차량 마일로"
+      }
+    ]
+  }
+}

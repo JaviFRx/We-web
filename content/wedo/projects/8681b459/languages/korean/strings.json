@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "a37c33da-10a6-4999-93e4-0e39db2ec5ad",
+        "string": "<font size=\"3\">디자인 라이브러리의 기본 모델을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</font>"
+      },
+      {
+        "refId": "1d8a916d-52f6-411b-7707-13e1316d104e",
+        "string": "<div><font size=\"4\">환경 변화와 야생동물에 미치는 영향을 어떻게 줄일 것인가?</font><font size=\"3\"><br></font></div><div><font size=\"3\">이번 프로젝트의 과제:<br></font><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">도로가 동물과 식물에 미치는 영향을 알아보고, 좋지 않은 영향을 줄일 방법을 구상해 보세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">동물들이 위험한 지역을 안전하게 지나도록 해 줄 장치를 조립하고 프로그래밍하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">자신이 찾아낸 해결 방법을 문서에 기록하고 발표하되, 횡단로가 어느 동물을 위해 </font>어떻게 디자인되었는지 설명하세요.</font></div></div>"
+      },
+      {
+        "refId": "add4eed8-e8c9-41e1-921b-03edd27203b7",
+        "string": "15. 야생동물 횡단로"
+      }
+    ]
+  }
+}

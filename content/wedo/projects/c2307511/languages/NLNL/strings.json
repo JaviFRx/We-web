@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "be0cc785-b4e3-46c6-9eab-7705284c2d44",
+        "string": "14b. Willekeurig cijfer kiezen"
+      },
+      {
+        "refId": "0c106ad5-71ff-4653-8530-c1f11bc8a7e7",
+        "string": "1. Start het programma&nbsp;<div>2. Toon een willekeurig cijfer op het beeldscherm&nbsp;</div><div>3. Herhaal tienmaal stap 2</div>"
+      },
+      {
+        "refId": "a11f57f6-744a-4c2e-f525-329d1dc8c90d",
+        "string": "Er is geen LEGO model vereist om dit programma te testen."
+      }
+    ]
+  }
+}

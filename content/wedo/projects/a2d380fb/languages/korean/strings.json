@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치에 연결하세요.</font><div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857;\">도움이 필요하면 비디오를 보아 주세요.&nbsp;</span></div><div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857;\"><br></span></div><div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857;\">추가로 지침이 필요하면 도움말 창을 보세요.</span><br></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<font size=\"3\">식물 표본을 목적지까지 옮기기 위한 기계 팔을 프로그래밍하세요.</font>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"5\">문서 최종 완성:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">• 마일로의 사진을 문서에 넣으세요.</font></div><div><font size=\"3\">• 프로그램 화면을 캡처하여 문서에 넣으세요.</font></div><div><font size=\"3\">• 기타 중요하다고 생각되는 정보를 문서에 넣으세요.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">완성된 문서를 공유하세요.</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><br>"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">탐구 결과 공유:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">식물 표본을 어떻게 옮겼는지 설명하세요.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<font size=\"5\">블록 활용:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">다른 팀의 다른 마일로와 협력하여 식물 표본을 옮기기 위해 필요한 장치를 만드세요.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">식물 표본이 너무 무거워서 마일로가 혼자 옮길 수 없다는 것을 맥스와 미아가 알게 되었어요.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<font size=\"3\">이번 프로젝트의 과제:</font><br><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">식물 표본을 옮기기 위한 장치를 조립하고 프로그래밍하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\"><font size=\"3\">마일로가 어떻게 임무를 완수했는지를 처음부터 끝까지 문서에 기록하고 발표하세요.</font></span></div>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. 협력"
+      }
+    ]
+  }
+}

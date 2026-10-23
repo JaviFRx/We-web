@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "11513aca-bcc0-4fd3-be56-fc3cd35797f5",
+        "string": "20. Volcano Alert"
+      },
+      {
+        "refId": "ff1526d0-52e9-440a-fa57-2b312ebd11b2",
+        "string": "<div><div><div><div><font size=\"5\">How do scientists use the different stages of volcanic activity to guide their scientific exploration?&#160;</font></div><br><div>In this project you will:&#160;</div><div>- Explore the different ways that scientists monitor volcanic activity</div><div>- Create and program an alarm to indicate the different stages of volcanic activity&#160;</div><div>- Test your program and how well it indicates these different stages&#160;</div><div>- Share your program and ideas for how to succeed in this project</div></div></div></div>"
+      },
+      {
+        "refId": "165a3271-75a6-4b2c-5bd6-65e937ad4fa6",
+        "string": "Max and Mia are preparing to explore a volcano.&#160;<div><br><div>Help them to program a volcano alarm to coordinate different actions with their drone, their rover and an animal in the area.</div></div>"
+      },
+      {
+        "refId": "fab27f42-230a-49eb-bec2-721408a23bea",
+        "string": "<font size=\"5\">Use the bricks:&#160;</font><div><br><div>Build an alarm that can indicate the different levels of volcanic activity.&#160;</div><br><div>Program it to be activated when it is shaken.</div></div>"
+      },
+      {
+        "refId": "7be8704a-5aca-48e0-1af6-7ab65e48274c",
+        "string": "1. Start program&nbsp;<div>2. Start motor that way&nbsp;</div><div>3. Start motor at power 3&nbsp;</div><div>4. Wait for Tilt Sensor to Tilt Up&nbsp;</div><div>5. Start motor for 2 seconds&nbsp;</div><div>6. Wait for Tilt Sensor to detect Shake&nbsp;</div><div>7. Start motor this way&nbsp;</div><div>8. Start motor for a random number of seconds</div>"
+      },
+      {
+        "refId": "91f4101a-154c-4a78-cd27-4e517698b552",
+        "string": "<font size=\"5\">Plan and try a solution:&#160;</font><div><br><div>Program your alarm to alert you when the needle stops at the red position.&#160;</div><br><div><font color=\"#ffffff\">For each red alert, move the drone into the volcano so that it can study the eruption.</font></div></div>"
+      },
+      {
+        "refId": "f9eb0f00-54c8-459f-c0b6-496371f2f78e",
+        "string": "<font size=\"5\">Test and modify your solution:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>- Program your alarm to emit different signals for each of the three stages of the volcano.&nbsp;</div><br><div><font color=\"#ffffff\">- For each alert, move the drone, the animal and the rover according to the signal.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "d7740519-33e7-48d1-a8e3-5398eff40ca4",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "46a03b2d-27fe-4459-b355-6e7aa76c3a65",
+        "string": "<font size=\"5\">Design new solutions&#160;</font><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "b916f289-1501-4d1c-2cf7-211d3142a0f5",
+        "string": "<font size=\"5\">Design new solutions:</font><div><span style=\"font-size: 20px;\"><br></span><div>Most volcano alarms have four stages: green, yellow, orange and red.&#160;</div><br><div>Find a way to signal a fourth stage with your alarm program.&#160;<br></div><br></div>"
+      },
+      {
+        "refId": "7821b679-8dea-442d-6043-9df9f0c0f632",
+        "string": "<font size=\"5\">Organise&#160;your information:</font><div><span style=\"font-size: 20px;\"><br></span><div>For example:&#160;</div><div>- Take a screen capture of your final program.&#160;</div><div>- Record a video explaining your solution.&#160;</div></div>"
+      },
+      {
+        "refId": "c4d962d6-dead-4bba-6766-3751205a1e90",
+        "string": "<font size=\"5\">Share your findings:&#160;</font><div><span style=\"font-size: 20px;\"><br></span><div>Present and explain your solutions.</div></div>"
+      },
+      {
+        "refId": "e0b7499c-e7e8-42d1-665e-4c037437bfe1",
+        "string": "Max and Mia are preparing to explore a volcano.&#160;<div><br><div>Help them to program a volcano alarm to coordinate different actions with their drone, their rover and an animal in the area.</div></div>"
+      },
+      {
+        "refId": "a10705c3-dd78-4352-cecf-34ad379eeee5",
+        "string": "<font size=\"5\">Explore Max’s and Mia’s questions:</font><div><span style=\"font-size: 20px;\"><br></span><div>1. What are the different stages of a volcano?&nbsp;</div><div>2. How can scientists explore volcanoes?&nbsp;</div><div><font color=\"#ffffff\">3. What would be a good way to signal that a volcano is erupting?</font></div></div>"
+      },
+      {
+        "refId": "08e6bd33-975a-40e5-8215-4ca31daf218e",
+        "string": "Turn on the Smarthub and connect it to your device. Watch the video if you need help.&#160;<div><br><div>See the Help panel for more guidance.&#160;</div></div>"
+      }
+    ]
+  }
+}

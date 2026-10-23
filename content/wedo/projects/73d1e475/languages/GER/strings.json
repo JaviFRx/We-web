@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">Max und Mia haben gesehen, dass Gebäude bei Erdbeben einstürzen können.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Jetzt wollen sie herausfinden, wie die Standfestigkeit von Gebäuden verbessert werden kann.</font><br></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">Max und Mia fragen sich:</font><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\">1. Welchen Einfluss hat die Höhe von Gebäuden auf ihre Standfestigkeit?</font></div><div><font size=\"3\">2. Welchen Einfluss hat die Verankerung von Gebäuden am Boden auf ihre Standfestigkeit?</font></div><div><font size=\"3\">3. Wie kann die Standfestigkeit von Gebäuden verbessert werden?</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Überlegt gemeinsam. Was vermutet ihr?</font></div><div><font size=\"3\" color=\"#ffffff\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">• Schreibt eure Überlegungen und Vermutungen auf.</font><br></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<div><font size=\"5\">Programmieren:</font><font size=\"3\"><br></font></div><div style=\"font-size: medium;\"><font size=\"3\"><br></font></div><font size=\"3\">Schreibt ein Programm, bei dem die Stärke des Erdbebens am Simulator automatisch zunimmt.</font><br>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font><br></div></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<div><font size=\"3\">Es ist wichtig, dass ihr</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span>Vermutungen besprecht und<span style=\"color: inherit; line-height: 1.42857;\">&nbsp;überprüft.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span>eure Änderungen am Gebäude testet.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bei jedem Test darf es nur eine Änderung geben. Jeder Test muss dreimal wiederholt werden. So bekommt ihr ein genaueres Ergebnis.<br></font></div><font size=\"3\"><br></font><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">1. Wie standfest sind die drei Gebäude A, B und C?</span><span style=\"color: inherit; line-height: 1.42857;\">&nbsp;</span></font></div><div><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\">2. Wie verändert sich die Standfestigkeit von Gebäuden, wenn sich</font></span></div><div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span>die Höhe der Gebäude verändert?&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•</span>&nbsp;die Verankerung der Gebäude am Boden verändert?&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span>Schreibt eure Vermutungen auf.</font></div><div><font color=\"#ffffff\" size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Dokumentiert eure Testergebnisse.</span></font></div></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"3\"><font size=\"5\">Bereitet eure Präsentation vor:</font><br></font><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">1. Beantwortet Max' und Mias Fragen.</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Vergleicht eure Vermutungen mit euren Testergebnissen.</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">2. Überarbeitet eure Präsentation.</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">3. Ihr könnt noch wichtige Informationen, passende Bilder, Videos oder Screenshots einfügen.</font></span></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">Präsentiert eure Ergebnisse:</font><div><span style=\"line-height: 1.42857143;\"><br></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Beschreibt mit euren eigenen Worten, wie die Standfestigkeit von Gebäuden verbessert werden kann.</font></span><br></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<div><font size=\"5\">Verwendet die Bausteine:</font><span style=\"line-height: 28px;\"><font size=\"3\"><br></font></span></div><span style=\"line-height: 28px;\"><div style=\"font-size: medium;\"><span style=\"line-height: 28px;\"><font size=\"3\"><br></font></span></div><font size=\"3\">Baut einen Erdbebensimulator.</font></span>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><span style=\"line-height: 28px;\"><font size=\"5\">Expertenauftrag</font></span></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">Dokumentation</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<div><div><div><span style=\"line-height: 1.42857143;\"><font size=\"4\">Wie kann die Standfestigkeit von Gebäuden verbessert werden?</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">In diesem Projekt werdet ihr:</span><br></font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">•&nbsp;</span><span style=\"color: inherit; line-height: 1.42857;\">lernen, warum Menschen versuchen, Gebäude möglichst standfest zu bauen</span><br></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\">einen eigenen Erdbebensimulator bauen&nbsp;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\">ein Programm schreiben, mit dem man die Stärke des Erdbebens am Simulator verändern und die Folgen für Gebäude testen kann</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\">eure Ergebnisse dokumentieren und präsentieren</span></font></div></div></div>"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"3\"><font size=\"5\">Expertenauftrag:</font><br><br><font size=\"3\">1. Wie muss euer Gebäude gebaut sein, damit es möglichst groß und standfest ist?<br></font></font><div><font size=\"3\"><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span>Schaut euch eure Testergebnisse an.<br>• <span style=\"color: inherit; line-height: 1.42857;\">Baut ein neues Gebäude.</span></font><br></font></div><br><div><font size=\"3\" color=\"#ffffff\">Nutzt die App zum Dokumentieren:</font></div><div><font size=\"3\" color=\"#ffffff\">• Beschreibt euer Vorgehen.</font></div><div><font size=\"3\" color=\"#ffffff\">• Dokumentiert eure Testergebnisse.</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. Standfestigkeit"
+      }
+    ]
+  }
+}

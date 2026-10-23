@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c0163cd5-2132-4dc3-bed1-0dd1a46fbb6c",
+        "string": "14.ループ"
+      },
+      {
+        "refId": "ebd3a045-0318-491b-ce0c-2ee51f5580d8",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.サウンド1を再生する&nbsp;</div><div>3.ステップ2を永久に繰り返す</div>"
+      },
+      {
+        "refId": "6aa083e3-07c5-47db-8116-ecc93be288cd",
+        "string": "1.プログラムをスタートさせる&nbsp;<div>2.サウンド3を再生する&nbsp;</div><div>3.ステップ2を3回繰り返す</div>"
+      },
+      {
+        "refId": "7714ede6-7b16-4a4b-777e-4e8e62d9a844",
+        "string": "このプログラムの試験にレゴモデルは不要です。"
+      }
+    ]
+  }
+}

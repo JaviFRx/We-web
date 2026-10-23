@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5348bb44-c747-4bcc-ab3b-8a1368e8d9cd",
+        "string": "9b. 发送随机消息"
+      },
+      {
+        "refId": "e0f98a27-bf25-4f43-c5f6-b330055efd81",
+        "string": "1. 启动程序&nbsp;<div>2. 在显示屏上显示随机数字&nbsp;</div><div>3. 发送与显示屏上的数字相匹配的消息&nbsp;</div><br><div>4. 接收到消息“1”时启动&nbsp;</div><div>5. 播放与显示屏上的数字相对应的声音&nbsp;</div><br><div>6. 接收到消息“2”时启动&nbsp;</div><div>7. 播放与显示屏上的数字相对应的声音&nbsp;</div>"
+      },
+      {
+        "refId": "64381edb-26cf-4c95-0b16-f084e716f017",
+        "string": "LEGO 模型无需测试此程序。"
+      }
+    ]
+  }
+}

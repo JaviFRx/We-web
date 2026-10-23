@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "330f7cd3-ad7b-411b-afd8-7debbfaee7aa",
+        "string": "Vifte"
+      },
+      {
+        "refId": "a8e42aba-6663-41c4-c665-e52e4458acdd",
+        "string": "<font size=\"3\">Det er en varm dag. Naturfagsrommet til Max og Mia er for varmt.<br><br></font><div><font size=\"3\">De ønsker å bygge en vifte for å avkjøle naturfagsrommet.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max og Mia trenger din hjelp!</font></div>"
+      },
+      {
+        "refId": "5e37c34e-596f-4fd6-cb70-4fd896c88fe7",
+        "string": "<font size=\"3\">Hjelp Max og Mia videre (valgfritt):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Få viften til å snurre rundt ved ulike hastigheter. Stans deretter viften.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmer viften slik at den gjør andre ting.</font><br>\n</div></div>"
+      },
+      {
+        "refId": "28bd56cd-654b-4201-4978-6a65699c264d",
+        "string": "<font size=\"3\">Få viften til å snurre rundt.<br><br>1. Bygg programmet som vises.</font><div><font size=\"3\"><br>2. Forklar for hverandre hvordan viften fungerer.</font><br></div>"
+      },
+      {
+        "refId": "f0c140bf-4e4e-40b5-eba3-d5278195a6aa",
+        "string": "<div><div><div><div><div><font size=\"3\">I denne leksjonen kommer du til å lære å:</font></div><div><font size=\"3\"><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Bygge en LEGO® modell.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Koble modellen til enheten.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programmere</span><span style=\"line-height: 1.42857;\">&nbsp;motoren til å dreie rundt ved ulike hastigheter.</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "f8f1195b-0b97-44bd-c3b8-7dee661caaad",
+        "string": "<font size=\"3\">Slå på Smarthub, og koble den til enheten din.</font>"
+      }
+    ]
+  }
+}

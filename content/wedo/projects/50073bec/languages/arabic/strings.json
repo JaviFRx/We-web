@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "الحلزون المتوهج"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\">اجعل الحلزون يصدر ومضات من الضوء الأخضر.<br><br></font><font size=\"3\">1. أنشئ البرنامج كما هو موضح.</font><br><br><div><div>2. تناقشوا بشأن كيفية عمل الحلزون.<font size=\"3\"><br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">ساعد مالك ومايا أكثر (اختياري):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. اجعل الضوء يومض عدة مرات.</font></div><div><font size=\"3\"><br></font></div><div>2. برمج الحلزون على إنجاز مهامَ أخرى.</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">زار مالك ومايا <font color=\"#000000\">معرض الأحياء المائية</font>. وشاهدا حلزونًا من فصيلة نادرة.</font><div><font size=\"3\">يبعث الحلزون ومضات من الضوء الأخضر للتواصل.</font></div><font size=\"3\"><br></font><div><font size=\"3\">يريد مالك ومايا بناء نموذج لهذا الحلزون.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">مالك ومايا بحاجة إلى مساعدتك!</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><font size=\"4\">في هذا الدرس، ستتعلم:</font><br><br><div><font size=\"3\">•&#160;بناء نموذج LEGO®</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span><span style=\"line-height: 1.42857;\">توصيل النموذج مع جهازك</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• برمجة </span><span style=\"line-height: 1.42857;\">&#160;الحلزون على إرسال ومضات من الضوء</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">شغّل الموزع الذكي ووصله بجهازك.</font><br><br>"
+      }
+    ]
+  }
+}

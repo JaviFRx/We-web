@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8c532bed-856d-4304-b8a5-1a24a79ab7d3",
+        "string": "11. Detectar movimiento"
+      },
+      {
+        "refId": "c2c50a9e-a292-4508-9436-2d6ec6da173b",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Esperar a que el sensor de movimiento detecte cualquier movimiento&nbsp;</div><div>3. Reproducir sonido 6</div>"
+      },
+      {
+        "refId": "8bdc22f9-b828-48c1-8082-ca6a439dd4c9",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Esperar a que el sensor de movimiento detecte un objeto acercándose&nbsp;</div><div>3. Reproducir sonido 10</div>"
+      }
+    ]
+  }
+}

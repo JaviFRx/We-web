@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6ffdb84-08b2-421e-a04e-32235c3b69ea",
+        "string": "23. Seguridad urbana"
+      },
+      {
+        "refId": "09f70808-a0fd-42ef-650f-0d92447e30bb",
+        "string": "<div><div><font size=\"5\">¿Cómo podemos mejorar la seguridad de los transportes urbanos?</font></div><br><div>En este proyecto, harás lo siguiente:&nbsp;</div><div>- Explorar diferentes normas de seguridad que estén relacionadas con los transportes urbanos y describir cómo se pueden mejorar algunos de ellos&nbsp;</div><div>- Crear y programar un dispositivo para mejorar la seguridad urbana&nbsp;</div><div>- Probar tu programa y demostrar cómo se ha mejorado la seguridad con tu dispositivo&nbsp;</div><div>- Compartir tu programa y tus ideas</div></div>"
+      },
+      {
+        "refId": "96cc0dba-24fd-43fb-ba69-704c3d262b89",
+        "string": "<div style=\"text-align: center;\">Inspírate en los modelos básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</div>"
+      },
+      {
+        "refId": "e1f4f02f-0f59-4fbc-0f3c-f6a9c2d57b4d",
+        "string": "<div style=\"text-align: center;\">Inspírate en los programas básicos de la biblioteca de diseños para construir tu propia solución para el proyecto.</div>"
+      }
+    ]
+  }
+}

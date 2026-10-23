@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1b30cf7d-5870-47e2-a7e8-3f32b797f498",
+        "string": "18. 물체 잡기"
+      },
+      {
+        "refId": "991c048e-798d-463e-5fc7-811967895c84",
+        "string": "<div><div><div><font size=\"5\">손에 장애가 있는 사람들이 작은 물체를 잡으려면 어떻게 해야 할까요?&nbsp;</font></div><div><br><div>이 프로젝트의 과제:&nbsp;</div><div>- 인공 수족 설계가 장애인에게 어떻게 도움이 되는지를 연구하세요.&nbsp;</div><div>- 물체를 옮길 수 있는 인공 손을 만들고 프로그래밍하세요.&nbsp;</div><div>- 최대한 기능적인 손이 만들어지도록 프로그램을 테스트하세요.&nbsp;</div><div>- 프로젝트를 성공으로 이끌기 위한 프로그램과 아이디어를 공유하세요.<br></div></div></div></div>"
+      },
+      {
+        "refId": "48fe8e6f-e967-4699-1e20-ba08a9686e38",
+        "string": "맥스와 미아가 장애를 가진 사람들을 돕고 싶어해요.&nbsp;&nbsp;<div>&nbsp;\n<br><div>여러 가지 물건을 잡을 수 있는 인공 손을 프로그래밍하세요.</div></div>"
+      },
+      {
+        "refId": "bdc4db6f-6c46-4663-a54c-9675fc2a4af3",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><br><div>1. 손을 이용해 할 수 있는 동작으로는 어떠한 것들이 있나요?&nbsp;</div><div>2. 손에 붙은 근육이 하는 역할이 무엇인가요?&nbsp;</div><div><font color=\"#ffffff\">3. 인공 손은 어떻게 만들 수 있나요?</font><br></div></div>"
+      },
+      {
+        "refId": "a9e86e5d-0c2f-492f-2d1a-422dd7e90d79",
+        "string": "<font size=\"5\">블록 사용:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>여러 가지 물체를 잡을 수 있는 로봇 손을 조립하세요.&nbsp;\n</div><br><div>손이 열리고 닫힐 수 있게 프로그래밍하세요.</div></div>"
+      },
+      {
+        "refId": "ea8276cd-b3fe-4061-54af-f29a472f1a16",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 동작이 감지될 때까지 동작 센서 대기&nbsp;</div><div>3. 시계 방향으로 모터 작동&nbsp;</div><div>4. 2초간 모터 작동&nbsp;</div><div>5. 2초간 대기&nbsp;</div><div>6. 반시계 방향으로 모터 작동&nbsp;</div><div>7. 2초간 모터 작동</div>"
+      },
+      {
+        "refId": "bdc58061-18ca-479d-614c-759506f45670",
+        "string": "<font size=\"5\">해법의 계획 및 시도:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>다음과 같은 기능을 할 수 있게 로봇 손을 프로그래밍하세요.&nbsp;</div><div>- 꽃을 붙잡아 스탠드 위에 올려놓기&nbsp;</div><div>- 전기 플러그를 붙잡아 소케트에 삽입하기</div></div>"
+      },
+      {
+        "refId": "7bde3747-6cdb-4ecd-c313-343fb0c243b0",
+        "string": "<font size=\"5\">해법의 테스트 및 수정&nbsp;</font><div><br><div>이 프로그램으로는 로봇 손을 바르게 움직일 수 없어요.&nbsp;</div><br><div>집게가 닫힐 때 Smarthub에 녹색 불을 켜고 집게가 열릴 때 빨간색 불을 켜야 해요.&nbsp;</div><br><div><font color=\"#ffffff\">문제가 해결되도록 프로그램을 수정하세요.</font></div></div>"
+      },
+      {
+        "refId": "50279510-14bc-463c-5078-6f17d5474810",
+        "string": "<font size=\"5\">새로운 해법 구상&nbsp;</font><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "44fe0336-824e-4242-7e5a-ef4dcf96ca4e",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "abc1d817-50d5-4add-dce5-353c6c7a8e29",
+        "string": "<font size=\"5\">정보의 정리:&nbsp;&nbsp;</font><div><br><div>예:&nbsp;</div><div><font color=\"#ffffff\">- 최종 프로그램의 화면을 캡처하세요.&nbsp;</font></div><div><font color=\"#ffffff\">- 해법에 대한 설명을 비디오로 기록하세요.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "3e03ada0-54f8-40a1-fc75-9a2d092bfa85",
+        "string": "<font size=\"5\">조사 결과 공유:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>해법을 발표하고 설명하세요.</div></div>"
+      },
+      {
+        "refId": "6835b1da-0a51-4494-052e-7ed1dfeca056",
+        "string": "<font size=\"5\">새로운 해법 구상:&nbsp;</font><div>&nbsp;</div><div>2인 1조로 팀을 짜세요.&nbsp;</div><br><div>물체를 A 지점에서 B 지점으로 옮기세요.&nbsp;</div><br><div>물체를 한 로봇 손에서 다른 로봇 손으로 최대한 빨리 옮기세요.</div>"
+      },
+      {
+        "refId": "39d55ae5-a248-4014-b9fa-bee563f5bb85",
+        "string": "Smarthub를 켜고 장치에 연결하세요.&nbsp;<div>도움이 필요하면 비디오를 보아주세요.&nbsp;<br><br><div>자세한 지침은 도움말 창을 보아주세요.&nbsp;</div></div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0199e382-b14e-4aba-a0cd-b3ad605d1bc1",
+        "string": "3b. Traffic Light"
+      },
+      {
+        "refId": "9b6ee4fa-569a-4f4b-366f-6c3440d5636d",
+        "string": "1. Start program&nbsp;<div>2. Turn LED on colour 9 (red)&nbsp;</div><div>3. Wait for 2 seconds&nbsp;</div><div>4. Turn LED on colour 5 (green)&nbsp;</div><div>5. Wait for 2 seconds&nbsp;</div><div>6. Turn LED on colour 7 (yellow)&nbsp;</div><div>7. Wait for 2 seconds&nbsp;</div><div>8. Repeat steps 2 to 7 forever</div>"
+      }
+    ]
+  }
+}

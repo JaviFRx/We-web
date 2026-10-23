@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">Max en Mia zijn heel gemotiveerd om het milieu te beschermen.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Ze willen weten hoe recyclemethoden kunnen worden verbeterd om de hoeveelheid afval te verminderen.</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">Denk na over de vragen van Max en Mia:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Wat betekent het om te recyclen?</font></div><div><font size=\"3\">2. Hoe kunnen materialen in jouw omgeving worden gesorteerd om te worden gerecycled?</font></div><div><font size=\"3\">3. Kun je apparaten bedenken die recyclebaar afval sorteren op basis van vorm?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Deel je ideeën met behulp van de documentatietool.</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">Gebruik de stenen:</font><br><br><div><font size=\"3\">Bouw een vrachtwagen die de twee objecten kan sorteren op basis van de vorm ervan.</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">Programmeer je laadvloer om kleine, recyclebare objecten te droppen bij het inzamelstation.</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<div><font size=\"3\">Zet de Smarthub aan en koppel deze aan jouw apparaat. Bekijk het filmpje als je hulp nodig hebt.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Raadpleeg het hulpvenster als je extra hulp nodig hebt.</font><br></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">Ontwerp een oplossing:</font><br><br><div><font size=\"3\">Pas de vrachtwagen aan zodat hij objecten op basis van hun vorm in twee verschillende groepen kan sorteren.</font></div><br><div><font size=\"3\">Houd rekening met de volgende richtlijnen:</font></div><div><font size=\"3\">1. Verander het ontwerp van de laadvloer.</font></div><div><font size=\"3\">2. Gebruik de invoer van de afstandssensor om de vorm van het object te detecteren.</font></div><div><font size=\"3\">3. Sorteer objecten in de vrachtwagen.</font></div><br><div><font color=\"#ffffff\" size=\"3\">Documenteer jouw oplossing door uit te leggen hoe je de vorm van het object hebt gebruikt.</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">Voltooi de documentatie:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Beschrijf je verschillende prototypes.</font></div><div><font size=\"3\">2. Leg uit waarom je hebt gekozen voor je uiteindelijke oplossing.</font></div><div><font size=\"3\">3. Orden de informatie.</font></div><div><font size=\"3\">4. Voeg belangrijke tekst, (scherm)afbeeldingen en/of filmpjes toe aan je project.</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">Deel je bevindingen:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Presenteer in je eigen woorden hoe je verschillende dozen hebt gesorteerd op verschillende plaatsen.</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen </font><br><div><font size=\"5\">met Max en Mia</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">Deel je project</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<div><font size=\"4\">Hoe kun je recyclemethoden verbeteren om de hoeveelheid afval te verminderen?</font><br><br><div><font size=\"3\">In dit project ga je:</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>Onderzoeken hoe betere sorteermethoden voor recyclen kunnen helpen om de hoeveelheid afval te verminderen.</font></div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Een apparaat ontwerpen en programmeren dat recyclebaar afval sorteert op basis van grootte en vorm.</span><br></font><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>De oplossing die je hebt ontworpen presenteren en vastleggen.</font></div></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">Ontwerp nieuwe oplossingen:</font><br><font size=\"3\"><br></font><div><font size=\"3\">Een oplossing ontwerpen om drie objecten naar keuze te sorteren.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Voer één van de volgende acties uit:</font></div><div><font size=\"3\">1. Sorteer de objecten met een transportband.</font></div><div><font size=\"3\">2. Sorteer de objecten met een robotarm. </font></div><div><font size=\"3\">3. Sorteer de objecten met twee verschillende apparaten.&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Leg je nieuwe oplossing vast.</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. Sorteren om te recyclen"
+      }
+    ]
+  }
+}

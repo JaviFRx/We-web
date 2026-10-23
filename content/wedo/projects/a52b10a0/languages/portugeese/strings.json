@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<font size=\"3\">Inspirem-se nos modelos base da Biblioteca de Design para construir suas próprias soluções para este projeto.</font>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">Como as empilhadeiras podem ajudar a mover os objetos?</font><font size=\"3\"><br></font></div><div><font size=\"3\">Neste projeto, vocês irão:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorar diferentes formas de transporte e agrupamento de materiais.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Criar e programar um dispositivo que irá ajudá-los a carregar e/ou reunir objetos de diferentes tamanhos, considerando a segurança, a eficiência e o armazenamento.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Registrar e apresentar o dispositivo, explicando de que forma ele foi projetado para ser seguro e eficiente.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Materiais em Movimento"
+      }
+    ]
+  }
+}

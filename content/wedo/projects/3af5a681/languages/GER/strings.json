@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fbadd076-3c96-4231-a39a-80b81d55e499",
+        "string": "10a. Zufällige Zeit lang warten"
+      },
+      {
+        "refId": "21742926-c43b-437f-41f8-b25fb615f850",
+        "string": "1. Programm starten&nbsp;<div>2. Motor in diese Richtung starten&nbsp;</div><div>3. Eine zufällige Anzahl an Sekunden lang warten&nbsp;</div><div>4. Motor stoppen</div>"
+      }
+    ]
+  }
+}

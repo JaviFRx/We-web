@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1b30cf7d-5870-47e2-a7e8-3f32b797f498",
+        "string": "18. Objekte greifen"
+      },
+      {
+        "refId": "991c048e-798d-463e-5fc7-811967895c84",
+        "string": "<div><div><div><div><div><font size=\"5\"> Wie kann ein mechanischer Greifer Menschen mit körperlichen Einschränkungen helfen, kleine Gegenstände zu greifen?\n&nbsp;</font></div><div><br><div>In diesem Projekt werdet ihr:</div><div>- lernen, wie eine Prothese Menschen mit körperlichen Einschränkungen helfen kann&nbsp;</div><div>- einen mechanischen Greifer bauen, der kleine Gegenstände greifen und bewegen kann\n&nbsp;</div><div>- ein Programm schreiben, mit dem euer mechanischer Greifer verschiedene Gegenstände greifen und bewegen kann</div><div>- euer Programm testen, um die Funktionsweise der Hand zu verbessern</div><div>- eure Programme vorstellen und Ideen untereinander austauschen</div><div>- eure Ergebnisse dokumentieren und präsentieren<br></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "48fe8e6f-e967-4699-1e20-ba08a9686e38",
+        "string": "<font size=\"3\">Max und Mia sind interessiert an Technik, die Menschen mit körperlichen Einschränkungen helfen kann.\nMax und Mia würden gern Menschen mit körperlichen Einschränkungen helfen.&nbsp;&nbsp;</font><div><font size=\"3\">&nbsp;\n<br></font><div><font size=\"3\">Jetzt wollen sie herausfinden, wie ein mechanischer Greifer verschiedene Gegenstände greifen und bewegen kann.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Helft ihnen dabei, den mechanischen Greifer so zu programmieren, dass er Objekte greift.</font></div></div>"
+      },
+      {
+        "refId": "bdc4db6f-6c46-4663-a54c-9675fc2a4af3",
+        "string": "<font size=\"5\">Max und Mia fragen sich:</font><div><br><div><font size=\"3\">1. Wie kann ein mechanischer Greifer verschiedene Gegenstände greifen und bewegen?&nbsp;</font></div><div><font size=\"3\">2. Welche Bewegungen kann man mit dem mechanischen Greifer ausführen?&nbsp;</font></div><div><font size=\"3\">3. Welche Rolle übernehmen Muskeln in eurer Hand?&nbsp;</font></div><div><font size=\"3\">4. Wie kann man einen künstlichen Arm bauen?&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Überlegt gemeinsam. Was vermutet ihr?&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:\nSchreibt eure Ideen und ersten Lösungsvorschläge auf.</font><br></div></div>"
+      },
+      {
+        "refId": "a9e86e5d-0c2f-492f-2d1a-422dd7e90d79",
+        "string": "<font size=\"5\">Verwendet die Bausteine:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Baut einen mechanischen Greifer, der verschiedene Gegenstände greifen kann.&nbsp;\n</font></div><font size=\"3\"><br></font><div><font size=\"3\">Programmiert die Hand darauf, dass sie sich öffnet und schließt.</font></div></div>"
+      },
+      {
+        "refId": "ea8276cd-b3fe-4061-54af-f29a472f1a16",
+        "string": "1. Programm starten&#160;<div>2. Warten, bis Bewegungssensor eine Bewegung erkennt&#160;</div><div>3. Motor in jene Richtung starten&#160;</div><div>4. Motor 2 Sekunden lang starten&#160;</div><div>5. 2&#160;Sekunden warten&#160;</div><div>6. Motor in diese Richtung starten&#160;</div><div>7. Motor 2 Sekunden lang starten</div>"
+      },
+      {
+        "refId": "bdc58061-18ca-479d-614c-759506f45670",
+        "string": "<font size=\"5\">Entwerft eine Lösung und probiert sie aus:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Programmiert euren mechanischen Greifer so, dass man mit ihm:&nbsp;</font></div><div><font size=\"3\">- die Blume greifen und ablegen kann&nbsp;</font></div><div><font size=\"3\">- den Stecker greifen und ihn in die Steckdose stecken kann&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Beschreibt eure erste Lösung.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Dokumentiert eure Verbesserungsvorschläge.</font></div></div>"
+      },
+      {
+        "refId": "7bde3747-6cdb-4ecd-c313-343fb0c243b0",
+        "string": "<font size=\"5\">Testet eure Lösung und verbessert sie:&nbsp;</font><div><br><div><font size=\"3\">Die grüne Lampe am LEGO Smarthub soll leuchten, wenn der Greifer geschlossen ist. Die rote Lampe soll leuchten, wenn der Greifer offen ist.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Mit dem abgebildeten Programm funktioniert der mechanische Greifer noch nicht richtig. Verbessert das Programm, um das Problem zu beheben.\n&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\"> Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Beschreibt euren Entwicklungsprozess.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Dokumentiert eure fertigen Lösungen.</font></div></div>"
+      },
+      {
+        "refId": "50279510-14bc-463c-5078-6f17d5474810",
+        "string": "<font size=\"5\"> Expertenauftrag </font><div><font size=\"5\"> </font></div>"
+      },
+      {
+        "refId": "44fe0336-824e-4242-7e5a-ef4dcf96ca4e",
+        "string": "<font size=\"5\">Ergebnisse vorstellen</font>"
+      },
+      {
+        "refId": "abc1d817-50d5-4add-dce5-353c6c7a8e29",
+        "string": "<font size=\"5\"> Bereitet eure Präsentation vor:</font><div><br><div><font size=\"3\">1. Beantwortet Max’ und Mias Fragen.&nbsp;</font></div><div><font color=\"#000000\" size=\"3\">2. Vergleicht eure verschiedenen Programme.&nbsp;</font></div><div><font color=\"#000000\" size=\"3\">3. Vergleicht eure ersten Lösungen mit der fertigen Lösung.&nbsp;</font></div><div><font color=\"#000000\" size=\"3\">4. Überarbeitet eure Dokumentation.&nbsp;</font></div><div><font color=\"#000000\" size=\"3\">5. Nehmt ein Video auf und erklärt darin eure Lösung.</font></div></div>"
+      },
+      {
+        "refId": "3e03ada0-54f8-40a1-fc75-9a2d092bfa85",
+        "string": "<font size=\"5\"> Präsentiert eure Ergebnisse:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Präsentiert eure Lösung und erklärt mit euren eigenen Worten die Funktion des Programms.</font></div></div>"
+      },
+      {
+        "refId": "6835b1da-0a51-4494-052e-7ed1dfeca056",
+        "string": "<font size=\"5\"> Expertenauftrag:</font><div>&nbsp;</div><div><font size=\"3\">Arbeitet mit einer anderen Gruppe zusammen!&nbsp;</font></div><div><font size=\"3\">Bewegt Gegenstände von Punkt A zu Punkt B. Überreicht die Gegenstände mit eurem mechanischen Greifer und untersucht seine Funktion. Probiert verschiedene Gegenstände (groß, klein, eckig, rund, leicht, schwer) aus.\n\n&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">1. Welche Gegenstände könnt ihr mit eurem mechanischen Greifer gut festhalten?&nbsp;<span style=\"color: inherit; line-height: 1.42857;\">Welche Gegenstände könnt ihr nicht gut festhalten?&nbsp;</span></font></div><div><font size=\"3\">2. Bei welchen anderen körperlichen Einschränkungen können andere Hilfsmittel Menschen helfen?&nbsp;</font></div><div><font size=\"3\">3. Baut ein anderes Hilfsmittel und programmiert es entsprechend.&nbsp;</font></div><div><font size=\"3\">&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Beschreibt euer Vorgehen.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Dokumentiert den Entwicklungsprozess und eure fertigen Lösungen.</font></div>"
+      },
+      {
+        "refId": "39d55ae5-a248-4014-b9fa-bee563f5bb85",
+        "string": "Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&nbsp;<br><br><div>Wenn ihr Hilfe braucht, schaut euch das Video an.&nbsp;<br><br><div>Im Hilfebereich findet ihr noch mehr nützliche Informationen.&nbsp;</div></div>"
+      }
+    ]
+  }
+}

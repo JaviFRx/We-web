@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1ed6e30e-6c7f-4970-79b7-802f0fae7408",
+        "string": "<font size=\"3\">Max and Mia are taking a closer look at spring flowers and bees at the park.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">They want to know more about the relationship between flowering plants and the animals that visit them.</font></div>"
+      },
+      {
+        "refId": "e1f3b987-e02b-4478-1064-76a51d683354",
+        "string": "<font size=\"5\">Explore Max and Mia's questions:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Name the different parts of a flower</font></div><div><font size=\"3\">2. How do organisms help plants to reproduce?&#160;</font></div><div><font size=\"3\">3. What are these processes called?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Share your ideas using the Documentation tool.</font></div>"
+      },
+      {
+        "refId": "90b1b939-544c-4339-32a7-7bf54f35a8e0",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Build a model of a bee flying around a flower full of pollen.</font></div>"
+      },
+      {
+        "refId": "248a9f42-8469-4c6e-b2b1-64c82f192e78",
+        "string": "<font size=\"3\">Program your bee to stop at the flower to collect pollen.</font>"
+      },
+      {
+        "refId": "0c165a49-c4b1-402e-cc15-6fd169f3172d",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you need help.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Refer to the Help panel for more guidance.</font></div>"
+      },
+      {
+        "refId": "bd9689bb-8482-4a1c-24f4-c558e5fa63b6",
+        "string": "<font size=\"5\">Use your model:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Build another pollinator that would be attracted by&#160;<span style=\"line-height: 1.42857143;\">a different flower</span><span style=\"line-height: 17.142858505249px;\">.</span></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consider one of the following:</font></div><div><font size=\"3\">1. Tubular flowers are best suited to birds.&#160;</font></div><div><font size=\"3\">2. Butterflies are attracted to flowers with certain colours.&#160;</font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. Pollination can happen between two different flowers.&#160;</font></span></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Document how your flower and pollinator are suited to each other.</font></div>"
+      },
+      {
+        "refId": "f2efc131-abe3-422b-36ea-9e1746fdda34",
+        "string": "<font size=\"5\">Finalise your document:</font><br><br><div><font size=\"3\">1. Explain the limitations of your model.</font></div><div><font size=\"3\">2. Organise your information.</font></div><div><font size=\"3\">3. Insert important text, pictures, screenshots or videos to describe how your model represents an organism helping a plant to reproduce.</font></div>"
+      },
+      {
+        "refId": "22896aef-5632-4d2e-e0f8-b49593eabc3a",
+        "string": "<font size=\"5\">Share your findings:</font><br><br><div><font size=\"3\">Present in your own words, how pollinators can contribute to plant reproduction. Be sure to point out specific examples of how your model demonstrates this. Share at least one limitation of your model.</font></div>"
+      },
+      {
+        "refId": "e8080f5f-d4a8-4546-7c0d-f2cf11128489",
+        "string": "<div><font size=\"5\">Use your model further&#160;</font></div><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "6d909856-1718-4a63-08d8-0a8b8c297284",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "59076eff-8410-43d6-3d73-ea4f58d9c3b4",
+        "string": "<div><font size=\"4\">How do certain organisms contribute to the life cycle of plants?</font><br><font size=\"3\"><br></font><div><font size=\"3\">In this project, you will:</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">Explore how different organisms take an active role in plant reproduction.</span><br></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>Create and program a model of a bee and flower to represent the relationship between the pollinator and the plant.</font></div><font size=\"3\">•&#160;<span style=\"color: inherit; line-height: 1.42857143;\">Present and document the different models you have created to depict plants and their pollinators.</span></font></div>"
+      },
+      {
+        "refId": "7f9c9614-0d01-4cd5-b7fa-504fc1294a98",
+        "string": "5. Plants and Pollinators"
+      },
+      {
+        "refId": "322b8ea4-3045-4c2e-233f-94b00d524e24",
+        "string": "<font size=\"5\">Use your model further:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Build the plant after the flower has been pollinated and show how the seeds are dispersed:</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consider one of the following:</font></div><div><font size=\"3\">1. Seeds dispersed from flowering plants or non-flowering plants&#160;</font></div><div><font size=\"3\">2. Seeds dispersed by organisms</font></div><div><font size=\"3\">3. Seeds dispersed in other ways</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Document the seed dispersion process that you have chosen to model.</font></div>"
+      }
+    ]
+  }
+}

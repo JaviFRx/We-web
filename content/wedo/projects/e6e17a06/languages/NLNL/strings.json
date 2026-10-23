@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3d4b1dfc-05e1-45db-963c-d37d56c1fdb5",
+        "string": "21. Inspectie"
+      },
+      {
+        "refId": "38ea98b8-f26a-4697-ef22-7a811566b198",
+        "string": "<div><div><font size=\"5\">Hoe kunnen we smalle ruimten zoals tunnels, grotten, pijpen, enz. verkennen?&nbsp;</font></div><br><div>In dit project ga je:&nbsp;</div><div>- Onderzoeken hoe robots worden gebruikt om smalle ruimten te inspecteren&nbsp;</div><div>- Een robot ontwerpen en programmeren om over een oppervlak te bewegen en om obstakels te ontwijken</div><div>- Je programma testen om ervoor te zorgen dat de robot muren, kuilen, een grot en objecten kan detecteren&nbsp;</div><div>- Je programma en ideeën delen</div></div>"
+      },
+      {
+        "refId": "daee8177-ac30-4b6d-49d6-c60cba9f450d",
+        "string": "<div style=\"text-align: center;\">Laat je inspireren door de basismodellen in de ontwerpbibliotheek om je eigen oplossing voor dit project te bouwen.</div>"
+      },
+      {
+        "refId": "6d51c5a4-a698-4766-8716-a6ba7efd1533",
+        "string": "<div style=\"text-align: center;\">Laat je inspireren door de basisprogramma‘s in de ontwerpbibliotheek om je eigen oplossing voor dit project te bouwen.</div>"
+      }
+    ]
+  }
+}

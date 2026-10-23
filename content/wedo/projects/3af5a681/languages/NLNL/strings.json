@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "fbadd076-3c96-4231-a39a-80b81d55e499",
+        "string": "10a. Willekeurig wachten"
+      },
+      {
+        "refId": "21742926-c43b-437f-41f8-b25fb615f850",
+        "string": "1. Start het programma&nbsp;<div>2. Start de motor in deze richting&nbsp;</div><div>3. Wacht gedurende een willekeurig aantal seconden&nbsp;</div><div>4. Stop de motor</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+@font-face {
+  font-family: Roboto;
+  font-weight: normal;
+  src: url('../../fonts/Roboto/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: bold;
+  src: url('../../fonts/Roboto/Roboto-Bold.ttf');
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 500;
+  src: url('../../fonts/Roboto/Roboto-Medium.ttf');
+}
+html {
+  height: 100%;
+  -ms-content-zooming: none;
+}
+body {
+  font-family: 'Roboto', 'Verdana', sans-serif;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -ms-content-zooming: none;
+}
+body.ios.modal-open {
+  position: fixed;
+}
+.base-frame {
+  height: 100%;
+}
+body[dir='rtl'] div.branch-arrow {
+  -webkit-transform: scaleX(-1);
+          transform: scaleX(-1);
+}
+.connection-error-container {
+  width: 100%;
+  height: 100%;
+  background-image: url('../../images/error/error-background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 50px;
+  font-size: 20px;
+}
+.connection-error-container .error-message {
+  width: 600px;
+}
+.connection-error-container .error-message .retry {
+  text-align: center;
+  padding-top: 40px;
+}
+.connection-error-container .error-message .retry a {
+  cursor: pointer;
+  padding: 20px 50px;
+  border: 1px solid #373737;
+  text-transform: uppercase;
+  color: #333;
+}
+.connection-error-container .error-message .retry a:hover {
+  background-color: rgba(55, 55, 55, 0.2);
+  text-decoration: none;
+}
+.lego-btn {
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  background-color: #2cafe5;
+  border-radius: 100px;
+  color: white;
+  min-width: 200px;
+  height: 60px;
+  font-size: 18px;
+  line-height: calc(48px);
+  padding: 5px 30px 6px 30px;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.fullscreen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100vw;
+  padding: 40px;
+}

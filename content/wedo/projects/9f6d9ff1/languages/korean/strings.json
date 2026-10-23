@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d8d0a44f-fe6f-460d-b65c-f544560e927e",
+        "string": "3a. 깜박이"
+      },
+      {
+        "refId": "7033c8ec-8f24-4405-7a2b-ba3e4b33ee4d",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 색상 9(빨강)에서 LED 켜기&nbsp;</div><div>3. LED를 꺼서 색상 0(색상 없음)으로 바꾸기&nbsp;</div><div>4. 2단계와 3단계를 무한 반복&nbsp;</div>"
+      }
+    ]
+  }
+}

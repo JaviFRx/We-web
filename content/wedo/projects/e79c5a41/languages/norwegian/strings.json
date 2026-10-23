@@ -1,0 +1,42 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b5d2c038-1a15-427e-9cdd-dff004477e1e",
+        "string": "<font size=\"3\">Max og Mia er klare for å utforske verden og gjøre noen flotte oppdagelser.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Men de trenger hjelp, spesielt til å utforske fjerne steder, for å finne en bestemt planteart.</font></div>"
+      },
+      {
+        "refId": "a2e074ec-f237-43dc-984b-033a68d2771f",
+        "string": "<font size=\"5\">Utforsk Max and Mias spørsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hva gjør forskere og ingeniører når de ikke kan dra dit de ønsker å utforske?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del ideene dine ved bruk av dokumentasjonsverktøyet.</font></div>"
+      },
+      {
+        "refId": "ea37c4bf-0481-46b8-52af-7ec9871d1f57",
+        "string": "<font size=\"5\">Bruk klossene:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Bygg Milo, en forskningsrobot, som kan bevege seg.</font></div>"
+      },
+      {
+        "refId": "d7441cf4-6411-4ad4-6d2d-6701a6772d78",
+        "string": "<font size=\"3\">Slå på Smarthub og koble den til enheten din. Se videoen hvis du trenger hjelp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se i Hjelp-panelet hvis du trenger mer veiledning.</font></div>"
+      },
+      {
+        "refId": "27b476bb-3146-470b-7332-4a8022b1628d",
+        "string": "<font size=\"3\">Programmer Milo til å bevege seg fremover.</font>"
+      },
+      {
+        "refId": "03442d6c-0d4e-4180-26f3-350530dd7b8c",
+        "string": "<font size=\"3\">Ta et bilde av deg og Milo.</font><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Skriv dine tanker om roboten i dokumentasjonsverktøyet!</font></div>"
+      },
+      {
+        "refId": "49f913be-83fe-4309-ef0c-0c84ba7c0cb9",
+        "string": "<font size=\"5\">Del resultatene dine:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Forklar hvordan Milo kan hjelpe deg med naturfagsprosjektene.</font></div>"
+      },
+      {
+        "refId": "6d41f494-ada6-4449-993c-52a89e58308d",
+        "string": "<font size=\"3\">I dette prosjektet skal du:</font><div><font size=\"3\"><br></font><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Utforske ulike måter forskere og ingeniører kan nå fjerne steder.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Lage og programmere forskningroboten Milo.&#160; </font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Dokumentere hvordan Milo kan hjelpe deg med å oppdage en bestemt planteart.</font></div></div>"
+      },
+      {
+        "refId": "b2467da6-662e-4150-b7cf-0bf77044cada",
+        "string": "A. Forskningsroboten Milo"
+      }
+    ]
+  }
+}

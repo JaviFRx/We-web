@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "77bd553a-9bdd-47e6-eb91-01142f67888e",
+        "string": "<font size=\"3\">マックスとミアは、深刻な気象災害の後、動物や人が危険にさらされるのではないかと心配しています。</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">2人は、皆さんの住む地域で、どのような気象災害が起こるか知りたいと思っています。</font></span><br></div>"
+      },
+      {
+        "refId": "a188c5c6-4b84-4c12-16f4-c9fa2bbc6a59",
+        "string": "<font size=\"5\">マックスとミアの質問について、考えましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.あなたの住む地域やそのほかの地域では、どのような気象災害がありますか？</font></div><div><font size=\"3\">2.気象災害は、動物や人にどのような影響を及ぼしますか？</font></div><div><font size=\"3\">3.気象災害時に、ヘリコプターをどのように使うことができますか？</font><br></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">自分の考えを、ノートツールを使って保存しましょう。</font></span><br></div>"
+      },
+      {
+        "refId": "63b3d7b8-1c7d-4a70-ea48-88e5b0dabf55",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">気象災害の被害を受けた地域で使用できるヘリコプターを組み立てましょう。</font></div>"
+      },
+      {
+        "refId": "96d53a28-16af-4a93-65b9-7a0a4848e083",
+        "string": "<font size=\"3\">紐を上下させることができるようプログラミングしましょう。</font>"
+      },
+      {
+        "refId": "f52dac05-8b99-4011-41b6-007f02a68777",
+        "string": "<font size=\"3\">スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合はビデオを見てください。</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">ヒントが必要な場合はヘルプパネルを見てください。</font></div>"
+      },
+      {
+        "refId": "f6f4eb7a-ce5c-4145-d326-23eaa4a359eb",
+        "string": "<font size=\"5\">2種類の解決策をデザインしましょう：</font><br><br><div><font size=\"3\">ヘリコプターを改造して、災害による被害を受けた地域で使用できる、安全で操作しやすい、指定された用途向けに最適化された装置を作りましょう。</font></div><font size=\"3\"><br></font><div><font size=\"3\">次のいずれかの任務を行う2種類の異なる解決策を考えましょう：</font></div><div><font size=\"3\">1.危険にさらされている動物を運搬する。</font></div><div><font size=\"3\">2.困っている人々のところに、支援物資を運ぶ。</font></div><div><font size=\"3\">3.上空から放水して消火する。</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">デザインした２つの解決策について、優れていると思う方を選び、資料を作成し、その理由を説明しましょう。</font></div>"
+      },
+      {
+        "refId": "c893963f-0040-4c4d-1805-e64d09b1cf6a",
+        "string": "<font size=\"5\">記録を完成させる：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1.それぞれの試作品について説明してください。</font></div><div><font size=\"3\">2.なぜ、その解決策を選んだか理由を述べましょう。</font></div><div><font size=\"3\">3.情報を整理しましょう。</font></div><div><font size=\"3\">4.重要な文章や画像、スクリーンキャプチャ、ビデオを挿入します。</font></div>"
+      },
+      {
+        "refId": "ba7bee72-d449-46ef-7289-cb6522e8a7a5",
+        "string": "<font size=\"5\">結果を共有しましょう：</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">発生した災害について述べ、あなたが取り組んだ運搬と救助任務について説明してください。</font></div>"
+      },
+      {
+        "refId": "121f6b6c-b564-4668-9d0d-25caa401c8d3",
+        "string": "<font size=\"5\">プロジェクトの共有</font>"
+      },
+      {
+        "refId": "ec17dd2e-deb7-4f97-121f-87f56e4291c3",
+        "string": "<font size=\"5\">マックスとミアと一緒に</font><div><font size=\"5\">新しい解決策をデザインしましょう</font></div>"
+      },
+      {
+        "refId": "0bf96ac4-7b83-401a-0e99-1c3313eeac06",
+        "string": "<font size=\"4\">気象災害の後の救助活動をどのように計画すればよいでしょうか？</font><br><div><font size=\"3\"><br></font></div><div><font size=\"3\">このプロジェクトの内容：</font></div><div><font size=\"3\">•&#160;<span style=\"color: inherit; line-height: 1.42857143;\">自分の住む地域の人々の命を危険にさらす様々な気象災害について考える。</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>人や動物を安全に、簡単に、尊厳を損なわない方法で運搬できる装置、または被災地域に効率的に物資を運搬する装置を組み立ててプログラミングする。</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>制作した解決策が、なぜ、基準を満たすのかを説明する資料を作成し、発表する。</font></div>"
+      },
+      {
+        "refId": "739f6f68-bbe3-4b39-8bcd-a3894536bf80",
+        "string": "7.災害と救助"
+      },
+      {
+        "refId": "451eebe3-808d-40b7-b438-c33863a4de2d",
+        "string": "<font size=\"5\">新しい解決策をデザインしましょう：</font><br><font size=\"3\"><br></font><div><font size=\"3\">場合によっては、ヘリコプターが、運搬や救助に向かないこともあります。</font></div><font size=\"3\"><br></font><div><font size=\"3\">次の事柄を取り入れましょう：</font></div><div><font size=\"3\">1.より優れていると思う別の解決策をデザインする。</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">なぜ、この新しい解決策が、ヘリコプターよりも優れているのか、その理由をまとめましょう。</font></div><br>"
+      }
+    ]
+  }
+}

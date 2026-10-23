@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5d05ce93-c706-45c1-8a87-ebd2b16a8ac0",
+        "string": "7b. Diminuir velocidade"
+      },
+      {
+        "refId": "7cf59f5b-297c-4d14-e3fb-09e8f0ed8a46",
+        "string": "1. Iniciar programa&#160;<div>2. Mostrar texto “10” no monitor&#160;</div><div>3. Iniciar motor com força igual ao número no monitor&#160;</div><div>4. Subtrair 1 do número no monitor&#160;</div><div>5. Repetir 10 vezes as etapas 3 e 4&#160;</div><div>6. Parar motor</div>"
+      }
+    ]
+  }
+}

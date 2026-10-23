@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "765a1a50-52a3-42d1-bf5a-adb579d3db32",
+        "string": "3. Ljus"
+      },
+      {
+        "refId": "e13efddc-e9e0-4a99-92ec-a7a349ec6ecb",
+        "string": "1. Starta program<div>2. Sätt på LED färg 9 (röd)</div>"
+      },
+      {
+        "refId": "9f50f589-5887-482f-2c6b-f3aea3632543",
+        "string": "1. Starta program&#160;<div>2. Stäng av LED färg 0 (ingen färg)</div>"
+      }
+    ]
+  }
+}

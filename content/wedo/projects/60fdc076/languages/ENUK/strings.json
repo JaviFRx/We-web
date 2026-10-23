@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "709fe173-ea7f-4a5f-8ed5-e55b216bdc10",
+        "string": "5. Image"
+      },
+      {
+        "refId": "922ee4ad-8662-494e-a983-12f9f7809a5b",
+        "string": "1. Start program&nbsp;<div>2. Show image 1 on the display</div>"
+      },
+      {
+        "refId": "a1cc683c-2975-4bf6-8859-b64e9d962aee",
+        "string": "1. Start program&nbsp;<div>2. Show image 0 on the display</div>"
+      },
+      {
+        "refId": "022e9cdc-d88a-4381-0c48-34d29025cb4c",
+        "string": "No LEGO model is required in order to test this program."
+      }
+    ]
+  }
+}

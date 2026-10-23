@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3ffa1a7b-1474-4892-f7ce-f43de462314d",
+        "string": "<font size=\"3\">Max et Mia ont remarqué que dans le monde, tous les bâtiments n’ont pas la même forme.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Ils souhaitent étudier comment concevoir des bâtiments pour qu’ils soient plus solides et plus sûrs.</font></div>"
+      },
+      {
+        "refId": "13f06d2d-3cd2-4ac4-f461-b712d8f7f67f",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&#160;:</font><div><span style=\"color: inherit; font-size: 12px; line-height: 1.42857143;\"><br></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857143;\">1. Quelle est la cause des tremblements de terre et quels sont leurs dangers&#160;?</span><br></font></div><div><font size=\"3\">2. Comment les scientifiques évaluent-ils la magnitude d’un tremblement de terre&#160;?</font></div><div><font size=\"3\">3. Quels éléments peuvent influencer la résistance des bâtiments à un tremblement de terre&#160;?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Partagez vos idées au moyen de l’outil de documentation.</font></div>"
+      },
+      {
+        "refId": "dd318e84-9192-49ff-c79a-0c2c79d2c795",
+        "string": "<font size=\"3\">Programmez votre simulateur sismique pour simuler des tremblements de terre de différentes magnitudes.</font>"
+      },
+      {
+        "refId": "c19ea3b1-f152-44a4-c39c-c9760a84d425",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif. Regardez la vidéo si vous avez besoin d’aide.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "d652aae0-e736-44c3-c2d0-aa5730fa9649",
+        "string": "<font size=\"5\">Recherchez avec Max et Mia&#160;:</font><br><br><div><font size=\"3\">1. Recherchez la magnitude de tremblement de terre la plus faible pour que le bâtiment B tombe. Testez le bâtiment A avec la même magnitude.</font></div><div><font color=\"#ffffff\" size=\"3\">Documentez et comparez vos résultats pour les deux tests.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Exécutez le même programme pour faire trembler les bâtiments B et C.</font></div><div><font color=\"#ffffff\" size=\"3\">Documentez et comparez vos résultats pour les deux tests.</font></div>"
+      },
+      {
+        "refId": "84bddc1d-a6fa-457f-575c-c9bc2ed034e0",
+        "string": "<font size=\"5\">Terminez votre document&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Examinez vos prévisions et expliquez ce qui s’est produit pendant cette recherche.</font></div><div><font size=\"3\">2. Organisez vos informations pour les partager avec d’autres.</font></div><div><font size=\"3\">3. Insérez dans votre projet des textes, images, captures d’écran ou vidéos importants.</font></div>"
+      },
+      {
+        "refId": "438b366e-89d9-4a03-078e-3f18ae645853",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">En vous basant sur vos découvertes pendant ces recherches et en utilisant vos propres mots, montrez les facteurs qui permettent à un bâtiment de mieux résister aux tremblements de terre.</font></div>"
+      },
+      {
+        "refId": "d5a4bcc4-eefe-4591-737c-9fc9be2370ff",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Construisez un simulateur sismique pouvant secouer des bâtiments.</font></div>"
+      },
+      {
+        "refId": "10753651-8155-4df7-b2b6-cbae49ee104d",
+        "string": "<div><font size=\"5\">Allez plus loin&#160;</font></div><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "236d0b52-52fb-44cf-b2f6-3ee0757c7494",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "67c9c435-e953-429a-fca9-d212753e8e6f",
+        "string": "<font size=\"5\">Quels autres facteurs permettent aux structures de résister aux tremblements de terre&#160;?</font><br><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">Dans ce projet, vous allez&#160;:</font></span></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Explorer l’origine et la nature des tremblements de terre.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Créer et programmer un dispositif pour tester les conceptions des bâtiments.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Documenter vos observations et présenter vos découvertes sur les meilleures conceptions de structures pour résister aux tremblements de terre.</font></div>"
+      },
+      {
+        "refId": "8449f49c-4c63-49ab-a423-4b627c9e91d7",
+        "string": "3. Structures robustes"
+      },
+      {
+        "refId": "bae24085-4a90-47ba-f343-faccce948097",
+        "string": "<font size=\"5\">Recherche supplémentaire&#160;:</font><div><span style=\"line-height: 17.142858505249px;\"><font size=\"3\"><br></font></span><div><font size=\"3\">1. Prévoyez ce qui va se produire si vous recommencez votre recherche avec un tremblement de terre de magnitude élevée.</font></div><div><font color=\"#ffffff\" size=\"3\">Documentez vos prévisions et comparez vos résultats pour les deux tests.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Construisez la structure la plus élevée pouvant résister à un tremblement de terre de magnitude 8.</font></div></div>"
+      }
+    ]
+  }
+}

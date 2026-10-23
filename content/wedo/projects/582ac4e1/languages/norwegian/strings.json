@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "Bevegelig satellitt"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">I denne leksjonen kommer du til å lære å:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Bygge en LEGO® modell.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Koble modellen til enheten.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programmere</span><span style=\"line-height: 1.42857;\">&nbsp;motoren slik at den dreier i en angitt tidsperiode.</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Programmere motoren slik at den dreier andre veien.</font></span></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">Max og Mia lytter til nyhetene. De hører historien om satellitter som styres av forskere.</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Noen ganger må satellitter bevege seg for å unngå meteorer.&#160;</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">De ønsker å bygge sin egen satellitt.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Max og Mia trenger din hjelp!</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">Få satellitten til å dreie rundt i 3 sekunder.<br><br>1. Bygg programmet som vises.</font><div><font size=\"3\"><br>2. Forklar for hverandre hvordan satellitten fungerer.</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">Hjelp Max og Mia videre (valgfritt):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Få satellitten til å dreie den andre veien i en lengre tidsperiode.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmer satellitten slik at den gjør andre ting.</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">Slå på Smarthub, og koble den til enheten din.</font><br>"
+      }
+    ]
+  }
+}

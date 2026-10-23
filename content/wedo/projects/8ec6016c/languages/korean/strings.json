@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6ffdb84-08b2-421e-a04e-32235c3b69ea",
+        "string": "23. 도시 안전"
+      },
+      {
+        "refId": "09f70808-a0fd-42ef-650f-0d92447e30bb",
+        "string": "<div><div><font size=\"5\">교통 수단을 더욱 안전하게 만들려면?&nbsp;</font></div><br><div>이 프로젝트의 과제:&nbsp;</div><div>- 도시의 교통 안전과 관련된 여러 가지 안전 규칙을 탐구하고, 어떻게 개선이 가능할지를 설명하세요.&nbsp;</div><div>- 도시 안전의 개선을 위한 장치를 조립하고 프로그래밍하세요.&nbsp;</div><div>- 프로그램을 테스트하고, 장치를 통해 안전성이 어떻게 개선되었는지 설명하세요.&nbsp;</div><div>- 프로그램과 아이디어를 공유하세요.</div></div>"
+      },
+      {
+        "refId": "96cc0dba-24fd-43fb-ba69-704c3d262b89",
+        "string": "<div style=\"text-align: center;\">디자인 라이브러리의 기본 모델을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</div>"
+      },
+      {
+        "refId": "e1f4f02f-0f59-4fbc-0f3c-f6a9c2d57b4d",
+        "string": "<div style=\"text-align: center;\">디자인 라이브러리의 기본 프로그램을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요.</div>"
+      }
+    ]
+  }
+}

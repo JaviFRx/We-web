@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6a876355-8c81-4029-b648-ec1d9cf6d9cb",
+        "string": "13b. Ändra ljus med ljud"
+      },
+      {
+        "refId": "87911d68-e2ab-44e6-8f0f-b39432022b84",
+        "string": "1. Starta program&#160;<div>2. Sätt på LED på den färg som motsvarar styrkan från ljudsensorn&#160;</div><div>3. Upprepa steg 2 oändligt</div>"
+      }
+    ]
+  }
+}

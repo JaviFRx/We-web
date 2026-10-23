@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "386f1b09-5068-4e7d-8049-aca38d9cce0b",
+        "string": "19. 发送信息"
+      },
+      {
+        "refId": "4e13b309-d018-4f5a-fffb-5f799f2bfb5e",
+        "string": "<div><font size=\"5\">我们如何利用规律传输信息？</font></div><br><div>在本实验中，需要：&nbsp;</div><div>- 探索如何将信息从一个地方传输到另一个地方&nbsp;</div><div>- 制作一个操纵杆并为其编程，使其可以使用代码发送信息&nbsp;</div><div>- 测试程序并发明新的信息交换方法&nbsp;</div><div>- 与别人分享你的程序和创意是如何成功实现的</div>"
+      },
+      {
+        "refId": "bda862d1-cad7-46e7-04ff-b1d748ed9b9a",
+        "string": "麦克斯和米娅想要使用代码传输信息。&nbsp;<div><br><div>请帮助他们制作一个操纵杆来发送信息。</div></div>"
+      },
+      {
+        "refId": "7dac5021-82f4-4666-b7ce-a044fc340fbb",
+        "string": "<font size=\"5\">来看一看麦克斯和米娅遇到的问题：</font><div><span style=\"font-size: 20px;\"><br></span><div>1. 从一个地方向另一个地方发送信息的方式有哪些？&nbsp;</div><div><font color=\"#ffffff\">2. 将信息转换或更改为信号的方式有哪些？</font></div></div>"
+      },
+      {
+        "refId": "c0bb2ea3-15ea-449a-4fda-9c01c1a77414",
+        "string": "<font size=\"5\">使用积木：</font><div><br><div>搭建一个操纵杆来发送信号。&nbsp;</div><br><div>对操纵杆编程，使其在一个位置时发出短声，在另一个位置时发出长声。</div></div>"
+      },
+      {
+        "refId": "030b70ca-ad0c-40de-a349-2e3154cf4b70",
+        "string": "1. 点击“A”启动程序&nbsp;<div>2. 等待倾斜传感器检测到“向上倾斜”&nbsp;</div><div>3. 播放声音 21&nbsp;</div><div>4. 等待倾斜传感器检测到“不倾斜”&nbsp;</div><div>5. 永久重复第 2 步至第 4 步&nbsp;</div><br><div>6. 点击“A”启动程序&nbsp;</div><div>7. 等待倾斜传感器检测到“向下倾斜”&nbsp;</div><div>8. 播放声音 22&nbsp;</div><div>9. 等待倾斜传感器检测到“不倾斜”&nbsp;</div><div>10. 永久重复第 7 步至第 9 步</div>"
+      },
+      {
+        "refId": "d5e2f867-55d7-4bcf-10b4-889c9c64dcab",
+        "string": "<font size=\"5\">计划和尝试解决方案：</font><div><span style=\"font-size: 20px;\"><br></span><div>使用短声和长声作为代码，为操纵杆编程，使其可以发送信息。&nbsp;</div><br><div>例如：&nbsp;</div><div>- 尝试使用摩尔斯代码发送词语 “Max” 或 “Mia”。</div></div>"
+      },
+      {
+        "refId": "425cc7a0-69a6-499f-c11f-3f17a17c6ff8",
+        "string": "<font size=\"5\">测试并修改你的解决方案：</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">使用你自己的信号系统为信息编程。</font></div></div>"
+      },
+      {
+        "refId": "36fcc814-8236-4957-0fa2-bd3e42dfe46e",
+        "string": "<font size=\"5\">与麦克斯和米娅一起</font><div><font size=\"5\">设计新的解决方案</font></div>"
+      },
+      {
+        "refId": "138add23-39e9-4e1f-5532-f74ae72932cc",
+        "string": "<font size=\"5\">分享实验</font>"
+      },
+      {
+        "refId": "86f0993b-c1a9-4f8e-1346-c395c349c0ef",
+        "string": "<font size=\"5\">设计新的解决方案：</font><div><br><div>无线通信需要使用天线或卫星来发送和接收信息。&nbsp;\n\n</div><br><div>搭建一个天线模型并为其编程，使其能够发送或接收信息。&nbsp;</div></div>"
+      },
+      {
+        "refId": "0684c9fc-c315-4c18-0a3d-c501973e1dbb",
+        "string": "<font size=\"5\">整理你的信息：</font><div><br><div>例如：&nbsp;</div><div><font color=\"#ffffff\">- 为最终完成的程序截屏。</font></div><div><font color=\"#ffffff\">- 录制一段视频，解释你的解决方案。</font></div></div>"
+      },
+      {
+        "refId": "149276a8-05bb-4b5d-4c50-be9bd35f5c50",
+        "string": "<font size=\"5\">分享你的发现：</font><div><br><div>展示并解释你的解决方案。</div></div>"
+      },
+      {
+        "refId": "af3b93ec-567c-4029-1cc0-eb2e876cbaef",
+        "string": "打开智能集线器，将其连接到你的设备。如果需要帮助，请观看视频。&nbsp;<div><br><div>更多指南请参见“帮助”面板。</div></div>"
+      }
+    ]
+  }
+}

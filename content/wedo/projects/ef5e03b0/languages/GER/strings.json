@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "386f1b09-5068-4e7d-8049-aca38d9cce0b",
+        "string": "19. Nachrichten senden"
+      },
+      {
+        "refId": "4e13b309-d018-4f5a-fffb-5f799f2bfb5e",
+        "string": "<div><div><div><font size=\"5\">Wie kann man mithilfe von Geräten Nachrichten in Form von Codes versenden?&nbsp;</font></div><br><div>In diesem Projekt werdet ihr:&nbsp;</div><div>- lernen, wie man Nachrichten von einem Ort zum anderen senden kann&nbsp;</div><div>- einen Joystick bauen, der Nachrichten in Form von Codes versenden kann&nbsp;</div><div>- ein Programm schreiben, mit dem euer Joystick Nachrichten versenden kann&nbsp;</div><div>- eure Programme testen und euch neue Möglichkeiten ausdenken, um Informationen auszutauschen&nbsp;</div><div>- eure Programme vorstellen und Ideen untereinander austauschen&nbsp;</div><div>- eure Ergebnisse dokumentieren und präsentieren</div></div></div>"
+      },
+      {
+        "refId": "bda862d1-cad7-46e7-04ff-b1d748ed9b9a",
+        "string": "<font size=\"3\">Max und Mia sind fasziniert von Geräten, mit denen man Nachrichten versenden kann.&nbsp;<br><br></font><div><font size=\"3\">Jetzt wollen sie herausfinden, wie man mit einem Gerät eine Nachricht verschicken kann.\nMax und Mia würden gern Informationen mithilfe von Codes versenden.&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">Helft ihnen dabei, einen Joystick zu bauen und Nachrichten zu versenden.</font></div></div></div>"
+      },
+      {
+        "refId": "7dac5021-82f4-4666-b7ce-a044fc340fbb",
+        "string": "<font size=\"5\">Max und Mia fragen sich:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. Wie kann man Nachrichten von einem Ort zum anderen senden?&nbsp;</font></div><div><font size=\"3\">2. Wie kann man Nachrichten in Signale umwandeln?</font></div><font size=\"3\"><br></font><div><font size=\"3\">Überlegt gemeinsam. Was vermutet ihr?&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">Schreibt eure Ideen und ersten Lösungsvorschläge auf.</font></div></div>"
+      },
+      {
+        "refId": "c0bb2ea3-15ea-449a-4fda-9c01c1a77414",
+        "string": "<font size=\"5\">Verwendet die Bausteine:</font><div><br><div><font size=\"3\">Baut einen Joystick, mit dem man Signale versenden kann.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Programmiert ihn so, dass er einen kurzen Ton abspielt, wenn er in die eine Position bewegt wird, und einen langen Ton, wenn er in eine andere Position bewegt wird.</font></div></div>"
+      },
+      {
+        "refId": "030b70ca-ad0c-40de-a349-2e3154cf4b70",
+        "string": "1. Programm starten, wenn „A“ gedrückt wird&nbsp;<div>2. Warten, bis der Neigungssensor eine Aufwärtsneigung erkennt&nbsp;</div><div>3. Klang 21 abspielen&nbsp;</div><div>4. Warten, bis der Neigungssensor keine Neigung erkennt&nbsp;</div><div>5. Schritte 2 bis 4 unendlich wiederholen&nbsp;</div><br><div>6. Programm starten, wenn „A“ gedrückt wird&nbsp;</div><div>7. Warten, bis der Neigungssensor eine Abwärtsneigung erkennt&nbsp;</div><div>8. Klang 22 abspielen&nbsp;</div><div>9. Warten, bis der Neigungssensor keine Neigung erkennt&nbsp;</div><div>10. Schritte 7 bis 9 unendlich wiederholen</div>"
+      },
+      {
+        "refId": "d5e2f867-55d7-4bcf-10b4-889c9c64dcab",
+        "string": "<font size=\"5\">Entwerft eine Lösung und probiert sie aus:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Verwendet kurze und lange Töne, um Nachrichten als Morsezeichen zu versenden.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">- Beantwortet Max’ und Mias Fragen.&nbsp;</font></div><div><font size=\"3\">- Versucht, das Wort „Max“ oder „Mia“ als Morsecode zu versenden.&nbsp;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Beschreibt eure erste Lösung.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Dokumentiert eure Verbesserungsvorschläge.</font></div></div>"
+      },
+      {
+        "refId": "425cc7a0-69a6-499f-c11f-3f17a17c6ff8",
+        "string": "<font size=\"5\">Testet eure Lösung und verbessert sie:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#000000\" size=\"3\">Denkt euch eine eigene Nachricht aus und versendet sie als Morsecode.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Beschreibt euren Entwicklungsprozess.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Dokumentiert eure fertigen Lösungen.</font></div></div>"
+      },
+      {
+        "refId": "36fcc814-8236-4957-0fa2-bd3e42dfe46e",
+        "string": "<font size=\"5\"> Expertenauftrag </font><div><font size=\"5\"> </font></div>"
+      },
+      {
+        "refId": "138add23-39e9-4e1f-5532-f74ae72932cc",
+        "string": "<font size=\"5\">Ergebnisse vorstellen</font>"
+      },
+      {
+        "refId": "86f0993b-c1a9-4f8e-1346-c395c349c0ef",
+        "string": "<font size=\"5\"> Expertenauftrag:</font><div><br><div><font size=\"3\">Kennt ihr andere Arten von Signalen? \nDenkt euch ein eigenes Signalsystem aus und programmiert euren Sender entsprechend.\n&nbsp;\n\n</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Beschreibt euer Vorgehen.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Dokumentiert den Entwicklungsprozess und eure fertigen Lösungen. &nbsp;</font></div></div>"
+      },
+      {
+        "refId": "0684c9fc-c315-4c18-0a3d-c501973e1dbb",
+        "string": "<font size=\"5\"> Bereitet eure Präsentation vor:</font><div><br><div><font size=\"3\">1. Beantwortet Max’ und Mias Fragen.&nbsp;</font></div><div><font color=\"#000000\" size=\"3\">2. Vergleicht eure verschiedenen Programme.&nbsp;</font></div><div><font color=\"#000000\" size=\"3\">3. Vergleicht eure ersten Lösungen mit der fertigen Lösung.&nbsp;</font></div><div><font color=\"#000000\" size=\"3\">4. Überarbeitet eure Dokumentation.&nbsp;</font></div><div><font color=\"#000000\" size=\"3\">5. Nehmt ein Video auf und erklärt darin eure Lösung.</font></div></div>"
+      },
+      {
+        "refId": "149276a8-05bb-4b5d-4c50-be9bd35f5c50",
+        "string": "<font size=\"5\"> Präsentiert eure Ergebnisse:</font><div><br><div><font size=\"3\">Präsentiert eure Lösung und erklärt mit euren eigenen Worten die Funktion des Programms.</font></div></div>"
+      },
+      {
+        "refId": "af3b93ec-567c-4029-1cc0-eb2e876cbaef",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font></div></div></div></div>"
+      }
+    ]
+  }
+}

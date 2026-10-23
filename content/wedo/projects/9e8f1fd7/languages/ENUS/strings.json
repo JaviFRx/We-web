@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8889bb08-cc03-4540-8448-ee67d3ab4e50",
+        "string": "17. Moon Base"
+      },
+      {
+        "refId": "42b013c8-6baa-4fff-0317-26f266cc064b",
+        "string": "<font size=\"3\">Max and Mia are making a robot to build a base on the moon.&nbsp;<br><br></font><div><font size=\"3\">Help them to program a robot that collects objects.&nbsp;</font></div>"
+      },
+      {
+        "refId": "e69e786b-066d-45cf-8ef1-a2411c598995",
+        "string": "<font size=\"5\">Explore Max's and Mia's questions:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">1. How can things be sent to the moon?&nbsp;</font></div><div><font size=\"3\">2. How could things land on the moon?&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">3. What is a good way to create and build a base on the moon?&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "cfee27b3-529f-4b74-47af-baf64b172566",
+        "string": "<font size=\"5\">Use the bricks:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Build a robot that can drive and turn in different directions.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Program it to move.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "b532c30d-f275-477d-8070-209a6fbd1650",
+        "string": "<div><span style=\"color: inherit; font-size: 16px;\">1. Start program&nbsp;</span><br></div><div><font size=\"3\">2. Start motor this way&nbsp;</font></div><div><font size=\"3\">3. Start motor at power 4&nbsp;</font></div><div><font size=\"3\">4. Start motor for 2 seconds&nbsp;</font></div><div><font size=\"3\">5. Start motor that way&nbsp;</font></div><div><font size=\"3\">6. Start motor for 2 seconds</font></div>"
+      },
+      {
+        "refId": "7f368ff6-a865-4f73-ff7e-22283eaaa470",
+        "string": "<font size=\"5\">Plan and try a solution:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\" size=\"3\">- Define the path your robot should follow to reach the first Moon Base module.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">- Program your robot to move to the first module.&nbsp;</font></div></div>"
+      },
+      {
+        "refId": "cecfc75b-ac62-487b-12c5-367028a970ba",
+        "string": "<font size=\"5\">Test and modify your solution:</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\" size=\"3\">- Plan the path your robot should take to reach the first and second Moon Base modules.&nbsp;</font></div><font color=\"#ffffff\" size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">- Plan the path your robot should take to reach its final location.&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">- Program your robot to move following these paths. &nbsp;</font></div></div>"
+      },
+      {
+        "refId": "f929372d-e146-40cd-a16c-b25737005614",
+        "string": "<font size=\"5\">Design new solutions&nbsp;</font><div><font size=\"5\">with Max and Mia</font></div>"
+      },
+      {
+        "refId": "91fbc3ae-c4f2-4e12-af7c-040827afa6bb",
+        "string": "<font size=\"5\">Share your project</font>"
+      },
+      {
+        "refId": "57541f06-6c38-4970-5c61-8e318eb1830a",
+        "string": "<font size=\"5\">Design new solutions:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">New modules have landed on the moon! They have landed in the shape of a square.&nbsp;\n</font></div><font size=\"3\"><br></font><div><font size=\"3\">Program your robot to pick up the four modules. &nbsp;</font><br></div></div>"
+      },
+      {
+        "refId": "c50d5eeb-496e-4a96-5e43-db7edd6718cf",
+        "string": "<font size=\"5\">Organize your information:</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">For example:&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Take a screen capture of your final program.&nbsp;</font></div><div><font color=\"#ffffff\" size=\"3\">- Record a video explaining your solution. &nbsp;</font></div></div>"
+      },
+      {
+        "refId": "11e6d357-ed21-4621-8de1-257a567749b3",
+        "string": "<font size=\"5\">Share your findings:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font size=\"3\">Present and explain your solutions.</font></div></div>"
+      },
+      {
+        "refId": "0b9e4a01-e5c9-4ad8-a3f7-4f310b12d736",
+        "string": "<div><div><div><div><div><font size=\"4\">How would a moon base be installed?</font></div><div><font size=\"3\">In this project you will:&nbsp;</font></div><font size=\"3\"><br></font><div><font size=\"3\">•  Explore why we would set up a base on the moon, and how we could do it</font></div><div><font size=\"3\">• Create and program a robot that can move on the surface of the moon</font></div><div><font size=\"3\">• Test your program to build the moon base at a specific location</font></div><div><font size=\"3\">• Share your program and ideas for how to succeed in this mission</font></div></div></div></div></div>"
+      },
+      {
+        "refId": "e4effe28-5fa1-42ad-ae93-1fa15fb20754",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device. Watch the video if you  need help.&nbsp;</font><div><font size=\"3\"><br></font><div><font size=\"3\">See the Help panel for more guidance.&nbsp;</font></div></div>"
+      }
+    ]
+  }
+}

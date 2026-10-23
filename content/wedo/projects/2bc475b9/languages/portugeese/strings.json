@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "Robô espião"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><font size=\"3\">Nesta aula, você aprenderá a:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Construir um modelo LEGO®</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Conectar o modelo ao seu dispositivo</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programar o</span><span style=\"line-height: 1.42857;\">&nbsp;sensor de movimento para detectar movimentos</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">Max e Mia querer dar uma festa surpresa para um amigo. Eles não sabem quando o amigo virá à sua casa.</font><div><font size=\"3\">Eles precisam de um dispositivo para avisá-los.</font></div><font size=\"3\"><br></font><div><font size=\"3\">Eles querem construir um robô espião.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max e Mia precisam da sua ajuda! </font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">Faça o robô emitir um som quando detecta um movimento.<br><br>1. Crie o programa conforme mostrado.</font><div><font size=\"3\"><br>2. Expliquem uns aos outros como o robô funciona.</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">Ajude o Max e a Mia ainda mais (opcional):&#160;<br><br></font><div><font size=\"3\">1. Grave seu próprio som e faça o robô emiti-lo.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Programe o robô para fazer outras coisas.</span></div></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">Ligar o Smarthub e o conectar ao dispositivo.</font>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00f98ed3-10ee-4818-ca1a-16d0e4fac5b2",
+        "string": "<font size=\"3\">맥스와 미아는 환경을 보호하는 일에 관심이 많아요.</font><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">맥스와 미아는 물질을 재활용하는 것이 폐기물을 줄이는 데 어떻게 도움이 되는지 알고 싶어 해요.</font></span><br></div>"
+      },
+      {
+        "refId": "4479a768-7186-499a-6ed7-94a661d29d21",
+        "string": "<font size=\"5\">맥스와 미아의 질문 탐구:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 재활용의 의미가 무엇인가요?</font></div><div><font size=\"3\">2. 여러분이 사는 지역에서는 재활용할 물질을 어떻게 분류하나요?</font></div><div><font size=\"3\">3. 재활용 가능한 폐기물을 모양에 따라 분류할 수 있는 장치를 구상해 보시겠어요?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">문서화 도구를 이용해 아이디어를 공유하세요.</font></div>"
+      },
+      {
+        "refId": "e0983fdc-d652-494c-390c-f41882016595",
+        "string": "<font size=\"5\">블록 활용:</font><br><br><div><font size=\"3\">두 개의 물체를 모양에 따라 분류할 수 있는 트럭을 조립하세요.</font></div>"
+      },
+      {
+        "refId": "01d235ec-b3e8-4cc8-70a4-76bc8bc50d50",
+        "string": "<font size=\"3\">작은 재활용 물체를 재활용 시설에 떨어뜨릴 수 있도록 트럭의 적재함을 프로그래밍하세요.</font>"
+      },
+      {
+        "refId": "ca9a45c7-9d3f-4de4-447a-05926393fcb2",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치를 연결하세요.&nbsp;</font><div><font size=\"3\">도움이 필요하면 비디오를 보아 주세요.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">자세한 지침은 도움말 창을 보아 주세요.</font></div></div>"
+      },
+      {
+        "refId": "2caad543-0113-4e2d-fc3f-db79a96316eb",
+        "string": "<font size=\"5\">해결 방법 구상:</font><br><br><div><font size=\"3\">물체를 모양에 따라 두 그룹으로 분류할 수 있도록 트럭을 개조하세요.</font></div><br><div><font size=\"3\">다음 요소 중 하나를 고려하세요.</font></div><div><font size=\"3\">1. 트럭 적재함의 디자인 변경.</font></div><div><font size=\"3\">2. 동작 센서를 이용해 물체의 형상을 감지.</font></div><div><font size=\"3\">3. 트럭 안에서 물체를 분류.</font></div><br><div><font color=\"#ffffff\" size=\"3\">해결 방법을 문서에 기록하되, 물체의 형상을 어떻게 이용했는지 설명하세요.</font></div>"
+      },
+      {
+        "refId": "5435c671-41b8-4c3a-1444-830c9cbb9e67",
+        "string": "<font size=\"5\">문서 최종 완성:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. 자신이 만든 프로토타입의 원리를 설명하세요.</font></div><div><font size=\"3\">2. 최종 해결 방법을 그렇게 선택한 이유를 설명하세요.</font></div><div><font size=\"3\">3. 정보를 정리하세요.</font></div><div><font size=\"3\">4. 중요한 텍스트, 사진, 화면 캡처 또는 비디오를 문서에 넣으세요.</font></div>"
+      },
+      {
+        "refId": "29fc0f24-6505-4ca5-ea2a-51b493c42cb2",
+        "string": "<font size=\"5\">탐구 결과 공유:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">여러 가지 상자를 어떻게 분류하여 각기 다른 위치에 모이도록 했는지를 자신의 생각으로 발표하세요.</font></div>"
+      },
+      {
+        "refId": "c0d9382e-ecd2-43db-e2c7-ec7a36cf6801",
+        "string": "<font size=\"5\">새로운 해결 방법 디자인&#160;</font><br><div><font size=\"5\">추가 조사</font></div>"
+      },
+      {
+        "refId": "05820679-df82-497a-f787-6fb9db97c39e",
+        "string": "<font size=\"5\">프로젝트 공유</font>"
+      },
+      {
+        "refId": "9bec8ac0-4965-44d9-54ed-612d26b3ada6",
+        "string": "<font size=\"4\">어떻게 해야 폐기물이 줄어들도록 재활용 방법을 개선할 수 있을까요?</font><br><br><div><font size=\"3\">이번 프로젝트의 과제:</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">깡통을 분류하는 더 나은 방법이 개발될 경우, 버려지는 폐기물의 양을 줄이는 데 어떻게 도움이 될지를 탐구하여 알아내세요.</font></div>•&#160;<span style=\"font-size: medium; line-height: 1.42857143;\">재활용 물질을 크기와 모양에 따라 분류하기 위한 장치를 조립하고 프로그래밍하세요.</span><br><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">자신이 찾아낸 해결 방법을 문서에 기록하고 발표하세요.</font></div>"
+      },
+      {
+        "refId": "c571e0a6-21a5-4d0b-ee99-952848d46c21",
+        "string": "<font size=\"5\">새로운 해결 방법 디자인:</font><br><font size=\"3\"><br></font><div><font size=\"3\">세 가지의 물체를 고르고, 분류 방법을 구상하세요.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">다음 방식 중 하나를 선택하세요.&#160;</font></div><div><font size=\"3\">1. 컨베이어 벨트를 이용해 물체를 분류.&#160;</font></div><div><font size=\"3\">2. 로봇 팔을 이용해 물체를 분류.&#160;</font></div><div><font size=\"3\">3. 두 개의 서로 다른 장치를 이용해 물체를 분류.&#160;</font></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">새로운 해결 방법을 문서에 기록하세요.</font></div>"
+      },
+      {
+        "refId": "0bbe4db5-20c1-4469-9f99-eef1a86a47c3",
+        "string": "8. 분류와 재활용"
+      }
+    ]
+  }
+}

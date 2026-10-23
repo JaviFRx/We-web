@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "abe58040-caca-4821-9462-b1e537383b01",
+        "string": "디자인 라이브러리의 기본 모델을 참조하여 이 프로젝트의 과제를 해결하는 데 필요한 아이디어를 얻으세요."
+      },
+      {
+        "refId": "5dbcbe83-c813-45e9-0c35-d6cbd095991d",
+        "string": "<div><div><font size=\"4\">의사소통이 동물의 생존에 어떻게 도움이 되는가?</font><font size=\"3\"><span style=\"line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">이번 프로젝트의 과제:</span><br></font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">동물들의 여러 가지 의사소통 방법을 조사하세요. 어둠 속에서 빛을 내는 동물과 곤충이 사용하는 독특한 방법을 포함해서요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">동물이나 곤충 모델을 조립하고 같은 종끼리 서로 교류하는 방법이 표현되도록 모델을 프로그래밍하세요.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">자신이 만든 모델을 </font>문서에 기록하고 발표하되, 동물의 의사소통 방법과 의사소통이 동물에게 어떻게 도움이 되는지 설명하세요.</font></div></div>"
+      },
+      {
+        "refId": "2e31136e-0888-421a-a08b-1a26dc5c41ad",
+        "string": "10. 동물의 표현 방법"
+      }
+    ]
+  }
+}

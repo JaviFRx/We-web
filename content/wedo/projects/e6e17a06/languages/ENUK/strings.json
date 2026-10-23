@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "3d4b1dfc-05e1-45db-963c-d37d56c1fdb5",
+        "string": "21. Inspection"
+      },
+      {
+        "refId": "38ea98b8-f26a-4697-ef22-7a811566b198",
+        "string": "<div><div><div><font size=\"5\">How can we explore narrow spaces such as tunnels, caves, pipes, etc.?&nbsp;</font></div><br><div>In this project you will:</div><div>- Explore how robots can be used to inspect narrow spaces&nbsp;</div><div>- Create and program a robot to move on a surface and avoid obstacles</div><div>- Test your program to make sure that it can detect walls, holes, a cave and objects&nbsp;</div><div>- Share your program and ideas</div></div></div>"
+      },
+      {
+        "refId": "daee8177-ac30-4b6d-49d6-c60cba9f450d",
+        "string": "<div style=\"text-align: center;\">Find inspiration in the Design Library by looking at the different base models that you can use to build your own solution to this project.</div>"
+      },
+      {
+        "refId": "6d51c5a4-a698-4766-8716-a6ba7efd1533",
+        "string": "<div style=\"text-align: center;\">Find inspiration in the Design Library by looking at the different base programs that you can use to program your own solution to this project.</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6ffdb84-08b2-421e-a04e-32235c3b69ea",
+        "string": "23. Sicherheit in der Stadt"
+      },
+      {
+        "refId": "09f70808-a0fd-42ef-650f-0d92447e30bb",
+        "string": "<div><font size=\"5\">Wie kann man den Straßenverkehr sicherer machen?&nbsp;</font></div><br><div>In diesem Projekt werdet ihr:&nbsp;</div><div>- verschiedene Verkehrsregeln kennenlernen&nbsp;</div><div>- ein Gerät bauen und programmieren, das die Sicherheit im Straßenverkehr verbessert&nbsp;</div><div>- eure Programme testen und zeigen, wie euer Gerät die Sicherheit verbessert&nbsp;</div><div>- eure Programme vorstellen und Ideen untereinander austauschen&nbsp;</div><div>- eure Ergebnisse dokumentieren und präsentieren</div>"
+      },
+      {
+        "refId": "96cc0dba-24fd-43fb-ba69-704c3d262b89",
+        "string": "<div style=\"text-align: center;\">Schaut euch die Basismodelle in der Modellbibliothek an und lasst euch beim Bau eures Modells davon inspirieren.</div>"
+      },
+      {
+        "refId": "e1f4f02f-0f59-4fbc-0f3c-f6a9c2d57b4d",
+        "string": "<div style=\"text-align: center;\">Schaut euch die Basisprogramme in der Programmbibliothek an und lasst euch beim Programmieren eures Modells davon inspirieren.</div>"
+      }
+    ]
+  }
+}

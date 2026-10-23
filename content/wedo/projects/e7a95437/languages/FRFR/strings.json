@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "abe58040-caca-4821-9462-b1e537383b01",
+        "string": "<div style=\"text-align: center;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</div>"
+      },
+      {
+        "refId": "5dbcbe83-c813-45e9-0c35-d6cbd095991d",
+        "string": "<div><div><font size=\"4\">Comment la communication aide-t-elle les animaux à survivre ?</font><font size=\"3\"><span style=\"line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">Dans ce projet, vous allez&nbsp;:</span><br></font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explorer les différents moyens de communication entre les animaux, y compris les méthodes uniques des animaux et des insectes qui brillent dans l’obscurité.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Créer et programmer un animal ou un insecte, pour illustrer comment il interagit socialement avec d’autres animaux ou insectes de son espèce.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\"><font color=\"#000000\">Présenter et documenter v</font>otre modèle, en expliquant comment l’animal communique et comment cela l’aide.</font></div></div>"
+      },
+      {
+        "refId": "2e31136e-0888-421a-a08b-1a26dc5c41ad",
+        "string": "10. Expression animale"
+      }
+    ]
+  }
+}

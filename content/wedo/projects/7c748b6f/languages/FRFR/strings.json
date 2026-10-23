@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9cac809c-24e2-4f68-88d4-1ddb99993014",
+        "string": "1a. Augmenter la vitesse"
+      },
+      {
+        "refId": "54d37f58-f4fc-4a11-3501-8abb225c5590",
+        "string": "1. Lancer le programme&nbsp;<div>2. Démarrer le moteur à la puissance&nbsp;1&nbsp;</div><div>3. Attendre 1&nbsp;seconde&nbsp;</div><div>4. Démarrer le moteur à la puissance&nbsp;5&nbsp;</div><div>5. Attendre 1&nbsp;seconde&nbsp;</div><div>6. Démarrer le moteur à la puissance&nbsp;10</div>"
+      }
+    ]
+  }
+}

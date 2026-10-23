@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "1ed6e30e-6c7f-4970-79b7-802f0fae7408",
+        "string": "<font size=\"3\">Max og Mia kigger nærmere på forårsblomster og bier i parken.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">De vil gerne vide mere om forholdet mellem de blomstrende planter og de dyr, der ofte besøger dem.</font></div>"
+      },
+      {
+        "refId": "e1f3b987-e02b-4478-1064-76a51d683354",
+        "string": "<font size=\"5\">Undersøg Max' og Mias spørgsmål:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Hvad er der inden i en blomst?</font></div><div><font size=\"3\">2. Hvordan hjælper organismer planter med at formere sig?&#160;</font></div><div><font size=\"3\">3. Hvad kaldes disse processer?</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Del dine idéer ved hjælp af dokumentationsværktøjet.</font></div>"
+      },
+      {
+        "refId": "90b1b939-544c-4339-32a7-7bf54f35a8e0",
+        "string": "<font size=\"5\">Brug klodserne:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg en model af en bi, der flyver rundt om en blomst, som er fyldt med pollen.</font></div>"
+      },
+      {
+        "refId": "248a9f42-8469-4c6e-b2b1-64c82f192e78",
+        "string": "<font size=\"3\">Programmér din bi, så den stopper ved blomsten for at få pollen.</font>"
+      },
+      {
+        "refId": "0c165a49-c4b1-402e-cc15-6fd169f3172d",
+        "string": "<font size=\"3\">Start din Smarthub, og forbind den med din enhed. Se videoen, hvis du har brug for hjælp.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Se panelet Hjælp, hvis du har brug for mere hjælp.</font></div>"
+      },
+      {
+        "refId": "bd9689bb-8482-4a1c-24f4-c558e5fa63b6",
+        "string": "<font size=\"5\">Brug din model:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg en anden bestøver, som kan blive tiltrukket af&#160;<span style=\"line-height: 1.42857143;\">en anden blomst</span><span style=\"line-height: 17.142858505249px;\">.</span></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Overvej én af de følgende opgaver:</font></div><div><font size=\"3\">1. Rørformede blomster passer bedst til fugle.&#160;</font></div><div><font size=\"3\">2. Sommerfugle tiltrækkes af bestemte farver på blomsterne.&#160;</font></div><div><span style=\"color: inherit; line-height: 1.42857143;\"><font size=\"3\">3. Bestøvning kan ske mellem to forskellige blomster.&#160;</font></span></div><font size=\"3\"><br></font><div><font color=\"#ffffff\" size=\"3\">Dokumentér, hvordan din blomst og bestøver passer til hinanden.</font></div>"
+      },
+      {
+        "refId": "f2efc131-abe3-422b-36ea-9e1746fdda34",
+        "string": "<font size=\"5\">Gør dit dokument færdigt:</font><br><br><div><font size=\"3\">1. Forklar, hvad din model ikke kan.</font></div><div><font size=\"3\">2. Organisér dine oplysninger.</font></div><div><font size=\"3\">3. Indsæt vigtige tekster, billeder, skærmbilleder eller videoer for at beskrive, hvordan din model gengiver en organisme, der hjælper en plante med at formere sig.</font></div>"
+      },
+      {
+        "refId": "22896aef-5632-4d2e-e0f8-b49593eabc3a",
+        "string": "<font size=\"5\">Del dine resultater:</font><br><br><div><font size=\"3\">Fremlæg med dine egne ord, hvordan bestøvere kan bidrage til planteformering. Sørg for at fremhæve bestemte eksempler på, hvordan din model viser dette.&#160; Del mindst én begrænsning ved din model.</font></div>"
+      },
+      {
+        "refId": "e8080f5f-d4a8-4546-7c0d-f2cf11128489",
+        "string": "<div><font size=\"5\">Brug din model endnu mere</font></div><div><font size=\"5\">med Max og Mia</font></div>"
+      },
+      {
+        "refId": "6d909856-1718-4a63-08d8-0a8b8c297284",
+        "string": "<font size=\"5\">Del dit projekt</font>"
+      },
+      {
+        "refId": "59076eff-8410-43d6-3d73-ea4f58d9c3b4",
+        "string": "<div><font size=\"4\">Hvordan bidrager nogle organismer til planters livscyklus?</font><br><font size=\"3\"><br></font><div><font size=\"3\">I dette projekt skal du:</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857143;\">undersøge, hvordan forskellige organismer deltager aktivt i planters formering</span><br></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&#160;</span>bygge og programmere en model af en bi og en blomst for at gengive forholdet mellem bestøveren og planten</font></div><font size=\"3\">•&#160;<span style=\"color: inherit; line-height: 1.42857143;\">præsentere og dokumentere de forskellige modeller, du har bygget af planter og deres bestøvere.</span></font></div>"
+      },
+      {
+        "refId": "7f9c9614-0d01-4cd5-b7fa-504fc1294a98",
+        "string": "5. Planter og bestøvere"
+      },
+      {
+        "refId": "322b8ea4-3045-4c2e-233f-94b00d524e24",
+        "string": "<font size=\"5\">Brug din model endnu mere:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Byg planten, efter blomsten er blevet bestøvet, og vis, hvordan frøene spredes:</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Overvej én af de følgende opgaver:</font></div><div><font size=\"3\">1. Frø, der spredes fra blomstrende planter eller ikke-blomstrende planter&#160;</font></div><div><font size=\"3\">2. Frø, der spredes af organismer</font></div><div><font size=\"3\">3. Frø, der spredes på andre måder</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Dokumentér den type frøspredning, som du har valgt at modellere.</font></div>"
+      }
+    ]
+  }
+}

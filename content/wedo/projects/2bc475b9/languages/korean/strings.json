@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "스파이 로봇"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><font size=\"3\">이번 수업에서 배울 내용:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">레고® 모델 조립</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">모델을 장치에 연결</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• 동작 센서가 동작을 감지하도록</span><span style=\"line-height: 1.42857;\">&nbsp;프로그래밍</span></font></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">맥스와 미아가 친구를 위해 깜짝 파티를 열고 싶어해요. 그런데 친구가 언제 집에 올지 모르겠어요.</font><div><font size=\"3\">그래서 경보를 해줄 장치가 필요하거든요.</font></div><font size=\"3\"><br></font><div><font size=\"3\">스파이 로봇을 만들면 좋겠어요.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">맥스와 미아를 좀 도와주세요!&#160;</font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">로봇이 동작을 감지하는 순간 소리를 내게 만드세요.<br><br>1. 그림과 같이 프로그램을 만드세요.</font><div><font size=\"3\"><br>2. 로봇의 작동 원리를 서로에게 설명해주세요.</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">맥스와 미아 조금 더 도와주기(선택 사항):&#160;<br><br></font><div><font size=\"3\">1. 자신만의 소리를 녹음하고, 로봇이 그걸 재생하게 하세요.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. 로봇이 다른 동작을 할 수 있게 프로그래밍하세요.</span></div></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">Smarthub를 켜고 장치에 연결하세요.</font>"
+      }
+    ]
+  }
+}

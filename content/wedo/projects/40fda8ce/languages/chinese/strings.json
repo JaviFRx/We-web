@@ -1,0 +1,66 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "11513aca-bcc0-4fd3-be56-fc3cd35797f5",
+        "string": "20. 火山警报"
+      },
+      {
+        "refId": "ff1526d0-52e9-440a-fa57-2b312ebd11b2",
+        "string": "<div><div><div><div><font size=\"5\">科学家如何利用火山活动的不同状态来指导自己开展科学探索？</font></div><br><div>在本实验中，需要：&nbsp;</div><div>- 探索科学家监测火山活动的不同方法</div><div>- 制作一个警报设备并为其编程，使其可以指示火山活动的不同状态&nbsp;</div><div>- 测试程序，看看是否能准确地指示这些状态&nbsp;</div><div>- 与别人分享你的程序和创意是如何成功实现的</div></div></div></div>"
+      },
+      {
+        "refId": "165a3271-75a6-4b2c-5bd6-65e937ad4fa6",
+        "string": "麦克斯和米娅准备探索一座火山。&nbsp;<div><br><div>帮助他们设计一个火山警报设备，以协调无人机、漫游器的操作和当地动物的迁移。</div></div>"
+      },
+      {
+        "refId": "fab27f42-230a-49eb-bec2-721408a23bea",
+        "string": "<font size=\"5\">使用积木：</font><div><br><div>搭建一个可以指示火山活动级别的警报设备。&nbsp;</div><br><div>对设备编程，使其可以在发生震动时启动。</div></div>"
+      },
+      {
+        "refId": "7be8704a-5aca-48e0-1af6-7ab65e48274c",
+        "string": "1. 启动程序&nbsp;<div>2. 顺时针运转启动马达&nbsp;</div><div>3. 以功率 3 启动马达&nbsp;</div><div>4. 等待倾斜传感器“向上倾斜”&nbsp;</div><div>5. 运行马达 2 秒&nbsp;</div><div>6. 等待倾斜传感器检测到震动&nbsp;</div><div>7. 逆时针运转启动马达&nbsp;</div><div>8. 启动马达使其运行数秒</div>"
+      },
+      {
+        "refId": "91f4101a-154c-4a78-cd27-4e517698b552",
+        "string": "<font size=\"5\">计划和尝试解决方案：</font><div><br><div>为警报设备编程，使设备在指针停在红色位置时发出警报。&nbsp;</div><br><div><font color=\"#ffffff\">每次发出红色警报时，无人机进入火山，探索火山喷发。</font></div></div>"
+      },
+      {
+        "refId": "f9eb0f00-54c8-459f-c0b6-496371f2f78e",
+        "string": "<font size=\"5\">测试并修改你的解决方案：</font><div><span style=\"font-size: 20px;\"><br></span><div>- 为警报设备编程，使它可以针对三种不同的火山状态发出不同的警报。&nbsp;</div><br><div><font color=\"#ffffff\">- 每次发出警报时，根据警报移动无人机、动物和漫游器。</font></div></div>"
+      },
+      {
+        "refId": "d7740519-33e7-48d1-a8e3-5398eff40ca4",
+        "string": "<font size=\"5\">分享实验</font>"
+      },
+      {
+        "refId": "46a03b2d-27fe-4459-b355-6e7aa76c3a65",
+        "string": "<font size=\"5\">与麦克斯和米娅一起</font><div><font size=\"5\">设计新的解决方案</font></div>"
+      },
+      {
+        "refId": "b916f289-1501-4d1c-2cf7-211d3142a0f5",
+        "string": "<font size=\"5\">设计新的解决方案：</font><div><span style=\"font-size: 20px;\"><br></span><div>大多数火山警报都有四个级别：绿色、黄色、橙色和红色。&nbsp;</div><br><div>想办法使用警报程序发出第四种级别的警报。&nbsp;<br></div><br></div>"
+      },
+      {
+        "refId": "7821b679-8dea-442d-6043-9df9f0c0f632",
+        "string": "<font size=\"5\">整理你的信息：</font><div><span style=\"font-size: 20px;\"><br></span><div>例如：&nbsp;</div><div>- 为最终完成的程序截屏。&nbsp;</div><div>- 录制一段视频，解释你的解决方案。&nbsp;</div></div>"
+      },
+      {
+        "refId": "c4d962d6-dead-4bba-6766-3751205a1e90",
+        "string": "<font size=\"5\">分享你的发现：</font><div><span style=\"font-size: 20px;\"><br></span><div>展示并解释你的解决方案。</div></div>"
+      },
+      {
+        "refId": "e0b7499c-e7e8-42d1-665e-4c037437bfe1",
+        "string": "麦克斯和米娅准备探索一座火山。&nbsp;<div><br><div>帮助他们设计一个火山警报设备，以协调无人机、漫游器的操作和当地动物的迁移。</div></div>"
+      },
+      {
+        "refId": "a10705c3-dd78-4352-cecf-34ad379eeee5",
+        "string": "<font size=\"5\">来看一看麦克斯和米娅遇到的问题：</font><div><span style=\"font-size: 20px;\"><br></span><div>1. 火山有哪些不同的状态？&nbsp;</div><div>2. 科学家可以如何探索火山？&nbsp;</div><div><font color=\"#ffffff\">3. 要怎样准确地发出火山喷发的信号？</font></div></div>"
+      },
+      {
+        "refId": "08e6bd33-975a-40e5-8215-4ca31daf218e",
+        "string": "打开智能集线器，将其连接到你的设备。如果需要帮助，请观看视频。&nbsp;<div><br><div>更多指南请参见“帮助”面板。&nbsp;</div></div>"
+      }
+    ]
+  }
+}

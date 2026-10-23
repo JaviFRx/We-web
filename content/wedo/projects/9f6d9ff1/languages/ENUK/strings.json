@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d8d0a44f-fe6f-460d-b65c-f544560e927e",
+        "string": "3a. Blink"
+      },
+      {
+        "refId": "7033c8ec-8f24-4405-7a2b-ba3e4b33ee4d",
+        "string": "1. Start program&nbsp;<div>2. Turn LED on colour 9 (red)&nbsp;</div><div>3. Turn LED off colour 0 (no colour)&nbsp;</div><div>4. Repeat steps 2 and 3 forever&nbsp;</div>"
+      }
+    ]
+  }
+}

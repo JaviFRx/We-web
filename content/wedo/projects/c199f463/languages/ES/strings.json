@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "0199e382-b14e-4aba-a0cd-b3ad605d1bc1",
+        "string": "3b. Semáforo"
+      },
+      {
+        "refId": "9b6ee4fa-569a-4f4b-366f-6c3440d5636d",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Encender el LED en el color 9 (rojo)&nbsp;</div><div>3. Esperar 2 segundos&nbsp;</div><div>4. Encender el LED en el color 5 (verde)&nbsp;</div><div>5. Esperar 2 segundos&nbsp;</div><div>6. Encender el LED en el color 7 (amarillo)&nbsp;</div><div>7. Esperar 2 segundos&nbsp;</div><div>8. Repetir pasos 2 a 7 para siempre</div>"
+      }
+    ]
+  }
+}

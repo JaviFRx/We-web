@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6f9cd198-be04-4f76-05f4-8ae7dae5d29c",
+        "string": "<div style=\"text-align: center;\"><span style=\"color: inherit; font-size: 16px;\">Get inspired by the Design Library base models to build your own solution to this project.</span></div>"
+      },
+      {
+        "refId": "a9d42695-80bf-496a-bc9d-22ea307079bb",
+        "string": "<div><font size=\"4\">How can forewarnings help reduce the impact of strong storms?</font><font size=\"3\"><br></font></div><div><font size=\"3\">In this project, you will:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Explore different weather-related hazards that everyone needs to be aware of, like tsunamis, tornados, and hurricanes, and the warning systems in place to help protect you.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Create and program a device that could warn people to take action because dangerous weather is coming.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Present and document your solution and explain how it helps reduce the impact on the population.</font></div></div>"
+      },
+      {
+        "refId": "9092bca6-3c16-45d8-89f1-c308b05b55a9",
+        "string": "13. Hazard Alarm"
+      }
+    ]
+  }
+}

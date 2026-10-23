@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "98b4d326-2233-4773-8dae-54c99fc8d218",
+        "string": "11a. Ernaartoe en ervandaan bewegen"
+      },
+      {
+        "refId": "0bdd3730-9df7-47c9-a810-74e7f80a46f3",
+        "string": "1. Start het programma&nbsp;<div>2. Wacht tot de bewegingssensor een beweging detecteert&nbsp;</div><div>3. Start de motor in deze richting&nbsp;</div><div>4. Wacht tot de bewegingssensor een beweging detecteert&nbsp;</div><div>5. Start de motor in de andere richting&nbsp;</div><div>6. Herhaal stap 2 tot en met 5 eindeloos</div>"
+      }
+    ]
+  }
+}

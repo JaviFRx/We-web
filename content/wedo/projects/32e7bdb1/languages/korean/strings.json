@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "765a1a50-52a3-42d1-bf5a-adb579d3db32",
+        "string": "3. 조명"
+      },
+      {
+        "refId": "e13efddc-e9e0-4a99-92ec-a7a349ec6ecb",
+        "string": "1. 프로그램 시작<div>2. 색상 9(빨강)에서 LED 켜기</div>"
+      },
+      {
+        "refId": "9f50f589-5887-482f-2c6b-f3aea3632543",
+        "string": "1. 프로그램 시작&nbsp;<div>2. LED를 꺼서 색상 0(색상 없음)으로 바꾸기</div>"
+      }
+    ]
+  }
+}

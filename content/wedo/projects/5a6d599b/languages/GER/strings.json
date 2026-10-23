@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "7ca4a5f8-42da-4835-beea-28adfcdcd9b8",
+        "string": "<font size=\"3\">Max und Mia sind fasziniert von Maschinen, die Gegenstände ziehen können.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Jetzt wollen sie herausfinden, was Reibung und Zugkraft beeinflussen kann.<br></font><br></div>"
+      },
+      {
+        "refId": "c26bfd76-6230-4965-981d-73d3a083ea27",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"5\">Verwendet die Bausteine:</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">Baut einen Roboter, der Gegenstände ziehen kann.</span></font></div>"
+      },
+      {
+        "refId": "4a32943b-e7c3-4109-0411-69ddec1405b7",
+        "string": "<div><font size=\"5\">Programmieren:</font></div><div><font size=\"3\"><br></font></div><font size=\"3\">Schreibt ein Programm, mit dem sich euer Roboter vorwärts bewegen kann.</font><br>"
+      },
+      {
+        "refId": "a80f85cc-73e4-448c-cf64-88fd43c4dbe8",
+        "string": "<div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&#160;</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font></span></div><div><font size=\"3\"><br></font></div><br><div><span style=\"font-size: 12px; line-height: 17.142858505249px;\"><br></span></div>"
+      },
+      {
+        "refId": "f64ccc3a-e0ae-456f-0c3a-34d8c82d5fdf",
+        "string": "<div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857;\">1. Wie viele kleine Reifen kann der Roboter gleichzeitig ziehen?</span><br></div><div><span style=\"line-height: 1.42857; color: inherit;\"><font size=\"3\">2. Kann der Roboter mehr Reifen gleichzeitig ziehen, wenn ihr&nbsp;</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\">die Reifen im Rahmen aufeinander stapelt?</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\">die Reifen auf den Rahmen legt?</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857; color: inherit;\">3. Wie kann die Zugkraft des Roboters verbessert werden?</span><br></font></div><div><span style=\"line-height: 1.42857; color: inherit;\"><font size=\"3\">4. Kann der Roboter mehr Gewicht ziehen, wenn er Räder mit Gummireifen hat?</font></span><br></div><div><span style=\"color: inherit; font-size: 16px; line-height: 1.42857143;\"><br></span></div><div><span style=\"line-height: 1.42857143;\"><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></span></div><div><font color=\"#ffffff\" size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\">Schreibt eure Vermutungen auf.</span></font></div><div><font color=\"#ffffff\" size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\">Dokumentiert eure Ergebnisse.</span></font></div>"
+      },
+      {
+        "refId": "f372fe9b-0b93-4713-6c63-c3af0d039f20",
+        "string": "<font size=\"5\">Bereitet eure Präsentation vor:<br></font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Beantwortet Max' und Mias Fragen.</font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Vergleicht eure Vermutungen mit euren Testergebnissen.</font></span></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">2. Überarbeitet eure Präsentation.</span><br></font></div><div><font size=\"3\">3. Ihr könnt noch wichtige Informationen, passende Bilder, Videos oder Screenshots einfügen.</font><br></div>"
+      },
+      {
+        "refId": "b7d559d2-36cf-43fa-5944-04bb42e9776b",
+        "string": "<div><font size=\"5\">Präsentiert eure Ergebnisse:</font><br><br></div><font size=\"3\"></font><div><font size=\"3\">Beschreibt mit euren eigenen Worten, was die Reibung bei Gegenständen beeinflussen kann.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beschreibt mit euren eigenen Worten, was die Zugkraft von Robotern beeinflussen kann.</font><br></div>"
+      },
+      {
+        "refId": "60ae3d02-dd75-4370-b8f1-6cb3d9cb3521",
+        "string": "<font size=\"5\">Ergebnisse vorstellen</font>"
+      },
+      {
+        "refId": "38b8cb26-bdee-4e82-9f02-1eba3bab6dee",
+        "string": "<span style=\"line-height: 28px;\"><font size=\"5\">Expertenauftrag</font></span>"
+      },
+      {
+        "refId": "a1a89cfb-4253-45cd-93eb-ea854bd7a0e7",
+        "string": "<div><font size=\"5\">Max und Mia fragen sich:&nbsp;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Wie kann man schwere Gegenstände von der Stelle bewegen?</font></div><div><font size=\"3\">2. Was ist Reibung?</font></div><div><font size=\"3\">3. Was kann die Reibung bei Gegenständen beeinflussen?</font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">4. Was ist Zugkraft?</span><br></font></div><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">5. Wodurch kann die Zugkraft eines Roboters verbessert werden?</span><br></font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Überlegt gemeinsam.&nbsp;<span style=\"color: inherit; line-height: 1.42857;\">Was vermutet ihr?&nbsp;</span></font></div><div><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\">• </font></span><font color=\"#ffffff\">Schreibt eure Überlegungen und Vermutungen auf.</font></font></div>"
+      },
+      {
+        "refId": "c0d8f1eb-6a07-4bb9-150b-4054a1e26cce",
+        "string": "<div><div><div><div><div><font size=\"4\">Wie können Gegenstände bewegt werden?</font></div><div><font size=\"3\">In diesem Projekt werdet ihr:</font></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" style=\"color: rgb(177, 177, 177);\">lernen, was Reibung ist und welche Wirkung sie auf die Bewegung von Gegenständen hat</font><br></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">einen Roboter bauen, mit dem man Gegenstände ziehen kann</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">lernen, was Zugkraft ist und welche Wirkung sie auf Gegenstände hat</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">erkennen, wodurch Zugkraft und ihre Wirkung beeinflusst werden können</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">ein Programm schreiben, mit dem man die Wirkung von Reibung testen kann</font></div><div><font size=\"3\">• eure Ergebnisse dokumentieren und präsentieren</font></div></div></div></div></div>"
+      },
+      {
+        "refId": "6e428793-917f-463d-c56b-3173e7ba7b86",
+        "string": "<div><font size=\"3\"><font size=\"5\">Expertenauftrag:</font><br><br><font size=\"3\">1. Wie müssen der Roboter und der Rahmen gebaut sein, damit am meisten Gewicht gezogen werden kann?&#160;</font></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• </span><span style=\"color: inherit; line-height: 1.42857;\">Schaut euch eure Versuchsergebnisse an.</span><br></font></div><div><span style=\"line-height: 1.42857;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\">Baut euer Modell entsprechend um.</font></span></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font size=\"3\" color=\"#ffffff\"><span style=\"line-height: 1.42857;\">• Beschreibt&#160;</span><span style=\"line-height: 1.42857;\">euer Vorgehen.</span></font></div><div><font size=\"3\" color=\"#ffffff\">• Dokumentiert eure Testergebnisse.</font><font color=\"#ffffff\" size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div>"
+      },
+      {
+        "refId": "d8bbfe49-f54d-41f2-8e17-9bf338754ff8",
+        "string": "1. Zugkraft und Reibung"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5c00a544-2a14-48b1-bfeb-cb02d08f36ff",
+        "string": "1b. 모터 멈춤"
+      },
+      {
+        "refId": "c44b814b-fee7-4150-8e35-d671282234d1",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 1의 출력으로 모터 작동&nbsp;</div><div>3. 1초간 대기&nbsp;</div><div>4. 모터 멈춤</div>"
+      }
+    ]
+  }
+}

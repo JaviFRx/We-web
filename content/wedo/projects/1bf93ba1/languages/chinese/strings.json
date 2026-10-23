@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8b964291-66b5-4b21-a5b5-e2c435ceb0e7",
+        "string": "<div><font size=\"3\">用乐高积木给 Milo（麦乐）科学漫游器搭建一个探测手臂，使其可以在特殊的植物标本前停下。<br></font></div>"
+      },
+      {
+        "refId": "e7bd83ea-ea4d-4df6-7bb5-e33aa0f41f5b",
+        "string": "<div><font size=\"3\">打开智能集线器，并连接上电脑。</font></div><div><font size=\"3\">可以通过观看相应的影音视频来获得帮助。&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">如需更多详细指导，请看帮助。&#160;</font><span style=\"line-height: 1.42857143;\"><font size=\"3\"><br></font></span></div>"
+      },
+      {
+        "refId": "770464a6-c412-4476-6e59-d3e48253ebf5",
+        "string": "<div><font size=\"3\">给 Milo（麦乐）编写程序，使其在探测到植物标本后，可以在植物标本前停下。<br></font></div>"
+      },
+      {
+        "refId": "2672ca79-2091-4dc0-1dd1-3255e6ba0dc4",
+        "string": "<div><font size=\"3\">用视频记录下Milo（麦乐）接触植物标本的时刻。&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\" color=\"#ffffff\">记录下Milo（麦乐）的探索任务。&#160;</font><font size=\"3\" color=\"#ffffff\"><br></font></div>"
+      },
+      {
+        "refId": "71ce5714-01e7-4133-4c28-ae7922f1198e",
+        "string": "<div><span style=\"line-height: 1.42857;\"><font size=\"3\">Max（麦克斯）和Mia（米娅）想要给 Milo（麦乐）安装一个传感器来探测物体。</font></span><br></div>"
+      },
+      {
+        "refId": "863956c8-1edd-4c8d-d871-1dce5e10d313",
+        "string": "通过这个实验，你会：&#160;\n<br><div>利用运动传感器创造一个 Milo（麦乐）探测手臂。 记录下Milo（麦乐）是如何发现特殊的植物标本的。&#160;<div></div></div>"
+      },
+      {
+        "refId": "cddad4d0-e43c-446f-97d0-92cb887a08b8",
+        "string": "B. Milo（麦乐）运动传感器"
+      },
+      {
+        "refId": "8b17409e-1e28-4f6f-b06d-e0c7300be491",
+        "string": "<div><div><div><div><font size=\"3\">通过这个实验，你会：&#160; </font></div><font size=\"3\"><br></font><div><font size=\"3\">• 利用运动传感器创造一个 Milo（麦乐）探测手臂。&#160; </font></div><div><font size=\"3\">• 记录下 Milo（麦乐）是如何发现特殊的植物标本的。&#160;</font><div></div></div></div></div></div>"
+      }
+    ]
+  }
+}

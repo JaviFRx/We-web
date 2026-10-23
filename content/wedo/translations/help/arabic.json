@@ -1,0 +1,700 @@
+{
+  "categories": {
+    "softwareguide": {
+      "title": "",
+      "subcategories": [
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideToolbar",
+              "key": "category_softwareguide_subcategory_toolbar_SoftwareGuideToolbar"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_toolbar"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideProjectLibrary",
+              "key": "category_softwareguide_subcategory_project_SoftwareGuideProjectLibrary"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_project"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideDesignLibrary1",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary1"
+            },
+            {
+              "title": "",
+              "image": "SoftwareGuideDesignLibrary2",
+              "key": "category_softwareguide_subcategory_design_SoftwareGuideDesignLibrary2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_design"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideSoundRecording1",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording1"
+            },
+            {
+              "title": "",
+              "image": "SoftwareGuideSoundRecording2",
+              "key": "category_softwareguide_subcategory_sound_SoftwareGuideSoundRecording2"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_sound"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideCaptureTool",
+              "key": "category_softwareguide_subcategory_capture_SoftwareGuideCaptureTool"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_capture"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideTeacherAssistant",
+              "key": "category_softwareguide_subcategory_teacherassistant_SoftwareGuideTeacherAssistant"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_teacherassistant"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideHelpPanel",
+              "key": "category_softwareguide_subcategory_help_SoftwareGuideHelpPanel"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_help"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "SoftwareGuideDocumentation",
+              "key": "category_softwareguide_subcategory_documentation_SoftwareGuideDocumentation"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_documentation"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "ProjectExport",
+              "key": "category_softwareguide_subcategory_export_ProjectExport"
+            }
+          ],
+          "key": "category_softwareguide_subcategory_export"
+        }
+      ],
+      "key": "category_softwareguide"
+    },
+    "ct": {
+      "title": "",
+      "subcategories": [
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "StartBlock",
+              "key": "category_ct_subcategory_flow_StartBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_ct_subcategory_flow_StartOnKeyPressBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "StartOnMessageBlock",
+              "key": "category_ct_subcategory_flow_StartOnMessageBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "SendMessageBlock",
+              "key": "category_ct_subcategory_flow_SendMessageBlock",
+              "description": ""
+            },
+            {
+              "title": "Wait For",
+              "image": "WaitForBlock",
+              "key": "category_ct_subcategory_flow_WaitForBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "RepeatBlock",
+              "key": "category_ct_subcategory_flow_RepeatBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_flow"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "MotorThisWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThisWayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MotorThatWayBlock",
+              "key": "category_ct_subcategory_motor_MotorThatWayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MotorPowerBlock",
+              "key": "category_ct_subcategory_motor_MotorPowerBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MotorOnForBlock",
+              "key": "category_ct_subcategory_motor_MotorOnForBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MotorOffBlock",
+              "key": "category_ct_subcategory_motor_MotorOffBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_motor"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "LightBlock",
+              "key": "category_ct_subcategory_led_LightBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_led"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "PlaySoundBlock",
+              "key": "category_ct_subcategory_sound_PlaySoundBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_sound"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_ct_subcategory_display_DisplayBackgroundBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayBlock",
+              "key": "category_ct_subcategory_display_DisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "AddtoDisplayBlock",
+              "key": "category_ct_subcategory_display_AddtoDisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_ct_subcategory_display_SubtractfromDisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_ct_subcategory_display_MultiplybyDisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DividebyDisplayBlock",
+              "key": "category_ct_subcategory_display_DividebyDisplayBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayClosedBlock",
+              "key": "category_ct_subcategory_display_DisplayClosedBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayFullsizeBlock",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_ct_subcategory_display_DisplayMediumsizeBlock",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_display"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "AnyDistanceChange",
+              "key": "category_ct_subcategory_sensors_AnyDistanceChange",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DistanceChangeCloser",
+              "key": "category_ct_subcategory_sensors_DistanceChangeCloser",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DistanceChangeFurther",
+              "key": "category_ct_subcategory_sensors_DistanceChangeFurther",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltThatWay",
+              "key": "category_ct_subcategory_sensors_TiltThatWay",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltThisWay",
+              "key": "category_ct_subcategory_sensors_TiltThisWay",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltDown",
+              "key": "category_ct_subcategory_sensors_TiltDown",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltUp",
+              "key": "category_ct_subcategory_sensors_TiltUp",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_sensors_TiltSensorInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "AnyTilt",
+              "key": "category_ct_subcategory_sensors_AnyTilt",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_sensors_SoundSensorInput",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_sensors"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "TiltSensorInput",
+              "key": "category_ct_subcategory_inputs_TiltSensorInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DistanceSensorInput",
+              "key": "category_ct_subcategory_inputs_DistanceSensorInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "SoundSensorInput",
+              "key": "category_ct_subcategory_inputs_SoundSensorInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "NumberInput",
+              "key": "category_ct_subcategory_inputs_NumberInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "TextInput",
+              "key": "category_ct_subcategory_inputs_TextInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "DisplayInput",
+              "key": "category_ct_subcategory_inputs_DisplayInput",
+              "description": ""
+            },
+            {
+              "title": "",
+              "image": "RandomInput",
+              "key": "category_ct_subcategory_inputs_RandomInput",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_inputs"
+        },
+        {
+          "title": "",
+          "elements": [
+            {
+              "title": "",
+              "image": "Bubble",
+              "key": "category_ct_subcategory_documenting_Bubble",
+              "description": ""
+            }
+          ],
+          "key": "category_ct_subcategory_documenting"
+        }
+      ],
+      "key": "category_ct"
+    },
+    "blocks": {
+      "title": "مكعبات البرمجة",
+      "subcategories": [
+        {
+          "title": "قوالب التدفق",
+          "elements": [
+            {
+              "title": "قالب البدء",
+              "image": "StartBlock",
+              "key": "category_blocks_subcategory_flow_StartBlock"
+            },
+            {
+              "title": "قالب البدء بضغطة مفتاح",
+              "image": "StartOnKeyPressBlock",
+              "key": "category_blocks_subcategory_flow_StartOnKeyPressBlock"
+            },
+            {
+              "title": "قالب البدء برسالة",
+              "image": "StartOnMessageBlock",
+              "key": "category_blocks_subcategory_flow_StartOnMessageBlock"
+            },
+            {
+              "title": "قالب تشغيل الصوت",
+              "image": "PlaySoundBlock",
+              "key": "category_blocks_subcategory_flow_PlaySoundBlock"
+            },
+            {
+              "title": "قالب إرسال رسالة",
+              "image": "SendMessageBlock",
+              "key": "category_blocks_subcategory_flow_SendMessageBlock"
+            },
+            {
+              "title": "قالب الانتظار",
+              "image": "WaitForBlock",
+              "key": "category_blocks_subcategory_flow_WaitForBlock"
+            },
+            {
+              "title": "قالب التكرار",
+              "image": "RepeatBlock",
+              "key": "category_blocks_subcategory_flow_RepeatBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_flow"
+        },
+        {
+          "title": "قوالب المحرك",
+          "elements": [
+            {
+              "title": "قالب تشغيل المحرك في هذا الاتجاه",
+              "image": "MotorThisWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThisWayBlock"
+            },
+            {
+              "title": "قالب تشغيل المحرك في ذاك الاتجاه",
+              "image": "MotorThatWayBlock",
+              "key": "category_blocks_subcategory_motor_MotorThatWayBlock"
+            },
+            {
+              "title": "قالب طاقة المحرك",
+              "image": "MotorPowerBlock",
+              "key": "category_blocks_subcategory_motor_MotorPowerBlock"
+            },
+            {
+              "title": "قالب تشغيل المحرك لمدة معينة",
+              "image": "MotorOnForBlock",
+              "key": "category_blocks_subcategory_motor_MotorOnForBlock"
+            },
+            {
+              "title": "قالب إيقاف المحرك",
+              "image": "MotorOffBlock",
+              "key": "category_blocks_subcategory_motor_MotorOffBlock"
+            },
+            {
+              "title": "قالب الإضاءة",
+              "image": "LightBlock",
+              "key": "category_blocks_subcategory_motor_LightBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_motor"
+        },
+        {
+          "title": "قوالب إدخالات المستشعرات",
+          "elements": [
+            {
+              "title": "دخل مستشعر المسافة",
+              "image": "DistanceSensorInput",
+              "key": "category_blocks_subcategory_sensors_DistanceSensorInput"
+            },
+            {
+              "title": "تغير المسافة للأقرب",
+              "image": "DistanceChangeCloser",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeCloser"
+            },
+            {
+              "title": "تغير المسافة للأبعد",
+              "image": "DistanceChangeFurther",
+              "key": "category_blocks_subcategory_sensors_DistanceChangeFurther"
+            },
+            {
+              "title": "أي تغيير في المسافة",
+              "image": "AnyDistanceChange",
+              "key": "category_blocks_subcategory_sensors_AnyDistanceChange"
+            },
+            {
+              "title": "دخل مستشعر الإمالة",
+              "image": "TiltSensorInput",
+              "key": "category_blocks_subcategory_sensors_TiltSensorInput"
+            },
+            {
+              "title": "إمالة لأعلى",
+              "image": "TiltUp",
+              "key": "category_blocks_subcategory_sensors_TiltUp"
+            },
+            {
+              "title": "إمالة لأسفل",
+              "image": "TiltDown",
+              "key": "category_blocks_subcategory_sensors_TiltDown"
+            },
+            {
+              "title": "إمالة في هذا الاتجاه",
+              "image": "TiltThisWay",
+              "key": "category_blocks_subcategory_sensors_TiltThisWay"
+            },
+            {
+              "title": "إمالة في ذاك الاتجاه",
+              "image": "TiltThatWay",
+              "key": "category_blocks_subcategory_sensors_TiltThatWay"
+            },
+            {
+              "title": "أي إمالة",
+              "image": "AnyTilt",
+              "key": "category_blocks_subcategory_sensors_AnyTilt"
+            }
+          ],
+          "key": "category_blocks_subcategory_sensors"
+        },
+        {
+          "title": "قوالب إدخالات الجهاز",
+          "elements": [
+            {
+              "title": "إدخال نص",
+              "image": "TextInput",
+              "key": "category_blocks_subcategory_inputs_TextInput"
+            },
+            {
+              "title": "إدخال رقم",
+              "image": "NumberInput",
+              "key": "category_blocks_subcategory_inputs_NumberInput"
+            },
+            {
+              "title": "إدخال عشوائي",
+              "image": "RandomInput",
+              "key": "category_blocks_subcategory_inputs_RandomInput"
+            },
+            {
+              "title": "دخل مستشعر الصوت",
+              "image": "SoundSensorInput",
+              "key": "category_blocks_subcategory_inputs_SoundSensorInput"
+            },
+            {
+              "title": "إدخال العرض",
+              "image": "DisplayInput",
+              "key": "category_blocks_subcategory_inputs_DisplayInput"
+            }
+          ],
+          "key": "category_blocks_subcategory_inputs"
+        },
+        {
+          "title": "قوالب العرض",
+          "elements": [
+            {
+              "title": "قالب العرض",
+              "image": "DisplayBlock",
+              "key": "category_blocks_subcategory_data_DisplayBlock"
+            },
+            {
+              "title": "قالب إضافة للقيمة المعروضة",
+              "image": "AddtoDisplayBlock",
+              "key": "category_blocks_subcategory_data_AddtoDisplayBlock"
+            },
+            {
+              "title": "قالب طرح من القيمة المعروضة",
+              "image": "SubtractfromDisplayBlock",
+              "key": "category_blocks_subcategory_data_SubtractfromDisplayBlock"
+            },
+            {
+              "title": "قالب الضرب في القيمة المعروضة",
+              "image": "MultiplybyDisplayBlock",
+              "key": "category_blocks_subcategory_data_MultiplybyDisplayBlock"
+            },
+            {
+              "title": "قالب القسمة على القيمة المعروضة",
+              "image": "DividebyDisplayBlock",
+              "key": "category_blocks_subcategory_data_DividebyDisplayBlock"
+            },
+            {
+              "title": "قالب عرض الخلفية",
+              "image": "DisplayBackgroundBlock",
+              "key": "category_blocks_subcategory_data_DisplayBackgroundBlock"
+            },
+            {
+              "title": "قالب غلق العرض",
+              "image": "DisplayClosedBlock",
+              "key": "category_blocks_subcategory_data_DisplayClosedBlock"
+            },
+            {
+              "title": "قالب عرض متوسط الحجم",
+              "image": "DisplayMediumsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayMediumsizeBlock"
+            },
+            {
+              "title": "قالب عرض كامل الحجم",
+              "image": "DisplayFullsizeBlock",
+              "key": "category_blocks_subcategory_data_DisplayFullsizeBlock"
+            }
+          ],
+          "key": "category_blocks_subcategory_data"
+        },
+        {
+          "title": "قوالب أخرى",
+          "elements": [
+            {
+              "title": "فقاعة",
+              "image": "Bubble",
+              "key": "category_blocks_subcategory_others_Bubble"
+            }
+          ],
+          "key": "category_blocks_subcategory_others"
+        }
+      ],
+      "key": "category_blocks"
+    },
+    "connections": {
+      "title": "عملية الاتصال",
+      "subcategories": [
+        {
+          "title": "iOS, Mac OS & Android",
+          "elements": [],
+          "key": "category_connections_subcategory_ios_mac_android"
+        },
+        {
+          "title": "Windows 7",
+          "elements": [
+            {
+              "title": "",
+              "image": "text",
+              "key": "category_connections_subcategory_windows7_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows7"
+        },
+        {
+          "title": "Windows 8",
+          "elements": [
+            {
+              "title": "<p>يستخدم موزع WeDo 2.0 الذكي 2 i/o ميزة الطاقة المنخفضة Bluetooth 4.0.</p> <p>عند الاستخدام الأول لموزع WeDo 2.0 الذكي، يتعيّن عليك \"إقرانه\" بجهازك كي يتعرف كلا الجهازين على كيفية الاتصال بشكل آمن ببعضهما البعض. بعد ذلك، يتصل الجهازان تلقائياً.</p> <p>ملاحظة: إذا كنت تستخدم جهازاً لوحياً مع عدة مستخدمين، فيمكن لكل مستخدم تغيير إعدادات Bluetooth العامة.</p> <p>Windows 8.1: كيفية إقران موزع WeDo 2.0 الذكي بجهاز كمبيوتر، بنظام Windows 8.1:</p> <ol> <li>اذهب إلى \"ابدأ\" وانقر فوق \"الأجهزة والطابعات\"</li> <li>في نافذة \"الأجهزة والطابعات\"، انقر فوق \"إضافة جهاز\"</li> <li>شغّل موزع WeDo 2.0 الذكي بالضغط على زر الضوء الأزرق</li> <li>يظهر موزع WeDo 2.0 الذكي فوراً في قائمة الأجهزة المتاحة<br> في حالة عدم اكتشاف الموزع الذكي: <ol> <li>4.1 تأكد أن جهاز الكمبيوتر متوافق مع تقنية Bluetooth 4.0، وذلك عبر موقع إنترنت جهة تصنيع جهاز الكمبيوتر أو وثائق جهاز الكمبيوتر.</li> <li>4.2 احذف كل موزعات WeDo 2.0 الذكية التي تمت مقارنتها قبل ذلك من قائمة الجهاز وأبدأ مرة أخرى من الخطوة 2.</li> </ol> </li> <li>حدد موزع WeDo 2.0 الذكي ثمّ اضغط على \"التالي\";/li> <li>إذا طُلب منك بعدئذ إدخال رمز، فالرمز هو 0000</li> <li>وبذلك يكون موزع WeDo 2.0 الذكي قد تم توصيله بجهاز الكمبيوتر، ولاستخدامه في التطبيق اتبع التعليمات الواردة بفيديو التوصيل.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows8_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows8"
+        },
+        {
+          "title": "Windows 10",
+          "elements": [
+            {
+              "title": "<ol> <li>شغّل WeDo 2.0 وافتح نافذة الاتصال.</li> <li>اضغط الزر الأخضر على موزع WeDo 2.0 الذكي.</li> <li>انقر/اضغط اسم الموزع الذكي المطلوب للاتصال به. في حالة عدم اكتشاف الموزع الذكي:</li> <ol> <li>تحقق من توافق جهاز الكمبيوتر مع Bluetooth 4.0 (يُعرف أيضًا ببلوتوث منخفض الطاقة أو بلوتوث الذكي)، بالرجوع إلى موقع الجهة المصنعة أو الوثائق المرفقة مع جهاز الكمبيوتر.</li> <li>انتقل إلى قائمة Start (ابدأ)، وحدد “الإعدادات” (رمز الترس)، ثم “Devices” (الأجهزة) و“Bluetooth” (بلوتوث). وبعد ذلك احذف كل موزعات WeDo 2.0 المقترنة مسبقًا (غير متصلة حاليًا) عبر تحديدها في قائمة الجهاز والضغط على “Remove device” (إزالة جهاز).</li> <li>ارجع إلى تطبيق  WeDo 2.0 وكرر عملية الاتصال من الخطوة 2 الواردة أعلاه.</li> </ol> <li>حدد موزع WeDo 2.0 الذكي في قائمة الأجهزة المتاحة.</li> <li>إذا طُلب منك إقران الموزع الذكي، فأكد ذلك بالنقر فوق زر “Allow” (سماح) ثم “Close” (إغلاق).</li> </ol> <p><b>اتبع التعليمات المعروضة على الشاشة إذا فشل الإقران على نظام التشغيل Windows 10</b></p> <ol> <li>اضغط على الزر الأخضر مرة أخرى إذا طُلب منك فعل ذلك.</li> <li>إذا فشل الإقران مرة أخرى، انقر فوق “Retry” (إعادة المحاولة). حاول إقران الموزع الذكي مرة أخرى، إما بقبول مربع حوار الإقران (إن ظهر) أو بتكرار عملية الإقران من الخطوة 2 أعلاه.</li> <li>عند إقران الموزع الذكي بنجاح، يظهر متصلاً في مركز الاتصال.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_windows10_text"
+            }
+          ],
+          "key": "category_connections_subcategory_windows10"
+        },
+        {
+          "title": "Chrome OS",
+          "elements": [
+            {
+              "title": "<ol> <li>Open the Connection Center.</li> <li>Press the green button on the WeDo 2.0 Smarthub until its name appears in the connection window.</li> <li>Click on the specific Smarthub name to connect.</li> </ol>",
+              "image": "text",
+              "key": "category_connections_subcategory_chromeos_text"
+            }
+          ],
+          "key": "category_connections_subcategory_chromeos"
+        }
+      ],
+      "key": "category_connections"
+    }
+  }
+}

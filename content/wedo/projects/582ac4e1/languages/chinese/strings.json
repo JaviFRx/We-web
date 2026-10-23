@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "648bb7ba-7a81-4642-8b0f-16347e03f869",
+        "string": "移动的卫星"
+      },
+      {
+        "refId": "8dd4f21b-909e-49a7-445b-6b9bb168c84a",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">在本课程中，你将学习：<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">搭建乐高® 模型</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">连接模型和你的设备</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• 对马达</span><span style=\"line-height: 1.42857;\">编程，让其转动一定时间</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• 对马达编程，使其转向另一边</font></span></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "ca4cf7d2-1fe3-409b-85d6-08a09992eb1b",
+        "string": "<font size=\"3\">麦克斯和米娅都听新闻。他们听说卫星由科学家控制。</font><div><font size=\"3\"><span style=\"line-height: 1.42857;\">有时卫星需要移动来躲避流星。</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">他们想搭建自己的卫星。</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\"><br></span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">快来帮助麦克斯和米娅！</span></font><br></div>"
+      },
+      {
+        "refId": "ac41c9f2-215f-4886-28dc-dc0d26d39d34",
+        "string": "<font size=\"3\">让卫星转动 3 秒。<br><br>1.按照图里的样子编程。</font><div><font size=\"3\"><br>2.互相说明卫星是怎样运作的。</font><br></div>"
+      },
+      {
+        "refId": "e28b9207-e755-4ccb-e020-4610b889d424",
+        "string": "<font size=\"3\">继续帮助麦克斯和米娅（可选）：</font><div><font size=\"3\"><br></font><div><font size=\"3\">1.让卫星向另一个方向转更长时间。</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2.对卫星编程，看看它还能做些什么。</font><br></div></div>"
+      },
+      {
+        "refId": "c06dabca-41bc-4d60-0ccf-55d5230c6ec5",
+        "string": "<font size=\"3\">打开智能集线器，连接你的设备。</font><br>"
+      }
+    ]
+  }
+}

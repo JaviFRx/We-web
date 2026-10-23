@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "890df1fa-1e05-4000-b753-06bc94e9f51c",
+        "string": "8b. Primeiro sensor a detectar"
+      },
+      {
+        "refId": "040c8b7d-25ae-417c-e713-13e45aa0a5f5",
+        "string": "1. Iniciar programa na letra “A”&#160;<div>2. Esperar que o Sensor de Movimento detecte movimentos&#160;</div><div>3. Iniciar motor em 2 segundos&#160;\n</div><br><div>4. Iniciar programa na letra “A”&#160;</div><div>5. Esperar que o Sensor de Som detecte sons&#160;</div><div>6. Reproduzir som 1</div>"
+      }
+    ]
+  }
+}

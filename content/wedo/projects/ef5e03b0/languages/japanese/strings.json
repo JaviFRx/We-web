@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "386f1b09-5068-4e7d-8049-aca38d9cce0b",
+        "string": "19.メッセージの送信"
+      },
+      {
+        "refId": "4e13b309-d018-4f5a-fffb-5f799f2bfb5e",
+        "string": "<div><font size=\"5\">情報を伝える際どのようにパターンを利用できるでしょうか？</font></div><br><div>このプロジェクトの内容：&nbsp;</div><div>- メッセージを別の場所へ伝達する方法を調べる&nbsp;</div><div>- コードを使ってメッセージの送信用コントローラーを作成、プログラミングする&nbsp;</div><div>- プログラムをテストして、情報を交換する新たな方法を考案する&nbsp;</div><div>- このプロジェクトを成功させるためのプログラムとアイデアを共有する</div>"
+      },
+      {
+        "refId": "bda862d1-cad7-46e7-04ff-b1d748ed9b9a",
+        "string": "マックスとミアはコードを使って情報を伝達したいと思っています。&nbsp;<div><br><div>メッセージの送信用コントローラーの作成を手伝ってください。</div></div>"
+      },
+      {
+        "refId": "7dac5021-82f4-4666-b7ce-a044fc340fbb",
+        "string": "<font size=\"5\">マックスとミアと一緒に次の質問について考えましょう。</font><div><span style=\"font-size: 20px;\"><br></span><div>1.メッセージを別の場所へ送信する方法にはどのようなものがありますか？&nbsp;</div><div><font color=\"#ffffff\">2.メッセージを信号に転換、変化させる方法にはどのようなものがありますか？</font></div></div>"
+      },
+      {
+        "refId": "c0bb2ea3-15ea-449a-4fda-9c01c1a77414",
+        "string": "<font size=\"5\">ブロックを使う：</font><div><br><div>信号送信用のコントローラーを組み立てます。&nbsp;</div><br><div>位置によって短音と長音が出るようにコントローラーをプログラミングします。</div></div>"
+      },
+      {
+        "refId": "030b70ca-ad0c-40de-a349-2e3154cf4b70",
+        "string": "1.「A」キーをタップしてプログラムをスタートさせる&nbsp;<div>2.チルトセンサーが上方向のかたむきを検出するのを待つ&nbsp;</div><div>3.サウンド21を再生する&nbsp;</div><div>4.チルトセンサーが「かたむきなし」を検出するのを待つ&nbsp;</div><div>5.ステップ2～4をずっと繰り返す&nbsp;</div><br><div>6.「A」キーをタップしてプログラムをスタートさせる&nbsp;</div><div>7.チルトセンサーが下方向のかたむきを検出するのを待つ&nbsp;</div><div>8.サウンド22を再生する&nbsp;</div><div>9.チルトセンサーが「かたむきなし」を検出するのを待つ&nbsp;</div><div>10.ステップ7～9をずっと繰り返す</div>"
+      },
+      {
+        "refId": "d5e2f867-55d7-4bcf-10b4-889c9c64dcab",
+        "string": "<font size=\"5\">解決策のプランとテスト：</font><div><span style=\"font-size: 20px;\"><br></span><div>短音と長音をコードとして使いながら、メッセージ送信用コントローラーをプログラムしましょう。&nbsp;</div><br><div>例示：&nbsp;</div><div>-モールス信号を使って 「Max」か「Mia」と送信してみましょう。</div></div>"
+      },
+      {
+        "refId": "425cc7a0-69a6-499f-c11f-3f17a17c6ff8",
+        "string": "<font size=\"5\">解決策を試し、修正する：</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">自作の信号システムでメッセージをプログラミングします。</font></div></div>"
+      },
+      {
+        "refId": "36fcc814-8236-4957-0fa2-bd3e42dfe46e",
+        "string": "<font size=\"5\">新解決策のデザイン</font><div><font size=\"5\">マックスとミアもいっしょです</font></div>"
+      },
+      {
+        "refId": "138add23-39e9-4e1f-5532-f74ae72932cc",
+        "string": "<font size=\"5\">プロジェクトの発表</font>"
+      },
+      {
+        "refId": "86f0993b-c1a9-4f8e-1346-c395c349c0ef",
+        "string": "<font size=\"5\">新解決策のデザイン：</font><div><br><div>無線でメッセージの送受信をするには、アンテナかサテライトが必要です。&nbsp;\n\n</div><br><div>メッセージ送受信用アンテナのモデルを組み立てて、プログラミングします。&nbsp;</div></div>"
+      },
+      {
+        "refId": "0684c9fc-c315-4c18-0a3d-c501973e1dbb",
+        "string": "<font size=\"5\">情報の整理：</font><div><br><div>例示：&nbsp;</div><div><font color=\"#ffffff\">- プログラムの最終版のスクリーンキャプチャを撮ります。</font></div><div><font color=\"#ffffff\">- 解決策の説明ビデオを録画します。</font></div></div>"
+      },
+      {
+        "refId": "149276a8-05bb-4b5d-4c50-be9bd35f5c50",
+        "string": "<font size=\"5\">結果の共有：</font><div><br><div>解決策を発表し、説明します。</div></div>"
+      },
+      {
+        "refId": "af3b93ec-567c-4029-1cc0-eb2e876cbaef",
+        "string": "スマートハブの電源を入れ、デバイスに接続します。やり方がわからない場合は、ビデオを見てください。&nbsp;<div><br><div>ヒントが必要な場合はヘルプパネルを見てください。</div></div>"
+      }
+    ]
+  }
+}

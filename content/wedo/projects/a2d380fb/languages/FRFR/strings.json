@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Activez le Smarthub et connectez-le à votre dispositif.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Regardez la vidéo si vous avez besoin d’aide. Consultez le panneau d’aide pour obtenir plus de conseils.</font></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<font size=\"3\">Programmez vos sondes pour apporter l’échantillon de plante à sa destination finale.</font>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"5\">Terminez votre document&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">• Insérez une photo de Milo.</font></div><div><font size=\"3\">• Faites une capture d’écran d’un programme.</font></div><div><font size=\"3\">• Insérez d’autres informations que vous trouvez importantes.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Partagez votre document final.</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><br>"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">Partagez vos découvertes&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Expliquez comment vous avez réussi à transporter l’échantillon de plante.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<font size=\"5\">Utilisez les briques&#160;:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Créez un dispositif de collaboration avec le Milo d’une autre équipe pour déplacer l’échantillon de plante.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">Max et Mia ont découvert que l’échantillon de plante est trop lourd pour que Milo le déplace seul.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<font size=\"3\">Dans ce projet, vous allez&#160;:</font><br><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">Créer et programmer un dispositif pour déplacer l’échantillon de plante.</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\"><font size=\"3\">Documenter et présenter les résultats généraux de la mission de Milo.</font></span></div>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. Collaboration entre astromobiles"
+      }
+    ]
+  }
+}

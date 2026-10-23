@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="wedo" ng-controller="MainController as mainCtrl">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./build/css/base.css">
+    <link rel="stylesheet" href="./build/css/mediaPreview.css">
+    <link rel="stylesheet" href="./build/css/viewer.css">
+    <link rel="stylesheet" href="./build/css/sdt.css">
+    <link rel="stylesheet" href="./wind/windesktop_styling.css">
+
+    <script src="./bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="./bower_components/fastclick/lib/fastclick.js"></script>
+    <script src="./bower_components/hammerjs/hammer.min.js"></script>
+    <script src="./bower_components/angular/angular.js"></script>
+    <script src="./bower_components/angular-route/angular-route.min.js"></script>
+    <script src="./bower_components/angular-debounce/dist/angular-debounce.min.js"></script>
+    <script src="./bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
+    <script src="./bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="./bower_components/angular-touch/angular-touch.min.js"></script>
+    <script src="./bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+    <script src="./bower_components/angular-animate/angular-animate.min.js"></script>
+    <script src="./bower_components/ryanmullins-angular-hammer/angular.hammer.min.js"></script>
+    <script src="./bower_components/html2canvas/dist/html2canvas.min.js"></script>
+
+    <script src="./build/config.js"></script>
+
+    <script src="./build/js/build.min.js"></script>
+  </head>
+  <body ng-class="mainCtrl.body_classes" no-modal-scroll>
+    <input id="editableFix" disabled style="width: 1px;height: 1px;border:none;margin:0;padding:0;display: inline;position: absolute;" tabIndex="-1">
+    <div ng-view class="base-frame"></div>
+  </body>
+</html>

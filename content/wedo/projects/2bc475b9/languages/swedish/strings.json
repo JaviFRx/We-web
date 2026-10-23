@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c6a54dc3-411e-4018-9b60-72c57ed0d493",
+        "string": "Spionrobot"
+      },
+      {
+        "refId": "f2b4a35f-6f97-469d-8fcb-6857c6f17e42",
+        "string": "<div><div><div><div><div><div><font size=\"3\">I den här lektionen lär du dig att:<br><br></font><div><font size=\"3\">•&nbsp;<span style=\"line-height: 1.42857;\">Bygga en LEGO® modell.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Ansluta modellen till din enhet.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programmera</span><span style=\"line-height: 1.42857;\">&nbsp;rörelsesensorn så att den upptäcker rörelser.</span></font></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "6d3ee950-3e6d-4e10-65c0-76686cae6757",
+        "string": "<font size=\"3\">Max och Mia vill ha ett överraskningskalas för en vän. De vet inte exakt när vännen kommer.</font><div><font size=\"3\">Därför behöver de något som kan förvarna.</font></div><font size=\"3\"><br></font><div><font size=\"3\">De vill bygga en spionrobot.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max och Mia behöver din hjälp! </font></div>"
+      },
+      {
+        "refId": "21bc0e99-2506-4909-bb7f-7259abd3a61f",
+        "string": "<font size=\"3\">Få roboten att spela upp ett ljud när den upptäcker rörelse.<br><br>1. Skapa det här programmet.</font><div><font size=\"3\"><br>2. Förklara för varandra hur roboten fungerar.</font><br></div>"
+      },
+      {
+        "refId": "0a970496-ff5e-46fa-a395-26bd80372c4a",
+        "string": "<font size=\"3\">Ge Max och Mia mer hjälp (valfritt):&#160;<br><br></font><div><font size=\"3\">1. Spela in ett eget ljud och få roboten att spela upp det.</font></div><font size=\"3\"><br></font><div><font size=\"3\">2. Programmera roboten, så att den beter sig på andra sätt.&#160;</span></div></div>"
+      },
+      {
+        "refId": "804a7a45-8af1-4bb3-fb47-9601ff8f12b6",
+        "string": "<font size=\"3\">Starta smarthubben och anslut den till din enhet.</font>"
+      }
+    ]
+  }
+}

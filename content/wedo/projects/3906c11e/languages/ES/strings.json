@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "f9933dd0-9894-4715-a528-ed97522af267",
+        "string": "8a. Iniciar dos cadenas"
+      },
+      {
+        "refId": "9263d666-3518-49c8-d4c4-0ae14f50c296",
+        "string": "1. Iniciar programa por la letra \"Y\"&nbsp;<div>2. Iniciar el motor durante 2 segundos&nbsp;\n</div><br><div>3. Iniciar programa por la letra \"Y\"&nbsp;</div><div>4. Reproducir sonido 1</div>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "b2c7868b-18d4-4293-9ee3-61727ee611cc",
+        "string": "24. Perception chez l’animal"
+      },
+      {
+        "refId": "9431f876-e3ce-45ae-43c5-524860c4f0bb",
+        "string": "<div><div><font size=\"5\">Comment les animaux interagissent-ils avec leur environnement&nbsp;?&nbsp;</font></div><br><div>Dans ce projet, vous allez&nbsp;:&nbsp;</div><div>- Explorer la manière dont les animaux utilisent leurs sens pour recevoir différents types d’information&nbsp;</div><div>- Créer et programmer un animal robot en vous concentrant sur ses sens&nbsp;</div><div>- Tester votre programme et montrer comment les animaux interagissent avec différents stimuli&nbsp;</div><div>- Partager votre programme et vos idées</div></div>"
+      },
+      {
+        "refId": "4e4564f4-7246-473a-273d-88e0e8dd2a13",
+        "string": "<div style=\"text-align: center;\">Inspirez-vous des modèles de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</div>"
+      },
+      {
+        "refId": "0852da6c-6822-462c-426b-8b127c7b15b1",
+        "string": "<div style=\"text-align: center;\">Inspirez-vous des programmes de base de la bibliothèque de conception afin de construire votre propre solution pour ce projet.</div>"
+      }
+    ]
+  }
+}

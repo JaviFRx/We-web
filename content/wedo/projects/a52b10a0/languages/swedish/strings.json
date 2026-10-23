@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9e65c6fa-06ff-4f25-004c-2b52095132b9",
+        "string": "<font size=\"3\">Låt dig inspireras av grundmodellerna i designbiblioteket när du bygger egna lösningar i det här projektet.</font>"
+      },
+      {
+        "refId": "631d88f2-1f40-4132-93ef-eff815427061",
+        "string": "<div><font size=\"4\">Varför kan det bli lättare att flytta föremål om man staplar dem på varandra?</font><font size=\"3\"><br></font></div><div><font size=\"3\">I det här projektet kommer du att:</font><br><br><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Undersöka olika sätt att transportera och samla ihop olika typer av material.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Bygga och programmera en enhet som hjälper dig att på ett säkert och effektivt sätt transportera och/eller samla ihop föremål av olika storlekar.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\" color=\"#000000\">Presentera och dokumentera din enhet, och förklara hur den har utformats för att fungera säkert och effektivt.</font></div></div>"
+      },
+      {
+        "refId": "2234b1b9-b742-4797-ac32-aec12e6eff38",
+        "string": "16. Förflyttning av föremål"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "89f2d386-1be5-434d-b520-0c32c9d97d5c",
+        "string": "9. 开启消息和发送消息"
+      },
+      {
+        "refId": "58f3d022-211b-47fa-a536-8502ab37a774",
+        "string": "1. 启动程序&nbsp;<div>2. 发送信息“abc”&nbsp;</div><br><div>3. 接收到消息“abc”时启动&nbsp;</div><div>4. 在显示屏上显示图像 3</div>"
+      },
+      {
+        "refId": "c5c768f3-c584-4629-e335-16341214eabd",
+        "string": "1. 启动程序&nbsp;<div>2. 发送信息“abc”&nbsp;</div><br><div>3. 接收到消息“abc”时启动&nbsp;</div><div>4. 在显示屏上显示图像 3&nbsp;</div><br><div>5. 接收到消息“xyz”时启动&nbsp;</div><div>6. 播放声音 6&nbsp;</div>"
+      },
+      {
+        "refId": "b5bcf16d-c5cc-4746-f11a-0b8ba81ed458",
+        "string": "LEGO 模型无需测试此程序。"
+      }
+    ]
+  }
+}

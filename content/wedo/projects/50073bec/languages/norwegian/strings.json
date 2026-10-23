@@ -1,0 +1,30 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "00373f71-0a87-45ce-a346-7018e0ce3917",
+        "string": "Glødende snegle"
+      },
+      {
+        "refId": "ac5ed85b-0885-442a-b040-4dd76cdfd73c",
+        "string": "<font size=\"3\">Få sneglen til å blinke grønt.<br><br></font><font size=\"3\">1. Bygg programmet som vises.</font><br><br><div><div><font size=\"3\">2. Forklar for hverandre hvordan sneglen fungerer.</font><br></div></div>"
+      },
+      {
+        "refId": "01bb1b91-7ec8-4318-c807-eaa10e35d953",
+        "string": "<font size=\"3\">Hjelp Max og Mia videre (valgfritt):</font><div><font size=\"3\"><br></font><div><font size=\"3\">1. Få lyset til å blinke flere ganger.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">2. Programmer sneglen slik at den gjør andre ting.</font><br></div></div>"
+      },
+      {
+        "refId": "17924886-d410-492d-0301-b8d31d7d0c8f",
+        "string": "<font size=\"3\">Max og Mia besøker et <font color=\"#000000\">akvarium</font>. De ser en sjelden snegle.</font><div><font size=\"3\">Sneglen blinker grønt for å kommunisere.</font></div><font size=\"3\"><br></font><div><font size=\"3\">De ønsker å bygge en modell av sneglen.&#160;</font></div><font size=\"3\"><br></font><div><font size=\"3\">Max og Mia trenger din hjelp!&#160;</font></div>"
+      },
+      {
+        "refId": "f80bd6e0-d87d-46ed-8c39-f4fb0c6d683c",
+        "string": "<div><div><div><div><div><div><div><font size=\"3\">I denne leksjonen kommer du til å lære å:<br><br></font><div><font size=\"3\">•&nbsp;Bygge en LEGO® modell.</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857;\">Koble modellen til enheten.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Programmere</span><span style=\"line-height: 1.42857;\">&nbsp;sneglen slik at den blinker.</span></font></div></div></div></div></div></div></div></div>"
+      },
+      {
+        "refId": "4ffadaa2-539c-4d12-8cc4-4dc428f2d961",
+        "string": "<font size=\"3\">Slå på Smarthub, og koble den til enheten din.</font><br><br>"
+      }
+    ]
+  }
+}

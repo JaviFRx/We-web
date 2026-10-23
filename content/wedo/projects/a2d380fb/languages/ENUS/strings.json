@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Turn on the Smarthub and connect it to your device.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Watch the video if you need help. See the Help panel for more guidance.</font></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<font size=\"3\">Program your probes to carry the plant specimen to the final destination.</font>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"5\">Finalize your document:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">• Insert a picture of Milo.</font></div><div><font size=\"3\">• Insert a screen capture of one program.</font></div><div><font size=\"3\">• Insert other information you think is important.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Share your final document.</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><br>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<font size=\"5\">Use the bricks:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Create a collaboration device with another Milo from another team to move the plant sample.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">Max and Mia found out that the plant sample was too heavy for Milo to move alone.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<font size=\"3\">In this project, you will:</font><br><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><font size=\"3\">Create and program a device to move the plant sample.</font></div><div><span style=\"line-height: 1.42857143;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\"><font size=\"3\">Document and present how Milo's mission went overall.</font></span></div>"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">Share your findings:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Explain how you succeed in carrying the plant specimen.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. Collaborating"
+      }
+    ]
+  }
+}

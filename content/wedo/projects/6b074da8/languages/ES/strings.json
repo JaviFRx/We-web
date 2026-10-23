@@ -1,0 +1,22 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c0163cd5-2132-4dc3-bed1-0dd1a46fbb6c",
+        "string": "14. Bucle"
+      },
+      {
+        "refId": "ebd3a045-0318-491b-ce0c-2ee51f5580d8",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Reproducir sonido 1&nbsp;</div><div>3. Repetir el paso 2 para siempre</div>"
+      },
+      {
+        "refId": "6aa083e3-07c5-47db-8116-ecc93be288cd",
+        "string": "1. Iniciar el programa&nbsp;<div>2. Reproducir sonido 3&nbsp;</div><div>3. Repetir paso 2, 3 veces</div>"
+      },
+      {
+        "refId": "7714ede6-7b16-4a4b-777e-4e8e62d9a844",
+        "string": "No se requieren modelos LEGO para probar este programa."
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d2fe1f0a-4c58-4e65-abac-0b4771bd9050",
+        "string": "<font size=\"3\">Max und Mia sind fasziniert von automatischen Türen und Toren.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Jetzt wollen sie herausfinden, wie man mit einer Maschine Türen oder Tore öffnen und schließen kann.</font><br></div>"
+      },
+      {
+        "refId": "ea0394cb-b19b-4db8-fbba-4251ea0fbeb0",
+        "string": "<font size=\"5\">Max und Mia fragen sich:&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">1. Wie kann eine Maschine Türen oder Tore automatisch öffnen und schließen?&#160;</font></div><div><font size=\"3\">2. Wo habt ihr schon einmal automatische Türen und Tore gesehen?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\">Überlegt gemeinsam. Was vermutet ihr?&#160;</font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><font color=\"#ffffff\" size=\"3\">• Schreibt eure Ideen und ersten Lösungsvorschläge auf.</font></div>"
+      },
+      {
+        "refId": "2197be86-8ad1-4003-8e41-e5fd27d86e16",
+        "string": "<div><font size=\"5\">Verwendet die Bausteine:</font><font size=\"3\"><br></font></div><font size=\"3\"><div><font size=\"3\"><br></font></div><font size=\"3\">Baut eine Tür, die sich automatisch öffnen und schließen kann.</font></font><br>"
+      },
+      {
+        "refId": "41ebc93d-3858-47d2-26d6-566481a77786",
+        "string": "<div><font size=\"5\">Programmieren:</font></div><div><font size=\"3\"><br></font></div><font size=\"3\">Schreibt ein Programm, mit dem sich eure Tür öffnet und wieder schließt.</font>"
+      },
+      {
+        "refId": "1356f80e-6f55-458c-dad9-77a9dcd3b595",
+        "string": "<div><font size=\"5\">Entwickelt einen Auslöser für die automatische Tür.</font></div><br><div><font size=\"3\">1. Wie könnt ihr mit den Sensoren einen Türöffner bauen?</font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">Benutzt folgende Sens</span><span style=\"line-height: 1.42857;\">oren:</span></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Bewegungssensor</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Neigungssensor</font></span></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">• Geräuschsensor</font></span></div><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\">Nutzt die Funktionen der Sensoren und entwickelt verschiedene Lösungen.</font></span></div><div><span style=\"line-height: 1.42857;\"><br></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></span></div><div><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\">• Beschreibt euren Entwicklungsprozess.</font></span></div><div><font size=\"3\" color=\"#ffffff\">• Dokumentiert eure fertigen Lösungen.</font><span style=\"line-height: 1.42857;\"><font color=\"#ffffff\" size=\"3\"><br></font></span></div>"
+      },
+      {
+        "refId": "38b4ad1e-a67d-4e75-18c1-a893a7f9715e",
+        "string": "<font size=\"5\">Bereitet eure Präsentation vor:</font><br><br><div><font size=\"3\">1. Beantwortet Max' und Mias Fragen.</font></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">2. Vergleicht eure automatischen Türen miteinander.</font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">• Beschreibt d</span><span style=\"line-height: 1.42857143;\">ie Funktion der Sensoren.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&nbsp;</span><span style=\"line-height: 1.42857143;\">Wie habt ihr die Funktion verbessert?</span></font></div><div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">3. Überarbeitet eure Dokumentation.</font></span></div><div><span style=\"line-height: 1.42857143;\"><font size=\"3\">4. Ihr könnt noch wichtige Informationen, passende Bilder, Videos oder Screenshots einfügen.</font></span></div></div>"
+      },
+      {
+        "refId": "8b0104d1-5e0c-4b27-6cb9-7e981339fb52",
+        "string": "<font size=\"5\">Präsentiert eure Ergebnisse:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Beschreibt mit euren eigenen Worten, wie automatische Türen und Tore sich öffnen und schließen können.</font><br></div>"
+      },
+      {
+        "refId": "3fdf9d57-76f4-4002-34e8-2bb96e0c9d2f",
+        "string": "<font size=\"5\">Dokumentation</font>"
+      },
+      {
+        "refId": "e2bbbfa7-4222-4eb5-b525-34a4a84eb3ff",
+        "string": "<span style=\"line-height: 28px;\"><font size=\"5\">Expertenauftrag</font></span>"
+      },
+      {
+        "refId": "940fe7c5-9d61-4657-a7da-d79447c5eff5",
+        "string": "<div><div><div><font size=\"4\">Wie können Türen oder Tore automatisch geöffnet und geschlossen werden?</font><div><font size=\"3\"><span style=\"color: inherit; line-height: 1.42857;\">In diesem Projekt werdet ihr:</span><br></font></div><div><span style=\"color: inherit; line-height: 1.42857;\"><font size=\"3\"><br></font></span></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>lernen, wo es im Alltag überall automatische Türen und Tore gibt</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>eine Tür oder ein Tor bauen, das sich automatisch öffnen und schließen kann&nbsp;</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>ein Programm schreiben, mit dem man eine Tür oder ein Tor steuern kann</font></div><div><font size=\"3\"><span style=\"line-height: 1.42857143;\">•&nbsp;</span>eure Ergebnisse dokumentieren und präsentieren</font><br></div></div></div></div>"
+      },
+      {
+        "refId": "aafc7e31-ce18-4410-13b5-07aacc78adab",
+        "string": "<font size=\"3\">Schaltet den LEGO Smarthub ein und verbindet ihn mit eurem Gerät.&#160;</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Wenn ihr Hilfe braucht, schaut euch das Video an.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Im Hilfebereich findet ihr noch mehr nützliche Informationen.</font><br></div></div>"
+      },
+      {
+        "refId": "a0a80da4-e0ab-44f3-24bb-00267e6fadbc",
+        "string": "<div><font size=\"3\"><font size=\"5\">Expertenauftrag:</font><br><br><font size=\"3\">1. Kennt ihr andere Arten von automatischen Türen oder Toren?</font></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857;\">Überlegt gemeinsam.</span></font></div><div><font size=\"3\"><span style=\"line-height: 1.42857;\">•&#160;</span><span style=\"color: inherit; line-height: 1.42857;\">Baut ein neues Modell.&#160;</span></font></div><div><font size=\"3\"><br></font></div><div><font color=\"#ffffff\" size=\"3\">Nutzt die App zum Dokumentieren:</font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\" color=\"#ffffff\">•&#160;</font></span><font color=\"#ffffff\" size=\"3\">Beschreibt euer Vorgehen.</font></div><div><span style=\"line-height: 1.42857;\"><font size=\"3\" color=\"#ffffff\">•&#160;</font></span><font color=\"#ffffff\" size=\"3\">Dokumentiert den Entwicklungsprozess und eure fertige Lösung.</font></div>"
+      },
+      {
+        "refId": "62751565-dac0-43f8-8797-5a1bf43a5b2d",
+        "string": "6. Automatische Tür"
+      }
+    ]
+  }
+}

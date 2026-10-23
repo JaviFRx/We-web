@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d8d0a44f-fe6f-460d-b65c-f544560e927e",
+        "string": "3a. Blinken"
+      },
+      {
+        "refId": "7033c8ec-8f24-4405-7a2b-ba3e4b33ee4d",
+        "string": "1. Programm starten&nbsp;<div>2. LED mit Farbe 9 (Rot) einschalten&nbsp;</div><div>3. LED ausschalten mit Farbe 0 (keine Farbe) &nbsp;</div><div>4. Schritte 2 und 3 unendlich wiederholen&nbsp;</div>"
+      }
+    ]
+  }
+}

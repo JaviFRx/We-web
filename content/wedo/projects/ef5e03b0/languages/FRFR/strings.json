@@ -1,0 +1,62 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "386f1b09-5068-4e7d-8049-aca38d9cce0b",
+        "string": "19. Envoyer des messages"
+      },
+      {
+        "refId": "4e13b309-d018-4f5a-fffb-5f799f2bfb5e",
+        "string": "<div><font size=\"5\">Comment utiliser des codes pour transférer des informations&nbsp;?&nbsp;</font></div><br><div>Dans ce projet, vous allez&nbsp;:&nbsp;</div><div>- Explorer des moyens de transférer des messages d'un endroit à un autre&nbsp;</div><div>- Créer et programmer un levier de commande vous permettant d'envoyer des messages à l'aide de codes&nbsp;</div><div>- Tester votre programme et inventer de nouveaux moyens d'échanger des informations&nbsp;</div><div>- Partager votre programme et vos idées pour réussir ce projet</div>"
+      },
+      {
+        "refId": "bda862d1-cad7-46e7-04ff-b1d748ed9b9a",
+        "string": "Max et Mia souhaitent envoyer des informations en utilisant des codes.&nbsp;<div><br><div>Aidez-les à créer un levier de commande pour envoyer des messages.</div></div>"
+      },
+      {
+        "refId": "7dac5021-82f4-4666-b7ce-a044fc340fbb",
+        "string": "<font size=\"5\">Étudiez les questions de Max et de Mia&nbsp;:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>1. Connaissez-vous des moyens d'envoyer des messages d'un endroit à un autre&nbsp;?&nbsp;</div><div><font color=\"#ffffff\">2. Connaissez-vous un moyen de convertir ou de changer un message en un signal&nbsp;?</font></div></div>"
+      },
+      {
+        "refId": "c0bb2ea3-15ea-449a-4fda-9c01c1a77414",
+        "string": "<font size=\"5\">Utilisez les briques&nbsp;:</font><div><br><div>Construisez un levier de commande pour envoyer des signaux.&nbsp;</div><br><div>Programmez-le pour qu'il émette un son court dans une position et un son long dans une autre position.</div></div>"
+      },
+      {
+        "refId": "030b70ca-ad0c-40de-a349-2e3154cf4b70",
+        "string": "1. Démarrer le programme avec la touche «&nbsp;A&nbsp;»&nbsp;<div>2. Attendre que le détecteur d’inclinaison détecte l’inclinaison vers le haut&nbsp;</div><div>3. Jouer le son&nbsp;21&nbsp;</div><div>4. Attendre que le détecteur d’inclinaison ne détecte aucune inclinaison&nbsp;</div><div>5. Répéter les étapes&nbsp;2 à 4 indéfiniment&nbsp;</div><br><div>6. Démarrer le programme avec la touche «&nbsp;A&nbsp;»&nbsp;</div><div>7. Attendre que le détecteur d’inclinaison détecte l’inclinaison vers le bas&nbsp;</div><div>8. Jouer le son&nbsp;22&nbsp;</div><div>9. Attendre que le détecteur d’inclinaison ne détecte aucune inclinaison&nbsp;</div><div>10. Répéter les étapes&nbsp;7 à 9 indéfiniment</div>"
+      },
+      {
+        "refId": "d5e2f867-55d7-4bcf-10b4-889c9c64dcab",
+        "string": "<font size=\"5\">Préparez et essayez une solution&nbsp;:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div>En utilisant les sons courts et longs comme des codes, programmez votre levier de commande pour envoyer un message.&nbsp;</div><br><div>Par exemple&nbsp;:&nbsp;</div><div>- Essayez d'envoyer le mot «&nbsp;Max&nbsp;» ou le mot «&nbsp;Mia&nbsp;» en utilisant le code Morse.</div></div>"
+      },
+      {
+        "refId": "425cc7a0-69a6-499f-c11f-3f17a17c6ff8",
+        "string": "<font size=\"5\">Testez et modifiez votre solution&nbsp;:&nbsp;</font><div><span style=\"font-size: 20px;\"><br></span><div><font color=\"#ffffff\">Programmez un message en utilisant votre propre système de signaux.</font></div></div>"
+      },
+      {
+        "refId": "36fcc814-8236-4957-0fa2-bd3e42dfe46e",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions</font><div><font size=\"5\">avec Max et Mia</font></div>"
+      },
+      {
+        "refId": "138add23-39e9-4e1f-5532-f74ae72932cc",
+        "string": "<font size=\"5\">Partagez votre projet</font>"
+      },
+      {
+        "refId": "86f0993b-c1a9-4f8e-1346-c395c349c0ef",
+        "string": "<font size=\"5\">Concevez de nouvelles solutions&nbsp;:</font><div><br><div>La communication sans fil a besoin d'antennes ou de satellites pour envoyer et recevoir des messages.&nbsp;\n\n</div><br><div>Construisez et programmez un modèle d'antenne pour envoyer ou recevoir des messages. &nbsp;</div></div>"
+      },
+      {
+        "refId": "0684c9fc-c315-4c18-0a3d-c501973e1dbb",
+        "string": "<font size=\"5\">Organisez vos informations&nbsp;:</font><div><br><div>Par exemple&nbsp;:&nbsp;</div><div><font color=\"#ffffff\">- Faites une capture d’écran de votre programme final.&nbsp;</font></div><div><font color=\"#ffffff\">- Enregistrez une vidéo expliquant votre solution.</font></div></div>"
+      },
+      {
+        "refId": "149276a8-05bb-4b5d-4c50-be9bd35f5c50",
+        "string": "<font size=\"5\">Partagez vos découvertes&nbsp;:</font><div><br><div>Présentez et expliquez vos solutions.</div></div>"
+      },
+      {
+        "refId": "af3b93ec-567c-4029-1cc0-eb2e876cbaef",
+        "string": "Activez le Smarthub et connectez-le à votre appareil. Regardez la vidéo si vous avez besoin d’aide.&nbsp;<div><br><div>Consultez le Panneau d’aide pour obtenir plus de conseils.</div></div>"
+      }
+    ]
+  }
+}

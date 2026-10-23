@@ -1,0 +1,18 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "5348bb44-c747-4bcc-ab3b-8a1368e8d9cd",
+        "string": "9b. Send vilkårlige beskeder"
+      },
+      {
+        "refId": "e0f98a27-bf25-4f43-c5f6-b330055efd81",
+        "string": "1. Start program&#160;<div>2. Vis et vilkårligt tal på displayet&#160;</div><div>3. Send en besked svarende til tallet på displayet&#160;</div><br><div>4. Start ved modtagelse af beskeden \"1\"&#160;</div><div>5. Afspil lyd med nummer vist på displayet&#160;</div><br><div>6. Start ved modtagelse af beskeden \"2\"&#160;</div><div>7. Afspil lyd med nummer vist på displayet&#160;</div>"
+      },
+      {
+        "refId": "64381edb-26cf-4c95-0b16-f084e716f017",
+        "string": "Der kræves ikke en LEGO model for at teste dette program."
+      }
+    ]
+  }
+}

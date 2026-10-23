@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "c944736a-e1bc-41e0-91e6-e2b91761f4f4",
+        "string": "12a. Random Color until Tilt"
+      },
+      {
+        "refId": "5f630d14-f3d7-4282-ebde-bb191253d44b",
+        "string": "1. Start program&nbsp;<div>2. Turn LED on random color&nbsp;</div><div>3. Repeat step 2 until the Tilt Sensor is tilted left&nbsp;</div><div>4. Turn LED off to color 0 (no color)&nbsp;</div><div>5. Wait for 2 seconds</div>"
+      }
+    ]
+  }
+}

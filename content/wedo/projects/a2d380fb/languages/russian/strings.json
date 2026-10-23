@@ -1,0 +1,38 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "d6a4176f-a6bf-4e68-5297-064dd9cf32ad",
+        "string": "<font size=\"3\">Включите СмартХаб и подключите его к своему устройству.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Посмотрите видео, если вам нужна помощь. Дополнительные инструкции размещены на панели «Справка».</font></div>"
+      },
+      {
+        "refId": "40b579a2-a169-4329-6000-4dea90f55cb5",
+        "string": "<font size=\"3\">Запрограммируйте зонды, чтобы перенести экземпляр растения к месту назначения.</font>"
+      },
+      {
+        "refId": "3d47fef8-6f6b-4681-55f9-23a3f9b1b9db",
+        "string": "<font size=\"5\">Подготовьте отчет по проекту:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">• Вставьте изображение Майло.</font></div><div><font size=\"3\">• Вставьте снимок экрана одной программы.</font></div><div><font size=\"3\">• Вставьте любую другую информацию, которую сочтёте необходимой.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\" color=\"#ffffff\">Представьте окончательный документ.</font></div><div><span style=\"line-height: 1.42857143;\"><br></span></div><br>"
+      },
+      {
+        "refId": "2c10571f-f571-4748-b2ac-edf6b4dbd991",
+        "string": "<font size=\"5\">Поделитесь своими выводами.</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Объясните, как вы успешно перенесли экземпляр растения.</font></div><div><font size=\"3\"><br></font></div><br>"
+      },
+      {
+        "refId": "540f744d-1e36-4df3-e239-07e540a35a36",
+        "string": "<font size=\"5\">Используйте кирпичики:</font><div><font size=\"3\"><br></font></div><div><font size=\"3\">Создайте устройство связи с другим роботом Майло, созданным другой группой, чтобы переместить экземпляр растения.</font></div><div><font size=\"3\"><br></font></div><div><font size=\"3\"><br></font></div>"
+      },
+      {
+        "refId": "54b5fdb4-52a5-4e6b-e338-31877085c4c6",
+        "string": "<font size=\"3\">Макс и Маша обнаружили, что экземпляр растения слишком тяжелый, поэтому Майло не сможет переместить его в одиночку.</font><br><br>"
+      },
+      {
+        "refId": "e985f407-0540-404a-917c-6c8ea10a0c29",
+        "string": "<font size=\"3\">В этом проекте вы:</font><br><div><font size=\"3\"><br></font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><font size=\"3\">создадите и запрограммируете устройство для перемещения экземпляра растения;</font></div><div><span style=\"line-height: 1.42857143;\">•&#160;</span><span style=\"line-height: 1.42857143;\"><font size=\"3\">задокументируете и представите миссию Майло в целом.</font></span></div>"
+      },
+      {
+        "refId": "c61ff978-ffb9-4b68-830b-77818c2d5b2f",
+        "string": "D. Совместная работа"
+      }
+    ]
+  }
+}

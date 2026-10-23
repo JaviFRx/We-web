@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9cac809c-24e2-4f68-88d4-1ddb99993014",
+        "string": "1a. 속도 증가"
+      },
+      {
+        "refId": "54d37f58-f4fc-4a11-3501-8abb225c5590",
+        "string": "1. 프로그램 시작&nbsp;<div>2. 1의 출력으로 모터 작동&nbsp;</div><div>3. 1초간 대기&nbsp;</div><div>4. 5의 출력으로 모터 작동&nbsp;</div><div>5. 1초간 대기&nbsp;</div><div>6. 10의 출력으로 모터 작동</div>"
+      }
+    ]
+  }
+}

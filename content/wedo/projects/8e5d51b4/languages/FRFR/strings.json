@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "8ba87780-571f-4aa6-b409-ff895199687b",
+        "string": "7a. Multiplier la vitesse"
+      },
+      {
+        "refId": "ecf860f4-b4d1-4e66-9c5b-2a234dc6277e",
+        "string": "1. Lancer le programme&nbsp;<div>2. Afficher le texte «&nbsp;2&nbsp;» à l’écran&nbsp;</div><div>3. Démarrer le moteur au niveau de puissance égal au chiffre affiché à l’écran&nbsp;</div><div>4. Recommencer l’étape&nbsp;3 indéfiniment&nbsp;</div><div>5. Lancer le programme&nbsp;</div><div>6. Multiplier le chiffre affiché à l’écran par 2</div>"
+      }
+    ]
+  }
+}

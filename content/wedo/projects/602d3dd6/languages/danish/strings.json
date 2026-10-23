@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "6a876355-8c81-4029-b648-ec1d9cf6d9cb",
+        "string": "13b. Skift lys efter lyd"
+      },
+      {
+        "refId": "87911d68-e2ab-44e6-8f0f-b39432022b84",
+        "string": "1. Start program&#160;<div>2. Tænd lys ved farve svarende til input fra lydsensoren&#160;</div><div>3. Gentag trin 2 for evigt</div>"
+      }
+    ]
+  }
+}

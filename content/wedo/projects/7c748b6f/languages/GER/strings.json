@@ -1,0 +1,14 @@
+{
+  "Strings": {
+    "String": [
+      {
+        "refId": "9cac809c-24e2-4f68-88d4-1ddb99993014",
+        "string": "1a. Geschwindigkeit erhöhen"
+      },
+      {
+        "refId": "54d37f58-f4fc-4a11-3501-8abb225c5590",
+        "string": "1. Programm starten&nbsp;<div>2. Motor mit Leistungsstufe 1 starten&nbsp;</div><div>3. 1 Sekunde warten&nbsp;</div><div>4. Motor mit Leistungsstufe 5 starten&nbsp;</div><div>5. 1 Sekunde warten&nbsp;</div><div>6. Motor mit Leistungsstufe 10 starten</div>"
+      }
+    ]
+  }
+}
