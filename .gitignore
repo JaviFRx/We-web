@@ -1,4 +1,8 @@
 node_modules/
+__pycache__/
+*.py[cod]
+tools/ble-diagnostic/
+tools/ilspy/
 .npm-cache/
 analysis/
 *.log
