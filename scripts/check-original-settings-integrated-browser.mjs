@@ -1,0 +1,30 @@
+import {chromium,browserOptions} from './browser-test-support.mjs';
+import assert from 'node:assert/strict';
+const browser=await chromium.launch(browserOptions());
+try{
+ const page=await browser.newPage({viewport:{width:1366,height:768}}),errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://localhost:8080/original/#/library');
+ await page.getByRole('button',{name:'Nuevo proyecto',exact:true}).click();
+ await page.getByRole('button',{name:'Mis proyectos',exact:true}).click();
+ assert.equal(await page.locator('.wedo-lobby-edit-button').count(),1);
+ await page.getByRole('button',{name:'Ajustes',exact:true}).click();
+ const settings=page.locator('.wedo-settings');await settings.waitFor();
+ await settings.getByRole('button',{name:'English (United States)',exact:true}).click();
+ assert.equal(await page.evaluate(()=>angular.element(document.body).injector().get('LanguageService').getCurrentLanguage()),'ENUS');
+ await settings.getByRole('button',{name:'Español',exact:true}).click();
+ assert.equal(await page.evaluate(()=>angular.element(document.body).injector().get('LanguageService').getCurrentLanguage()),'ES');
+ await settings.getByRole('button',{name:'Introducción',exact:true}).click();
+ await settings.locator('[data-original-name=RestartIntroduction]').click();
+ const intro=page.locator('.wedo-original-introduction');await intro.waitFor();await intro.locator('[data-original-name=Close]').click();
+ await settings.getByRole('button',{name:'Inicio',exact:true}).click();
+ await settings.getByRole('button',{name:'Eliminar todos los proyectos',exact:true}).click();
+ await page.getByRole('alertdialog').getByRole('button',{name:'No',exact:true}).click();
+ assert.equal(await page.locator('.wedo-lobby-edit-button').count(),1);
+ await settings.getByRole('button',{name:'Eliminar todos los proyectos',exact:true}).click();
+ await page.getByRole('alertdialog').getByRole('button',{name:'Sí',exact:true}).click();
+ await page.waitForFunction(()=>document.querySelectorAll('.wedo-lobby-edit-button').length===0);
+ await settings.getByRole('button',{name:'Cerrar ajustes',exact:true}).click();
+ await page.getByRole('button',{name:'Nuevo proyecto',exact:true}).waitFor();assert.equal(await page.locator('.wedo-lobby-edit-button').count(),0);
+ await page.reload();await page.getByRole('button',{name:'Nuevo proyecto',exact:true}).waitFor();assert.equal(await page.locator('.wedo-lobby-edit-button').count(),0);assert.deepEqual(errors,[]);
+ console.log('PASS integrated language Angular updates, original introduction replay, delete cancel/accept and reload persistence.');
+}finally{await browser.close();}

@@ -1,0 +1,2 @@
+﻿import {chromium,browserOptions} from './browser-test-support.mjs';
+const browser=await chromium.launch(browserOptions());try{const page=await browser.newPage({viewport:{width:1920,height:1080}});await page.goto('http://localhost:8080/');await page.getByRole('button',{name:'Ajustes',exact:true}).click();await page.waitForTimeout(500);await page.evaluate(()=>document.fonts.ready);await page.screenshot({path:'analysis/verification/visual/1920x1080-settings.png'});}finally{await browser.close();}

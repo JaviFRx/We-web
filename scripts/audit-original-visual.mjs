@@ -1,0 +1,17 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+import {chromium,browserOptions} from './browser-test-support.mjs';
+const directory='analysis/verification/visual';await mkdir(directory,{recursive:true});
+const browser=await chromium.launch(browserOptions()),report=[];
+try{for(const viewport of [{width:1920,height:1080},{width:1366,height:900},{width:390,height:844}]){
+ const context=await browser.newContext({viewport}),page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));const prefix=`${viewport.width}x${viewport.height}`;
+ const capture=async name=>{await page.waitForTimeout(450);await page.evaluate(async()=>{await document.fonts.ready;await Promise.all([...document.images].filter(i=>i.getBoundingClientRect().width).map(i=>i.decode().catch(()=>{})));});await page.screenshot({path:`${directory}/${prefix}-${name}.png`});const geometry=await page.evaluate(()=>{const result={};for(const selector of ['.wedo-lobby-hero','.wedo-lobby-tile','.wedo-native-topbar','.original-palette','.original-block','.original-parameter','.original-hub-button','.wedo-native-parameter-editor','.wedo-teacher-resources'])result[selector]=[...document.querySelectorAll(selector)].filter(e=>e.getBoundingClientRect().width&&getComputedStyle(e).visibility!=='hidden').slice(0,12).map(e=>{const b=e.getBoundingClientRect();return {x:b.x,y:b.y,width:b.width,height:b.height,right:b.right,bottom:b.bottom};});result.brokenImages=[...document.images].filter(i=>i.getBoundingClientRect().width&&(!i.complete||!i.naturalWidth)).map(i=>i.src);return result;});report.push({viewport,state:name,geometry,errors:[...errors]});await writeFile(`${directory}/geometry-report.json`,JSON.stringify(report,null,2));};
+ await page.goto('http://localhost:8080/original/#/library');await page.getByRole('button',{name:'Nuevo proyecto',exact:true}).waitFor();await capture('lobby');
+ await page.getByRole('button',{name:'Recursos para el profesor',exact:true}).click();await capture('teacher');await page.keyboard.press('Escape');
+ await page.getByRole('button',{name:'Nuevo proyecto',exact:true}).click();await page.locator('.original-palette-block').first().waitFor();
+ for(const type of ['MotorPower','MotorOnFor','Light']){const target=await page.locator('.original-strip').first().locator(':scope > .original-block').last().boundingBox(),source=page.locator(`.original-palette-block[data-type="${type}"]`);await source.scrollIntoViewIfNeeded();const b=await source.boundingBox();await page.mouse.move(b.x+b.width/2,b.y+b.height/2);await page.mouse.down();await page.mouse.move(Math.min(viewport.width-40,target.x+target.width-4),target.y+35,{steps:12});await page.mouse.up();}await capture('editorblocks');
+ if(viewport.width>=800){await page.locator('.original-block input').first().click();await capture('parameter-number');await page.keyboard.press('Escape');
+ await page.locator('.original-block input').last().click();await capture('parameter-color');await page.keyboard.press('Escape');}
+ await page.getByRole('button',{name:'Conectar hub',exact:true}).click();await capture('connection');await page.keyboard.press('Escape');
+ await page.getByRole('button',{name:'Biblioteca de proyectos',exact:true}).click();await capture('topbar-library');
+ await context.close();
+}await writeFile(`${directory}/geometry-report.json`,JSON.stringify(report,null,2));console.log(`${report.length} visual states captured; ${report.reduce((n,r)=>n+r.geometry.brokenImages.length,0)} broken image observations.`);}finally{await browser.close();}

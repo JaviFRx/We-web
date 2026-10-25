@@ -1,0 +1,44 @@
+import {chromium,browserOptions} from './browser-test-support.mjs';
+import {readFile,mkdir} from 'node:fs/promises';
+import assert from 'node:assert/strict';
+const browser=await chromium.launch(browserOptions());
+try{
+ const page=await browser.newPage({viewport:{width:1920,height:1080}});
+ let popups=0;page.on('popup',popup=>{popups++;popup.close();});
+ await page.route('**/original-settings.js',async r=>r.fulfill({contentType:'text/javascript',body:await readFile('web/original-settings.js','utf8')}));
+ await page.goto('http://localhost:8080/original/');
+ await page.evaluate(async()=>{const catalog=await fetch('/original-assets.json').then(r=>r.json());const {showOriginalSettings}=await import('/original-settings.js');window.settingsCalls={deletes:0,languages:[],intro:0};showOriginalSettings({catalog,onDeleteAll:()=>{settingsCalls.deletes++;},onLanguage:code=>settingsCalls.languages.push(code),onIntroduction:()=>{settingsCalls.intro++;}});});
+ await mkdir('analysis/verification/flows',{recursive:true});
+ await page.evaluate(()=>document.fonts.ready);
+ await page.locator('.wedo-settings img').evaluateAll(images=>Promise.all(images.map(image=>image.decode())));
+ await page.screenshot({path:'analysis/verification/flows/08-settings-languages.png'});
+ const settings=page.locator('.wedo-settings');
+ assert.equal(await settings.locator('button[aria-pressed]').count(),16);
+ await settings.getByRole('button',{name:'English (United States)',exact:true}).click();
+ assert.equal(await page.evaluate(()=>localStorage.getItem('wedo-language')),'ENUS');
+ await settings.getByRole('button',{name:'Español',exact:true}).click();
+ assert.deepEqual(await page.evaluate(()=>settingsCalls.languages),['ENUS','ES']);
+ await settings.getByRole('button',{name:'Inicio',exact:true}).click();
+ await settings.getByRole('button',{name:'Eliminar todos los proyectos',exact:true}).click();
+ await page.getByRole('alertdialog').getByRole('button',{name:'No',exact:true}).click();
+ assert.equal(await page.evaluate(()=>settingsCalls.deletes),0);
+ await settings.getByRole('button',{name:'Eliminar todos los proyectos',exact:true}).click();
+ await page.screenshot({path:'analysis/verification/flows/08-settings-delete-confirm.png'});
+ await page.getByRole('alertdialog').getByRole('button',{name:'Sí',exact:true}).click();
+ assert.equal(await page.evaluate(()=>settingsCalls.deletes),1);
+ await settings.getByRole('button',{name:'Introducción',exact:true}).click();
+ const check=settings.getByRole('checkbox');await check.uncheck();
+ assert.equal(await page.evaluate(()=>localStorage.getItem('wedo-show-introduction')),'false');
+ await settings.locator('[data-original-name=RestartIntroduction]').click();
+ assert.equal(await page.evaluate(()=>settingsCalls.intro),1);
+ await page.screenshot({path:'analysis/verification/flows/08-settings-introduction.png'});
+ await settings.getByRole('button',{name:'Acerca de',exact:true}).click();
+ assert.equal(await settings.getByRole('link',{name:/Política de privacidad/}).getAttribute('href'),'https://www.lego.com/en-us/legal/notices-and-policies/privacy-policy');
+ await page.screenshot({path:'analysis/verification/flows/08-settings-about.png'});
+ await settings.getByRole('button',{name:'Guía para el profesor',exact:true}).click();
+ await page.screenshot({path:'analysis/verification/flows/08-settings-guides.png'});
+ await settings.getByRole('button',{name:'Cerrar ajustes',exact:true}).click();assert.equal(await settings.count(),0);
+ assert.equal(popups,0,'Local settings actions must not open guide links');
+ console.log('PASS original settings navigation, confirmation callbacks, introduction preference, original policy link, close. External links not opened.');
+}finally{await browser.close();}
+

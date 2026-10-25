@@ -1,0 +1,74 @@
+import assert from 'node:assert/strict';
+import {mkdir,writeFile} from 'node:fs/promises';
+import {chromium,browserOptions} from './browser-test-support.mjs';
+const directory='analysis/verification/proximity-commands';await mkdir(directory,{recursive:true});
+const browser=await chromium.launch(browserOptions());
+try{
+ const page=await browser.newPage({viewport:{width:1366,height:900}}),errors=[];
+ page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://localhost:8080/');await page.getByRole('button',{name:'Nuevo proyecto',exact:true}).click();
+ await page.evaluate(async()=>{const e=await import('/original-editor.js'),r=await import('/original-runtime.js'),p=e.getCurrentProject();p.strips=[{id:'left',x:180,y:170,nodes:[r.createInstruction('Start'),r.createInstruction('Light')]},{id:'right',x:600,y:170,nodes:[r.createInstruction('DisplayAdd')]}];await e.saveCurrentProject();});
+ await page.reload();await page.locator('.wedo-lobby-project-open').first().click();
+ const left=page.locator('[data-strip=left]'),right=page.locator('[data-strip=right]');
+ const a=await left.boundingBox(),b=await right.boundingBox(),factor=900/768;
+ await page.mouse.move(b.x+40,b.y+30);await page.mouse.down();
+ // Cursor remains OUTSIDE the target; only the dragged block's attachment is close.
+ await page.mouse.move(a.x+a.width+40+12*factor,a.y+30+6*factor,{steps:15});
+ assert.equal(await page.locator('.original-snap-target').count(),1);
+ const preview=await page.locator('.original-dragging').boundingBox();assert.ok(Math.abs(preview.x-(a.x+a.width))<1);
+ await page.screenshot({path:directory+'/01-near-preview.png'});await page.mouse.up();
+ assert.equal(await page.locator('.original-strip').count(),1);assert.equal(await left.locator(':scope > .original-block').count(),3);
+ // Move the last block outside the snap range: it must stay independent.
+ const last=left.locator(':scope > .original-block').last(),lastBox=await last.boundingBox();
+ await page.mouse.move(lastBox.x+40,lastBox.y+30);await page.mouse.down();await page.mouse.move(lastBox.x+40+90*factor,lastBox.y+30,{steps:12});
+ assert.equal(await page.locator('.original-snap-target').count(),0);await page.mouse.up();assert.equal(await page.locator('.original-strip').count(),2);
+ await page.screenshot({path:directory+'/02-far-independent.png'});
+ // A strict peripheral double checks service/characteristic routing and LED mode.
+ await page.evaluate(async()=>{
+  const {hub}=await import('/connection.js');window.commandTrace=[];window.ledMode=1;window.led=null;window.failOutput=false;
+  const uuid=n=>`0000${n}-1212-efde-1523-785feabcd123`;
+  const input={uuid:uuid('1563'),properties:{write:true,writeWithoutResponse:true},async writeValueWithoutResponse(data){if(data.length!==11||data[0]!==1||data[1]!==2)throw Error('Invalid input configuration');window.ledMode=data[4];window.commandTrace.push({kind:'input',data:[...data],time:performance.now()});}};
+  const output={uuid:uuid('1565'),properties:{write:true,writeWithoutResponse:true},async writeValueWithoutResponse(data){if(window.failOutput)throw Error('Peripheral rejected output');if(data[0]===6&&data[1]===4){if(data[2]!== (window.ledMode===0?1:3))throw Error('Wrong LED payload for configured mode');window.led=data[3];}window.commandTrace.push({kind:'output',data:[...data],time:performance.now()});}};
+  for(const char of [input,output])char.writeValueWithResponse=async()=>{throw Error('Use native WriteWithoutResponse');};
+  const device=new EventTarget();device.id='strict-test';device.gatt={connected:false,async connect(){this.connected=true;return this;},async getPrimaryService(id){if(id!==uuid('4f0e'))throw Error('Unavailable optional service');return {async getCharacteristic(id){if(id===input.uuid)return input;if(id===output.uuid)return output;throw Error('Unavailable sensor notifications');}};},disconnect(){this.connected=false;device.dispatchEvent(new Event('gattserverdisconnected'));}};
+  await hub.connect({device});
+ });
+ const light=left.locator(':scope > .original-block').nth(1);
+ await light.locator('input').fill('6');
+ await left.locator(':scope > .original-block').first().click();
+ await page.waitForFunction(()=>window.commandTrace.some(x=>x.kind==='output'&&x.data.join(',')==='6,4,1,6'));
+ await page.waitForFunction(()=>!document.querySelector('.original-block.executing'));
+ await page.waitForFunction(()=>window.led===3);
+ const trace=await page.evaluate(()=>window.commandTrace);const six=trace.find(x=>x.kind==='output'&&x.data[3]===6),reset=trace.find(x=>x.kind==='output'&&x.data[3]===3);
+ assert.ok(reset.time-six.time>=280,'the light block has the native minimum execution duration');
+ await page.getByRole('button',{name:'Acercar programa',exact:true}).click();
+ await page.waitForFunction(()=>getComputedStyle(document.querySelector('.original-world')).transform.startsWith('matrix(1.5,'));
+ const independent=page.locator('.original-strip').last(),free=await independent.boundingBox(),chain=await left.boundingBox();
+ await page.mouse.move(free.x+40,free.y+30);await page.mouse.down();await page.mouse.move(chain.x+chain.width+40+12*factor*1.5,chain.y+30,{steps:15});await page.mouse.up();
+ assert.equal(await page.locator('.original-strip').count(),1,'proximity tolerance follows zoom');
+ const waitPalette=page.locator('.original-palette-block[data-type=WaitFor]');await waitPalette.scrollIntoViewIfNeeded();const button=await waitPalette.boundingBox(),end=await left.boundingBox();
+ await page.mouse.move(button.x+button.width/2,button.y+button.height/2);await page.mouse.down();await page.mouse.move(end.x+end.width+51.2*factor,end.y+51.2*factor,{steps:15});await page.mouse.up();
+ assert.equal(await left.locator(':scope > .original-block').count(),4);
+ await left.locator(':scope > .original-block').last().locator('input').fill('2');
+ await left.locator(':scope > .original-block').first().click();await page.waitForFunction(()=>window.led===6);
+ await page.waitForTimeout(600);assert.equal(await page.evaluate(()=>window.led),6,'wait block keeps requested LED color active');
+ await page.waitForFunction(()=>document.querySelector('.original-display output')?.textContent==='1');
+ await page.screenshot({path:directory+'/03-color-wait-display.png'});
+ await page.waitForFunction(()=>window.led===3);
+ await page.evaluate(()=>window.failOutput=true);await left.locator(':scope > .original-block').first().click();
+ await page.waitForFunction(()=>document.querySelector('.original-status').textContent.includes('Peripheral rejected output'));
+ await page.screenshot({path:directory+'/04-command-error-visible.png'});
+ const completeTrace=await page.evaluate(()=>window.commandTrace);
+ await page.evaluate(async()=>{const e=await import('/original-editor.js'),r=await import('/original-runtime.js'),p=e.getCurrentProject();p.zoom=1;p.strips=[{id:'destination',x:500,y:200,nodes:[r.createInstruction('DisplayAdd')]},{id:'source',x:150,y:200,nodes:[r.createInstruction('Start')]}];await e.saveCurrentProject();});
+ await page.reload();await page.locator('.wedo-lobby-project-open').first().click();
+ await page.getByRole('button',{name:'Centrar programa',exact:true}).click();await page.waitForFunction(()=>getComputedStyle(document.querySelector('.original-world')).transform==='matrix(1, 0, 0, 1, 0, 0)');
+ const source=page.locator('[data-strip=source]'),destination=page.locator('[data-strip=destination]'),sb=await source.boundingBox(),db=await destination.boundingBox();
+ await page.mouse.move(sb.x+35,sb.y+25);await page.mouse.down();await page.mouse.move(db.x+db.width+35,db.y+25,{steps:12});
+ assert.equal(await page.locator('.original-snap-target').count(),0,'start cannot attach after another instruction');
+ await page.mouse.move(db.x-sb.width+35-10*factor,db.y+25,{steps:12});assert.equal(await page.locator('.original-snap-target').count(),1);await page.mouse.up();
+ assert.equal(await page.locator('.original-strip').count(),1);
+ const unchanged=await destination.locator(':scope > .original-block').nth(1).boundingBox();assert.ok(Math.abs(unchanged.x-db.x)<1,'prepending leaves the target at its original position');
+ await page.screenshot({path:directory+'/05-prepend-start.png'});
+ assert.deepEqual(errors,[]);await writeFile(directory+'/results.json',JSON.stringify({status:'PASS',checks:['near connectors snap with pointer outside target','aligned preview','far blocks remain independent','zoom150 proximity','edited color reaches output characteristic','native write mode','LED reset after completion','wait retains LED color','joined display command executes','write failures visible','start rejected on right and accepted on left','prepending preserves target position'],trace:completeTrace,hardware:'strict simulated peripheral; physical LED not verified'},null,2));
+ console.log('PASS proximity and complete editor-to-GATT color path, with strict peripheral and visible failures.');
+}finally{await browser.close();}

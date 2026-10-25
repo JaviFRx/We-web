@@ -1,0 +1,50 @@
+import assert from 'node:assert/strict';
+import http from 'node:http';
+import {EventEmitter} from 'node:events';
+import {PassThrough} from 'node:stream';
+import {mkdir,writeFile} from 'node:fs/promises';
+import {createLocalBleBridge} from '../local-ble-server.mjs';
+import {chromium,browserOptions} from './browser-test-support.mjs';
+const uuid=n=>`0000${n}-1212-efde-1523-785feabcd123`,trace=[];
+let worker,owner,deviceId='00:11:22:33:44:55';
+const emit=message=>worker.stdout.write(JSON.stringify(message)+'\n');
+const bridge=createLocalBleBridge({base:process.cwd(),spawnWorker:()=>{
+ worker=new EventEmitter();worker.stdin=new PassThrough();worker.stdout=new PassThrough();worker.stderr=new PassThrough();worker.kill=()=>worker.emit('exit',0);let buffer='';
+ worker.stdin.on('data',data=>{buffer+=data;let end;while((end=buffer.indexOf('\n'))>=0){const request=JSON.parse(buffer.slice(0,end));buffer=buffer.slice(end+1);owner=request.owner;trace.push(request);let result=null,error;
+  if(request.op==='scan')result=[{id:deviceId,name:'grupo 12',uuids:[uuid('1523')],rssi:-45}];
+  if(request.op==='connect')result=[{uuid:uuid('4f0e'),characteristics:['1560','1561','1563','1565'].map(n=>({uuid:uuid(n),properties:['write-without-response','notify']}))},{uuid:uuid('1523'),characteristics:['1526','1527'].map(n=>({uuid:uuid(n),properties:['notify']}))}];
+  if(request.op==='write'&&!['1563','1565'].some(n=>uuid(n)===request.characteristic))error='Wrong characteristic';
+  emit({id:request.id,...(error?{error}:{result})});
+  if(request.op==='disconnect')emit({event:'disconnected',device:request.device});
+ }});return worker;
+}});
+const upstream=new Set();
+const server=http.createServer(async(req,res)=>{
+ if(await bridge.handle(req,res))return;
+ const request=http.request({host:'127.0.0.1',port:8080,path:req.url,method:req.method,headers:{...req.headers,host:'localhost:8080',...(req.headers.origin?{origin:'http://localhost:8080'}:{})}},response=>{res.writeHead(response.statusCode,response.headers);response.pipe(res);});
+ upstream.add(request);request.on('close',()=>upstream.delete(request));res.on('close',()=>request.destroy());request.on('error',()=>res.destroy());req.pipe(request);
+});await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
+const base=`http://127.0.0.1:${server.address().port}`,browser=await chromium.launch(browserOptions());
+try{
+ const page=await browser.newPage({viewport:{width:1366,height:900}}),errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.addInitScript(()=>{window.chooserCalls=0;Object.defineProperty(navigator,'bluetooth',{value:{requestDevice(){window.chooserCalls++;throw Error('Native panel must not use a browser chooser');}},configurable:true});});
+ await page.goto(base+'/');await page.getByRole('button',{name:'Nuevo proyecto',exact:true}).click();await page.evaluate(async()=>{await (await import('/connection.js')).showConnectionCenter();});
+ const panel=page.getByRole('dialog',{name:'Elige el hub inteligente'});await panel.getByRole('button',{name:'grupo 12',exact:true}).waitFor();
+ assert.equal(await panel.getByRole('button',{name:'Autorizar un hub nuevo'}).isVisible(),false);
+ assert.equal(await page.evaluate(()=>window.chooserCalls),0);assert.ok(trace.some(r=>r.op==='scan'),'opening panel automatically starts native scan');
+ await panel.getByRole('button',{name:'grupo 12',exact:true}).click();await page.waitForFunction(()=>document.querySelector('[data-hub-index="1"]'));
+ assert.ok(trace.some(r=>r.op==='subscribe'&&r.characteristic===uuid('1526')),'physical button is subscribed through native transport');
+ emit({event:'value',owner,device:deviceId,characteristic:uuid('1526'),data:[1]});await page.waitForFunction(()=>document.querySelector('[data-hub-index="1"]').dataset.pressed==='true');
+ await mkdir('analysis/verification/local-bluetooth',{recursive:true});await page.screenshot({path:'analysis/verification/local-bluetooth/native-panel-simulated.png'});
+ emit({event:'value',owner,device:deviceId,characteristic:uuid('1526'),data:[0]});await page.waitForFunction(()=>document.querySelector('[data-hub-index="1"]').dataset.pressed==='false');
+ await page.evaluate(async()=>{const {hub}=await import('/connection.js');await hub.lightIndex(6);});
+ assert.ok(trace.some(r=>r.op==='write'&&r.characteristic===uuid('1565')&&r.data.join(',')==='6,4,1,6'));
+ const denied=await fetch(base+'/api/local-ble/command?session='+owner,{method:'POST',headers:{Origin:'https://untrusted.example','Content-Type':'application/json'},body:JSON.stringify({op:'scan'})});assert.equal(denied.status,403);
+ const noOrigin=await fetch(base+'/api/local-ble/command?session='+owner,{method:'POST',headers:{'Content-Type':'application/json'},body:'{"op":"scan"}'});assert.equal(noOrigin.status,403);
+ const dnsRebind=await new Promise((resolve,reject)=>{http.get(base+'/api/local-ble/events?session='+crypto.randomUUID(),{headers:{Host:'untrusted.example'}},res=>{resolve(res.statusCode);res.resume();}).on('error',reject);});assert.equal(dnsRebind,403);
+ await panel.getByRole('button',{name:'Desconectar grupo 12'}).click();await page.waitForFunction(()=>!document.querySelector('[data-hub-index]'));
+ await panel.getByRole('button',{name:'Cerrar',exact:true}).click();await page.waitForTimeout(100);assert.ok(trace.some(r=>r.op==='stop-scan'));
+ assert.deepEqual(errors,[]);assert.equal(await page.evaluate(()=>window.chooserCalls),0);
+ await writeFile('analysis/verification/local-bluetooth/results.json',JSON.stringify({status:'PASS',checks:['auto scan on open','device row from worker','no browser pairing calls','native connect/write/button/disconnect','scan stops on close','cross-origin, missing Origin and foreign Host rejected'],trace,hardware:'Worker simulated; separate real-scan.json records physical discovery'},null,2));
+ console.log('PASS native local transport, auto discovery, physical-button events, LED packets and loopback origin protections.');
+}finally{await browser.close();bridge.close();for(const req of upstream)req.destroy();server.closeAllConnections();await new Promise(resolve=>server.close(resolve));}

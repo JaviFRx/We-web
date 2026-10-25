@@ -1,13 +1,13 @@
 import {createRequire} from 'node:module';
 import {mkdir} from 'node:fs/promises';
 import assert from 'node:assert/strict';
-const {chromium}=createRequire(import.meta.url)(process.env.PLAYWRIGHT_MODULE||'playwright');
+import {chromium,browserOptions} from './browser-test-support.mjs';
 const baseURL=process.env.WEDO_TEST_URL||'http://localhost:8080';
-const browser=await chromium.launch({headless:true,executablePath:process.env.PLAYWRIGHT_EXECUTABLE_PATH||undefined});
+const browser=await chromium.launch(browserOptions());
 try{
  const page=await browser.newPage({viewport:{width:1366,height:900}}),errors=[],failures=[];
  page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400)failures.push([r.status(),r.url()]);});
- await page.goto(baseURL+'/');await page.getByText('1. Fuerzas',{exact:true}).waitFor();assert.match(page.url(),/original/);
+ await page.goto(baseURL+'/');await page.getByRole('button',{name:'Volver al programa',exact:true}).click();await page.getByRole('button',{name:'Biblioteca de proyectos',exact:true}).click();await page.getByText('1. Fuerzas',{exact:true}).waitFor();assert.match(page.url(),/original/);
  await page.getByText('1. Fuerzas',{exact:true}).click();await page.getByText('Ir',{exact:true}).click();await page.locator('.page-right-arrow').waitFor();
  await page.waitForFunction(()=>document.body.innerText.includes('Max'));
  const before=await page.locator('body').innerText();await page.locator('.page-right-arrow').click();await page.waitForFunction(()=>document.body.innerText.includes('fricción'));assert.notEqual(await page.locator('body').innerText(),before);
@@ -18,7 +18,8 @@ try{
   await page.waitForFunction(id=>{const route=angular.element(document.documentElement).injector().get('$route');return route.current?.locals?.Project?.id===id;},a.id);
   await page.locator('.project-view').waitFor();
   await page.waitForFunction(()=>document.querySelector('.template-container')?.children.length>0);
-  await page.waitForLoadState('networkidle');checked++;
+  // LAN keeps an SSE response open: wait for rendered activity assets, not network idle.
+  await page.waitForFunction(()=>[...document.querySelectorAll('.template-container img')].every(image=>image.complete&&(image.naturalWidth>0||!image.getAttribute('src'))));checked++;
  }
  assert.equal(checked,32);assert.deepEqual(errors,[]);assert.deepEqual(failures,[]);
  await mkdir('analysis',{recursive:true});
