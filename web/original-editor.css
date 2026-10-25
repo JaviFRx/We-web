@@ -1,0 +1,31 @@
+@font-face{font-family:WeDoNativeText;src:url('/original-assets/font-Roboto-Regular-With-Fallback.ttf')}
+@font-face{font-family:WeDoRoboto;src:url('/original-assets/font-Roboto-Regular.ttf')}@font-face{font-family:WeDoRoboto;src:url('/original-assets/font-Roboto-Bold.ttf');font-weight:700}
+.wedo-original-editor{position:fixed;inset:0;z-index:1100;overflow:hidden;background:#fff;color:#777;font-family:WeDoRoboto,sans-serif;touch-action:none}.wedo-original-editor[hidden]{display:none}
+.original-stage{position:absolute;left:0;top:0;transform-origin:0 0;background:#fff;overflow:hidden}
+.original-hub-button{position:absolute;z-index:5;right:0;top:10px;width:132.5px;height:103.4px;border:0;background:none;padding:0;cursor:pointer}.original-hub-button img{width:100%;height:100%;object-fit:contain}
+.original-hub-button .original-hub-state{position:absolute;right:10px;top:10px;width:40px;height:40px}
+.original-stop{position:absolute;z-index:5;right:140px;top:10px;width:48px;height:48px;background:none;border:0;padding:0;cursor:pointer}.original-stop img{width:100%;height:100%;object-fit:contain}
+.original-canvas{position:absolute;inset:0 0 120px;overflow:hidden;touch-action:none}.original-world{position:absolute;inset:0;transform-origin:0 0}
+.original-strip{position:absolute;display:flex;align-items:flex-end;width:max-content;touch-action:none}
+.original-block{position:relative;flex-shrink:0;cursor:grab;touch-action:none;outline:none;box-sizing:content-box}.original-background{position:absolute;inset:0;width:100%;height:100%;object-fit:fill;pointer-events:none}.original-block>.original-icon{position:absolute;left:0;top:0;width:100%;height:auto;pointer-events:none}.original-block:focus-visible{outline:2px solid #33acd1;outline-offset:2px}
+.original-parameter{position:absolute;left:0;cursor:grab;touch-action:none}.original-parameter input{position:absolute;left:8px;top:16.5px;width:75px;height:30px;padding:0;border:0;background:transparent;text-align:center;font-size:20px;font-family:WeDoNativeText,sans-serif;color:#323232;outline:none}.original-parameter>.original-icon{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;pointer-events:none}.original-port{position:absolute;top:-18px;left:42%;font-size:13px;color:#666}
+.original-key{position:absolute;left:30%;top:25%;width:40%;font-size:24px;text-align:center;border:0;background:none}
+.original-loop{display:block;min-width:211.25px;min-height:138px;position:relative}.original-loop-shell{position:absolute;inset:0;box-sizing:border-box;border-style:solid;border-width:0 113.5px 3px 49px;border-image-slice:0 227 6 98 fill;border-image-repeat:stretch;pointer-events:none}.original-loop-inner{position:absolute;left:30px;top:30px;display:flex;min-width:75px;min-height:108px}.original-loop-icon{position:absolute;right:25px;top:28px;width:72px;height:72px;pointer-events:none}
+.original-palette{position:absolute;z-index:6;bottom:0;left:0;right:0;height:120px;display:flex;align-items:center;gap:20px;padding:0 20px;border-top:1px solid #ddd;background:#fafafa;overflow-x:auto;overflow-y:hidden;box-sizing:border-box;touch-action:pan-x}.original-palette-block{position:relative;flex-shrink:0;height:80px;border:0;padding:0;background:none;cursor:grab;touch-action:none}.original-palette-icon{position:absolute;bottom:0;left:0;width:100%;height:100%;object-fit:contain;pointer-events:none}.original-palette-block span{position:absolute;left:0;right:0;top:23px;font-size:24px;color:#555}.original-palette-block:focus-visible{outline:2px solid #2aa6ce}
+.original-dragging{opacity:1;align-items:flex-end}.original-snap-target{outline:3px solid #ffd600;outline-offset:3px}
+.original-comment{position:absolute;min-width:200px;width:200px;min-height:100px;box-sizing:border-box;padding:10px 10px 30px;cursor:grab}.original-comment-shell{position:absolute;inset:0;box-sizing:border-box;border-style:solid;border-width:4.5px 5.5px 22.5px 17px;border-image-slice:9 11 45 34 fill;pointer-events:none}.original-comment textarea{position:relative;display:block;box-sizing:border-box;width:100%;min-height:60px;padding:0;border:0;background:none;resize:none;overflow:hidden;outline:none;font:16px WeDoNativeText,sans-serif;color:#343434;touch-action:auto;cursor:text}
+.original-status{position:absolute;z-index:8;left:50%;bottom:132px;transform:translateX(-50%);max-width:650px;background:#fff;border:1px solid #ddd;border-radius:8px;padding:10px 18px;margin:0;box-shadow:0 3px 12px #0002;font-size:15px}.original-status[hidden]{display:none}
+.original-display[hidden]{display:none}
+
+.wedo-original-editor.showing-content,.showing-content .original-stage{background:transparent;pointer-events:none}.showing-content .original-canvas,.showing-content .original-palette,.showing-content .original-display{display:none}.wedo-native-topbar{z-index:10}.original-hub-button,.original-stop,.original-status{pointer-events:auto}.wedo-content-open .base-frame{padding-top:calc(79 * 100vh / 768);box-sizing:border-box}
+
+.wedo-content-open .base-frame{position:fixed;left:0;right:0;top:var(--webview-top);height:var(--webview-height);padding-top:0;overflow:auto;background:white;z-index:1050}.showing-content.split-content .original-canvas{display:block;clip-path:inset(var(--webview-edge) 0 0 0);pointer-events:auto}.showing-content.split-content .original-palette{display:flex;pointer-events:auto}
+.wedo-content-open .base-frame{transform:translateZ(0)}
+
+.original-hub-button{top:14.5px}.wedo-original-editor[data-content-group=library] .original-hub-button,.wedo-original-editor[data-content-group=models] .original-hub-button{top:437px}
+
+.showing-content.split-content .original-display:not([hidden]){display:block;clip-path:inset(max(0px,calc(var(--webview-edge) - var(--display-top))) 0 0 0);pointer-events:auto}
+
+.showing-content .original-canvas-controls{clip-path:inset(var(--webview-edge) 0 0 0)}
+
+.original-palette-block>.original-background,.original-palette-icon{object-fit:contain;object-position:center bottom}.original-palette-block span{top:auto;bottom:0;height:40px;line-height:40px;font-size:18px;font-family:WeDoNativeText,sans-serif;color:black}
